@@ -1,12 +1,47 @@
 {
-  "generatedAt": "2026-05-30T07:57:26.469Z",
+  "generatedAt": "2026-05-30T08:01:26.272Z",
   "articles": [
+    {
+      "source": "Ars Technica Tech",
+      "title": "Botnet of more than 17 million devices dismantled",
+      "url": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
+      "description": "\n                        The botnet was reportedly tied to a Russia-based residential proxy network.\n                    ",
+      "published": "2026-05-29T18:46:33.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Data Center Hardware Highlights: June 2026",
+      "url": "https://www.datacenterknowledge.com/data-center-hardware/data-center-hardware-highlights-june-2026",
+      "description": "We explore the latest developments in data center hardware and infrastructure announced over the past month.",
+      "published": "2026-05-29T18:33:51.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Will AI Agents Push Enforcement Back into the Database?",
+      "url": "https://www.datacenterknowledge.com/operations-and-management/will-ai-agents-push-enforcement-back-into-the-database-",
+      "description": "CedarDB co-founder Lukas Vogel argues enterprises may need to rethink where permissions and control live as AI agents move closer to operational systems.",
+      "published": "2026-05-29T18:13:23.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "The Breaking Points: Water Is the New Constraint for AI Data Centers",
+      "url": "https://www.datacenterknowledge.com/infrastructure/breaking-points-the-ai-boom-is-colliding-with-water-infrastructure",
+      "description": "As hyperscale AI campuses scale up, water and wastewater capacity are emerging as siting gatekeepers, reshaping cooling choices, municipal planning, and project approvals.",
+      "published": "2026-05-29T13:00:00.000Z"
+    },
     {
       "source": "MIT Technology Review",
       "title": "The Download: unlocking lithium and controlling Ebola",
       "url": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
       "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How a new extraction process could unlock the world’s lithium A new method for extracting lithium could cut costs and emissions from one of the world’",
       "published": "2026-05-29T12:10:00.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Data And Storage At The Center Of The AI Stack",
+      "url": "https://www.nextplatform.com/store/2026/05/29/data-and-storage-at-the-center-of-the-ai-stack/5247585",
+      "description": "",
+      "published": "2026-05-29T11:43:00.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -16,11 +51,32 @@
       "published": "2026-05-29T11:19:52.000Z"
     },
     {
+      "source": "Data Center Knowledge",
+      "title": "Why AI Infrastructure Is Moving Toward 800 VDC Power",
+      "url": "https://www.datacenterknowledge.com/build-design/why-ai-infrastructure-is-moving-toward-800-vdc-power",
+      "description": "Hyperscalers are adopting EV-style high-voltage power systems to reduce copper, cooling strain, and conversion losses.",
+      "published": "2026-05-29T10:27:50.000Z"
+    },
+    {
       "source": "MIT Technology Review",
       "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
       "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
       "description": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we ente",
       "published": "2026-05-29T10:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+      "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+      "description": "\n                        Undisclosed addition in jqwik instructed AI coding agents to delete app output.\n                    ",
+      "published": "2026-05-28T20:29:53.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Denmark Rations Grid Access as AI Buildout Floods Nordic Systems",
+      "url": "https://www.datacenterknowledge.com/build-design/denmark-rations-grid-access-as-ai-buildout-floods-nordic-systems",
+      "description": "Denmark halted new large-load grid agreements as AI, Power-to-X, and electrification demand overwhelm capacity, forcing power-access triage.",
+      "published": "2026-05-28T18:24:06.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -35,6 +91,27 @@
       "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
       "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Climate tech companies are going public. What’s next? Solar and battery company Solv Energy went public in February, hitting a $6 billion valuation. X",
       "published": "2026-05-28T12:10:00.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "GPUs And RAM Are In Short Supply, But The Real Bottleneck For AI Is Electricians",
+      "url": "https://www.nextplatform.com/compute/2026/05/28/gpus-and-ram-are-in-short-supply-but-the-real-bottleneck-for-ai-is-electricians/5247566",
+      "description": "",
+      "published": "2026-05-27T23:18:14.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Websites have a new way to spy on visitors: Analyzing their SSD activity",
+      "url": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
+      "description": "\n                        Telltale SSD activity can be measured in the browser using simple JavaScript.\n                    ",
+      "published": "2026-05-27T20:56:03.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Uncle Sam Awards $2 Billion-Plus To Quantum Companies, But Wants A Cut",
+      "url": "https://www.nextplatform.com/compute/2026/05/27/uncle-sam-awards-2-billion-plus-to-quantum-companies-but-wants-a-cut/5247083",
+      "description": "",
+      "published": "2026-05-27T12:30:31.000Z"
     }
   ]
 }

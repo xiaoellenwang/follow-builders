@@ -24,11 +24,18 @@ const YOUTUBE_CHANNELS = [
 
 // ── 数据行业新闻 RSS 源 ────────────────────────────────────────────────────────
 const DATA_INDUSTRY_RSS = [
+  // AI 综合
   { name: 'VentureBeat AI', url: 'https://venturebeat.com/category/ai/feed/' },
-  { name: 'The Batch (DeepLearning.AI)', url: 'https://www.deeplearning.ai/the-batch/feed/' },
-  { name: 'MIT Technology Review', url: 'https://www.technologyreview.com/feed/' },
   { name: 'Import AI', url: 'https://jack-clark.net/feed/' },
-  { name: 'DataEngineeringWeekly', url: 'https://www.dataengineeringweekly.com/feed' }
+  { name: 'MIT Technology Review', url: 'https://www.technologyreview.com/feed/' },
+  // 数据中心 & AI 基础设施（重点加强）
+  { name: 'Data Center Knowledge', url: 'https://www.datacenterknowledge.com/rss.xml' },
+  { name: 'Data Center Dynamics', url: 'https://www.datacenterdynamics.com/en/rss/' },
+  { name: 'The Next Platform', url: 'https://www.nextplatform.com/feed/' },
+  { name: 'Ars Technica Tech', url: 'https://feeds.arstechnica.com/arstechnica/technology-lab' },
+  { name: 'The Register AI', url: 'https://www.theregister.com/offbeat/bofh/headlines.atom' },
+  // 数据工程
+  { name: 'DataEngineeringWeekly', url: 'https://www.dataengineeringweekly.com/feed' },
 ];
 
 // ── 工具函数 ──────────────────────────────────────────────────────────────────
