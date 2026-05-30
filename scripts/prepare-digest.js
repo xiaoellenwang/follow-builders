@@ -35,6 +35,7 @@ const FORK_BASE = 'https://raw.githubusercontent.com/xiaoellenwang/follow-builde
 const FEED_YOUTUBE_URL = `${FORK_BASE}/feed-youtube.json`;
 const FEED_JOBS_URL = `${FORK_BASE}/feed-jobs.json`;
 const FEED_DATA_INDUSTRY_URL = `${FORK_BASE}/feed-data-industry.json`;
+const FEED_NEWSLETTERS_URL = `${FORK_BASE}/feed-newsletters.json`;
 
 // How many top X builders to include in each digest
 const TOP_X_COUNT = 3;
@@ -47,6 +48,7 @@ const PROMPT_FILES = [
   'summarize-youtube.md',
   'summarize-jobs.md',
   'summarize-data-industry.md',
+  'summarize-newsletter.md',
   'digest-intro.md',
   'translate.md'
 ];
@@ -85,13 +87,14 @@ async function main() {
   }
 
   // 2. Fetch all feeds in parallel
-  const [feedX, feedPodcasts, feedBlogs, feedYoutube, feedJobs, feedDataIndustry] = await Promise.all([
+  const [feedX, feedPodcasts, feedBlogs, feedYoutube, feedJobs, feedDataIndustry, feedNewsletters] = await Promise.all([
     fetchJSON(FEED_X_URL),
     fetchJSON(FEED_PODCASTS_URL),
     fetchJSON(FEED_BLOGS_URL),
     fetchJSON(FEED_YOUTUBE_URL),
     fetchJSON(FEED_JOBS_URL),
-    fetchJSON(FEED_DATA_INDUSTRY_URL)
+    fetchJSON(FEED_DATA_INDUSTRY_URL),
+    fetchJSON(FEED_NEWSLETTERS_URL)
   ]);
 
   if (!feedX) errors.push('Could not fetch tweet feed');
@@ -169,6 +172,7 @@ async function main() {
     youtube: feedYoutube?.videos || [],
     jobs: feedJobs?.jobs || [],
     dataIndustry: feedDataIndustry?.articles || [],
+    newsletters: feedNewsletters?.newsletters || [],
 
     // Stats for the LLM to reference
     stats: {
@@ -179,6 +183,7 @@ async function main() {
       youtubeVideos: feedYoutube?.videos?.length || 0,
       jobListings: feedJobs?.jobs?.length || 0,
       dataArticles: feedDataIndustry?.articles?.length || 0,
+      newsletters: feedNewsletters?.newsletters?.length || 0,
       feedGeneratedAt: feedX?.generatedAt || feedPodcasts?.generatedAt || null
     },
 

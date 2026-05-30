@@ -352,7 +352,12 @@ Read the prompts from the `prompts` field in the JSON:
 
 **按以下顺序组装简报（全部中文输出）：**
 
-**① 播客 & YouTube（最优先）**
+**① Newsletter 精译（最优先，有内容时排最前）**
+- `newsletters` 数组，用 `prompts.summarize_newsletter` 处理
+- 来源：The AI Valley、Every
+- 每篇保留核心论点和数据，完整翻译，不压缩
+
+**② 播客 & YouTube（最优先）**
 - `podcasts` 数组：用 `prompts.summarize_podcast` 处理，附具体视频链接
 - `youtube` 数组：用 `prompts.summarize_youtube` 处理，只取近 7 天的视频
 - 两者合并在 🎙️ 播客 & YouTube 板块下
