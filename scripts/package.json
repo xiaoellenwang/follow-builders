@@ -5,10 +5,12 @@
   "type": "module",
   "scripts": {
     "generate-feed": "node generate-feed.js",
-    "prepare-digest": "node prepare-digest.js"
+    "prepare-digest": "node prepare-digest.js",
+    "update-feeds": "node update-feeds.js"
   },
   "dependencies": {
     "dotenv": "^16.4.0",
-    "proper-lockfile": "^4.1.0"
+    "proper-lockfile": "^4.1.0",
+    "xml2js": "^0.6.2"
   }
 }

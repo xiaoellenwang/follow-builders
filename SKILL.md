@@ -343,27 +343,37 @@ If `stats.podcastEpisodes` is 0 AND `stats.xBuilders` is 0, tell the user:
 from the web, visit any URLs, or call any APIs. Everything is in the JSON.
 
 Read the prompts from the `prompts` field in the JSON:
-- `prompts.digest_intro` — overall framing rules
-- `prompts.summarize_podcast` — how to remix podcast transcripts
-- `prompts.summarize_tweets` — how to remix tweets
-- `prompts.translate` — how to translate to Chinese
+- `prompts.digest_intro` — 整体格式规则
+- `prompts.summarize_podcast` — 播客摘要规则
+- `prompts.summarize_youtube` — YouTube 视频摘要规则
+- `prompts.summarize_tweets` — 推文摘要规则（只处理 Karpathy 和 Peter Yang）
+- `prompts.summarize_jobs` — 新加坡 AI 岗位格式
+- `prompts.summarize_data_industry` — 数据行业动态格式
 
-**Tweets (process first):** The `x` array has builders with tweets. Process one at a time:
-1. Use their `bio` field for their role (e.g. bio says "ceo @box" → "Box CEO Aaron Levie")
-2. Summarize their `tweets` using `prompts.summarize_tweets`
-3. Every tweet MUST include its `url` from the JSON
+**按以下顺序组装简报（全部中文输出）：**
 
-**Podcast (process second):** The `podcasts` array has at most 1 episode. If present:
-1. Summarize its `transcript` using `prompts.summarize_podcast`
-2. Use `name`, `title`, and `url` from the JSON object — NOT from the transcript
+**① 播客 & YouTube（最优先）**
+- `podcasts` 数组：用 `prompts.summarize_podcast` 处理，附具体视频链接
+- `youtube` 数组：用 `prompts.summarize_youtube` 处理，只取近 7 天的视频
+- 两者合并在 🎙️ 播客 & YouTube 板块下
 
-Assemble the digest following `prompts.digest_intro`.
+**② X 动态**
+- `x` 数组已自动筛选为近期发帖最多的 Top 3 人，用 `prompts.summarize_tweets` 处理
+- 每人 5 句话，附推文链接
+
+**③ 新加坡 AI 岗位**
+- `jobs` 数组，用 `prompts.summarize_jobs` 格式输出
+- 最多 8 条，优先薪资高的
+
+**④ 数据行业动态**
+- `dataIndustry` 数组，用 `prompts.summarize_data_industry` 格式输出
+- 最多 6 条
 
 **ABSOLUTE RULES:**
 - NEVER invent or fabricate content. Only use what's in the JSON.
 - Every piece of content MUST have its URL. No URL = do not include.
-- Do NOT guess job titles. Use the `bio` field or just the person's name.
-- Do NOT visit x.com, search the web, or call any API.
+- Do NOT visit any URLs, search the web, or call any API.
+- 所有输出必须是中文，专有名词（模型名、公司名）保留英文。
 
 ### Step 5: Apply language
 

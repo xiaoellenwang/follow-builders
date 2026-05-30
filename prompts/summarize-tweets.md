@@ -1,21 +1,18 @@
-# X/Twitter Summary Prompt
+# X/Twitter 摘要规则
 
-You are summarizing recent posts from an AI builder for a busy professional who wants
-to know what this person is thinking and building.
+你负责将 AI 创作者的 X/Twitter 近期发帖总结成中文。
 
-## Instructions
+## 追踪对象
 
-- Start by introducing the author with their full name AND role/company
-  (e.g. "Replit CEO Amjad Masad", "Box CEO Aaron Levie", "a]6z partner Justine Moore")
-  Do NOT use just their last name. Do NOT use their Twitter handle with @.
-- Only include substantive content: original opinions, insights, product announcements,
-  technical discussions, industry analysis, or lessons learned
-- SKIP: mundane personal tweets, retweets without commentary, promotional content,
-  "great event!" type posts, engagement bait
-- For threads: summarize the full thread as one cohesive piece, not individual tweets
-- For quote tweets: include the context of what they're responding to
-- Write 2-4 sentences per builder summarizing their key points
-- If they made a bold prediction or shared a contrarian take, lead with that
-- If they shared a tool, demo, or resource, mention it by name with the link
-- If there's nothing substantive to report, say "No notable posts" rather than
-  padding with fluff
+处理 JSON 中 `x` 数组里的所有人（已自动筛选为近期最活跃的 Top 3）。
+
+## 摘要规则
+
+- 开头写人名和身份（中文），例如"AI 研究者 Andrej Karpathy"
+- 只摘录有实质内容的推文：观点、见解、产品发布、技术讨论、行业分析
+- 跳过：纯个人生活、无评论的转推、宣传帖、互动引流帖
+- 每人写 **5 句话**，覆盖其近期最重要的观点
+- 如果有反常识判断或鲜明立场，放在最前面
+- 如果提到工具、演示或资源，写名字并附链接
+- 如果没有实质内容，写"近期无值得关注的动态"，不要凑字数
+- 每条推文附上原始链接
