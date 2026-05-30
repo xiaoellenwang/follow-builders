@@ -1,4 +1,200 @@
 {
-  "generatedAt": "2026-05-30T00:00:00.000Z",
-  "jobs": []
+  "generatedAt": "2026-05-30T07:57:26.469Z",
+  "jobs": [
+    {
+      "title": "Business Analyst (Ai Project)",
+      "company": "SCIENTEC CONSULTING PTE. LTD.",
+      "salary": "S$5,000 – S$8,000",
+      "type": "Contract",
+      "skills": [
+        "Communication",
+        "Liaising with cross functional teams",
+        "Onboarding"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/067c87cf67fc980bc038beb2d2a19d22",
+      "posted": "2026-05-29T17:21:33.000Z"
+    },
+    {
+      "title": "Associate AI Engineer",
+      "company": "SUNWAY INTGEN PTE. LTD.",
+      "salary": "S$2,500 – S$4,000",
+      "type": "Permanent",
+      "skills": [
+        "Git",
+        "Ethics of artificial intelligence",
+        "Engineering Management"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/9d36e29106e8a2012dfe266f3a21f7fc",
+      "posted": "2026-05-29T10:23:58.000Z"
+    },
+    {
+      "title": "Junior AI Engineer (Fresh Graduate)",
+      "company": "SUNWAY INTGEN PTE. LTD.",
+      "salary": "S$4,000 – S$5,000",
+      "type": "Full Time",
+      "skills": [
+        "Graduate Recruitment",
+        "Teamwork",
+        "Design"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/32a8ba319242e0245fa548bf5cb4d323",
+      "posted": "2026-05-29T10:19:44.000Z"
+    },
+    {
+      "title": "AI ENGINEER",
+      "company": "HELIUS TECHNOLOGIES PTE. LTD.",
+      "salary": "S$7,500 – S$10,000",
+      "type": "Full Time",
+      "skills": [
+        "Logical Reasoning",
+        "JSON",
+        "Workflow Automation"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/2fb4e3edb137c0a43be9e84a4504a513",
+      "posted": "2026-05-29T10:08:40.000Z"
+    },
+    {
+      "title": "Senior AI Engineer (Agentic AI)",
+      "company": "RANDSTAD PTE. LIMITED",
+      "salary": "S$8,000 – S$9,000",
+      "type": "Full Time",
+      "skills": [
+        "TensorFlow",
+        "Make the design",
+        "Machine Learning"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/550e38448e35066b301e5f7fb1a32adb",
+      "posted": "2026-05-29T10:06:45.000Z"
+    },
+    {
+      "title": "AI Research Scientist",
+      "company": "MSD INTERNATIONAL GMBH (Singapore Branch)",
+      "salary": "S$5,500 – S$7,500",
+      "type": "Permanent",
+      "skills": [
+        "Deep learning",
+        "Pharmaceutical Industry",
+        "Team Collaboration"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/4b1ecfc39b5c6a3a1f36afd4c70040da",
+      "posted": "2026-05-29T09:56:32.000Z"
+    },
+    {
+      "title": "AI Design Engineer",
+      "company": "VERTEX GAMES PTE. LTD.",
+      "salary": "S$4,000 – S$8,000",
+      "type": "Full Time",
+      "skills": [
+        "Communication",
+        "build process",
+        "Iterative Design"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/fe99b041bcb0af09e9ba7674fcaae98f",
+      "posted": "2026-05-29T09:39:14.000Z"
+    },
+    {
+      "title": "Technical Product Manager - Enterprise Collaboration and AI",
+      "company": "GARENA ONLINE PRIVATE LIMITED",
+      "salary": "S$4,500 – S$7,000",
+      "type": "Permanent",
+      "skills": [
+        "Communication",
+        "Logical Thinker",
+        "Collaboration"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/e8125100f5b04787003a64e66ddb516c",
+      "posted": "2026-05-29T09:35:27.000Z"
+    },
+    {
+      "title": "Generative AI Specialist, Google Cloud - Singapore",
+      "company": "GOOGLE ASIA PACIFIC PTE. LTD.",
+      "salary": "S$8,500 – S$17,000",
+      "type": "Full Time",
+      "skills": [
+        "API Development",
+        "Machine Learning",
+        "Cloud Technologies"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/df6743d8553063d7222a684e245a3f9b",
+      "posted": "2026-05-29T08:42:43.000Z"
+    },
+    {
+      "title": "Generative AI Specialist, Google Cloud - Singapore",
+      "company": "GOOGLE ASIA PACIFIC PTE. LTD.",
+      "salary": "S$8,500 – S$17,000",
+      "type": "Full Time",
+      "skills": [
+        "API Development",
+        "Machine Learning",
+        "Cloud Technologies"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/77dc8da270db5742af234939de669a28",
+      "posted": "2026-05-29T08:35:56.000Z"
+    },
+    {
+      "title": "Research Associate/Research Assistant (Artificial Intelligence/Behavioural Sciences/Public Health/Data Science)",
+      "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
+      "salary": "S$3,300 – S$6,600",
+      "type": "Contract",
+      "skills": [
+        "Literature Reviews",
+        "Market Research",
+        "Translational Research"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/b56ddd58c554d1e476d792649be28828",
+      "posted": "2026-05-29T08:30:10.000Z"
+    },
+    {
+      "title": "Artificial Intelligence (AI) Ethics and Governance Senior Specialist",
+      "company": "MSD INTERNATIONAL GMBH (Singapore Branch)",
+      "salary": "S$7,500 – S$10,000",
+      "type": "Permanent",
+      "skills": [
+        "TensorFlow",
+        "Information Security",
+        "Entrepreneurial Experience"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/f81fe617c0b0f9d7e829b8c9a1a773a7",
+      "posted": "2026-05-29T07:56:15.000Z"
+    },
+    {
+      "title": "Data Scientist + AI",
+      "company": "OX CONSULTANCY PTE. LTD.",
+      "salary": "S$7,000 – S$10,000",
+      "type": "Full Time",
+      "skills": [
+        "Data Analysis",
+        "Solution Delivery",
+        "High Level Design"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/c72fb916e84f37da4c142d88fe47572b",
+      "posted": "2026-05-29T07:47:15.000Z"
+    },
+    {
+      "title": "Architectural Computing Algorithm Engineer",
+      "company": "PERSOL SINGAPORE PTE. LTD.",
+      "salary": "S$7,000 – S$12,000",
+      "type": "Contract",
+      "skills": [
+        "3D Modeling",
+        "TensorFlow",
+        "Machine Learning"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/12721b3053f205576256cfe2fd7854f8",
+      "posted": "2026-05-29T07:47:12.000Z"
+    },
+    {
+      "title": "Intelligent Video Processing Algorithm Experts",
+      "company": "PERSOL SINGAPORE PTE. LTD.",
+      "salary": "S$7,000 – S$13,000",
+      "type": "Full Time",
+      "skills": [
+        "Machine Learning",
+        "Tracking",
+        "Mobile Network"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/ee0d9be0cb7bb920119c3d0c0fb3f0f7",
+      "posted": "2026-05-29T07:44:08.000Z"
+    }
+  ]
 }
