@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-05-30T08:01:26.272Z",
+  "generatedAt": "2026-05-31T04:44:36.650Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "SoftBank plans up to 5GW data center buildout in France, investment of up to €75bn",
+      "url": "https://www.datacenterdynamics.com/en/news/softbank-plans-up-to-5gw-data-center-buildout-in-france-investment-of-up-to-75bn/",
+      "description": "Will partner with Schneider Electric for a \"large-scale industrial production cluster\" at the Port of Dunkirk",
+      "published": "2026-05-30T22:52:45.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: Technical developments in optical fiber",
+      "url": "https://www.datacenterdynamics.com/en/opinions/technical-developments-in-optical-fiber/",
+      "description": "Over the last twenty years the increasing transmission speed of optical fiber has been transformational, but what's next on the horizon?",
+      "published": "2026-05-30T05:35:27.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "Botnet of more than 17 million devices dismantled",
@@ -21,6 +35,27 @@
       "url": "https://www.datacenterknowledge.com/operations-and-management/will-ai-agents-push-enforcement-back-into-the-database-",
       "description": "CedarDB co-founder Lukas Vogel argues enterprises may need to rethink where permissions and control live as AI agents move closer to operational systems.",
       "published": "2026-05-29T18:13:23.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Meta's Andrew Rudersdorf joins Anthropic's data center energy team",
+      "url": "https://www.datacenterdynamics.com/en/news/the-build-out-of-anthropics-data-center-team-comes-as-it-expanded-its-compute-portfolio-primarily-through-cloud-contracts-the-company-has-major-microsoft-aws-and-google-contracts-with-all-three-hyperscalers-anthropic-investors-in-october-google/",
+      "description": "As Anthropic expands, and Meta contracts",
+      "published": "2026-05-29T15:44:16.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Energy efficient compute is most important attribute for customers, TSMC claims",
+      "url": "https://www.datacenterdynamics.com/en/news/energy-efficient-compute-is-most-important-attribute-for-customers-tsmc-claims/",
+      "description": "Comments made by deputy co-COO Kevin Zhang during company’s Amsterdam Technology Symposium",
+      "published": "2026-05-29T14:50:29.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Portus tops out second data in Munich, Germany",
+      "url": "https://www.datacenterdynamics.com/en/news/portus-tops-out-second-data-in-munich-germany/",
+      "description": "5.5MW facility due live next year",
+      "published": "2026-05-29T14:30:32.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -91,27 +126,6 @@
       "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
       "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Climate tech companies are going public. What’s next? Solar and battery company Solv Energy went public in February, hitting a $6 billion valuation. X",
       "published": "2026-05-28T12:10:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "GPUs And RAM Are In Short Supply, But The Real Bottleneck For AI Is Electricians",
-      "url": "https://www.nextplatform.com/compute/2026/05/28/gpus-and-ram-are-in-short-supply-but-the-real-bottleneck-for-ai-is-electricians/5247566",
-      "description": "",
-      "published": "2026-05-27T23:18:14.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Websites have a new way to spy on visitors: Analyzing their SSD activity",
-      "url": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
-      "description": "\n                        Telltale SSD activity can be measured in the browser using simple JavaScript.\n                    ",
-      "published": "2026-05-27T20:56:03.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Uncle Sam Awards $2 Billion-Plus To Quantum Companies, But Wants A Cut",
-      "url": "https://www.nextplatform.com/compute/2026/05/27/uncle-sam-awards-2-billion-plus-to-quantum-companies-but-wants-a-cut/5247083",
-      "description": "",
-      "published": "2026-05-27T12:30:31.000Z"
     }
   ]
 }

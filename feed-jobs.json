@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-05-30T07:57:26.469Z",
+  "generatedAt": "2026-05-31T04:44:36.650Z",
   "jobs": [
+    {
+      "title": "Digital Transformation & Data Analytics Manager",
+      "company": "DAN DAN FOOD PTE. LTD.",
+      "salary": "S$6,000 – S$7,500",
+      "type": "Part Time",
+      "skills": [
+        "Digital Transformation",
+        "Knowledge Database",
+        "Collaboration"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/cbf1943408fc0b419ceaf595229dd4dc",
+      "posted": "2026-05-31T04:41:46.000Z"
+    },
+    {
+      "title": "Senior Scientist (DMD Division/CPPS Group), SIMTech",
+      "company": "A*STAR RESEARCH ENTITIES",
+      "salary": "S$5,900 – S$11,800",
+      "type": "Contract",
+      "skills": [
+        "Lifelong Learning",
+        "Time-series regression",
+        "Quality Management Systems"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/9be562c5158d3d2ef204d741100dfad5",
+      "posted": "2026-05-30T19:28:55.000Z"
+    },
     {
       "title": "Business Analyst (Ai Project)",
       "company": "SCIENTEC CONSULTING PTE. LTD.",
@@ -169,32 +195,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/c72fb916e84f37da4c142d88fe47572b",
       "posted": "2026-05-29T07:47:15.000Z"
-    },
-    {
-      "title": "Architectural Computing Algorithm Engineer",
-      "company": "PERSOL SINGAPORE PTE. LTD.",
-      "salary": "S$7,000 – S$12,000",
-      "type": "Contract",
-      "skills": [
-        "3D Modeling",
-        "TensorFlow",
-        "Machine Learning"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/12721b3053f205576256cfe2fd7854f8",
-      "posted": "2026-05-29T07:47:12.000Z"
-    },
-    {
-      "title": "Intelligent Video Processing Algorithm Experts",
-      "company": "PERSOL SINGAPORE PTE. LTD.",
-      "salary": "S$7,000 – S$13,000",
-      "type": "Full Time",
-      "skills": [
-        "Machine Learning",
-        "Tracking",
-        "Mobile Network"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/ee0d9be0cb7bb920119c3d0c0fb3f0f7",
-      "posted": "2026-05-29T07:44:08.000Z"
     }
   ]
 }
