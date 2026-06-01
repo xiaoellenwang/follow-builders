@@ -357,10 +357,16 @@ Read the prompts from the `prompts` field in the JSON:
 - 来源：The AI Valley、Every
 - 每篇保留核心论点和数据，完整翻译，不压缩
 
-**② 播客 & YouTube（最优先）**
-- `podcasts` 数组：用 `prompts.summarize_podcast` 处理，附具体视频链接
-- `youtube` 数组：用 `prompts.summarize_youtube` 处理，只取近 7 天的视频
+**② 播客 & YouTube**
+- `podcasts` 数组已过滤为三个来源：Lenny's Podcast、AI & I by Every、Training Data
+- 用 `prompts.summarize_podcast` 处理，附具体视频链接
+- `youtube` 数组包含 Andrej Karpathy 和 Lenny's Podcast 的 YouTube 最新视频
+- 用 `prompts.summarize_youtube` 处理，只取近 7 天的视频
 - 两者合并在 🎙️ 播客 & YouTube 板块下
+
+**③ 博客更新**
+- `blogs` 数组：全部展示，不限条数
+- 用 `prompts.summarize_blogs` 处理，每篇附原文链接
 
 **② X 动态**
 - `x` 数组已自动筛选为近期发帖最多的 Top 3 人，用 `prompts.summarize_tweets` 处理

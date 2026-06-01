@@ -17,8 +17,13 @@ const ROOT = join(__dirname, '..');
 const YOUTUBE_CHANNELS = [
   {
     name: 'Andrej Karpathy',
-    channelId: 'UCXUPKJO5MZQMU011usP3tXw', // karpathy 的 channel ID
+    channelId: 'UCXUPKJO5MZQMU011usP3tXw',
     handle: 'AndrejKarpathy'
+  },
+  {
+    name: "Lenny's Podcast",
+    channelId: 'UC6t1O76G0jYXOAoYCm153dA',
+    handle: 'LennysPodcast'
   }
 ];
 
@@ -36,6 +41,27 @@ const DATA_INDUSTRY_RSS = [
   { name: 'The Register AI', url: 'https://www.theregister.com/offbeat/bofh/headlines.atom' },
   // 数据工程
   { name: 'DataEngineeringWeekly', url: 'https://www.dataengineeringweekly.com/feed' },
+];
+
+// ── Newsletter 源配置 ─────────────────────────────────────────────────────────
+const NEWSLETTER_SOURCES = [
+  {
+    name: 'The AI Valley',
+    archiveUrl: 'https://www.theaivalley.com/',
+    baseUrl: 'https://www.theaivalley.com',
+    // Beehiiv 文章链接格式: /p/article-slug
+    articlePattern: /href="(\/p\/[a-z0-9-]+)"/g,
+    // 抓最新 2 篇
+    limit: 2
+  },
+  {
+    name: 'Every',
+    archiveUrl: 'https://every.to/newsletter',
+    baseUrl: 'https://every.to',
+    // Every 文章链接格式: /[publication]/p/article-slug
+    articlePattern: /href="(\/[a-z-]+\/p\/[a-z0-9-]+)"/g,
+    limit: 2
+  }
 ];
 
 // ── 工具函数 ──────────────────────────────────────────────────────────────────

@@ -5,10 +5,11 @@
 ## 整体结构（严格按此顺序）
 
 1. 📬 **Newsletter 精译**（有内容时排最前，The AI Valley + Every）
-2. 🎙️ **播客 & YouTube**
-3. 🐦 **X 动态**（近期最活跃 Top 3）
-4. 💼 **新加坡 AI 岗位**
-5. 📊 **数据行业动态**
+2. 🎙️ **播客 & YouTube**（只含：Lenny's Podcast、AI & I by Every、Training Data）
+3. 📝 **博客更新**（Anthropic、OpenAI 等官方博客，全部展示）
+4. 🐦 **X 动态**（近期最活跃 Top 3）
+5. 💼 **新加坡 AI 岗位**
+6. 📊 **数据行业动态**
 
 没有新内容的板块直接跳过，不写"暂无更新"。
 

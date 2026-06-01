@@ -40,6 +40,9 @@ const FEED_NEWSLETTERS_URL = `${FORK_BASE}/feed-newsletters.json`;
 // How many top X builders to include in each digest
 const TOP_X_COUNT = 3;
 
+// 只保留这三个播客（中央 feed 里的其他播客过滤掉）
+const TRACKED_PODCASTS = ["Lenny's Podcast", 'AI & I by Every', 'Training Data', "Lenny's Podcast (YouTube)"];
+
 const PROMPTS_BASE = 'https://raw.githubusercontent.com/xiaoellenwang/follow-builders/main/prompts';
 const PROMPT_FILES = [
   'summarize-podcast.md',
@@ -165,8 +168,10 @@ async function main() {
       delivery: config.delivery || { method: 'stdout' }
     },
 
-    // Content to remix
-    podcasts: feedPodcasts?.podcasts || [],
+    // Content to remix — 只保留选定的三个播客
+    podcasts: (feedPodcasts?.podcasts || []).filter(p =>
+      TRACKED_PODCASTS.some(name => p.name?.includes(name) || name.includes(p.name))
+    ),
     x: filteredX,
     blogs: feedBlogs?.blogs || [],
     youtube: feedYoutube?.videos || [],
