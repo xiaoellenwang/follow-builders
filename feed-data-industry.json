@@ -1,19 +1,47 @@
 {
-  "generatedAt": "2026-05-31T04:44:36.650Z",
+  "generatedAt": "2026-06-01T05:06:56.138Z",
   "articles": [
     {
       "source": "Data Center Dynamics",
-      "title": "SoftBank plans up to 5GW data center buildout in France, investment of up to €75bn",
-      "url": "https://www.datacenterdynamics.com/en/news/softbank-plans-up-to-5gw-data-center-buildout-in-france-investment-of-up-to-75bn/",
-      "description": "Will partner with Schneider Electric for a \"large-scale industrial production cluster\" at the Port of Dunkirk",
-      "published": "2026-05-30T22:52:45.000Z"
+      "title": "Zero Latency launches closed beta of AI inference grid",
+      "url": "https://www.datacenterdynamics.com/en/news/zero-latency-launches-closed-beta-of-ai-inference-grid/",
+      "description": "Zerogrid routes AI inference workloads to Edge capacity",
+      "published": "2026-06-01T04:00:27.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Sponsored: Technical developments in optical fiber",
-      "url": "https://www.datacenterdynamics.com/en/opinions/technical-developments-in-optical-fiber/",
-      "description": "Over the last twenty years the increasing transmission speed of optical fiber has been transformational, but what's next on the horizon?",
-      "published": "2026-05-30T05:35:27.000Z"
+      "title": "Intel teases Crescent Island AI data center GPU, supports up to 480GB of LPDDR5X",
+      "url": "https://www.datacenterdynamics.com/en/news/intel-teases-crescent-island-ai-data-center-gpu-supports-up-to-480gb-of-lpddr5x/",
+      "description": "Air-cooled GPU for inference workloads",
+      "published": "2026-06-01T03:49:56.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Intel launches Ethernet E835 controllers and network adapters, for dense, virtualized deployments",
+      "url": "https://www.datacenterdynamics.com/en/news/intel-launches-ethernet-e835-controllers-and-network-adapters-for-dense-virtualized-deployments/",
+      "description": "Aimed at data center, enterprise, AI, Edge, and telecom infrastructure use cases",
+      "published": "2026-06-01T03:34:33.000Z"
+    },
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "Data Engineering Weekly #272",
+      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-272",
+      "description": "The Weekly Data Engineering Newsletter",
+      "published": "2026-06-01T03:18:34.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Intel launches Xeon 6+ CPU, pitches it for Agentic AI boom",
+      "url": "https://www.datacenterdynamics.com/en/news/intel-launches-xeon-6-cpu-pitches-it-for-agentic-ai-boom/",
+      "description": "Clearwater Forest gets clearer at Computex 2026",
+      "published": "2026-06-01T03:01:59.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Snowflake signs $6bn infrastructure agreement with AWS",
+      "url": "https://www.datacenterdynamics.com/en/news/snowflake-signs-6bn-infrastructure-agreement-with-aws/",
+      "description": "Includes Graviton compute",
+      "published": "2026-06-01T02:31:18.000Z"
     },
     {
       "source": "Ars Technica Tech",
@@ -35,27 +63,6 @@
       "url": "https://www.datacenterknowledge.com/operations-and-management/will-ai-agents-push-enforcement-back-into-the-database-",
       "description": "CedarDB co-founder Lukas Vogel argues enterprises may need to rethink where permissions and control live as AI agents move closer to operational systems.",
       "published": "2026-05-29T18:13:23.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Meta's Andrew Rudersdorf joins Anthropic's data center energy team",
-      "url": "https://www.datacenterdynamics.com/en/news/the-build-out-of-anthropics-data-center-team-comes-as-it-expanded-its-compute-portfolio-primarily-through-cloud-contracts-the-company-has-major-microsoft-aws-and-google-contracts-with-all-three-hyperscalers-anthropic-investors-in-october-google/",
-      "description": "As Anthropic expands, and Meta contracts",
-      "published": "2026-05-29T15:44:16.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Energy efficient compute is most important attribute for customers, TSMC claims",
-      "url": "https://www.datacenterdynamics.com/en/news/energy-efficient-compute-is-most-important-attribute-for-customers-tsmc-claims/",
-      "description": "Comments made by deputy co-COO Kevin Zhang during company’s Amsterdam Technology Symposium",
-      "published": "2026-05-29T14:50:29.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Portus tops out second data in Munich, Germany",
-      "url": "https://www.datacenterdynamics.com/en/news/portus-tops-out-second-data-in-munich-germany/",
-      "description": "5.5MW facility due live next year",
-      "published": "2026-05-29T14:30:32.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -98,34 +105,6 @@
       "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
       "description": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we ente",
       "published": "2026-05-29T10:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
-      "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
-      "description": "\n                        Undisclosed addition in jqwik instructed AI coding agents to delete app output.\n                    ",
-      "published": "2026-05-28T20:29:53.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Denmark Rations Grid Access as AI Buildout Floods Nordic Systems",
-      "url": "https://www.datacenterknowledge.com/build-design/denmark-rations-grid-access-as-ai-buildout-floods-nordic-systems",
-      "description": "Denmark halted new large-load grid agreements as AI, Power-to-X, and electrification demand overwhelm capacity, forcing power-access triage.",
-      "published": "2026-05-28T18:24:06.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "How a new extraction process could unlock the world’s lithium",
-      "url": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
-      "description": "Researchers say they’ve found a new way to extract lithium, a crucial metal used in the lithium-ion batteries that power electric vehicles and energy storage arrays. This new technique could be more environmentally friendly and cheaper than existing ones.&#160; The research was published today in Sc",
-      "published": "2026-05-28T18:01:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: climate tech goes public and the AI Hype Index returns",
-      "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Climate tech companies are going public. What’s next? Solar and battery company Solv Energy went public in February, hitting a $6 billion valuation. X",
-      "published": "2026-05-28T12:10:00.000Z"
     }
   ]
 }

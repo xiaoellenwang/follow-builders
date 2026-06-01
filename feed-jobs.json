@@ -1,6 +1,188 @@
 {
-  "generatedAt": "2026-05-31T04:44:36.650Z",
+  "generatedAt": "2026-06-01T05:06:56.138Z",
   "jobs": [
+    {
+      "title": "Quant Researcher #77900",
+      "company": "ANRADUS PTE. LTD.",
+      "salary": "S$6,000 – S$8,500",
+      "type": "Permanent",
+      "skills": [
+        "Machine Learning",
+        "Algorithm Analysis",
+        "Scalability"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/7946038545448ca2162bc135b0331d62",
+      "posted": "2026-06-01T03:31:05.000Z"
+    },
+    {
+      "title": "Senior AI Engineer – Supply Chain & Trade Intelligence Platforms",
+      "company": "INTELLECT DESIGN ARENA PTE. LTD.",
+      "salary": "S$9,400 – S$9,800",
+      "type": "Permanent",
+      "skills": [
+        "Application Architecture",
+        "Key Management",
+        "Pipeline Development"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/975826ec993b23580e7c9003907ccff7",
+      "posted": "2026-06-01T03:29:26.000Z"
+    },
+    {
+      "title": "Product Marketing Manager (AI SaaS) (Ref 26457)",
+      "company": "JOBLINE RESOURCES PTE. LTD.",
+      "salary": "S$7,000 – S$9,500",
+      "type": "Permanent",
+      "skills": [
+        "Maintenance of Company website",
+        "Value Proposition",
+        "International Business"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/188b56874b37caf25093db40d9a395c4",
+      "posted": "2026-06-01T01:34:30.000Z"
+    },
+    {
+      "title": "Software Engineer #82700",
+      "company": "ANRADUS PTE. LTD.",
+      "salary": "S$4,500 – S$6,500",
+      "type": "Permanent",
+      "skills": [
+        "Discipline",
+        "Design Patterns",
+        "Scrum"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/1e5d7286507b4877e7ae4d60a6e6bce2",
+      "posted": "2026-05-31T19:08:49.000Z"
+    },
+    {
+      "title": "ACCOUNTS & ADMINISTRATION",
+      "company": "GELMAX PTE. LTD.",
+      "salary": "S$2,600 – S$3,200",
+      "type": "Full Time",
+      "skills": [
+        "Chartered accounting",
+        "Permit Management",
+        "Accounts Payable"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/2daa9c9b371356285652513b42a750ef",
+      "posted": "2026-05-31T14:46:05.000Z"
+    },
+    {
+      "title": "Information Security Lead | GRC | Cloud Security | Azure|EDR detection Validation | Cyber Security Controls Validation Engineer |Cyber Assurance Lead",
+      "company": "RANDSTAD PTE. LIMITED",
+      "salary": "S$9,000 – S$11,000",
+      "type": "Permanent",
+      "skills": [
+        "Windows Azure",
+        "Technical Standards",
+        "Information Security"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/e0b8ff13075d6c76c0244121ef84f052",
+      "posted": "2026-05-31T11:22:27.000Z"
+    },
+    {
+      "title": "Leasing Manager (Retail)",
+      "company": "CBRE PTE. LTD.",
+      "salary": "S$5,000 – S$7,000",
+      "type": "Permanent",
+      "skills": [
+        "Outlook",
+        "Accounts Payable",
+        "Microsoft Office"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/2d47765ac06999ae2a19bddc4413e7b4",
+      "posted": "2026-05-31T08:02:18.000Z"
+    },
+    {
+      "title": "Building Manager (Commercial)",
+      "company": "CBRE PTE. LTD.",
+      "salary": "S$4,500 – S$7,000",
+      "type": "Full Time",
+      "skills": [
+        "Fire Safety",
+        "Outlook",
+        "Management Skills"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/09a128c4f2c29ada360a940b5146ad3e",
+      "posted": "2026-05-31T07:47:06.000Z"
+    },
+    {
+      "title": "Centre Manager - Mixed Development Projects",
+      "company": "CBRE PTE. LTD.",
+      "salary": "S$6,000 – S$8,000",
+      "type": "Permanent",
+      "skills": [
+        "Outlook",
+        "Quality Assurance Management",
+        "Microsoft Office"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/2c08b52b146c2e3429171e386fab55ac",
+      "posted": "2026-05-31T07:44:49.000Z"
+    },
+    {
+      "title": "Customer Service Officer / Concierge (Residential)",
+      "company": "CBRE PTE. LTD.",
+      "salary": "S$2,300 – S$2,800",
+      "type": "Permanent",
+      "skills": [
+        "Front Office",
+        "Customer Service Oriented",
+        "Microsoft Office"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/b9e388b15fca24dfc8de5a5751102613",
+      "posted": "2026-05-31T07:43:51.000Z"
+    },
+    {
+      "title": "Customer Service Officer / Concierge (Retail)",
+      "company": "CBRE PTE. LTD.",
+      "salary": "S$2,100 – S$2,500",
+      "type": "Permanent",
+      "skills": [
+        "Front Office",
+        "Customer Service Oriented",
+        "Microsoft Office"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/9e00ad7bd1f06d9cf9ff3a1854474767",
+      "posted": "2026-05-31T07:30:57.000Z"
+    },
+    {
+      "title": "Property Executive (Industrial)",
+      "company": "CBRE PTE. LTD.",
+      "salary": "S$3,000 – S$4,700",
+      "type": "Full Time",
+      "skills": [
+        "Fire Safety",
+        "Tenant Coordination",
+        "Microsoft Office"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/d2515c172a977f8d66a750a4caf450bd",
+      "posted": "2026-05-31T07:28:58.000Z"
+    },
+    {
+      "title": "Property Executive (Retail)",
+      "company": "CBRE PTE. LTD.",
+      "salary": "S$3,000 – S$4,700",
+      "type": "Full Time",
+      "skills": [
+        "Fire Safety",
+        "Tenant Coordination",
+        "Microsoft Office"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/d606f6ab39051277e8b4263a712c435d",
+      "posted": "2026-05-31T07:23:28.000Z"
+    },
+    {
+      "title": "Digital Transformation & Data Analytics Manager",
+      "company": "TANGPINXUAN PTE. LTD.",
+      "salary": "S$6,000 – S$7,500",
+      "type": "Full Time",
+      "skills": [
+        "Digital Transformation",
+        "Analytical Approach",
+        "digital transformation program"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/1f816696da467fa87d55952819f9d392",
+      "posted": "2026-05-31T05:23:58.000Z"
+    },
     {
       "title": "Digital Transformation & Data Analytics Manager",
       "company": "DAN DAN FOOD PTE. LTD.",
@@ -13,188 +195,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/cbf1943408fc0b419ceaf595229dd4dc",
       "posted": "2026-05-31T04:41:46.000Z"
-    },
-    {
-      "title": "Senior Scientist (DMD Division/CPPS Group), SIMTech",
-      "company": "A*STAR RESEARCH ENTITIES",
-      "salary": "S$5,900 – S$11,800",
-      "type": "Contract",
-      "skills": [
-        "Lifelong Learning",
-        "Time-series regression",
-        "Quality Management Systems"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/9be562c5158d3d2ef204d741100dfad5",
-      "posted": "2026-05-30T19:28:55.000Z"
-    },
-    {
-      "title": "Business Analyst (Ai Project)",
-      "company": "SCIENTEC CONSULTING PTE. LTD.",
-      "salary": "S$5,000 – S$8,000",
-      "type": "Contract",
-      "skills": [
-        "Communication",
-        "Liaising with cross functional teams",
-        "Onboarding"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/067c87cf67fc980bc038beb2d2a19d22",
-      "posted": "2026-05-29T17:21:33.000Z"
-    },
-    {
-      "title": "Associate AI Engineer",
-      "company": "SUNWAY INTGEN PTE. LTD.",
-      "salary": "S$2,500 – S$4,000",
-      "type": "Permanent",
-      "skills": [
-        "Git",
-        "Ethics of artificial intelligence",
-        "Engineering Management"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/9d36e29106e8a2012dfe266f3a21f7fc",
-      "posted": "2026-05-29T10:23:58.000Z"
-    },
-    {
-      "title": "Junior AI Engineer (Fresh Graduate)",
-      "company": "SUNWAY INTGEN PTE. LTD.",
-      "salary": "S$4,000 – S$5,000",
-      "type": "Full Time",
-      "skills": [
-        "Graduate Recruitment",
-        "Teamwork",
-        "Design"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/32a8ba319242e0245fa548bf5cb4d323",
-      "posted": "2026-05-29T10:19:44.000Z"
-    },
-    {
-      "title": "AI ENGINEER",
-      "company": "HELIUS TECHNOLOGIES PTE. LTD.",
-      "salary": "S$7,500 – S$10,000",
-      "type": "Full Time",
-      "skills": [
-        "Logical Reasoning",
-        "JSON",
-        "Workflow Automation"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/2fb4e3edb137c0a43be9e84a4504a513",
-      "posted": "2026-05-29T10:08:40.000Z"
-    },
-    {
-      "title": "Senior AI Engineer (Agentic AI)",
-      "company": "RANDSTAD PTE. LIMITED",
-      "salary": "S$8,000 – S$9,000",
-      "type": "Full Time",
-      "skills": [
-        "TensorFlow",
-        "Make the design",
-        "Machine Learning"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/550e38448e35066b301e5f7fb1a32adb",
-      "posted": "2026-05-29T10:06:45.000Z"
-    },
-    {
-      "title": "AI Research Scientist",
-      "company": "MSD INTERNATIONAL GMBH (Singapore Branch)",
-      "salary": "S$5,500 – S$7,500",
-      "type": "Permanent",
-      "skills": [
-        "Deep learning",
-        "Pharmaceutical Industry",
-        "Team Collaboration"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/4b1ecfc39b5c6a3a1f36afd4c70040da",
-      "posted": "2026-05-29T09:56:32.000Z"
-    },
-    {
-      "title": "AI Design Engineer",
-      "company": "VERTEX GAMES PTE. LTD.",
-      "salary": "S$4,000 – S$8,000",
-      "type": "Full Time",
-      "skills": [
-        "Communication",
-        "build process",
-        "Iterative Design"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/fe99b041bcb0af09e9ba7674fcaae98f",
-      "posted": "2026-05-29T09:39:14.000Z"
-    },
-    {
-      "title": "Technical Product Manager - Enterprise Collaboration and AI",
-      "company": "GARENA ONLINE PRIVATE LIMITED",
-      "salary": "S$4,500 – S$7,000",
-      "type": "Permanent",
-      "skills": [
-        "Communication",
-        "Logical Thinker",
-        "Collaboration"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/e8125100f5b04787003a64e66ddb516c",
-      "posted": "2026-05-29T09:35:27.000Z"
-    },
-    {
-      "title": "Generative AI Specialist, Google Cloud - Singapore",
-      "company": "GOOGLE ASIA PACIFIC PTE. LTD.",
-      "salary": "S$8,500 – S$17,000",
-      "type": "Full Time",
-      "skills": [
-        "API Development",
-        "Machine Learning",
-        "Cloud Technologies"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/df6743d8553063d7222a684e245a3f9b",
-      "posted": "2026-05-29T08:42:43.000Z"
-    },
-    {
-      "title": "Generative AI Specialist, Google Cloud - Singapore",
-      "company": "GOOGLE ASIA PACIFIC PTE. LTD.",
-      "salary": "S$8,500 – S$17,000",
-      "type": "Full Time",
-      "skills": [
-        "API Development",
-        "Machine Learning",
-        "Cloud Technologies"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/77dc8da270db5742af234939de669a28",
-      "posted": "2026-05-29T08:35:56.000Z"
-    },
-    {
-      "title": "Research Associate/Research Assistant (Artificial Intelligence/Behavioural Sciences/Public Health/Data Science)",
-      "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
-      "salary": "S$3,300 – S$6,600",
-      "type": "Contract",
-      "skills": [
-        "Literature Reviews",
-        "Market Research",
-        "Translational Research"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/b56ddd58c554d1e476d792649be28828",
-      "posted": "2026-05-29T08:30:10.000Z"
-    },
-    {
-      "title": "Artificial Intelligence (AI) Ethics and Governance Senior Specialist",
-      "company": "MSD INTERNATIONAL GMBH (Singapore Branch)",
-      "salary": "S$7,500 – S$10,000",
-      "type": "Permanent",
-      "skills": [
-        "TensorFlow",
-        "Information Security",
-        "Entrepreneurial Experience"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/f81fe617c0b0f9d7e829b8c9a1a773a7",
-      "posted": "2026-05-29T07:56:15.000Z"
-    },
-    {
-      "title": "Data Scientist + AI",
-      "company": "OX CONSULTANCY PTE. LTD.",
-      "salary": "S$7,000 – S$10,000",
-      "type": "Full Time",
-      "skills": [
-        "Data Analysis",
-        "Solution Delivery",
-        "High Level Design"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/c72fb916e84f37da4c142d88fe47572b",
-      "posted": "2026-05-29T07:47:15.000Z"
     }
   ]
 }
