@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-06-02T01:56:55.136Z",
+  "generatedAt": "2026-06-02T04:52:39.132Z",
   "jobs": [
+    {
+      "title": "Practice Customer Engineer III, Cloud AI, Google Cloud - Singapore",
+      "company": "GOOGLE ASIA PACIFIC PTE. LTD.",
+      "salary": "S$15,000 – S$30,000",
+      "type": "Full Time",
+      "skills": [
+        "Cloud Technologies",
+        "Prototype",
+        "Go"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/7fdf7fc2272d3ef2edd60816d66780d6",
+      "posted": "2026-06-02T04:15:30.000Z"
+    },
+    {
+      "title": "Senior Research Fellow (AI for Microbial Genomics)",
+      "company": "NATIONAL UNIVERSITY OF SINGAPORE",
+      "salary": "S$6,500 – S$11,000",
+      "type": "Contract",
+      "skills": [
+        "Genomics",
+        "Science",
+        "Computers"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/eea7ab1538b9e67e73750bb6f0f43ce2",
+      "posted": "2026-06-02T03:27:00.000Z"
+    },
     {
       "title": "Research Engineer – Biometrics & Computer Vision (Singapore)",
       "company": "IDEMIA SINGAPORE PTE. LTD.",
@@ -65,19 +91,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/123d3d76f7be312fe09c20af911f7072",
       "posted": "2026-06-01T05:13:54.000Z"
-    },
-    {
-      "title": "Quant Researcher #77900",
-      "company": "ANRADUS PTE. LTD.",
-      "salary": "S$6,000 – S$8,500",
-      "type": "Permanent",
-      "skills": [
-        "Machine Learning",
-        "Algorithm Analysis",
-        "Scalability"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/7946038545448ca2162bc135b0331d62",
-      "posted": "2026-06-01T03:31:05.000Z"
     },
     {
       "title": "Senior AI Engineer – Supply Chain & Trade Intelligence Platforms",
