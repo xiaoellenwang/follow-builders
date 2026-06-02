@@ -1,6 +1,71 @@
 {
-  "generatedAt": "2026-06-01T05:06:56.138Z",
+  "generatedAt": "2026-06-02T01:56:55.136Z",
   "jobs": [
+    {
+      "title": "Research Engineer – Biometrics & Computer Vision (Singapore)",
+      "company": "IDEMIA SINGAPORE PTE. LTD.",
+      "salary": "S$8,000 – S$10,000",
+      "type": "Permanent",
+      "skills": [
+        "InterSystems IRIS Data Platform",
+        "Machine Learning",
+        "large datasets"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/1cab2584594c2ed47f20502b4a35961f",
+      "posted": "2026-06-02T01:55:00.000Z"
+    },
+    {
+      "title": "AI Engineer (Team Lead - LLM / Computer Vision)",
+      "company": "TALENT TRADER GROUP PTE. LTD.",
+      "salary": "S$7,000 – S$8,000",
+      "type": "Permanent",
+      "skills": [
+        "Application Architecture",
+        "Workflow",
+        "Scalability"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/92af012d92e3fd50d049b5a7db5f6372",
+      "posted": "2026-06-02T01:28:15.000Z"
+    },
+    {
+      "title": "AI Grid Engineer",
+      "company": "UNIVERS PTE. LTD.",
+      "salary": "S$6,000 – S$12,000",
+      "type": "Permanent",
+      "skills": [
+        "Excellent Communication Skills",
+        "Renewable Energy Business",
+        "Computer Engineering"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/a62b504aa03963ba8db05a161c0dd8ce",
+      "posted": "2026-06-01T11:24:34.000Z"
+    },
+    {
+      "title": "Director of AI Consulting & Solutions",
+      "company": "SMARTOSC PTE. LTD.",
+      "salary": "S$14,000 – S$21,000",
+      "type": "Full Time",
+      "skills": [
+        "Business Architecture",
+        "Ethics of artificial intelligence",
+        "Software Consulting"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/73474dab3c8bc88ec39faea3eec05ddf",
+      "posted": "2026-06-01T05:40:15.000Z"
+    },
+    {
+      "title": "Junior RPA & AI Automation Developer",
+      "company": "ITCAN PTE. LIMITED",
+      "salary": "S$4,000 – S$5,000",
+      "type": "Full Time",
+      "skills": [
+        "Teamwork",
+        "Workflow Automation",
+        "Automated Operation Monitoring"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/123d3d76f7be312fe09c20af911f7072",
+      "posted": "2026-06-01T05:13:54.000Z"
+    },
     {
       "title": "Quant Researcher #77900",
       "company": "ANRADUS PTE. LTD.",
@@ -39,162 +104,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/188b56874b37caf25093db40d9a395c4",
       "posted": "2026-06-01T01:34:30.000Z"
-    },
-    {
-      "title": "Software Engineer #82700",
-      "company": "ANRADUS PTE. LTD.",
-      "salary": "S$4,500 – S$6,500",
-      "type": "Permanent",
-      "skills": [
-        "Discipline",
-        "Design Patterns",
-        "Scrum"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/1e5d7286507b4877e7ae4d60a6e6bce2",
-      "posted": "2026-05-31T19:08:49.000Z"
-    },
-    {
-      "title": "ACCOUNTS & ADMINISTRATION",
-      "company": "GELMAX PTE. LTD.",
-      "salary": "S$2,600 – S$3,200",
-      "type": "Full Time",
-      "skills": [
-        "Chartered accounting",
-        "Permit Management",
-        "Accounts Payable"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/2daa9c9b371356285652513b42a750ef",
-      "posted": "2026-05-31T14:46:05.000Z"
-    },
-    {
-      "title": "Information Security Lead | GRC | Cloud Security | Azure|EDR detection Validation | Cyber Security Controls Validation Engineer |Cyber Assurance Lead",
-      "company": "RANDSTAD PTE. LIMITED",
-      "salary": "S$9,000 – S$11,000",
-      "type": "Permanent",
-      "skills": [
-        "Windows Azure",
-        "Technical Standards",
-        "Information Security"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/e0b8ff13075d6c76c0244121ef84f052",
-      "posted": "2026-05-31T11:22:27.000Z"
-    },
-    {
-      "title": "Leasing Manager (Retail)",
-      "company": "CBRE PTE. LTD.",
-      "salary": "S$5,000 – S$7,000",
-      "type": "Permanent",
-      "skills": [
-        "Outlook",
-        "Accounts Payable",
-        "Microsoft Office"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/2d47765ac06999ae2a19bddc4413e7b4",
-      "posted": "2026-05-31T08:02:18.000Z"
-    },
-    {
-      "title": "Building Manager (Commercial)",
-      "company": "CBRE PTE. LTD.",
-      "salary": "S$4,500 – S$7,000",
-      "type": "Full Time",
-      "skills": [
-        "Fire Safety",
-        "Outlook",
-        "Management Skills"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/09a128c4f2c29ada360a940b5146ad3e",
-      "posted": "2026-05-31T07:47:06.000Z"
-    },
-    {
-      "title": "Centre Manager - Mixed Development Projects",
-      "company": "CBRE PTE. LTD.",
-      "salary": "S$6,000 – S$8,000",
-      "type": "Permanent",
-      "skills": [
-        "Outlook",
-        "Quality Assurance Management",
-        "Microsoft Office"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/2c08b52b146c2e3429171e386fab55ac",
-      "posted": "2026-05-31T07:44:49.000Z"
-    },
-    {
-      "title": "Customer Service Officer / Concierge (Residential)",
-      "company": "CBRE PTE. LTD.",
-      "salary": "S$2,300 – S$2,800",
-      "type": "Permanent",
-      "skills": [
-        "Front Office",
-        "Customer Service Oriented",
-        "Microsoft Office"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/b9e388b15fca24dfc8de5a5751102613",
-      "posted": "2026-05-31T07:43:51.000Z"
-    },
-    {
-      "title": "Customer Service Officer / Concierge (Retail)",
-      "company": "CBRE PTE. LTD.",
-      "salary": "S$2,100 – S$2,500",
-      "type": "Permanent",
-      "skills": [
-        "Front Office",
-        "Customer Service Oriented",
-        "Microsoft Office"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/9e00ad7bd1f06d9cf9ff3a1854474767",
-      "posted": "2026-05-31T07:30:57.000Z"
-    },
-    {
-      "title": "Property Executive (Industrial)",
-      "company": "CBRE PTE. LTD.",
-      "salary": "S$3,000 – S$4,700",
-      "type": "Full Time",
-      "skills": [
-        "Fire Safety",
-        "Tenant Coordination",
-        "Microsoft Office"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/d2515c172a977f8d66a750a4caf450bd",
-      "posted": "2026-05-31T07:28:58.000Z"
-    },
-    {
-      "title": "Property Executive (Retail)",
-      "company": "CBRE PTE. LTD.",
-      "salary": "S$3,000 – S$4,700",
-      "type": "Full Time",
-      "skills": [
-        "Fire Safety",
-        "Tenant Coordination",
-        "Microsoft Office"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/d606f6ab39051277e8b4263a712c435d",
-      "posted": "2026-05-31T07:23:28.000Z"
-    },
-    {
-      "title": "Digital Transformation & Data Analytics Manager",
-      "company": "TANGPINXUAN PTE. LTD.",
-      "salary": "S$6,000 – S$7,500",
-      "type": "Full Time",
-      "skills": [
-        "Digital Transformation",
-        "Analytical Approach",
-        "digital transformation program"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/1f816696da467fa87d55952819f9d392",
-      "posted": "2026-05-31T05:23:58.000Z"
-    },
-    {
-      "title": "Digital Transformation & Data Analytics Manager",
-      "company": "DAN DAN FOOD PTE. LTD.",
-      "salary": "S$6,000 – S$7,500",
-      "type": "Part Time",
-      "skills": [
-        "Digital Transformation",
-        "Knowledge Database",
-        "Collaboration"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/cbf1943408fc0b419ceaf595229dd4dc",
-      "posted": "2026-05-31T04:41:46.000Z"
     }
   ]
 }

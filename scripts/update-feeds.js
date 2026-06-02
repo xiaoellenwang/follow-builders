@@ -134,6 +134,12 @@ async function fetchSgJobs() {
   const jobs = [];
   const seen = new Set();
 
+  // 只保留真正 AI/数据相关的职位标题（全词匹配，避免 "retail" 含 "ai" 的误判）
+  const AI_TITLE_PATTERN = /\b(AI|A\.I\.|artificial intelligence|machine learning|ML|LLM|data scien|data engineer|MLOps|NLP|deep learning|computer vision|gen[ae]rative|RPA|quant researcher)\b/i;
+
+  // 排除明显无关的公司或职位类别
+  const EXCLUDE_PATTERN = /property|leasing|concierge|retail manager|accounts|building manager|centre manager|customer service officer/i;
+
   for (const kw of keywords) {
     const url = `https://api.mycareersfuture.gov.sg/v2/jobs?search=${encodeURIComponent(kw)}&sortBy=new_posting_date&limit=10`;
     const data = await fetchJSON(url);
@@ -143,11 +149,16 @@ async function fetchSgJobs() {
       if (seen.has(job.uuid)) continue;
       seen.add(job.uuid);
 
+      const title = job.title || '';
+      // 必须符合 AI 相关标题，且不在排除名单
+      if (!AI_TITLE_PATTERN.test(title)) continue;
+      if (EXCLUDE_PATTERN.test(title)) continue;
+
       const posted = new Date(job.metadata?.createdAt || 0);
-      if (posted < daysAgo(3)) continue; // 只取近 3 天
+      if (posted < daysAgo(3)) continue;
 
       jobs.push({
-        title: job.title || '',
+        title,
         company: job.postedCompany?.name || '',
         salary: job.salary
           ? `S$${job.salary.minimum?.toLocaleString()} – S$${job.salary.maximum?.toLocaleString()}`
