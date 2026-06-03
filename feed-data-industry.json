@@ -1,19 +1,96 @@
 {
-  "generatedAt": "2026-06-02T04:52:39.132Z",
+  "generatedAt": "2026-06-03T05:03:52.405Z",
   "articles": [
     {
-      "source": "Data Center Dynamics",
-      "title": "Supermicro says its working with Taiwanese authorities to stop illegal shipments of its servers to China",
-      "url": "https://www.datacenterdynamics.com/en/news/supermicro-says-its-working-with-taiwanese-authorities-to-stop-illegal-shipments-of-its-servers-to-china/",
-      "description": "Collaboration resulted in the seizure of 50 servers, company claims",
-      "published": "2026-06-02T04:39:52.000Z"
+      "source": "The Next Platform",
+      "title": "Cisco Preps For A World Of AI Agent Coworkers, Frontier Model Threats",
+      "url": "https://www.nextplatform.com/ai/2026/06/03/cisco-preps-for-a-world-of-ai-agent-coworkers-frontier-model-threats/5250406",
+      "description": "",
+      "published": "2026-06-03T00:10:37.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Nvidia Extends Its Grip On The AI Datacenter Outwards",
+      "url": "https://www.nextplatform.com/ai/2026/06/02/nvidia-extends-its-grip-on-the-ai-datacenter-outwards/5250344",
+      "description": "",
+      "published": "2026-06-02T20:01:40.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Marvell CEO calls connectivity the next AI bottleneck, as Nvidia's CEO proclaims Marvell the \"next trillion dollar company\"",
-      "url": "https://www.datacenterdynamics.com/en/news/marvell-ceo-calls-connectivity-the-next-ai-bottleneck-as-nvidias-ceo-proclaims-marvell-the-next-trillion-dollar-company/",
-      "description": "Jensen Huang talks up his new investment",
-      "published": "2026-06-02T03:24:00.000Z"
+      "title": "Starcloud buys 50+ ISL lasers off Starlink for orbital data center network",
+      "url": "https://www.datacenterdynamics.com/en/news/starcloud-buys-50-isl-lasers-off-starlink-for-orbital-data-center-network/",
+      "description": "Starcloud cements reliance on Starlink interconnectivity solution",
+      "published": "2026-06-02T16:40:29.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Brookfield ups French data center investment by €10 billion",
+      "url": "https://www.datacenterdynamics.com/en/news/brookfield-ups-french-data-center-investment-by-10-billion/",
+      "description": "Campus AI joint venture close to selecting second site",
+      "published": "2026-06-02T16:27:55.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Space Force drops $2.29bn on SpaceX satellite “Backbone” & $437m for GEO program by Viasat and SES",
+      "url": "https://www.datacenterdynamics.com/en/news/space-force-drops-229bn-on-spacex-satellite-backbone-437m-for-geo-program-by-viasat-and-ses/",
+      "description": "Priority for assured space-based communications abounds, compounding on existing efforts",
+      "published": "2026-06-02T16:20:29.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Google breaks ground on data center in Horndal, Sweden",
+      "url": "https://www.datacenterdynamics.com/en/news/google-breaks-ground-on-data-center-in-horndal-sweden/",
+      "description": "Will be company's first owned and operated data center in the country",
+      "published": "2026-06-02T16:16:37.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "EDF selects SoftBank and Eclairion to deliver AI data center projects at former power stations in France",
+      "url": "https://www.datacenterdynamics.com/en/news/edf-selects-softbank-and-eclairion-to-deliver-ai-data-center-projects-at-former-power-stations-in-france/",
+      "description": "Firms will undertake feasibility studies to bring schemes to life",
+      "published": "2026-06-02T16:13:29.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "The Case For Pragmatism in the AI Infrastructure Boom",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/the-case-for-pragmatism-in-the-ai-infrastructure-boom",
+      "description": "As AI investment accelerates, data center operators can draw on lessons from previous cycles to expand capacity while managing power, volatility and long-term risk.",
+      "published": "2026-06-02T16:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Alphabet’s $80B Fundraising Spotlights AI’s Soaring Capital Needs",
+      "url": "https://www.datacenterknowledge.com/hyperscalers/alphabet-s-80b-raise-highlights-ai-infrastructure-s-growing-capital-needs",
+      "description": "Berkshire Hathaway’s $10 billion investment underscores investor confidence in AI infrastructure as Alphabet seeks $80 billion to scale compute capacity and meet surging demand.",
+      "published": "2026-06-02T12:34:23.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: AI can run your admin department now",
+      "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How small businesses can leverage AI From accounting to design to market research and product development, there’s a staggering breadth of skills need",
+      "published": "2026-06-02T12:10:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "DOE’s Agora Simulates AI Data Center Power Challenges on the Grid",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/doe-is-quietly-building-the-ai-grid-operating-system",
+      "description": "A new government-developed platform analyzes volatile AI campus power demands to help utilities and regulators ensure grid stability.",
+      "published": "2026-06-02T11:44:20.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Rehumanizing global health care with agentic AI",
+      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+      "description": "The global health care sector is under increasing strain.&#160; Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of st",
+      "published": "2026-06-02T11:23:34.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "How small businesses can leverage AI",
+      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+      "description": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a bu",
+      "published": "2026-06-02T09:00:00.000Z"
     },
     {
       "source": "Ars Technica Tech",
@@ -23,32 +100,11 @@
       "published": "2026-06-01T19:49:09.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "2,000-acre land parcel rezoned for data center use in Mason County, Kentucky",
-      "url": "https://www.datacenterdynamics.com/en/news/2000-acre-land-parcel-rezoned-for-data-center-use-in-mason-county-kentucky/",
-      "description": "But opposition continues to mount",
-      "published": "2026-06-01T17:20:27.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "SoftBank’s $85B France Bet Puts Power at Center of AI Race",
       "url": "https://www.datacenterknowledge.com/data-center-construction/softbank-s-75-billion-france-bet-puts-power-at-center-of-ai-race",
       "description": "The company plans up to 5 GW of AI infrastructure in France, where EDF is turning former power plant sites into data center campuses and electricity has become a competitive advantage.",
       "published": "2026-06-01T17:15:41.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "QTS looking to build temporary power plant to support test operations at campus in Cedar Rapids, Iowa - report",
-      "url": "https://www.datacenterdynamics.com/en/news/qts-looking-to-build-temporary-power-plant-to-support-test-operations-at-campus-in-cedar-rapids-iowa-report/",
-      "description": "Plant will consist of modular, self-contained generator units",
-      "published": "2026-06-01T17:00:29.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Environmental activist Erin Brockovich launches US data center tracking website",
-      "url": "https://www.datacenterdynamics.com/en/news/environmental-activist-erin-brockovich-launches-us-data-center-tracking-website/",
-      "description": "Activist behind PG&amp;E Hinkley lawsuit turns her ire towards data centers",
-      "published": "2026-06-01T16:50:28.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -72,13 +128,6 @@
       "published": "2026-06-01T13:31:56.000Z"
     },
     {
-      "source": "Data Center Knowledge",
-      "title": "Utilities Say Data Centers Could Lower Electricity Bills. Regulators Want Proof",
-      "url": "https://www.datacenterknowledge.com/business/can-data-centers-really-lower-electric-bills-",
-      "description": "Utilities say hyperscale data centers can spread grid costs across more customers, but regulators are building protections in case that growth fails to materialize.",
-      "published": "2026-06-01T13:13:08.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: China’s brain implant ambitions",
       "url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
@@ -86,32 +135,11 @@
       "published": "2026-06-01T12:10:00.000Z"
     },
     {
-      "source": "Data Center Knowledge",
-      "title": "AWS: Randomized Graph Networks Are Ready for Prime Time",
-      "url": "https://www.datacenterknowledge.com/infrastructure/aws-bets-future-cloud-infrastructure-on-flat-network-architecture",
-      "description": "Resilient Network Graphs architecture will become the default network for new non-GPU infrastructure, replacing Clos fabrics.",
-      "published": "2026-06-01T12:08:24.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
       "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
       "description": "One day last October, sitting in the courtyard of his house in China’s Henan province, Dong Hui decided to see if he could hold a pen to write.&#160; Dong, 39, had sustained spinal cord injuries in a car accident six years earlier that left him paralyzed from the neck down. Slowly but determinedly, ",
       "published": "2026-06-01T09:09:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Can Data Centers Ditch Concrete – or Just Use Less of It?",
-      "url": "https://www.datacenterknowledge.com/green-materials/can-data-centers-ditch-concrete-or-just-use-less-of-it-",
-      "description": "Foundations and high-density cores still rely on concrete, while low-carbon mixes, mass timber, and retrofits are moving the needle at the edges.",
-      "published": "2026-06-01T09:00:00.000Z"
-    },
-    {
-      "source": "DataEngineeringWeekly",
-      "title": "Data Engineering Weekly #272",
-      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-272",
-      "description": "The Weekly Data Engineering Newsletter",
-      "published": "2026-06-01T03:18:34.000Z"
     }
   ]
 }
