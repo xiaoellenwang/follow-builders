@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-06-03T05:03:52.405Z",
+  "generatedAt": "2026-06-04T04:56:45.722Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "AI won't move as fast as you think",
+      "url": "https://www.youtube.com/watch?v=VuApa4sBfKA",
+      "published": "2026-06-03T11:00:06.000Z",
+      "description": "#ai #artificialintelligence #claudecode #chatgpt"
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "We can't predict AI's impact",
@@ -28,13 +35,6 @@
       "url": "https://www.youtube.com/watch?v=yCV0ozYz9Ak",
       "published": "2026-05-28T11:00:25.000Z",
       "description": "#ai #artificialintelligence #futureofwork #claudecode #chatgpt"
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "The AI jobpocalypse isn't real",
-      "url": "https://www.youtube.com/watch?v=vtjH6LF0ky8",
-      "published": "2026-05-27T11:00:20.000Z",
-      "description": "#ai #artificialintelligence #career #claudecode #chatgpt"
     }
   ]
 }
