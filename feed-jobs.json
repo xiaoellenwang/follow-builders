@@ -1,18 +1,148 @@
 {
-  "generatedAt": "2026-06-04T04:56:45.722Z",
+  "generatedAt": "2026-06-05T04:40:09.065Z",
   "jobs": [
     {
-      "title": "Intern - AI Engineering (Aug to Dec 2026)",
-      "company": "LIGHTHOUSE CANTON PTE. LTD.",
-      "salary": "S$1,000 – S$1,000",
-      "type": "Internship/Attachment",
+      "title": "AI Computing Platform Software Developer",
+      "company": "PERSOL SINGAPORE PTE. LTD.",
+      "salary": "S$5,000 – S$7,000",
+      "type": "Contract",
       "skills": [
-        "Git",
-        "Foundations",
-        "Grading"
+        "Liaising with cross functional teams",
+        "Parallel Processing",
+        "Optimization"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/a7e0c1bf7fe1188a3ad8e440592ee501",
-      "posted": "2026-06-04T04:27:51.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/917d9e3bf5e86092ff64a7e9a3a7f905",
+      "posted": "2026-06-05T02:19:20.000Z"
+    },
+    {
+      "title": "Machine Learning Engineer (12-Month Contract)",
+      "company": "ACHIEVE CAREER CONSULTANT PTE LTD",
+      "salary": "S$8,000 – S$10,000",
+      "type": "Contract",
+      "skills": [
+        "Analytics and Computational Modelling",
+        "Machine Learning",
+        "business objectives"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/ecc7f8ac513ad8866ede6dd135026d84",
+      "posted": "2026-06-04T22:47:02.000Z"
+    },
+    {
+      "title": "Business Development Manager – Digital Marketing & AI Solutions",
+      "company": "XPS PTE. LTD.",
+      "salary": "S$5,000 – S$6,000",
+      "type": "Permanent",
+      "skills": [
+        "Referrals",
+        "Verbal Communication",
+        "Sales Prospecting"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/0a13a6248e2a8103cc8b1654efaf39a2",
+      "posted": "2026-06-04T17:27:46.000Z"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "company": "SPH MEDIA LIMITED",
+      "salary": "S$17,000 – S$22,000",
+      "type": "Full Time",
+      "skills": [
+        "Business Roadmaps",
+        "Ownership",
+        "Design"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/081fd5656715e830377dea9c5c7d9140",
+      "posted": "2026-06-04T16:06:17.000Z"
+    },
+    {
+      "title": "Principal AI Architect",
+      "company": "KUOK (SINGAPORE) LIMITED",
+      "salary": "S$13,500 – S$16,800",
+      "type": "Permanent",
+      "skills": [
+        "Machine Learning",
+        "Kubernetes",
+        "Azure"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/89399eda5263fd2f46bab1502caeac86",
+      "posted": "2026-06-04T13:22:51.000Z"
+    },
+    {
+      "title": "AI Platform Engineer",
+      "company": "KUOK (SINGAPORE) LIMITED",
+      "salary": "S$8,300 – S$10,300",
+      "type": "Permanent",
+      "skills": [
+        "Dashboards",
+        "Design",
+        "Terraform"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/48fbaaa94d34007cea762a7e1c3c6dcc",
+      "posted": "2026-06-04T12:30:36.000Z"
+    },
+    {
+      "title": "Senior System Engineer (AI/GPU Infrastructure)",
+      "company": "MICHAEL PAGE INTERNATIONAL PTE LTD",
+      "salary": "S$15,000 – S$16,000",
+      "type": "Full Time",
+      "skills": [
+        "Information Security",
+        "Kubernetes",
+        "GPU"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/b639f645fda01c7ae67eaff9813acfa9",
+      "posted": "2026-06-04T09:09:18.000Z"
+    },
+    {
+      "title": "AI Engineer (C++ & HPC)",
+      "company": "MICHAEL PAGE INTERNATIONAL PTE LTD",
+      "salary": "S$8,000 – S$9,000",
+      "type": "Full Time",
+      "skills": [
+        "UML",
+        "Optimization",
+        "improve system performance"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/8d3c357a85330832b09c7349c82bcb68",
+      "posted": "2026-06-04T09:05:25.000Z"
+    },
+    {
+      "title": "AI Engineer (LLMs & Backend)",
+      "company": "MICHAEL PAGE INTERNATIONAL PTE LTD",
+      "salary": "S$10,000 – S$11,000",
+      "type": "Full Time",
+      "skills": [
+        "Interface with engineers",
+        "MongoDB",
+        "PostgreSQL"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/c4e465e9b8279455b8ac72ddca8717e8",
+      "posted": "2026-06-04T09:02:55.000Z"
+    },
+    {
+      "title": "azure AI engineer (weekends, shifts) #IKR",
+      "company": "RECRUIT EXPRESS PTE LTD",
+      "salary": "S$6,000 – S$12,000",
+      "type": "Contract",
+      "skills": [
+        "work tracking",
+        "requirement capture",
+        "API Management"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/f2183320c14f9014a23b1133f0f153d4",
+      "posted": "2026-06-04T07:53:48.000Z"
+    },
+    {
+      "title": "AI Research Engineer",
+      "company": "LOBAH PLAY PTE. LTD.",
+      "salary": "S$5,000 – S$7,000",
+      "type": "Full Time",
+      "skills": [
+        "Machine Learning",
+        "Technical Documentation",
+        "Microsoft Excel"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/fefb4de39f19d6db56bfe34a58555117",
+      "posted": "2026-06-04T07:40:56.000Z"
     },
     {
       "title": "Senior Principal Architect (AI)",
@@ -26,32 +156,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/e1918249c972d71fd2238af0e5de7dfe",
       "posted": "2026-06-04T03:45:38.000Z"
-    },
-    {
-      "title": "ML Engineer",
-      "company": "NEARSOURCE PTE. LTD.",
-      "salary": "S$6,000 – S$9,000",
-      "type": "Full Time",
-      "skills": [
-        "Video",
-        "Hadoop Database",
-        "Shell Scripting"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/e505d83df0e0364608249b4f745addc6",
-      "posted": "2026-06-04T03:14:35.000Z"
-    },
-    {
-      "title": "ML Engineer",
-      "company": "TECHNOPALS PTE. LTD.",
-      "salary": "S$6,000 – S$9,000",
-      "type": "Full Time",
-      "skills": [
-        "Video",
-        "Hadoop Database",
-        "Shell Scripting"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/ffc983cc3c39514a860740462a838e54",
-      "posted": "2026-06-04T03:02:14.000Z"
     },
     {
       "title": "Innovation and Applied-AI Engineer",
@@ -80,19 +184,6 @@
       "posted": "2026-06-04T02:42:29.000Z"
     },
     {
-      "title": "Advertising AI Algorithm Engineer",
-      "company": "PERSOL SINGAPORE PTE. LTD.",
-      "salary": "S$7,000 – S$13,000",
-      "type": "Contract",
-      "skills": [
-        "develop strategic recommendations",
-        "Quality Management",
-        "Data Structures"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/5acfdd13aa6f8edf0a3418b2185b492f",
-      "posted": "2026-06-04T01:13:54.000Z"
-    },
-    {
       "title": "AI Engineer Intern",
       "company": "LA ROYALE INVESTMENTS PTE. LTD.",
       "salary": "S$1,000 – S$1,000",
@@ -104,97 +195,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/cec9050409c7bb51a4ad87e6e50fca1e",
       "posted": "2026-06-03T16:12:26.000Z"
-    },
-    {
-      "title": "AI Engineer",
-      "company": "ALPHA Z PTE. LTD.",
-      "salary": "S$7,000 – S$13,000",
-      "type": "Permanent",
-      "skills": [
-        "Code Generation",
-        "Machine Learning",
-        "Computer Engineering"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/875293cffb540ad664912490b6eb3a15",
-      "posted": "2026-06-03T11:23:18.000Z"
-    },
-    {
-      "title": "Urgent!!! Senior Data & AI Engineer (Microsoft Fabric / Databricks)",
-      "company": "TRUST RECRUIT PTE. LTD.",
-      "salary": "S$6,000 – S$7,500",
-      "type": "Permanent",
-      "skills": [
-        "Tableau",
-        "Microsoft",
-        "Microsoft Azure"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/548312231e49545b27e8aad34bc31531",
-      "posted": "2026-06-03T11:21:00.000Z"
-    },
-    {
-      "title": "Senior AI Architect, APAC",
-      "company": "RED HAT ASIA PACIFIC PTE LTD",
-      "salary": "S$12,000 – S$22,000",
-      "type": "Permanent",
-      "skills": [
-        "consulting opportunities",
-        "identify markets",
-        "Technical Advisory"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/49b5fa00dadd5c27b89def45ff05b7b3",
-      "posted": "2026-06-03T11:09:17.000Z"
-    },
-    {
-      "title": "AI Research Scientist",
-      "company": "ALPHA Z PTE. LTD.",
-      "salary": "S$8,000 – S$14,000",
-      "type": "Permanent",
-      "skills": [
-        "Code Generation",
-        "Machine Learning",
-        "systems reliability"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/5caf4b9d048aeeace4434171027df24d",
-      "posted": "2026-06-03T11:07:53.000Z"
-    },
-    {
-      "title": "Product Engineer, AI",
-      "company": "MIAO WORLDS PTE. LTD.",
-      "salary": "S$10,000 – S$15,000",
-      "type": "Permanent",
-      "skills": [
-        "Perl",
-        "Product Design",
-        "Product Engineering"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/2cddbc27c91f35203a07b0185d39ff36",
-      "posted": "2026-06-03T10:27:15.000Z"
-    },
-    {
-      "title": "Founding Engineer, AI Agents",
-      "company": "MIAO WORLDS PTE. LTD.",
-      "salary": "S$15,000 – S$25,000",
-      "type": "Permanent",
-      "skills": [
-        "Technical Standards",
-        "Agents",
-        "Verification"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/0b43e8a4ed6054123c2713ab2414fdd0",
-      "posted": "2026-06-03T10:23:35.000Z"
-    },
-    {
-      "title": "Product Security Architect — Agentic AI & Security",
-      "company": "KEYSIGHT TECHNOLOGIES SINGAPORE (SALES) PTE. LTD.",
-      "salary": "S$8,200 – S$13,700",
-      "type": "Full Time",
-      "skills": [
-        "Safety Auditing",
-        "Leadership",
-        "Security Tools"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/c876437aae8bdda72e0be0b5547b1e24",
-      "posted": "2026-06-03T06:11:38.000Z"
     }
   ]
 }
