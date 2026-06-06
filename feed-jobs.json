@@ -1,6 +1,71 @@
 {
-  "generatedAt": "2026-06-05T04:40:09.065Z",
+  "generatedAt": "2026-06-06T04:13:42.548Z",
   "jobs": [
+    {
+      "title": "Software QA Engineer (Manual & Automation, AI-Driven Testing)",
+      "company": "NEUTRON PTE. LTD.",
+      "salary": "S$5,000 – S$7,000",
+      "type": "Permanent",
+      "skills": [
+        "Test Reporting",
+        "Integration",
+        "UAT"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/b4dbdc8ce21e3ca531c48607ad09b623",
+      "posted": "2026-06-05T09:44:02.000Z"
+    },
+    {
+      "title": "Associate AI Developer",
+      "company": "DYMON ASIA CAPITAL (SINGAPORE) PTE. LTD.",
+      "salary": "S$5,000 – S$9,000",
+      "type": "Permanent",
+      "skills": [
+        "Machine Learning",
+        "JSON",
+        "Judgment"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/7af27fa40613dc086cb17f7a949671ed",
+      "posted": "2026-06-05T09:20:54.000Z"
+    },
+    {
+      "title": "AI Engineer (ref: 101)",
+      "company": "IT CONSULTANCY & SERVICES PTE LTD",
+      "salary": "S$7,000 – S$7,800",
+      "type": "Contract",
+      "skills": [
+        "Deep learning",
+        "Machine Learning",
+        "Artificial Intelligence"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/22787421b5a6818a0a1e3c5d58b81f96",
+      "posted": "2026-06-05T08:01:04.000Z"
+    },
+    {
+      "title": "Software Engineer, Machine Learning, Payments - Singapore",
+      "company": "GOOGLE ASIA PACIFIC PTE. LTD.",
+      "salary": "S$9,000 – S$18,000",
+      "type": "Full Time",
+      "skills": [
+        "Machine Learning",
+        "Statistical Data Analysis",
+        "Computing Infrastructure"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/1e0e94001e5d158dbbc3a6d692951233",
+      "posted": "2026-06-05T07:42:38.000Z"
+    },
+    {
+      "title": "Software Engineer (Generative AI Engineer)",
+      "company": "Capgemini Singapore  PTE. LTD.",
+      "salary": "S$6,000 – S$9,000",
+      "type": "Permanent",
+      "skills": [
+        "PostgreSQL",
+        "Azure",
+        "AWS"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/194569e1a832e770ae25931eef0132e5",
+      "posted": "2026-06-05T06:19:16.000Z"
+    },
     {
       "title": "AI Computing Platform Software Developer",
       "company": "PERSOL SINGAPORE PTE. LTD.",
@@ -80,71 +145,6 @@
       "posted": "2026-06-04T12:30:36.000Z"
     },
     {
-      "title": "Senior System Engineer (AI/GPU Infrastructure)",
-      "company": "MICHAEL PAGE INTERNATIONAL PTE LTD",
-      "salary": "S$15,000 – S$16,000",
-      "type": "Full Time",
-      "skills": [
-        "Information Security",
-        "Kubernetes",
-        "GPU"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/b639f645fda01c7ae67eaff9813acfa9",
-      "posted": "2026-06-04T09:09:18.000Z"
-    },
-    {
-      "title": "AI Engineer (C++ & HPC)",
-      "company": "MICHAEL PAGE INTERNATIONAL PTE LTD",
-      "salary": "S$8,000 – S$9,000",
-      "type": "Full Time",
-      "skills": [
-        "UML",
-        "Optimization",
-        "improve system performance"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/8d3c357a85330832b09c7349c82bcb68",
-      "posted": "2026-06-04T09:05:25.000Z"
-    },
-    {
-      "title": "AI Engineer (LLMs & Backend)",
-      "company": "MICHAEL PAGE INTERNATIONAL PTE LTD",
-      "salary": "S$10,000 – S$11,000",
-      "type": "Full Time",
-      "skills": [
-        "Interface with engineers",
-        "MongoDB",
-        "PostgreSQL"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/c4e465e9b8279455b8ac72ddca8717e8",
-      "posted": "2026-06-04T09:02:55.000Z"
-    },
-    {
-      "title": "azure AI engineer (weekends, shifts) #IKR",
-      "company": "RECRUIT EXPRESS PTE LTD",
-      "salary": "S$6,000 – S$12,000",
-      "type": "Contract",
-      "skills": [
-        "work tracking",
-        "requirement capture",
-        "API Management"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/f2183320c14f9014a23b1133f0f153d4",
-      "posted": "2026-06-04T07:53:48.000Z"
-    },
-    {
-      "title": "AI Research Engineer",
-      "company": "LOBAH PLAY PTE. LTD.",
-      "salary": "S$5,000 – S$7,000",
-      "type": "Full Time",
-      "skills": [
-        "Machine Learning",
-        "Technical Documentation",
-        "Microsoft Excel"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/fefb4de39f19d6db56bfe34a58555117",
-      "posted": "2026-06-04T07:40:56.000Z"
-    },
-    {
       "title": "Senior Principal Architect (AI)",
       "company": "INFOSYS LIMITED Singapore Branch",
       "salary": "S$13,000 – S$17,500",
@@ -156,45 +156,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/e1918249c972d71fd2238af0e5de7dfe",
       "posted": "2026-06-04T03:45:38.000Z"
-    },
-    {
-      "title": "Innovation and Applied-AI Engineer",
-      "company": "THALES DIS (SINGAPORE) PTE. LTD.",
-      "salary": "S$4,500 – S$6,000",
-      "type": "Permanent",
-      "skills": [
-        "Sponsorship",
-        "Autonomy",
-        "Azure"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/fed1a9e6aa5d2dfe72a08c18b0d6d5e5",
-      "posted": "2026-06-04T02:48:16.000Z"
-    },
-    {
-      "title": "Research Fellow (Artificial Intelligence)",
-      "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
-      "salary": "S$6,000 – S$12,000",
-      "type": "Contract",
-      "skills": [
-        "Mentoring",
-        "Technical Publication",
-        "Materials Science"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/d0d46c76e0e268d571566861327fd4bf",
-      "posted": "2026-06-04T02:42:29.000Z"
-    },
-    {
-      "title": "AI Engineer Intern",
-      "company": "LA ROYALE INVESTMENTS PTE. LTD.",
-      "salary": "S$1,000 – S$1,000",
-      "type": "Internship/Attachment",
-      "skills": [
-        "Aesthetics",
-        "workaround solutions",
-        "Digital Media"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/cec9050409c7bb51a4ad87e6e50fca1e",
-      "posted": "2026-06-03T16:12:26.000Z"
     }
   ]
 }

@@ -1,6 +1,90 @@
 {
-  "generatedAt": "2026-06-05T04:40:09.065Z",
+  "generatedAt": "2026-06-06T04:13:42.548Z",
   "articles": [
+    {
+      "source": "Ars Technica Tech",
+      "title": "How a USB-connected speaker can infect a PC without ever being touched",
+      "url": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
+      "description": "\n                        Seller of the Sound Blaster Katana V2X doesn't consider the behavior a vulnerability.\n                    ",
+      "published": "2026-06-05T21:00:29.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "DayOne secures $4.5 billion Series C funding",
+      "url": "https://www.datacenterdynamics.com/en/news/dayone-secures-45-billion-series-c-funding/",
+      "description": "APAC operator secures billions in new funding ahead of rumored IPO",
+      "published": "2026-06-05T18:30:30.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Digital Realty plans data center in Seattle, Washington",
+      "url": "https://www.datacenterdynamics.com/en/news/digital-realty-plans-data-center-in-seattle-washington/",
+      "description": "Inner-city facility eyed at former Bed Bath &amp; Beyond store",
+      "published": "2026-06-05T18:00:29.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Google’s ‘Power-First’ Data Centers: A New Model for Energy Scarcity?",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/google-bets-on-a-power-first-model-for-ai-data-centers",
+      "description": "Google’s Texas AI campus pairs a data center with 1 GW of generation, testing a “power-first” model as hyperscalers chase scarce electricity.",
+      "published": "2026-06-05T17:33:10.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Michigan senator proposes one-year state-wide moratorium on data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/michigan-senator-proposes-one-year-state-wide-moratorium-on-data-centers/",
+      "description": "Text of bill matches proposal submitted by Republican colleague earlier this year",
+      "published": "2026-06-05T16:24:57.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Quant trading firm Jane Street plans data center - report",
+      "url": "https://www.datacenterdynamics.com/en/news/quant-trading-firm-jane-street-plans-data-center-report/",
+      "description": "Company is looking to build and finance its own data center",
+      "published": "2026-06-05T16:20:24.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Earthquake-proof prefab Rome data center built in five weeks",
+      "url": "https://www.datacenterdynamics.com/en/news/earthquake-proof-prefab-rome-data-center-built-in-five-weeks/",
+      "description": "The €28m facility was built using 100 percent recyclable materials, Italian media said",
+      "published": "2026-06-05T16:10:25.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "AI Data Centers Squeeze Memory Supply, Coalition Warns",
+      "url": "https://www.datacenterknowledge.com/infrastructure/industry-coalition-warns-ai-data-centers-are-tightening-memory-supply",
+      "description": "With fabs “fully allocated,” the question is where the capacity is going – and what it means for non‑AI buyers.",
+      "published": "2026-06-05T14:30:19.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+      "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to ste",
+      "published": "2026-06-05T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Are AI chatbots making us lose control of our brains?",
+      "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+      "description": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital techno",
+      "published": "2026-06-05T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Meta hack shows there’s more to AI security than Mythos",
+      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "description": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama Wh",
+      "published": "2026-06-05T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Colocation vs. Public Cloud: Cost, Performance, and How to Choose",
+      "url": "https://www.datacenterknowledge.com/operations-and-management/colocation-vs-public-cloud-cost-performance-and-how-to-choose",
+      "description": "Weigh the trade‑offs in scalability, cost, security, and performance – plus, when hybrid is the right answer.",
+      "published": "2026-06-05T09:00:00.000Z"
+    },
     {
       "source": "The Next Platform",
       "title": "Chip Capacity Constraints Put A Governor On AI Spending Growth",
@@ -16,32 +100,11 @@
       "published": "2026-06-04T20:02:04.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Is the data center industry ready to change for the coming of the 1MW rack?",
-      "url": "https://www.datacenterdynamics.com/en/analysis/does-the-data-center-industry-have-the-appetite-to-change-for-the-coming-of-the-1mw-rack/",
-      "description": "1MW racks and 800V DC topologies on the way, because Nvidia said so",
-      "published": "2026-06-04T16:38:00.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
-      "title": "From Data Centers to Models: White House Targets AI Risk at the Source",
+      "title": "From Data Centers to Models: White House Targets AI Risks at the Source",
       "url": "https://www.datacenterknowledge.com/cybersecurity/from-data-centers-to-models-white-house-targets-ai-risk-at-the-source",
       "description": "New White House guidance expands federal scrutiny beyond AI campuses and power demand to the frontier models running inside them.",
       "published": "2026-06-04T15:23:36.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Scaling up data center siting in the power-first era",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/scaling-up-data-center-siting-in-the-power-first-era/",
-      "description": "Accelerate siting, de-Risk power, and outpace the competition",
-      "published": "2026-06-04T15:23:18.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: How liquid cooling is redefining data center efficiency beyond PUE",
-      "url": "https://www.datacenterdynamics.com/en/opinions/how-liquid-cooling-is-redefining-data-center-efficiency-beyond-pue/",
-      "description": "With AI operations, efficiency isn’t just about how much energy you consume. Rather, it’s about how much compute you produce from it, making output a more meaningful measure of performance ",
-      "published": "2026-06-04T15:00:00.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -49,27 +112,6 @@
       "url": "https://www.datacenterknowledge.com/cooling/as-ai-scales-can-traditional-cooling-keep-up-",
       "description": "As AI workloads push rack densities higher, operators are rethinking cooling strategies as power demands, water use, and infrastructure limits collide.",
       "published": "2026-06-04T14:30:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "US gov't planning $700m funding packing to support coal production on the back of AI power demands",
-      "url": "https://www.datacenterdynamics.com/en/news/us-govt-planning-700m-funding-packing-to-support-coal-production-on-the-back-of-ai-power-demands/",
-      "description": "The latest measure by the Trump administration to support the coal sector",
-      "published": "2026-06-04T14:10:31.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Plans for 10,000 acre data center scrapped in Socorro, New Mexico",
-      "url": "https://www.datacenterdynamics.com/en/news/plans-for-10000-acre-data-center-scrapped-in-socorro-new-mexico/",
-      "description": "Insufficient continguous acreage, says President of New Mexico Institute of Mining and Technology",
-      "published": "2026-06-04T14:00:42.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Data Centers Become Largest Segment of US Office Construction",
-      "url": "https://www.datacenterknowledge.com/build-design/data-centers-become-largest-segment-of-us-office-construction",
-      "description": "New Census data showed that data center construction reached an annualized rate of $50.7 billion in April, surpassing general office construction.",
-      "published": "2026-06-04T14:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -93,53 +135,11 @@
       "published": "2026-06-04T10:50:18.000Z"
     },
     {
-      "source": "Data Center Knowledge",
-      "title": "Data Center Developers Bring Biodiversity to Life in Site Selection",
-      "url": "https://www.datacenterknowledge.com/build-design/data-center-developers-bring-biodiversity-to-life-in-site-selection",
-      "description": "Developers are using biodiversity metrics during site selection and planning as AI campuses face scrutiny over land use and environmental impacts.",
-      "published": "2026-06-04T09:30:16.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Replacing Diesel in AI-Scale Data Centers: Gas Engines, Turbines, and Steam",
-      "url": "https://www.datacenterknowledge.com/sustainability/replacing-diesel-in-ai-scale-data-centers-gas-engines-turbines-and-steam",
-      "description": "Natural gas reciprocating engines and gas turbines are rapidly replacing diesel generators for both backup and primary power, offering cleaner emissions, faster deployment, and greater grid-support capabilities.",
-      "published": "2026-06-04T09:00:00.000Z"
-    },
-    {
       "source": "The Next Platform",
       "title": "HPE Catches Its First GenAI Wave With Enterprises, Sovereigns, And Neoclouds",
       "url": "https://www.nextplatform.com/compute/2026/06/04/hpe-catches-its-first-genai-wave-with-enterprises-sovereigns-and-neoclouds/5250944",
       "description": "",
       "published": "2026-06-04T03:12:32.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Can't make sense of Dashlane's vault theft notification? You're not alone.",
-      "url": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
-      "description": "\n                        Security advisory leaves out key details. Dashlane maintains complete silence.\n                    ",
-      "published": "2026-06-03T19:53:14.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "How virtual power plants could provide energy for data centers",
-      "url": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
-      "description": "Would you take a payment to ramp down your electricity use? Would it change anything if you were doing so to help power a local data center? Google just signed a new deal to help pay for a virtual power plant (VPP) in the largest power grid in the US. The agreement is with Voltus,&#8230;",
-      "published": "2026-06-03T16:51:38.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
-      "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 5 key points in Trump&#8217;s new AI order Less than two weeks after scrapping an executive order on AI, President Donald Trump signed a new one on Tu",
-      "published": "2026-06-03T12:10:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Cisco Preps For A World Of AI Agent Coworkers, Frontier Model Threats",
-      "url": "https://www.nextplatform.com/ai/2026/06/03/cisco-preps-for-a-world-of-ai-agent-coworkers-frontier-model-threats/5250406",
-      "description": "",
-      "published": "2026-06-03T00:10:37.000Z"
     }
   ]
 }
