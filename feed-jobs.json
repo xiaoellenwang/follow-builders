@@ -1,18 +1,31 @@
 {
-  "generatedAt": "2026-06-06T04:13:42.548Z",
+  "generatedAt": "2026-06-07T04:49:43.199Z",
   "jobs": [
     {
-      "title": "Software QA Engineer (Manual & Automation, AI-Driven Testing)",
-      "company": "NEUTRON PTE. LTD.",
-      "salary": "S$5,000 – S$7,000",
-      "type": "Permanent",
+      "title": "AI Engineer Intern",
+      "company": "ONE TECH STOP PTE. LTD.",
+      "salary": "S$1,000 – S$1,200",
+      "type": "Internship/Attachment",
       "skills": [
-        "Test Reporting",
-        "Integration",
-        "UAT"
+        "Data Analysis",
+        "Natural Language Processing",
+        "Google Cloud Platform"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/b4dbdc8ce21e3ca531c48607ad09b623",
-      "posted": "2026-06-05T09:44:02.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/e378d7eb112a11d2fd2793402c6e8d6d",
+      "posted": "2026-06-07T02:48:24.000Z"
+    },
+    {
+      "title": "AI Engineer (career change, no experienced required)",
+      "company": "SINGAPORE INSTITUTE OF CAREER DEVELOPMENT PTE. LTD.",
+      "salary": "S$3,000 – S$3,000",
+      "type": "Contract",
+      "skills": [
+        "Excellent Communication Skills",
+        "Determination",
+        "Positive Team Player"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/e23e6bcac484faf3112c619505f4fb14",
+      "posted": "2026-06-06T13:04:54.000Z"
     },
     {
       "title": "Associate AI Developer",
@@ -65,19 +78,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/194569e1a832e770ae25931eef0132e5",
       "posted": "2026-06-05T06:19:16.000Z"
-    },
-    {
-      "title": "AI Computing Platform Software Developer",
-      "company": "PERSOL SINGAPORE PTE. LTD.",
-      "salary": "S$5,000 – S$7,000",
-      "type": "Contract",
-      "skills": [
-        "Liaising with cross functional teams",
-        "Parallel Processing",
-        "Optimization"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/917d9e3bf5e86092ff64a7e9a3a7f905",
-      "posted": "2026-06-05T02:19:20.000Z"
     },
     {
       "title": "Machine Learning Engineer (12-Month Contract)",
@@ -143,19 +143,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/48fbaaa94d34007cea762a7e1c3c6dcc",
       "posted": "2026-06-04T12:30:36.000Z"
-    },
-    {
-      "title": "Senior Principal Architect (AI)",
-      "company": "INFOSYS LIMITED Singapore Branch",
-      "salary": "S$13,000 – S$17,500",
-      "type": "Permanent",
-      "skills": [
-        "Retail",
-        "define Roles",
-        "Risk Modeling"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/e1918249c972d71fd2238af0e5de7dfe",
-      "posted": "2026-06-04T03:45:38.000Z"
     }
   ]
 }

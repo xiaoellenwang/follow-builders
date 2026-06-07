@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-06-06T04:13:42.548Z",
+  "generatedAt": "2026-06-07T04:49:43.199Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "Space Solar agrees to host Lonestar data storage aboard orbital power stations",
+      "url": "https://www.datacenterdynamics.com/en/news/space-solar-agrees-to-host-lonestar-data-storage-aboard-orbital-power-stations/",
+      "description": "Two ambitious space startups join forces to align with orbital data center trend",
+      "published": "2026-06-06T16:00:28.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Grupo Fotones eyes €1.15bn data center campus in Murcia, Spain",
+      "url": "https://www.datacenterdynamics.com/en/news/grupo-fotones-launches-a-115-billion-euro-data-campus-in-murcia/",
+      "description": "The initiative plans to deploy up to 140MW of capacity",
+      "published": "2026-06-06T11:00:30.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Claro Argentina launches data center Buenos Aires",
+      "url": "https://www.datacenterdynamics.com/en/news/claro-argentina-expands-its-network-capacity-in-buenos-aires-with-a-new-data-center-designed-by-fibratel/",
+      "description": "The project addresses adds 650kW of IT power and a scalable architecture",
+      "published": "2026-06-06T07:00:32.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: Data center security must move beyond the perimeter",
+      "url": "https://www.datacenterdynamics.com/en/opinions/data-center-security-must-move-beyond-the-perimeter/",
+      "description": "The future of data center security will be defined by systems that are layered, integrated, intelligent, and cybersecure",
+      "published": "2026-06-06T07:00:00.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "How a USB-connected speaker can infect a PC without ever being touched",
@@ -16,39 +44,11 @@
       "published": "2026-06-05T18:30:30.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Digital Realty plans data center in Seattle, Washington",
-      "url": "https://www.datacenterdynamics.com/en/news/digital-realty-plans-data-center-in-seattle-washington/",
-      "description": "Inner-city facility eyed at former Bed Bath &amp; Beyond store",
-      "published": "2026-06-05T18:00:29.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "Google’s ‘Power-First’ Data Centers: A New Model for Energy Scarcity?",
       "url": "https://www.datacenterknowledge.com/energy-power-supply/google-bets-on-a-power-first-model-for-ai-data-centers",
       "description": "Google’s Texas AI campus pairs a data center with 1 GW of generation, testing a “power-first” model as hyperscalers chase scarce electricity.",
       "published": "2026-06-05T17:33:10.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Michigan senator proposes one-year state-wide moratorium on data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/michigan-senator-proposes-one-year-state-wide-moratorium-on-data-centers/",
-      "description": "Text of bill matches proposal submitted by Republican colleague earlier this year",
-      "published": "2026-06-05T16:24:57.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Quant trading firm Jane Street plans data center - report",
-      "url": "https://www.datacenterdynamics.com/en/news/quant-trading-firm-jane-street-plans-data-center-report/",
-      "description": "Company is looking to build and finance its own data center",
-      "published": "2026-06-05T16:20:24.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Earthquake-proof prefab Rome data center built in five weeks",
-      "url": "https://www.datacenterdynamics.com/en/news/earthquake-proof-prefab-rome-data-center-built-in-five-weeks/",
-      "description": "The €28m facility was built using 100 percent recyclable materials, Italian media said",
-      "published": "2026-06-05T16:10:25.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -133,13 +133,6 @@
       "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
       "description": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mind",
       "published": "2026-06-04T10:50:18.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "HPE Catches Its First GenAI Wave With Enterprises, Sovereigns, And Neoclouds",
-      "url": "https://www.nextplatform.com/compute/2026/06/04/hpe-catches-its-first-genai-wave-with-enterprises-sovereigns-and-neoclouds/5250944",
-      "description": "",
-      "published": "2026-06-04T03:12:32.000Z"
     }
   ]
 }
