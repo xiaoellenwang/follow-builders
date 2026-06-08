@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-06-07T04:49:43.199Z",
+  "generatedAt": "2026-06-08T04:55:19.907Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Tony Fadell: How to build real taste (and why AI makes it matter more)",
+      "url": "https://www.youtube.com/watch?v=RJjl1TwyfWM",
+      "published": "2026-06-07T12:30:05.000Z",
+      "description": "Tony Fadell created the iPod, co-created the iPhone, and founded Nest (which he sold to Google for $3.2 billion). He’s co-authored over 300 patents, was part of the legendary team at General Magic, and wrote one of the most important and inspiring books for builders, called Build.\n\n*In our in-depth "
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "AI won't move as fast as you think",
@@ -14,13 +21,6 @@
       "url": "https://www.youtube.com/watch?v=jTMtuayrzzU",
       "published": "2026-06-02T11:00:10.000Z",
       "description": "#ai #artificialintelligence #claudecode #chatgpt"
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "The most rational take on AI you’ll hear this year",
-      "url": "https://www.youtube.com/watch?v=BD3vLtWhT5A",
-      "published": "2026-05-31T12:30:37.000Z",
-      "description": "Benedict Evans is an independent analyst and former partner at Andreessen Horowitz, where he spent years as their in-house “thinker” tracking the most important technology trends. For the past six years, he’s been publishing deeply researched presentations on where tech is heading, most recently foc"
     }
   ]
 }

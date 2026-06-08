@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-06-07T04:49:43.199Z",
+  "generatedAt": "2026-06-08T04:55:19.907Z",
   "articles": [
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "Data Engineering Weekly #273",
+      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-273",
+      "description": "The Weekly Data Engineering Newsletter",
+      "published": "2026-06-08T02:44:02.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "SSC Space and NorthBase partner to expand global ground station network",
+      "url": "https://www.datacenterdynamics.com/en/news/ssc-space-and-northbase-partner-to-expand-global-ground-station-network/",
+      "description": "Two Nordic space companies deepen collaboration amid European sovereignty push",
+      "published": "2026-06-07T09:00:28.000Z"
+    },
     {
       "source": "Data Center Dynamics",
       "title": "Space Solar agrees to host Lonestar data storage aboard orbital power stations",
@@ -35,13 +49,6 @@
       "url": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
       "description": "\n                        Seller of the Sound Blaster Katana V2X doesn't consider the behavior a vulnerability.\n                    ",
       "published": "2026-06-05T21:00:29.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "DayOne secures $4.5 billion Series C funding",
-      "url": "https://www.datacenterdynamics.com/en/news/dayone-secures-45-billion-series-c-funding/",
-      "description": "APAC operator secures billions in new funding ahead of rumored IPO",
-      "published": "2026-06-05T18:30:30.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -84,55 +91,6 @@
       "url": "https://www.datacenterknowledge.com/operations-and-management/colocation-vs-public-cloud-cost-performance-and-how-to-choose",
       "description": "Weigh the trade‑offs in scalability, cost, security, and performance – plus, when hybrid is the right answer.",
       "published": "2026-06-05T09:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Chip Capacity Constraints Put A Governor On AI Spending Growth",
-      "url": "https://www.nextplatform.com/ai/2026/06/05/chip-capacity-constraints-put-a-governor-on-ai-spending-growth/5251474",
-      "description": "",
-      "published": "2026-06-04T23:26:29.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Dashlane explains how attackers managed to download encrypted password vaults",
-      "url": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/",
-      "description": "\n                        By targeting large numbers of users, attackers increased their chances of success.\n                    ",
-      "published": "2026-06-04T20:02:04.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "From Data Centers to Models: White House Targets AI Risks at the Source",
-      "url": "https://www.datacenterknowledge.com/cybersecurity/from-data-centers-to-models-white-house-targets-ai-risk-at-the-source",
-      "description": "New White House guidance expands federal scrutiny beyond AI campuses and power demand to the frontier models running inside them.",
-      "published": "2026-06-04T15:23:36.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "As AI Scales, Can Traditional Cooling Keep Up?",
-      "url": "https://www.datacenterknowledge.com/cooling/as-ai-scales-can-traditional-cooling-keep-up-",
-      "description": "As AI workloads push rack densities higher, operators are rethinking cooling strategies as power demands, water use, and infrastructure limits collide.",
-      "published": "2026-06-04T14:30:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
-      "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How courts are coping with a flood of AI-generated lawsuits Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado,",
-      "published": "2026-06-04T12:10:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Enhanced Performance For Server Consolidation With Intel Xeon 6+",
-      "url": "https://www.nextplatform.com/compute/2026/06/04/enhanced-performance-for-server-consolidation-with-intel-xeon-6/5251112",
-      "description": "",
-      "published": "2026-06-04T10:54:38.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "How courts are coping with a flood of AI-generated lawsuits",
-      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-      "description": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mind",
-      "published": "2026-06-04T10:50:18.000Z"
     }
   ]
 }

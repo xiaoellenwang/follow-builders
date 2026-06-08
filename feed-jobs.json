@@ -1,8 +1,60 @@
 {
-  "generatedAt": "2026-06-07T04:49:43.199Z",
+  "generatedAt": "2026-06-08T04:55:19.907Z",
   "jobs": [
     {
-      "title": "AI Engineer Intern",
+      "title": "AI Integrator Intern",
+      "company": "ACEPLP.COM PTE LTD",
+      "salary": "S$800 – S$1,000",
+      "type": "Full Time",
+      "skills": [
+        "Usability",
+        "Built Environment",
+        "scientific discipline"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/0f748acde8a77727ad292d7ac436a886",
+      "posted": "2026-06-08T04:46:22.000Z"
+    },
+    {
+      "title": "Staff Software Engineer (Agentic AI)",
+      "company": "TYCO ELECTRONICS SINGAPORE PTE LTD",
+      "salary": "S$10,000 – S$13,000",
+      "type": "Permanent",
+      "skills": [
+        "Machine Learning",
+        "Design",
+        "Research & Development"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/93a205ce8431148fc324892d2b98cd07",
+      "posted": "2026-06-08T04:29:28.000Z"
+    },
+    {
+      "title": "Senior Software Engineer (Mechanical Engineering & AI)",
+      "company": "TYCO ELECTRONICS SINGAPORE PTE LTD",
+      "salary": "S$7,000 – S$10,000",
+      "type": "Permanent",
+      "skills": [
+        "Materials Science",
+        "Product Design",
+        "Artificial Intelligence"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/6c8ffa465ae3fdd0790cf169cdc0ffd6",
+      "posted": "2026-06-08T04:23:30.000Z"
+    },
+    {
+      "title": "Software Engineer - AI Systems (Manufacturing | PERM)",
+      "company": "GMP TECHNOLOGIES (S) PTE LTD",
+      "salary": "S$8,000 – S$15,000",
+      "type": "Permanent",
+      "skills": [
+        "MES",
+        "Git",
+        "Cloud Applications"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/247fcc05e83ac2bbc6020dfab9cbd76c",
+      "posted": "2026-06-08T03:54:28.000Z"
+    },
+    {
+      "title": "Data Scientist Intern (AI Engineer Intern)",
       "company": "ONE TECH STOP PTE. LTD.",
       "salary": "S$1,000 – S$1,200",
       "type": "Internship/Attachment",
@@ -11,138 +63,73 @@
         "Natural Language Processing",
         "Google Cloud Platform"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/e378d7eb112a11d2fd2793402c6e8d6d",
-      "posted": "2026-06-07T02:48:24.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/efa5b85bd2b07664833d3227172927c4",
+      "posted": "2026-06-08T03:38:23.000Z"
     },
     {
-      "title": "AI Engineer (career change, no experienced required)",
-      "company": "SINGAPORE INSTITUTE OF CAREER DEVELOPMENT PTE. LTD.",
-      "salary": "S$3,000 – S$3,000",
-      "type": "Contract",
-      "skills": [
-        "Excellent Communication Skills",
-        "Determination",
-        "Positive Team Player"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/e23e6bcac484faf3112c619505f4fb14",
-      "posted": "2026-06-06T13:04:54.000Z"
-    },
-    {
-      "title": "Associate AI Developer",
-      "company": "DYMON ASIA CAPITAL (SINGAPORE) PTE. LTD.",
-      "salary": "S$5,000 – S$9,000",
-      "type": "Permanent",
-      "skills": [
-        "Machine Learning",
-        "JSON",
-        "Judgment"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/7af27fa40613dc086cb17f7a949671ed",
-      "posted": "2026-06-05T09:20:54.000Z"
-    },
-    {
-      "title": "AI Engineer (ref: 101)",
-      "company": "IT CONSULTANCY & SERVICES PTE LTD",
-      "salary": "S$7,000 – S$7,800",
-      "type": "Contract",
-      "skills": [
-        "Deep learning",
-        "Machine Learning",
-        "Artificial Intelligence"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/22787421b5a6818a0a1e3c5d58b81f96",
-      "posted": "2026-06-05T08:01:04.000Z"
-    },
-    {
-      "title": "Software Engineer, Machine Learning, Payments - Singapore",
-      "company": "GOOGLE ASIA PACIFIC PTE. LTD.",
-      "salary": "S$9,000 – S$18,000",
+      "title": "RPA Developer",
+      "company": "JTRON (SAP) PTE. LTD.",
+      "salary": "S$3,500 – S$6,000",
       "type": "Full Time",
       "skills": [
         "Machine Learning",
-        "Statistical Data Analysis",
-        "Computing Infrastructure"
+        "Process Automation",
+        "Analytical Skills"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/1e0e94001e5d158dbbc3a6d692951233",
-      "posted": "2026-06-05T07:42:38.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/4e754b26aa46ce2773fa93889c63b68c",
+      "posted": "2026-06-08T03:35:16.000Z"
     },
     {
-      "title": "Software Engineer (Generative AI Engineer)",
-      "company": "Capgemini Singapore  PTE. LTD.",
-      "salary": "S$6,000 – S$9,000",
+      "title": "Sitecore AI Developer",
+      "company": "BASE CAMP DIGITAL PTE. LTD.",
+      "salary": "S$6,000 – S$11,000",
+      "type": "Contract",
+      "skills": [
+        "Certifications",
+        "optimise code",
+        "Salesforce.com Certified Developer"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/6b98fecdad03081af5c81f21091fd48a",
+      "posted": "2026-06-08T02:51:36.000Z"
+    },
+    {
+      "title": "Data Engineer (AI Enablement)",
+      "company": "MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD",
+      "salary": "S$9,000 – S$10,500",
+      "type": "Contract",
+      "skills": [
+        "large datasets",
+        "Scalability",
+        "Data Pipeline"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/1a2acfa19fa81f58eb0018642e9e12c1",
+      "posted": "2026-06-08T02:17:48.000Z"
+    },
+    {
+      "title": "Quant Researcher #77900",
+      "company": "ANRADUS PTE. LTD.",
+      "salary": "S$6,000 – S$8,500",
       "type": "Permanent",
       "skills": [
-        "PostgreSQL",
+        "Machine Learning",
+        "Algorithm Analysis",
+        "Scalability"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/edeaea536903d3340e3498990ecd65b4",
+      "posted": "2026-06-08T01:53:04.000Z"
+    },
+    {
+      "title": "AI Engineer (Group IT)",
+      "company": "FAR EAST MANAGEMENT (PRIVATE) LIMITED",
+      "salary": "S$5,000 – S$8,000",
+      "type": "Permanent",
+      "skills": [
+        "define Roles",
         "Azure",
-        "AWS"
+        "Programming Languages"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/194569e1a832e770ae25931eef0132e5",
-      "posted": "2026-06-05T06:19:16.000Z"
-    },
-    {
-      "title": "Machine Learning Engineer (12-Month Contract)",
-      "company": "ACHIEVE CAREER CONSULTANT PTE LTD",
-      "salary": "S$8,000 – S$10,000",
-      "type": "Contract",
-      "skills": [
-        "Analytics and Computational Modelling",
-        "Machine Learning",
-        "business objectives"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/ecc7f8ac513ad8866ede6dd135026d84",
-      "posted": "2026-06-04T22:47:02.000Z"
-    },
-    {
-      "title": "Business Development Manager – Digital Marketing & AI Solutions",
-      "company": "XPS PTE. LTD.",
-      "salary": "S$5,000 – S$6,000",
-      "type": "Permanent",
-      "skills": [
-        "Referrals",
-        "Verbal Communication",
-        "Sales Prospecting"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/0a13a6248e2a8103cc8b1654efaf39a2",
-      "posted": "2026-06-04T17:27:46.000Z"
-    },
-    {
-      "title": "Senior Data Engineer",
-      "company": "SPH MEDIA LIMITED",
-      "salary": "S$17,000 – S$22,000",
-      "type": "Full Time",
-      "skills": [
-        "Business Roadmaps",
-        "Ownership",
-        "Design"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/081fd5656715e830377dea9c5c7d9140",
-      "posted": "2026-06-04T16:06:17.000Z"
-    },
-    {
-      "title": "Principal AI Architect",
-      "company": "KUOK (SINGAPORE) LIMITED",
-      "salary": "S$13,500 – S$16,800",
-      "type": "Permanent",
-      "skills": [
-        "Machine Learning",
-        "Kubernetes",
-        "Azure"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/89399eda5263fd2f46bab1502caeac86",
-      "posted": "2026-06-04T13:22:51.000Z"
-    },
-    {
-      "title": "AI Platform Engineer",
-      "company": "KUOK (SINGAPORE) LIMITED",
-      "salary": "S$8,300 – S$10,300",
-      "type": "Permanent",
-      "skills": [
-        "Dashboards",
-        "Design",
-        "Terraform"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/48fbaaa94d34007cea762a7e1c3c6dcc",
-      "posted": "2026-06-04T12:30:36.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/d0e390a9c7ff5b9d5991d0719043fb67",
+      "posted": "2026-06-08T01:33:23.000Z"
     }
   ]
 }
