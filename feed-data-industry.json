@@ -1,96 +1,96 @@
 {
-  "generatedAt": "2026-06-08T04:55:19.907Z",
+  "generatedAt": "2026-06-09T04:17:35.319Z",
   "articles": [
+    {
+      "source": "Data Center Knowledge",
+      "title": "The AI Demand Dilemma: Utilities Confront Speculative Growth",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/the-ai-demand-dilemma-utilities-confront-speculative-growth",
+      "description": "AI-driven data center growth is forcing utilities and regulators to rethink how the grid is planned, financed, and protected from speculative demand.",
+      "published": "2026-06-08T23:08:47.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
+      "url": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
+      "description": "\n                        73 packages run self-replicating stealer as soon as they're opened by an AI agent.\n                    ",
+      "published": "2026-06-08T18:34:23.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Officials in Hamilton, Canada, deny proposal for data center",
+      "url": "https://www.datacenterdynamics.com/en/news/officials-in-hamilton-canada-deny-proposal-for-data-center/",
+      "description": "Eight-hour meeting saw strong opposition from local residents",
+      "published": "2026-06-08T16:50:27.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Medical equipment manufacturer pivots chemical plant to data center and manufacturing campus",
+      "url": "https://www.datacenterdynamics.com/en/news/medical-equipment-manufacturer-pivots-chemical-plant-to-data-center-and-manufacturing-campus/",
+      "description": "Site will offer manufacturing, robotics, AI, co-location, energy production, and more",
+      "published": "2026-06-08T16:30:30.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "CyrusOne breaks ground on 380MW data center in Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/cyrusone-breaks-ground-on-380mw-data-center-in-texas/",
+      "description": "Campus colocated with Calpine natural gas plant",
+      "published": "2026-06-08T16:20:25.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "DCD Magazine #61 - Life and death on a tower",
+      "url": "https://www.datacenterdynamics.com/en/magazines/dcd-magazine-61-life-and-death-on-a-tower/",
+      "description": "The cell tower climbers risking it all to help us stay connected",
+      "published": "2026-06-08T16:07:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Cipher seeks $810m in senior secured notes for Stingray data center in West Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/cipher-seeks-810m-in-senior-secured-notes-for-stingray-data-center-in-west-texas/",
+      "description": "After previous sites pre-lease to Amazon and Fluidstack",
+      "published": "2026-06-08T15:59:52.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "JPMorgan, OQC, and AMD Plan Quantum AI Data Center for Finance",
+      "url": "https://www.datacenterknowledge.com/infrastructure/oqc-jpmorganchase-and-amd-launch-london-quantum-ai-research-platform",
+      "description": "The OQC-AMD build, with JPMorgan Chase as the first dedicated user, reflects a shift from remote-access demos to enterprise-grade quantum AI workflows.",
+      "published": "2026-06-08T13:55:06.000Z"
+    },
+    {
+      "source": "Import AI",
+      "title": "Import AI 460: Reward hacking society, RSI data from Anthropic; and RL-based quadcopter racing",
+      "url": "https://jack-clark.net/2026/06/08/import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-based-quadcopter-racing/",
+      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Society can be reward-hacked, just like cyber environments:…Imagine an army of credit card point optimizers gaming the",
+      "published": "2026-06-08T12:31:32.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
+      "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why this year’s World Cup ball may not fly as far Much is new about this month’s FIFA World Cup tournament. It hosts more teams than ever before. It’s",
+      "published": "2026-06-08T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Why this year’s World Cup ball may not fly as far",
+      "url": "https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/",
+      "description": "Much is new about this month’s upcoming FIFA World Cup tournament, which will be held in the US, Canada, and Mexico. It hosts more teams than ever before. It’s the first to occur in three different host countries. And, like predecessor cups for over half a century, it will employ a soccer ball with ",
+      "published": "2026-06-08T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Will the EU’s Data Center Efficiency Rules Undermine Its AI Ambitions?",
+      "url": "https://www.datacenterknowledge.com/regulations/will-the-eu-s-data-center-efficiency-rules-undermine-its-ai-ambitions",
+      "description": "As the EU refines its strategies to compete with the US and China on chips, AI, and energy grids, data center groups warn that some proposals may prove counterproductive.",
+      "published": "2026-06-08T08:33:00.000Z"
+    },
     {
       "source": "DataEngineeringWeekly",
       "title": "Data Engineering Weekly #273",
       "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-273",
       "description": "The Weekly Data Engineering Newsletter",
       "published": "2026-06-08T02:44:02.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "SSC Space and NorthBase partner to expand global ground station network",
-      "url": "https://www.datacenterdynamics.com/en/news/ssc-space-and-northbase-partner-to-expand-global-ground-station-network/",
-      "description": "Two Nordic space companies deepen collaboration amid European sovereignty push",
-      "published": "2026-06-07T09:00:28.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Space Solar agrees to host Lonestar data storage aboard orbital power stations",
-      "url": "https://www.datacenterdynamics.com/en/news/space-solar-agrees-to-host-lonestar-data-storage-aboard-orbital-power-stations/",
-      "description": "Two ambitious space startups join forces to align with orbital data center trend",
-      "published": "2026-06-06T16:00:28.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Grupo Fotones eyes €1.15bn data center campus in Murcia, Spain",
-      "url": "https://www.datacenterdynamics.com/en/news/grupo-fotones-launches-a-115-billion-euro-data-campus-in-murcia/",
-      "description": "The initiative plans to deploy up to 140MW of capacity",
-      "published": "2026-06-06T11:00:30.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Claro Argentina launches data center Buenos Aires",
-      "url": "https://www.datacenterdynamics.com/en/news/claro-argentina-expands-its-network-capacity-in-buenos-aires-with-a-new-data-center-designed-by-fibratel/",
-      "description": "The project addresses adds 650kW of IT power and a scalable architecture",
-      "published": "2026-06-06T07:00:32.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: Data center security must move beyond the perimeter",
-      "url": "https://www.datacenterdynamics.com/en/opinions/data-center-security-must-move-beyond-the-perimeter/",
-      "description": "The future of data center security will be defined by systems that are layered, integrated, intelligent, and cybersecure",
-      "published": "2026-06-06T07:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "How a USB-connected speaker can infect a PC without ever being touched",
-      "url": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
-      "description": "\n                        Seller of the Sound Blaster Katana V2X doesn't consider the behavior a vulnerability.\n                    ",
-      "published": "2026-06-05T21:00:29.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Google’s ‘Power-First’ Data Centers: A New Model for Energy Scarcity?",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/google-bets-on-a-power-first-model-for-ai-data-centers",
-      "description": "Google’s Texas AI campus pairs a data center with 1 GW of generation, testing a “power-first” model as hyperscalers chase scarce electricity.",
-      "published": "2026-06-05T17:33:10.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "AI Data Centers Squeeze Memory Supply, Coalition Warns",
-      "url": "https://www.datacenterknowledge.com/infrastructure/industry-coalition-warns-ai-data-centers-are-tightening-memory-supply",
-      "description": "With fabs “fully allocated,” the question is where the capacity is going – and what it means for non‑AI buyers.",
-      "published": "2026-06-05T14:30:19.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
-      "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to ste",
-      "published": "2026-06-05T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Are AI chatbots making us lose control of our brains?",
-      "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
-      "description": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital techno",
-      "published": "2026-06-05T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Meta hack shows there’s more to AI security than Mythos",
-      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-      "description": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama Wh",
-      "published": "2026-06-05T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Colocation vs. Public Cloud: Cost, Performance, and How to Choose",
-      "url": "https://www.datacenterknowledge.com/operations-and-management/colocation-vs-public-cloud-cost-performance-and-how-to-choose",
-      "description": "Weigh the trade‑offs in scalability, cost, security, and performance – plus, when hybrid is the right answer.",
-      "published": "2026-06-05T09:00:00.000Z"
     }
   ]
 }

@@ -1,18 +1,148 @@
 {
-  "generatedAt": "2026-06-08T04:55:19.907Z",
+  "generatedAt": "2026-06-09T04:17:35.319Z",
   "jobs": [
     {
-      "title": "AI Integrator Intern",
-      "company": "ACEPLP.COM PTE LTD",
-      "salary": "S$800 – S$1,000",
+      "title": "Research Fellow (Materials and Artificial Intelligence)",
+      "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
+      "salary": "S$6,000 – S$12,000",
+      "type": "Contract",
+      "skills": [
+        "TensorFlow",
+        "Aerospace Engineering",
+        "Machine Learning"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/6864c66c643e183c43d9fc900b52b0fa",
+      "posted": "2026-06-09T03:39:56.000Z"
+    },
+    {
+      "title": "VP Data Engineer, GTO",
+      "company": "UNITED OVERSEAS BANK LIMITED",
+      "salary": "S$12,000 – S$12,650",
+      "type": "Permanent",
+      "skills": [
+        "Machine Learning",
+        "Big Data Framework",
+        "Hadoop Database"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/20947257312bc9abb529c73aa3c9aad8",
+      "posted": "2026-06-09T03:36:43.000Z"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "OX CONSULTANCY PTE. LTD.",
+      "salary": "S$7,000 – S$10,000",
       "type": "Full Time",
       "skills": [
-        "Usability",
-        "Built Environment",
-        "scientific discipline"
+        "TensorFlow",
+        "Machine Learning",
+        "Business Optimization"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/0f748acde8a77727ad292d7ac436a886",
-      "posted": "2026-06-08T04:46:22.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/a1fa604940caf9d880554d5ed7e3c2eb",
+      "posted": "2026-06-09T03:27:17.000Z"
+    },
+    {
+      "title": "Pre-Sales Engineer ( AI, HPC, Cloud Infrastructure )",
+      "company": "NETWEB PTE. LTD.",
+      "salary": "S$3,000 – S$5,000",
+      "type": "Permanent",
+      "skills": [
+        "Lead Generation",
+        "Supercomputing",
+        "HPC"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/17d7b327ee1da289be1d73d7aef0871f",
+      "posted": "2026-06-09T02:23:30.000Z"
+    },
+    {
+      "title": "Staff/Lead LLM Data Scientist",
+      "company": "AGODA COMPANY PTE. LTD.",
+      "salary": "S$10,000 – S$16,000",
+      "type": "Permanent",
+      "skills": [
+        "Cost price",
+        "Design",
+        "Cost Management"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/b17d1bf90b00c46144f7fa76dc28f7c9",
+      "posted": "2026-06-08T10:57:42.000Z"
+    },
+    {
+      "title": "Data Engineer",
+      "company": "AVENSYS CONSULTING PTE. LTD.",
+      "salary": "S$6,500 – S$13,000",
+      "type": "Contract",
+      "skills": [
+        "Graduate Recruitment",
+        "Git",
+        "PySpark"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/5c903759d05de62c1bfcfc37a93e96c2",
+      "posted": "2026-06-08T08:22:11.000Z"
+    },
+    {
+      "title": "Quality Engineer (Digital & AI)",
+      "company": "ROCKWELL AUTOMATION ASIA PACIFIC BUSINESS CENTER PTE. LTD.",
+      "salary": "S$2,400 – S$2,400",
+      "type": "Contract",
+      "skills": [
+        "Digital Transformation",
+        "energy consumption",
+        "Web Design"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/b06b983aa312bb07d29f4b6c264e9d8d",
+      "posted": "2026-06-08T07:54:45.000Z"
+    },
+    {
+      "title": "Machine Learning Engineer (Computer Vision – Model Engineering)",
+      "company": "CYNAPSE PTE. LTD.",
+      "salary": "S$5,500 – S$7,000",
+      "type": "Full Time",
+      "skills": [
+        "TensorFlow",
+        "Machine Learning",
+        "Git"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/bb017cbe73d8904560688cf8b8524b8b",
+      "posted": "2026-06-08T07:03:35.000Z"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "ONCOSHOT PTE. LTD.",
+      "salary": "S$6,000 – S$10,000",
+      "type": "Full Time",
+      "skills": [
+        "Machine Learning",
+        "Git",
+        "Cancer Research"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/0bc2ff6c7be19918ab50d960c4ada538",
+      "posted": "2026-06-08T06:53:26.000Z"
+    },
+    {
+      "title": "Innovation Software Engineer (AI-applied Developer)",
+      "company": "THALES DIS (SINGAPORE) PTE. LTD.",
+      "salary": "S$6,500 – S$9,500",
+      "type": "Full Time",
+      "skills": [
+        "Master Control",
+        "Analytical Skills",
+        "Autonomy"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/d5a6d7b232d21241ad3ea3a57657f7b9",
+      "posted": "2026-06-08T06:13:09.000Z"
+    },
+    {
+      "title": "Software & AI Manager",
+      "company": "IP-TRIBE (PRIVATE) LIMITED",
+      "salary": "S$6,000 – S$9,000",
+      "type": "Permanent",
+      "skills": [
+        "Machine Learning",
+        "Pipelines",
+        "TypeScript"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/a33e061986510af187c0eea8a318e606",
+      "posted": "2026-06-08T06:07:37.000Z"
     },
     {
       "title": "Staff Software Engineer (Agentic AI)",
@@ -28,32 +158,6 @@
       "posted": "2026-06-08T04:29:28.000Z"
     },
     {
-      "title": "Senior Software Engineer (Mechanical Engineering & AI)",
-      "company": "TYCO ELECTRONICS SINGAPORE PTE LTD",
-      "salary": "S$7,000 – S$10,000",
-      "type": "Permanent",
-      "skills": [
-        "Materials Science",
-        "Product Design",
-        "Artificial Intelligence"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/6c8ffa465ae3fdd0790cf169cdc0ffd6",
-      "posted": "2026-06-08T04:23:30.000Z"
-    },
-    {
-      "title": "Software Engineer - AI Systems (Manufacturing | PERM)",
-      "company": "GMP TECHNOLOGIES (S) PTE LTD",
-      "salary": "S$8,000 – S$15,000",
-      "type": "Permanent",
-      "skills": [
-        "MES",
-        "Git",
-        "Cloud Applications"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/247fcc05e83ac2bbc6020dfab9cbd76c",
-      "posted": "2026-06-08T03:54:28.000Z"
-    },
-    {
       "title": "Data Scientist Intern (AI Engineer Intern)",
       "company": "ONE TECH STOP PTE. LTD.",
       "salary": "S$1,000 – S$1,200",
@@ -67,32 +171,6 @@
       "posted": "2026-06-08T03:38:23.000Z"
     },
     {
-      "title": "RPA Developer",
-      "company": "JTRON (SAP) PTE. LTD.",
-      "salary": "S$3,500 – S$6,000",
-      "type": "Full Time",
-      "skills": [
-        "Machine Learning",
-        "Process Automation",
-        "Analytical Skills"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/4e754b26aa46ce2773fa93889c63b68c",
-      "posted": "2026-06-08T03:35:16.000Z"
-    },
-    {
-      "title": "Sitecore AI Developer",
-      "company": "BASE CAMP DIGITAL PTE. LTD.",
-      "salary": "S$6,000 – S$11,000",
-      "type": "Contract",
-      "skills": [
-        "Certifications",
-        "optimise code",
-        "Salesforce.com Certified Developer"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/6b98fecdad03081af5c81f21091fd48a",
-      "posted": "2026-06-08T02:51:36.000Z"
-    },
-    {
       "title": "Data Engineer (AI Enablement)",
       "company": "MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD",
       "salary": "S$9,000 – S$10,500",
@@ -104,19 +182,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/1a2acfa19fa81f58eb0018642e9e12c1",
       "posted": "2026-06-08T02:17:48.000Z"
-    },
-    {
-      "title": "Quant Researcher #77900",
-      "company": "ANRADUS PTE. LTD.",
-      "salary": "S$6,000 – S$8,500",
-      "type": "Permanent",
-      "skills": [
-        "Machine Learning",
-        "Algorithm Analysis",
-        "Scalability"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/edeaea536903d3340e3498990ecd65b4",
-      "posted": "2026-06-08T01:53:04.000Z"
     },
     {
       "title": "AI Engineer (Group IT)",

@@ -1,26 +1,4 @@
 {
-  "generatedAt": "2026-06-08T04:55:19.907Z",
-  "videos": [
-    {
-      "channel": "Lenny's Podcast",
-      "title": "Tony Fadell: How to build real taste (and why AI makes it matter more)",
-      "url": "https://www.youtube.com/watch?v=RJjl1TwyfWM",
-      "published": "2026-06-07T12:30:05.000Z",
-      "description": "Tony Fadell created the iPod, co-created the iPhone, and founded Nest (which he sold to Google for $3.2 billion). He’s co-authored over 300 patents, was part of the legendary team at General Magic, and wrote one of the most important and inspiring books for builders, called Build.\n\n*In our in-depth "
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "AI won't move as fast as you think",
-      "url": "https://www.youtube.com/watch?v=VuApa4sBfKA",
-      "published": "2026-06-03T11:00:06.000Z",
-      "description": "#ai #artificialintelligence #claudecode #chatgpt"
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "We can't predict AI's impact",
-      "url": "https://www.youtube.com/watch?v=jTMtuayrzzU",
-      "published": "2026-06-02T11:00:10.000Z",
-      "description": "#ai #artificialintelligence #claudecode #chatgpt"
-    }
-  ]
+  "generatedAt": "2026-06-09T04:17:35.319Z",
+  "videos": []
 }
