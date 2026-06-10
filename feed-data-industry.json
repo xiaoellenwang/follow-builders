@@ -1,6 +1,118 @@
 {
-  "generatedAt": "2026-06-09T04:17:35.319Z",
+  "generatedAt": "2026-06-10T04:38:23.832Z",
   "articles": [
+    {
+      "source": "The Next Platform",
+      "title": "D-Wave Riding The Dual-Rail For Its Gate-Model Quantum Ambitions",
+      "url": "https://www.nextplatform.com/compute/2026/06/10/d-wave-riding-the-dual-rail-for-its-gate-model-quantum-ambitions/5253279",
+      "description": "",
+      "published": "2026-06-10T04:05:34.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
+      "url": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
+      "description": "\n                        A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well.\n                    ",
+      "published": "2026-06-09T20:56:52.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "SpaceX details AI1 satellite 'data center,' claims 150kW peak compute",
+      "url": "https://www.datacenterdynamics.com/en/news/spacex-details-ai1-satellite-data-center-claims-150kw-peak-compute/",
+      "description": "Shows a draft version of its space array, ahead of Friday IPO",
+      "published": "2026-06-09T17:28:58.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Developer Panattoni seeks to claw back cash from town of Turtle, Wisconsin, for 430-acre data center",
+      "url": "https://www.datacenterdynamics.com/en/news/developer-panattoni-seeks-to-claw-back-cash-from-town-of-turtle-wisconsin-for-430-acre-data-center/",
+      "description": "Panattoni wants to have its cake and eat it",
+      "published": "2026-06-09T17:26:11.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Railway taps Claude to design a data center",
+      "url": "https://www.datacenterdynamics.com/en/news/railway-taps-claude-to-design-a-data-center/",
+      "description": "Assists with company's \"Gen 2\" sites roll out",
+      "published": "2026-06-09T17:00:27.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Malaysian township developer unveils new data center-focused investment fund",
+      "url": "https://www.datacenterdynamics.com/en/news/malaysian-township-developer-unveils-new-data-center-focused-investment-fund/",
+      "description": "Developer to invest in build-to-suit-to-lease data centers in the pursuit of recurring revenue",
+      "published": "2026-06-09T16:53:41.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "OpenAI's custom chip program lead Clive Chan joins Anthropic",
+      "url": "https://www.datacenterdynamics.com/en/news/openais-custom-chip-program-lead-clive-chan-joins-anthropic/",
+      "description": "Had been working on Broadcom AI chip, expected later this year",
+      "published": "2026-06-09T16:49:45.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Local Data Center Backlash Signals a Shift in How the Grid Must Evolve",
+      "url": "https://www.datacenterknowledge.com/regulations/local-data-center-backlash-signals-a-shift-in-how-the-grid-must-evolve",
+      "description": "The regulatory backlash against data centers is a wake-up call to the industry: infrastructure growth requires load flexibility, not a freeze.",
+      "published": "2026-06-09T16:00:00.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "AI Chip Shepherds Broadcom And Marvell Have Skinned The Golden Fleece",
+      "url": "https://www.nextplatform.com/compute/2026/06/09/ai-chip-shepherds-broadcom-and-marvell-have-skinned-the-golden-fleece/5253011",
+      "description": "",
+      "published": "2026-06-09T15:58:56.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Fuel to Power: What Rising Costs Mean for Data Centers",
+      "url": "https://www.datacenterknowledge.com/supply-chain/fuel-to-power-what-rising-costs-mean-for-data-centers",
+      "description": "As energy markets tighten, data centers face higher operating costs and tougher scrutiny.",
+      "published": "2026-06-09T15:50:41.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "High-severity vulnerability in Linux caused by a single faulty character",
+      "url": "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
+      "description": "\n                        Use-after-free bug can be exploited to evade sandbox defenses.\n                    ",
+      "published": "2026-06-09T15:12:43.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
+      "url": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition The outspoken longevity scientist David Sinclair has predicted th",
+      "published": "2026-06-09T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Learning to lead in a hybrid human-AI enterprise",
+      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "description": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce.  Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinati",
+      "published": "2026-06-09T10:20:06.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
+      "url": "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/",
+      "description": "The outspoken longevity scientist David Sinclair has been predicting that one day, you’ll go to the doctor and get a prescription that will make you 10 years younger. Now MIT Technology Review has learned that he has plans to launch human tests of an oral &#8220;reprogramming&#8221; drug as part of ",
+      "published": "2026-06-09T10:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Five things you need to know about AI",
+      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+      "description": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,&#8230;",
+      "published": "2026-06-09T09:16:45.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Hydrogen’s Hurdles, Fuel Cells’ Rise in Data Center Power",
+      "url": "https://www.datacenterknowledge.com/uptime/hydrogen-s-hurdles-fuel-cells-rise-in-data-center-power",
+      "description": "In the final part of our series on diesel alternatives, we examine hydrogen engines, fuel cells, and renewable fuels – and why behind-the-meter fuel cells may scale fastest to meet AI-era demand.",
+      "published": "2026-06-09T09:00:00.000Z"
+    },
     {
       "source": "Data Center Knowledge",
       "title": "The AI Demand Dilemma: Utilities Confront Speculative Growth",
@@ -16,41 +128,6 @@
       "published": "2026-06-08T18:34:23.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Officials in Hamilton, Canada, deny proposal for data center",
-      "url": "https://www.datacenterdynamics.com/en/news/officials-in-hamilton-canada-deny-proposal-for-data-center/",
-      "description": "Eight-hour meeting saw strong opposition from local residents",
-      "published": "2026-06-08T16:50:27.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Medical equipment manufacturer pivots chemical plant to data center and manufacturing campus",
-      "url": "https://www.datacenterdynamics.com/en/news/medical-equipment-manufacturer-pivots-chemical-plant-to-data-center-and-manufacturing-campus/",
-      "description": "Site will offer manufacturing, robotics, AI, co-location, energy production, and more",
-      "published": "2026-06-08T16:30:30.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "CyrusOne breaks ground on 380MW data center in Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/cyrusone-breaks-ground-on-380mw-data-center-in-texas/",
-      "description": "Campus colocated with Calpine natural gas plant",
-      "published": "2026-06-08T16:20:25.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "DCD Magazine #61 - Life and death on a tower",
-      "url": "https://www.datacenterdynamics.com/en/magazines/dcd-magazine-61-life-and-death-on-a-tower/",
-      "description": "The cell tower climbers risking it all to help us stay connected",
-      "published": "2026-06-08T16:07:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Cipher seeks $810m in senior secured notes for Stingray data center in West Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/cipher-seeks-810m-in-senior-secured-notes-for-stingray-data-center-in-west-texas/",
-      "description": "After previous sites pre-lease to Amazon and Fluidstack",
-      "published": "2026-06-08T15:59:52.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "JPMorgan, OQC, and AMD Plan Quantum AI Data Center for Finance",
       "url": "https://www.datacenterknowledge.com/infrastructure/oqc-jpmorganchase-and-amd-launch-london-quantum-ai-research-platform",
@@ -63,34 +140,6 @@
       "url": "https://jack-clark.net/2026/06/08/import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-based-quadcopter-racing/",
       "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Society can be reward-hacked, just like cyber environments:…Imagine an army of credit card point optimizers gaming the",
       "published": "2026-06-08T12:31:32.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
-      "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why this year’s World Cup ball may not fly as far Much is new about this month’s FIFA World Cup tournament. It hosts more teams than ever before. It’s",
-      "published": "2026-06-08T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Why this year’s World Cup ball may not fly as far",
-      "url": "https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/",
-      "description": "Much is new about this month’s upcoming FIFA World Cup tournament, which will be held in the US, Canada, and Mexico. It hosts more teams than ever before. It’s the first to occur in three different host countries. And, like predecessor cups for over half a century, it will employ a soccer ball with ",
-      "published": "2026-06-08T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Will the EU’s Data Center Efficiency Rules Undermine Its AI Ambitions?",
-      "url": "https://www.datacenterknowledge.com/regulations/will-the-eu-s-data-center-efficiency-rules-undermine-its-ai-ambitions",
-      "description": "As the EU refines its strategies to compete with the US and China on chips, AI, and energy grids, data center groups warn that some proposals may prove counterproductive.",
-      "published": "2026-06-08T08:33:00.000Z"
-    },
-    {
-      "source": "DataEngineeringWeekly",
-      "title": "Data Engineering Weekly #273",
-      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-273",
-      "description": "The Weekly Data Engineering Newsletter",
-      "published": "2026-06-08T02:44:02.000Z"
     }
   ]
 }

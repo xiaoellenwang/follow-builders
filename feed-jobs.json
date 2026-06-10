@@ -1,200 +1,200 @@
 {
-  "generatedAt": "2026-06-09T04:17:35.319Z",
+  "generatedAt": "2026-06-10T04:38:23.832Z",
   "jobs": [
     {
-      "title": "Research Fellow (Materials and Artificial Intelligence)",
-      "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
-      "salary": "S$6,000 – S$12,000",
-      "type": "Contract",
+      "title": "Partner Forward Deployed Engineer IV, Generative AI, Google Cloud - Singapore",
+      "company": "GOOGLE ASIA PACIFIC PTE. LTD.",
+      "salary": "S$15,000 – S$30,000",
+      "type": "Full Time",
       "skills": [
+        "Programming Languages",
+        "Direct experience",
+        "Customer Engagement"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/71c1649e4ad02d9b2b431a980098c878",
+      "posted": "2026-06-10T04:35:00.000Z"
+    },
+    {
+      "title": "AI Engineer Manager",
+      "company": "METIS DATA HOLDING PTE. LTD.",
+      "salary": "S$15,000 – S$23,000",
+      "type": "Full Time",
+      "skills": [
+        "Scalability",
+        "Engineering Management",
+        "Pipelines"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/9c4e05e498279ea4d72eadd037102967",
+      "posted": "2026-06-10T04:34:16.000Z"
+    },
+    {
+      "title": "Senior AI / Machine Learning Engineer",
+      "company": "CLIPLY PTE. LTD.",
+      "salary": "S$5,000 – S$7,000",
+      "type": "Full Time",
+      "skills": [
+        "Recipes",
         "TensorFlow",
-        "Aerospace Engineering",
         "Machine Learning"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/6864c66c643e183c43d9fc900b52b0fa",
-      "posted": "2026-06-09T03:39:56.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/1cccfe4116b37c63662d93bc9bec3f4d",
+      "posted": "2026-06-10T04:31:43.000Z"
     },
     {
-      "title": "VP Data Engineer, GTO",
-      "company": "UNITED OVERSEAS BANK LIMITED",
-      "salary": "S$12,000 – S$12,650",
+      "title": "AI Product Lead",
+      "company": "META 1 NETWORK PTE. LTD.",
+      "salary": "S$8,000 – S$12,000",
       "type": "Permanent",
       "skills": [
-        "Machine Learning",
-        "Big Data Framework",
-        "Hadoop Database"
+        "Develop product support",
+        "Validation",
+        "Workflow Automation"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/20947257312bc9abb529c73aa3c9aad8",
-      "posted": "2026-06-09T03:36:43.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/a4ed98f578ee4c48b6ab9d5afd8048e4",
+      "posted": "2026-06-10T04:31:13.000Z"
     },
     {
-      "title": "Machine Learning Engineer",
-      "company": "OX CONSULTANCY PTE. LTD.",
-      "salary": "S$7,000 – S$10,000",
+      "title": "Agentic AI Consultant",
+      "company": "ABEAM CONSULTING (SINGAPORE) PTE. LTD.",
+      "salary": "S$5,000 – S$6,500",
+      "type": "Permanent",
+      "skills": [
+        "DDD",
+        "scientific discipline",
+        "Intelligent Automation"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/69849ae4644445327bbc05927203a031",
+      "posted": "2026-06-10T02:38:29.000Z"
+    },
+    {
+      "title": "Consulting Trainee - Agentic Automation & AI",
+      "company": "ABEAM CONSULTING (SINGAPORE) PTE. LTD.",
+      "salary": "S$3,500 – S$4,600",
+      "type": "Permanent",
+      "skills": [
+        "Cloud Technologies",
+        "Verbal Communication",
+        "Unit Testing"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/7cb70ac4d0b4c920d6bb19553e458601",
+      "posted": "2026-06-10T02:37:51.000Z"
+    },
+    {
+      "title": "Business Analyst (AI & Credit Origination)",
+      "company": "HELIUS TECHNOLOGIES PTE. LTD.",
+      "salary": "S$5,800 – S$7,000",
       "type": "Full Time",
       "skills": [
-        "TensorFlow",
+        "Microsoft PowerPoint",
+        "banking industry",
+        "Change Management"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/9c44c02edf7e5b19d8643f5295d83a46",
+      "posted": "2026-06-10T02:20:11.000Z"
+    },
+    {
+      "title": "Senior Software Developer (Cloud & AI)",
+      "company": "WSH EXPERTS PTE. LTD.",
+      "salary": "S$6,500 – S$7,500",
+      "type": "Contract",
+      "skills": [
+        "API Development",
+        "CSS",
+        "Jenkins"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/69bf80fc32374f662fd3b082835a82a9",
+      "posted": "2026-06-10T02:15:49.000Z"
+    },
+    {
+      "title": "Senior Engineer (LLM/Agentic AI)",
+      "company": "ZENITH INFOTECH (S) PTE LTD.",
+      "salary": "S$6,000 – S$7,000",
+      "type": "Permanent",
+      "skills": [
+        "Integration",
+        "Project Risk",
+        "Architecture"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/832f21b1ce7761b2915d720e53326104",
+      "posted": "2026-06-10T02:06:02.000Z"
+    },
+    {
+      "title": "Gen AI Solutions Engineer",
+      "company": "GECO ASIA PTE. LTD.",
+      "salary": "S$10,000 – S$12,000",
+      "type": "Contract",
+      "skills": [
+        "Wealth Management",
         "Machine Learning",
-        "Business Optimization"
+        "Azure"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/a1fa604940caf9d880554d5ed7e3c2eb",
-      "posted": "2026-06-09T03:27:17.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/7df0ee215ecddc09423e692626af4fa9",
+      "posted": "2026-06-10T01:57:57.000Z"
     },
     {
-      "title": "Pre-Sales Engineer ( AI, HPC, Cloud Infrastructure )",
-      "company": "NETWEB PTE. LTD.",
-      "salary": "S$3,000 – S$5,000",
+      "title": "Junior System Engineer - AI/HPC (up to $4,000 + AWS + PB + Yearly increment)",
+      "company": "TYSON JAY MANAGEMENT PTE. LTD.",
+      "salary": "S$3,000 – S$4,000",
       "type": "Permanent",
       "skills": [
-        "Lead Generation",
-        "Supercomputing",
-        "HPC"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/17d7b327ee1da289be1d73d7aef0871f",
-      "posted": "2026-06-09T02:23:30.000Z"
-    },
-    {
-      "title": "Staff/Lead LLM Data Scientist",
-      "company": "AGODA COMPANY PTE. LTD.",
-      "salary": "S$10,000 – S$16,000",
-      "type": "Permanent",
-      "skills": [
-        "Cost price",
+        "Teamwork",
         "Design",
-        "Cost Management"
+        "Training Development"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/b17d1bf90b00c46144f7fa76dc28f7c9",
-      "posted": "2026-06-08T10:57:42.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/16aef1ebd5def612b777b5db67e8f536",
+      "posted": "2026-06-10T01:21:06.000Z"
     },
     {
-      "title": "Data Engineer",
-      "company": "AVENSYS CONSULTING PTE. LTD.",
-      "salary": "S$6,500 – S$13,000",
-      "type": "Contract",
-      "skills": [
-        "Graduate Recruitment",
-        "Git",
-        "PySpark"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/5c903759d05de62c1bfcfc37a93e96c2",
-      "posted": "2026-06-08T08:22:11.000Z"
-    },
-    {
-      "title": "Quality Engineer (Digital & AI)",
-      "company": "ROCKWELL AUTOMATION ASIA PACIFIC BUSINESS CENTER PTE. LTD.",
-      "salary": "S$2,400 – S$2,400",
-      "type": "Contract",
-      "skills": [
-        "Digital Transformation",
-        "energy consumption",
-        "Web Design"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/b06b983aa312bb07d29f4b6c264e9d8d",
-      "posted": "2026-06-08T07:54:45.000Z"
-    },
-    {
-      "title": "Machine Learning Engineer (Computer Vision – Model Engineering)",
-      "company": "CYNAPSE PTE. LTD.",
-      "salary": "S$5,500 – S$7,000",
-      "type": "Full Time",
-      "skills": [
-        "TensorFlow",
-        "Machine Learning",
-        "Git"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/bb017cbe73d8904560688cf8b8524b8b",
-      "posted": "2026-06-08T07:03:35.000Z"
-    },
-    {
-      "title": "AI Engineer",
-      "company": "ONCOSHOT PTE. LTD.",
-      "salary": "S$6,000 – S$10,000",
-      "type": "Full Time",
-      "skills": [
-        "Machine Learning",
-        "Git",
-        "Cancer Research"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/0bc2ff6c7be19918ab50d960c4ada538",
-      "posted": "2026-06-08T06:53:26.000Z"
-    },
-    {
-      "title": "Innovation Software Engineer (AI-applied Developer)",
-      "company": "THALES DIS (SINGAPORE) PTE. LTD.",
-      "salary": "S$6,500 – S$9,500",
-      "type": "Full Time",
-      "skills": [
-        "Master Control",
-        "Analytical Skills",
-        "Autonomy"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/d5a6d7b232d21241ad3ea3a57657f7b9",
-      "posted": "2026-06-08T06:13:09.000Z"
-    },
-    {
-      "title": "Software & AI Manager",
-      "company": "IP-TRIBE (PRIVATE) LIMITED",
-      "salary": "S$6,000 – S$9,000",
+      "title": "AI Manager (Lead AI Engineer)",
+      "company": "HAYS SPECIALIST RECRUITMENT PTE. LTD.",
+      "salary": "S$8,000 – S$13,000",
       "type": "Permanent",
       "skills": [
-        "Machine Learning",
-        "Pipelines",
-        "TypeScript"
+        "Project Team Management",
+        "Security",
+        "legal profession"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/a33e061986510af187c0eea8a318e606",
-      "posted": "2026-06-08T06:07:37.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/a1f9edb5e690ac4d1d628ebc6a69f3b9",
+      "posted": "2026-06-09T09:50:32.000Z"
     },
     {
-      "title": "Staff Software Engineer (Agentic AI)",
-      "company": "TYCO ELECTRONICS SINGAPORE PTE LTD",
-      "salary": "S$10,000 – S$13,000",
-      "type": "Permanent",
+      "title": "AI Engineer (LLM & Prompts Focus)",
+      "company": "NTT SINGAPORE PTE. LTD.",
+      "salary": "S$8,000 – S$9,500",
+      "type": "Full Time",
       "skills": [
-        "Machine Learning",
         "Design",
-        "Research & Development"
+        "Workflow",
+        "Oral Communication Skills"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/93a205ce8431148fc324892d2b98cd07",
-      "posted": "2026-06-08T04:29:28.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/295142fc46a6a4581a4027422dd4be71",
+      "posted": "2026-06-09T08:43:11.000Z"
     },
     {
-      "title": "Data Scientist Intern (AI Engineer Intern)",
-      "company": "ONE TECH STOP PTE. LTD.",
-      "salary": "S$1,000 – S$1,200",
-      "type": "Internship/Attachment",
-      "skills": [
-        "Data Analysis",
-        "Natural Language Processing",
-        "Google Cloud Platform"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/efa5b85bd2b07664833d3227172927c4",
-      "posted": "2026-06-08T03:38:23.000Z"
-    },
-    {
-      "title": "Data Engineer (AI Enablement)",
-      "company": "MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD",
-      "salary": "S$9,000 – S$10,500",
-      "type": "Contract",
-      "skills": [
-        "large datasets",
-        "Scalability",
-        "Data Pipeline"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/1a2acfa19fa81f58eb0018642e9e12c1",
-      "posted": "2026-06-08T02:17:48.000Z"
-    },
-    {
-      "title": "AI Engineer (Group IT)",
-      "company": "FAR EAST MANAGEMENT (PRIVATE) LIMITED",
-      "salary": "S$5,000 – S$8,000",
+      "title": "Applied AI Researcher",
+      "company": "EVOLUTION RECRUITMENT SOLUTIONS PTE. LTD.",
+      "salary": "S$6,000 – S$8,000",
       "type": "Permanent",
       "skills": [
-        "define Roles",
-        "Azure",
-        "Programming Languages"
+        "Machine Learning",
+        "statistical modelling",
+        "large datasets"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/d0e390a9c7ff5b9d5991d0719043fb67",
-      "posted": "2026-06-08T01:33:23.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/5218a74e36286f7ba5b45879c9eb5fbe",
+      "posted": "2026-06-09T08:37:37.000Z"
+    },
+    {
+      "title": "AI Specialist – Industry Solutions",
+      "company": "PALO ALTO NETWORKS (NETHERLANDS) B.V. (Singapore Branch)",
+      "salary": "S$8,000 – S$17,000",
+      "type": "Permanent",
+      "skills": [
+        "Innovation",
+        "Cloud Security",
+        "Critical Thinking"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/79193bf3161065c47d723a4c2e0c401c",
+      "posted": "2026-06-09T08:34:14.000Z"
     }
   ]
 }
