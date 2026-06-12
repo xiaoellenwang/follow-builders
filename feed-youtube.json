@@ -1,4 +1,33 @@
 {
-  "generatedAt": "2026-06-11T04:50:51.260Z",
-  "videos": []
+  "generatedAt": "2026-06-12T04:54:18.248Z",
+  "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "The first iPod wasn't a success",
+      "url": "https://www.youtube.com/watch?v=kpg09CKw3b0",
+      "published": "2026-06-11T11:00:31.000Z",
+      "description": "#apple #founder #startup"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Predicting the next big consumer device",
+      "url": "https://www.youtube.com/watch?v=MF1TpBv40V4",
+      "published": "2026-06-10T11:00:33.000Z",
+      "description": "#hardware #ai #artificialintelligence #product"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Great products tell a story",
+      "url": "https://www.youtube.com/watch?v=y1a7sH3vteY",
+      "published": "2026-06-09T11:00:33.000Z",
+      "description": "#product #startup #productmanager #ai"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Tony Fadell: How to build real taste (and why AI makes it matter more)",
+      "url": "https://www.youtube.com/watch?v=RJjl1TwyfWM",
+      "published": "2026-06-07T12:30:05.000Z",
+      "description": "Tony Fadell created the iPod, co-created the iPhone, and founded Nest (which he sold to Google for $3.2 billion). He’s co-authored over 300 patents, was part of the legendary team at General Magic, and wrote one of the most important and inspiring books for builders, called Build.\n\n*In our in-depth "
+    }
+  ]
 }

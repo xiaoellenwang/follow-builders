@@ -1,26 +1,117 @@
 {
-  "generatedAt": "2026-06-11T04:50:51.260Z",
+  "generatedAt": "2026-06-12T04:54:18.248Z",
   "articles": [
     {
-      "source": "Data Center Dynamics",
-      "title": "Iowa state plans cloud migration, claims will save $525m over next decade",
-      "url": "https://www.datacenterdynamics.com/en/news/iowa-state-plans-cloud-migration-claims-will-save-525m-over-next-decade/",
-      "description": "Will partner with AWS and Cognizant on migration",
-      "published": "2026-06-10T17:20:28.000Z"
+      "source": "The Next Platform",
+      "title": "AWS Tunes Up Graviton5 For Agentic AI, Boosts Bang For The Buck Bigtime",
+      "url": "https://www.nextplatform.com/compute/2026/06/11/aws-tunes-up-graviton5-for-agentic-ai-boosts-bang-for-the-buck-bigtime/5254538",
+      "description": "",
+      "published": "2026-06-11T21:42:38.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Federal Colocation Readiness: What Data Center Operators Must Prove",
+      "url": "https://www.datacenterknowledge.com/colocation/federal-colocation-readiness-what-data-center-operators-must-prove",
+      "description": "Discover how commercial data centers can meet US federal needs for uptime, security, and compliance, with guidance on readiness, ATO, and procurement.",
+      "published": "2026-06-11T19:01:00.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Data center firm Bitzero joins Nasdaq",
-      "url": "https://www.datacenterdynamics.com/en/news/data-center-firm-bitzero-joins-nasdaq/",
-      "description": "Kevin O'Leary-backed company now listed in US and Canada",
-      "published": "2026-06-10T17:00:31.000Z"
+      "title": "DriverAI announces plans to build 80MW ‘quantum AI’ data center in Cluj, Romania",
+      "url": "https://www.datacenterdynamics.com/en/news/driverai-announces-plans-to-build-80mw-quantum-ai-data-center-in-cluj-romania/",
+      "description": "Firm criticized by locally-born software entrepreneur for its seeming lack of qualifications to build facility",
+      "published": "2026-06-11T16:25:31.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "The Overlooked Reason AI Data Centers Use So Much Power",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/the-overlooked-reason-ai-data-centers-use-so-much-power",
+      "description": "AI workload volatility forces data centers to run secondary tasks, inflating energy use, infrastructure demands, costs, and grid pressure.",
+      "published": "2026-06-11T16:09:47.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Former architect for Google's Global Internet Edge & CDN network infrastructure joins SpaceX-xAI",
-      "url": "https://www.datacenterdynamics.com/en/news/former-architect-for-googles-global-internet-edge-cdn-network-infrastructure-joins-spacex-xai/",
-      "description": "Paul Schultz joins the Starlink company ahead of IPO",
-      "published": "2026-06-10T16:47:08.000Z"
+      "title": "Spain will deploy NATO's first 5G tactical network in a real-world operational setting",
+      "url": "https://www.datacenterdynamics.com/en/news/spain-to-deploy-natos-first-tactical-5g-network-in-a-real-world-operational-setting/",
+      "description": "Will be integrated at military base used by troops from allied nations",
+      "published": "2026-06-11T16:05:34.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Data center battery maker ZincFive to go public via Spark I SPAC",
+      "url": "https://www.datacenterdynamics.com/en/news/data-center-battery-maker-zincfive-to-go-public-via-spark-i-spac/",
+      "description": "Return of the SPAC",
+      "published": "2026-06-11T16:00:12.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Quantum of promise: How to build a quantum chip",
+      "url": "https://www.datacenterdynamics.com/en/analysis/quantum-computing-chip-manufacturing/",
+      "description": "Inside the complex world of quantum processor manufacturing",
+      "published": "2026-06-11T16:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "DCD>Survey Report: Cooling",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/dcdsurvey-report-cooling/",
+      "description": "As the data center industry evolves, so do its cooling solutions",
+      "published": "2026-06-11T15:23:29.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Cost Per Genomics Sample? Try Cost Per Sequencing Attempt",
+      "url": "https://www.nextplatform.com/cloud/2026/06/11/cost-per-genomics-sample-try-cost-per-sequencing-attempt/5254177",
+      "description": "",
+      "published": "2026-06-11T13:11:01.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
+      "url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside soccer’s data renaissance Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally kick the ball out of ",
+      "published": "2026-06-11T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "description": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without",
+      "published": "2026-06-11T11:00:45.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Job titles of the future: Nature’s drug designer",
+      "url": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
+      "description": "In 2018, after nearly two decades working in Big Pharma, chemist Tim Cernak was ready to put his skills to a new use.&#160; For Merck, he’d developed precision therapies for cancer, HIV, and diabetes that could target disease while minimizing harm to healthy cells. But as a lifelong nature lover, he",
+      "published": "2026-06-11T10:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Inside soccer’s data renaissance",
+      "url": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
+      "description": "Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally send the ball all the way down the pitch and right out of bounds on the opponent’s end. Casual fans might scratch their heads. Where’s the logic in surrendering possession seconds into a game? If you were",
+      "published": "2026-06-11T10:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Why China is betting on big nuclear reactors",
+      "url": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/",
+      "description": "It’s a tale of two nuclear industries. In China, large reactors are coming together at a stunning pace. The country has nearly doubled its nuclear fleet since 2016, reaching nearly 60 gigawatts of total power capacity. The new facilities are nearly all gigawatt-scale pressurized-water reactors. Mean",
+      "published": "2026-06-11T10:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Will Co-Packaged Optics Transform Data Centers?",
+      "url": "https://www.datacenterknowledge.com/networking/will-co-packaged-optics-transform-data-centers-",
+      "description": "Co-packaged optics promise efficiency and performance gains for data centers, but challenges remain for widespread adoption.",
+      "published": "2026-06-11T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "OpenAI’s Proposed IPO: A Trifecta of Opportunities, But Don’t Lock In Yet",
+      "url": "https://www.datacenterknowledge.com/ai-data-centers/openais-proposed-ipo-a-trifecta-of-opportunities-but-dont-lock-in-yet",
+      "description": "OpenAI’s IPO could fund transformative AI advancements, but enterprises should stay agile, avoid lock-in, and focus on flexible AI strategies.",
+      "published": "2026-06-11T08:16:00.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -28,48 +119,6 @@
       "url": "https://www.datacenterknowledge.com/regulations/new-york-confronts-the-data-center-boom-balancing-growth-and-grid-reform",
       "description": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
       "published": "2026-06-10T16:30:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Nidec develops 300kW in-rack CDU",
-      "url": "https://www.datacenterdynamics.com/en/news/nidec-develops-300kw-in-rack-cdu/",
-      "description": "Prototype to launch commercially around 2027",
-      "published": "2026-06-10T16:24:15.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "UK Gov't to deploy new supercomputer by 2030, with British chips (hopefully)",
-      "url": "https://www.datacenterdynamics.com/en/news/uk-govt-to-deploy-new-supercomputer-by-2030-with-british-chips-hopefully/",
-      "description": "All part of Blighty's cunning new AI Hardware Plan",
-      "published": "2026-06-10T16:20:11.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Industry Groups Launch AI Data Center Framework Amid Rising Power Needs",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/industry-groups-launch-ai-data-center-framework-amid-rising-power-needs",
-      "description": "Organizations including NEMA, ASHRAE, and PNNL have introduced a framework to guide developers, engineers, and facility managers in managing increasingly power-intensive AI workloads.",
-      "published": "2026-06-10T15:51:06.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: the “steroid olympics” and a safer Mythos",
-      "url": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The “steroid olympics” were a circus—and a window into our culture —Amit Katwala A couple of weeks ago, at a $50 million arena built in a casino parki",
-      "published": "2026-06-10T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The “steroid olympics” were a circus—and a window into our culture",
-      "url": "https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity/",
-      "description": "Testosterone. Methenolone. Nandrolone. Human growth hormone and EPO. Meldonium, modafinil, and mixed amphetamine salts. Clomiphene, anastrozole, levothyroxine, and liothyronine. Patches and capsules, creams and pills. A whole galaxy of steroids, metabolic modulators, and synthetic hormones coursing ",
-      "published": "2026-06-10T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Data Center Architects Reimagine Facilities as Urban Assets",
-      "url": "https://www.datacenterknowledge.com/build-design/from-ugly-boxes-to-city-assets-data-center-architecture-reimagined",
-      "description": "Architecture and landscape are moving from afterthought to differentiator as operators court communities, tenants, and talent.",
-      "published": "2026-06-10T09:00:00.000Z"
     },
     {
       "source": "The Next Platform",
@@ -86,60 +135,11 @@
       "published": "2026-06-09T20:56:52.000Z"
     },
     {
-      "source": "Data Center Knowledge",
-      "title": "Local Data Center Backlash Signals a Shift in How the Grid Must Evolve",
-      "url": "https://www.datacenterknowledge.com/regulations/local-data-center-backlash-signals-a-shift-in-how-the-grid-must-evolve",
-      "description": "The regulatory backlash against data centers is a wake-up call to the industry: infrastructure growth requires load flexibility, not a freeze.",
-      "published": "2026-06-09T16:00:00.000Z"
-    },
-    {
       "source": "The Next Platform",
       "title": "AI Chip Shepherds Broadcom And Marvell Have Skinned The Golden Fleece",
       "url": "https://www.nextplatform.com/compute/2026/06/09/ai-chip-shepherds-broadcom-and-marvell-have-skinned-the-golden-fleece/5253011",
       "description": "",
       "published": "2026-06-09T15:58:56.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Fuel to Power: What Rising Costs Mean for Data Centers",
-      "url": "https://www.datacenterknowledge.com/supply-chain/fuel-to-power-what-rising-costs-mean-for-data-centers",
-      "description": "As energy markets tighten, data centers face higher operating costs and tougher scrutiny.",
-      "published": "2026-06-09T15:50:41.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "High-severity vulnerability in Linux caused by a single faulty character",
-      "url": "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
-      "description": "\n                        Use-after-free bug can be exploited to evade sandbox defenses.\n                    ",
-      "published": "2026-06-09T15:12:43.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
-      "url": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition The outspoken longevity scientist David Sinclair has predicted th",
-      "published": "2026-06-09T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Learning to lead in a hybrid human-AI enterprise",
-      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-      "description": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce.  Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinati",
-      "published": "2026-06-09T10:20:06.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
-      "url": "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/",
-      "description": "The outspoken longevity scientist David Sinclair has been predicting that one day, you’ll go to the doctor and get a prescription that will make you 10 years younger. Now MIT Technology Review has learned that he has plans to launch human tests of an oral &#8220;reprogramming&#8221; drug as part of ",
-      "published": "2026-06-09T10:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
-      "url": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
-      "description": "\n                        73 packages run self-replicating stealer as soon as they're opened by an AI agent.\n                    ",
-      "published": "2026-06-08T18:34:23.000Z"
     }
   ]
 }
