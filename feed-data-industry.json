@@ -1,6 +1,97 @@
 {
-  "generatedAt": "2026-06-12T04:54:18.248Z",
+  "generatedAt": "2026-06-13T04:41:40.321Z",
   "articles": [
+    {
+      "source": "Ars Technica Tech",
+      "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
+      "url": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
+      "description": "\n                        Vulnerability in the Oracle-owned PeopleSoft software is about as critical as they come.\n                    ",
+      "published": "2026-06-12T19:26:47.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "While Oracle Will Rake In Big Bucks On AI, Profits Are Hard To Predict",
+      "url": "https://www.nextplatform.com/cloud/2026/06/12/while-oracle-will-rake-in-big-bucks-on-ai-profits-are-hard-to-predict/5255098",
+      "description": "",
+      "published": "2026-06-12T18:08:22.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Amazon data centers used 2.5bn gallons of water in 2025",
+      "url": "https://www.datacenterdynamics.com/en/news/amazon-data-centers-used-25bn-gallons-of-water-in-2025/",
+      "description": "AWS shares the small number, as anti-data center protests focus on water usage",
+      "published": "2026-06-12T17:40:30.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sentinel DC backs off paper mill data center project in Maine",
+      "url": "https://www.datacenterdynamics.com/en/news/sentinel-dc-backs-off-paper-mill-data-center-project-in-maine/",
+      "description": "Company drops plans, even after state-wide moratorium was vetoed by the governor",
+      "published": "2026-06-12T17:00:29.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "SpaceX goes public, Elon Musk becomes world's first trillionaire",
+      "url": "https://www.datacenterdynamics.com/en/news/spacex-goes-public-elon-musk-becomes-worlds-first-trillionaire/",
+      "description": "Shares jump on controversial listing",
+      "published": "2026-06-12T16:39:45.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Private equity firm acquires Croatia’s ‘Fort-Knox’ data center",
+      "url": "https://www.datacenterdynamics.com/en/news/private-equity-firm-acquires-croatias-fort-knox-data-center/",
+      "description": "The 4MW facility is located at the intersection of three redundant optical crossroads",
+      "published": "2026-06-12T16:30:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "GMI Cloud and Magna AI partner on global network of \"sovereign AI factories\"",
+      "url": "https://www.datacenterdynamics.com/en/news/gmi-cloud-and-magna-ai-partner-on-global-network-of-sovereign-ai-factories/",
+      "description": "While Singtel and WEKA partner for sovereign AI infrastructure across ASEAN",
+      "published": "2026-06-12T16:20:27.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "AI’s Next Data Center Challenge: Scaling Memory for the Inference Era",
+      "url": "https://www.datacenterknowledge.com/data-center-chips/ai-s-next-data-center-challenge-scaling-memory-for-the-inference-era",
+      "description": "AI inference needs scalable memory, not just compute. CXL decouples the two, letting data centers scale memory independently and avoid overbuying expensive processors.",
+      "published": "2026-06-12T16:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
+      "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing aging right now Earlier this week, Life Biosciences, a biotech company focused on reversing ",
+      "published": "2026-06-12T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "You do your own time",
+      "url": "https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/",
+      "description": "There we were, a regular murderers’ row of librarians. Little Jo. Eustace. And me. Turning around in the nave of our library to greet the sound of footsteps, pistols leveled in case whoever was coming in didn’t respect sanctuary. Little Jo had a stack of books under one arm. Eustace was holding the ",
+      "published": "2026-06-12T10:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
+      "url": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
+      "description": "Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first volunteer. A person with glaucoma has had an experimental treatment injected straight into their eyeball. The idea is to try to treat the disease—which can cause vi",
+      "published": "2026-06-12T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Inside interoception: The hidden sense of how you feel inside",
+      "url": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
+      "description": "MIT Technology Review&#160;Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next.&#160;You can read more from the series here. Your brain lives in the dark space of your skull. Yet it knows when the wind lifts the hairs on you",
+      "published": "2026-06-12T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Google Cloud Disruptions Continue After India Data Center Fire",
+      "url": "https://www.datacenterknowledge.com/outages/google-cloud-disruptions-continue-after-india-data-center-fire",
+      "description": "Google has rerouted traffic after a Delhi data center fire, but customers across Indian metros may still experience latency and packet loss.",
+      "published": "2026-06-12T07:05:00.000Z"
+    },
     {
       "source": "The Next Platform",
       "title": "AWS Tunes Up Graviton5 For Agentic AI, Boosts Bang For The Buck Bigtime",
@@ -16,46 +107,11 @@
       "published": "2026-06-11T19:01:00.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "DriverAI announces plans to build 80MW ‘quantum AI’ data center in Cluj, Romania",
-      "url": "https://www.datacenterdynamics.com/en/news/driverai-announces-plans-to-build-80mw-quantum-ai-data-center-in-cluj-romania/",
-      "description": "Firm criticized by locally-born software entrepreneur for its seeming lack of qualifications to build facility",
-      "published": "2026-06-11T16:25:31.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "The Overlooked Reason AI Data Centers Use So Much Power",
       "url": "https://www.datacenterknowledge.com/energy-power-supply/the-overlooked-reason-ai-data-centers-use-so-much-power",
       "description": "AI workload volatility forces data centers to run secondary tasks, inflating energy use, infrastructure demands, costs, and grid pressure.",
       "published": "2026-06-11T16:09:47.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Spain will deploy NATO's first 5G tactical network in a real-world operational setting",
-      "url": "https://www.datacenterdynamics.com/en/news/spain-to-deploy-natos-first-tactical-5g-network-in-a-real-world-operational-setting/",
-      "description": "Will be integrated at military base used by troops from allied nations",
-      "published": "2026-06-11T16:05:34.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Data center battery maker ZincFive to go public via Spark I SPAC",
-      "url": "https://www.datacenterdynamics.com/en/news/data-center-battery-maker-zincfive-to-go-public-via-spark-i-spac/",
-      "description": "Return of the SPAC",
-      "published": "2026-06-11T16:00:12.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Quantum of promise: How to build a quantum chip",
-      "url": "https://www.datacenterdynamics.com/en/analysis/quantum-computing-chip-manufacturing/",
-      "description": "Inside the complex world of quantum processor manufacturing",
-      "published": "2026-06-11T16:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "DCD>Survey Report: Cooling",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/dcdsurvey-report-cooling/",
-      "description": "As the data center industry evolves, so do its cooling solutions",
-      "published": "2026-06-11T15:23:29.000Z"
     },
     {
       "source": "The Next Platform",
@@ -72,74 +128,11 @@
       "published": "2026-06-11T12:10:00.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "description": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without",
-      "published": "2026-06-11T11:00:45.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Job titles of the future: Nature’s drug designer",
-      "url": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
-      "description": "In 2018, after nearly two decades working in Big Pharma, chemist Tim Cernak was ready to put his skills to a new use.&#160; For Merck, he’d developed precision therapies for cancer, HIV, and diabetes that could target disease while minimizing harm to healthy cells. But as a lifelong nature lover, he",
-      "published": "2026-06-11T10:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Inside soccer’s data renaissance",
-      "url": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
-      "description": "Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally send the ball all the way down the pitch and right out of bounds on the opponent’s end. Casual fans might scratch their heads. Where’s the logic in surrendering possession seconds into a game? If you were",
-      "published": "2026-06-11T10:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Why China is betting on big nuclear reactors",
-      "url": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/",
-      "description": "It’s a tale of two nuclear industries. In China, large reactors are coming together at a stunning pace. The country has nearly doubled its nuclear fleet since 2016, reaching nearly 60 gigawatts of total power capacity. The new facilities are nearly all gigawatt-scale pressurized-water reactors. Mean",
-      "published": "2026-06-11T10:00:00.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "Will Co-Packaged Optics Transform Data Centers?",
       "url": "https://www.datacenterknowledge.com/networking/will-co-packaged-optics-transform-data-centers-",
       "description": "Co-packaged optics promise efficiency and performance gains for data centers, but challenges remain for widespread adoption.",
       "published": "2026-06-11T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "OpenAI’s Proposed IPO: A Trifecta of Opportunities, But Don’t Lock In Yet",
-      "url": "https://www.datacenterknowledge.com/ai-data-centers/openais-proposed-ipo-a-trifecta-of-opportunities-but-dont-lock-in-yet",
-      "description": "OpenAI’s IPO could fund transformative AI advancements, but enterprises should stay agile, avoid lock-in, and focus on flexible AI strategies.",
-      "published": "2026-06-11T08:16:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "New York Confronts the Data Center Boom: Balancing Growth and Grid Reform",
-      "url": "https://www.datacenterknowledge.com/regulations/new-york-confronts-the-data-center-boom-balancing-growth-and-grid-reform",
-      "description": "A potential legislative moratorium and landmark PSC proceeding chart dual paths forward as New York tackles the challenges of data center expansion.",
-      "published": "2026-06-10T16:30:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "D-Wave Riding The Dual-Rail For Its Gate-Model Quantum Ambitions",
-      "url": "https://www.nextplatform.com/compute/2026/06/10/d-wave-riding-the-dual-rail-for-its-gate-model-quantum-ambitions/5253279",
-      "description": "",
-      "published": "2026-06-10T04:05:34.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
-      "url": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
-      "description": "\n                        A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well.\n                    ",
-      "published": "2026-06-09T20:56:52.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "AI Chip Shepherds Broadcom And Marvell Have Skinned The Golden Fleece",
-      "url": "https://www.nextplatform.com/compute/2026/06/09/ai-chip-shepherds-broadcom-and-marvell-have-skinned-the-golden-fleece/5253011",
-      "description": "",
-      "published": "2026-06-09T15:58:56.000Z"
     }
   ]
 }
