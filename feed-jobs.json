@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-06-13T04:41:40.321Z",
+  "generatedAt": "2026-06-14T05:00:04.949Z",
   "jobs": [
+    {
+      "title": "Quant Researcher #77900",
+      "company": "ANRADUS PTE. LTD.",
+      "salary": "S$6,000 – S$8,500",
+      "type": "Permanent",
+      "skills": [
+        "Machine Learning",
+        "Algorithm Analysis",
+        "Scalability"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/68e80110eaef2ee628539614ffe8c990",
+      "posted": "2026-06-13T18:01:17.000Z"
+    },
+    {
+      "title": "Freelance Content Writer (AI Industry & Tech)",
+      "company": "SQUARE PEG TECHNOLOGIES PTE. LTD.",
+      "salary": "S$500 – S$1,500",
+      "type": "Freelance",
+      "skills": [
+        "Digital Media",
+        "Ethics of artificial intelligence",
+        "basic SEO"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/150de727190e24a189f7711ed02580d4",
+      "posted": "2026-06-13T08:08:46.000Z"
+    },
     {
       "title": "Machine Learning Engineer - Perception",
       "company": "MOTIONAL SINGAPORE PTE. LIMITED",
@@ -65,19 +91,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/4a812214e457cdc8c3f7860356227ede",
       "posted": "2026-06-12T10:28:50.000Z"
-    },
-    {
-      "title": "AI Product Manager / AI Architect (East)",
-      "company": "ALIGN RECRUITMENT PTE. LTD.",
-      "salary": "S$7,800 – S$9,000",
-      "type": "Permanent",
-      "skills": [
-        "Business Support Unit",
-        "Scalability",
-        "Artificial Intelligence"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/b8b8d43a799d2e9326dde4ccee301a73",
-      "posted": "2026-06-12T07:47:37.000Z"
     },
     {
       "title": "CTO (AI Fintech - remote)",
@@ -182,19 +195,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/fb500013f5e80abeeee58205ad764d5f",
       "posted": "2026-06-12T03:15:23.000Z"
-    },
-    {
-      "title": "Senior AI engineer",
-      "company": "BITRALIS PTE. LTD.",
-      "salary": "S$10,000 – S$18,000",
-      "type": "Full Time",
-      "skills": [
-        "Git",
-        "Cloud Applications",
-        "AWS"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/8c8d0fadfc0bafbf17172c39bfbe940d",
-      "posted": "2026-06-11T14:25:21.000Z"
     }
   ]
 }

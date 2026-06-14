@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-06-13T04:41:40.321Z",
+  "generatedAt": "2026-06-14T05:00:04.949Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "Vertiv's acquisition of ThermoKey closes",
+      "url": "https://www.datacenterdynamics.com/en/news/vertivs-acquisition-of-thermokey-closes/",
+      "description": "Expands cooling tech with Italian deal",
+      "published": "2026-06-13T09:00:24.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: Rethinking data center cooling for AI: The rise of direct-to-chip liquid cooling",
+      "url": "https://www.datacenterdynamics.com/en/opinions/rethinking-data-center-cooling-for-ai-the-rise-of-direct-to-chip-liquid-cooling/",
+      "description": "As the demand for AI and HPC infrastructure continues to grow, the move from air cooling to liquid cooling will become increasingly important for cooling AI workloads",
+      "published": "2026-06-13T07:00:00.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
@@ -35,20 +49,6 @@
       "url": "https://www.datacenterdynamics.com/en/news/spacex-goes-public-elon-musk-becomes-worlds-first-trillionaire/",
       "description": "Shares jump on controversial listing",
       "published": "2026-06-12T16:39:45.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Private equity firm acquires Croatia’s ‘Fort-Knox’ data center",
-      "url": "https://www.datacenterdynamics.com/en/news/private-equity-firm-acquires-croatias-fort-knox-data-center/",
-      "description": "The 4MW facility is located at the intersection of three redundant optical crossroads",
-      "published": "2026-06-12T16:30:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "GMI Cloud and Magna AI partner on global network of \"sovereign AI factories\"",
-      "url": "https://www.datacenterdynamics.com/en/news/gmi-cloud-and-magna-ai-partner-on-global-network-of-sovereign-ai-factories/",
-      "description": "While Singtel and WEKA partner for sovereign AI infrastructure across ASEAN",
-      "published": "2026-06-12T16:20:27.000Z"
     },
     {
       "source": "Data Center Knowledge",
