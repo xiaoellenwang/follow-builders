@@ -1,18 +1,109 @@
 {
-  "generatedAt": "2026-06-14T05:00:04.949Z",
+  "generatedAt": "2026-06-15T05:19:46.783Z",
   "jobs": [
     {
-      "title": "Quant Researcher #77900",
-      "company": "ANRADUS PTE. LTD.",
-      "salary": "S$6,000 – S$8,500",
+      "title": "Junior AI Engineer, Assurance",
+      "company": "DYNAMIC HUMAN CAPITAL PTE. LTD.",
+      "salary": "S$6,000 – S$12,000",
+      "type": "Contract",
+      "skills": [
+        "Digital Transformation",
+        "Dashboards",
+        "Applications Delivery"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/1d96b3c86c72129f8fcb17203e62b8fe",
+      "posted": "2026-06-15T03:48:46.000Z"
+    },
+    {
+      "title": "AI Developer (Entry Level/ Junior)",
+      "company": "DW CONSULTING PTE. LTD.",
+      "salary": "S$3,800 – S$4,500",
+      "type": "Contract",
+      "skills": [
+        "Analytical Approach",
+        "Machine Learning",
+        "Git"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/4bf5c7e21d8dd819e7419972b69afde8",
+      "posted": "2026-06-15T03:00:11.000Z"
+    },
+    {
+      "title": "Solutions Engineer (Security & AI) – Entry Level / Career Switchers Welcome",
+      "company": "ASIS TECHNOLOGIES PTE LTD",
+      "salary": "S$3,500 – S$5,500",
       "type": "Permanent",
       "skills": [
-        "Machine Learning",
-        "Algorithm Analysis",
-        "Scalability"
+        "Negotiation",
+        "CRM",
+        "Account Management"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/68e80110eaef2ee628539614ffe8c990",
-      "posted": "2026-06-13T18:01:17.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/3733152f4c1f218b0dacead17d4572f7",
+      "posted": "2026-06-15T02:41:16.000Z"
+    },
+    {
+      "title": "AI Engineer for AI Singapore (AI Talent Development)",
+      "company": "NATIONAL UNIVERSITY OF SINGAPORE",
+      "salary": "S$6,000 – S$10,000",
+      "type": "Full Time",
+      "skills": [
+        "Machine Learning",
+        "Talent Development",
+        "Artificial Intelligence"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/04c4be48cdd65e0fdf7446557a5b2e4e",
+      "posted": "2026-06-15T01:13:38.000Z"
+    },
+    {
+      "title": "AI Engineer for AI Singapore (AI Talent Development)",
+      "company": "NATIONAL UNIVERSITY OF SINGAPORE",
+      "salary": "S$6,000 – S$10,000",
+      "type": "Full Time",
+      "skills": [
+        "Machine Learning",
+        "Talent Development",
+        "Artificial Intelligence"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/78f7763dc895db74a8840d3b058b7e04",
+      "posted": "2026-06-15T01:07:48.000Z"
+    },
+    {
+      "title": "Artificial Intelligence / Computer Vision Engineer",
+      "company": "POROLIS TECHNOLOGIES PTE. LTD.",
+      "salary": "S$4,800 – S$7,000",
+      "type": "Permanent",
+      "skills": [
+        "project specification",
+        "Technical Writing",
+        "Data Pipeline"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/8be29369d417b49716d9611113057c35",
+      "posted": "2026-06-15T01:03:51.000Z"
+    },
+    {
+      "title": "Project Executive (Digital/ AI Solution)",
+      "company": "REPLICAST AI PTE. LTD.",
+      "salary": "S$3,000 – S$5,000",
+      "type": "Permanent",
+      "skills": [
+        "Resourceful Problem-solving",
+        "Liaising with cross functional teams",
+        "Management Skills"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/162848251e3250caccf427ad0423f0a8",
+      "posted": "2026-06-14T08:40:35.000Z"
+    },
+    {
+      "title": "AI software development engineer",
+      "company": "AXIOM IT SOLUTIONS PTE. LTD.",
+      "salary": "S$3,300 – S$5,000",
+      "type": "Full Time",
+      "skills": [
+        "Ability to Multitask",
+        "Call Centers",
+        "JavaScript"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/6162711ee7879369254071ac3575d010",
+      "posted": "2026-06-14T05:28:10.000Z"
     },
     {
       "title": "Freelance Content Writer (AI Industry & Tech)",
@@ -26,58 +117,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/150de727190e24a189f7711ed02580d4",
       "posted": "2026-06-13T08:08:46.000Z"
-    },
-    {
-      "title": "Machine Learning Engineer - Perception",
-      "company": "MOTIONAL SINGAPORE PTE. LIMITED",
-      "salary": "S$6,500 – S$11,500",
-      "type": "Permanent",
-      "skills": [
-        "Object Recognition",
-        "Neural Networks",
-        "Deep Foundations"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/1193b2bba2523bfd54c5f195899316e7",
-      "posted": "2026-06-12T13:08:32.000Z"
-    },
-    {
-      "title": "Senior Machine Learning Engineer - Perception",
-      "company": "MOTIONAL SINGAPORE PTE. LIMITED",
-      "salary": "S$9,000 – S$16,000",
-      "type": "Permanent",
-      "skills": [
-        "Object Recognition",
-        "Neural Networks",
-        "Deep Foundations"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/58b681492f7e20dcbd9ca73ba381c743",
-      "posted": "2026-06-12T13:07:51.000Z"
-    },
-    {
-      "title": "Data & AI Platform Product Manager – Associate, APAC Chief Data & Analytics Office",
-      "company": "JPMORGAN CHASE BANK, N.A.",
-      "salary": "S$8,000 – S$16,000",
-      "type": "Permanent",
-      "skills": [
-        "customer mindset",
-        "Subject Matter Expert",
-        "A+"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/9a7afb55075658754b3c623df4d2fa10",
-      "posted": "2026-06-12T11:01:19.000Z"
-    },
-    {
-      "title": "Data & AI Platform Product Manager – Vice President, APAC Chief Data & Analytics Office",
-      "company": "JPMORGAN CHASE BANK, N.A.",
-      "salary": "S$11,000 – S$22,000",
-      "type": "Permanent",
-      "skills": [
-        "build trust",
-        "Leadership",
-        "requirements assessment"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/b404a0aa00fbce9d39f65095930c1ad0",
-      "posted": "2026-06-12T10:56:18.000Z"
     },
     {
       "title": "AI Engineer",
@@ -119,19 +158,6 @@
       "posted": "2026-06-12T07:24:02.000Z"
     },
     {
-      "title": "Senior Computer Vision Engineer",
-      "company": "DIGITAL PLACE VISION PTE. LTD.",
-      "salary": "S$5,000 – S$8,000",
-      "type": "Permanent",
-      "skills": [
-        "Deep learning",
-        "Machine Learning",
-        "bar-code scanning"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/bbf6effe5a9caf94f1cf97b7df18dbc0",
-      "posted": "2026-06-12T07:07:13.000Z"
-    },
-    {
       "title": "Junior Data Engineer [Snowflake / AI / LLM / SQL]",
       "company": "LUXOFT INFORMATION TECHNOLOGY (SINGAPORE) PTE. LTD.",
       "salary": "S$4,000 – S$5,000",
@@ -143,58 +169,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/d2962d8c7ec81cdcdd3c9f2df7164dd6",
       "posted": "2026-06-12T05:59:08.000Z"
-    },
-    {
-      "title": "Enterprise Account Executive AI Security",
-      "company": "CHECK POINT HOLDING (SINGAPORE) PTE. LTD.",
-      "salary": "S$12,000 – S$18,000",
-      "type": "Permanent",
-      "skills": [
-        "Asia Pacific",
-        "Security",
-        "Cloud Computing"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/653f03e9e92d8d064df3407cdf379097",
-      "posted": "2026-06-12T05:58:41.000Z"
-    },
-    {
-      "title": "AI Technical Program Manager (Tech MNC, AI transformation)",
-      "company": "ADECCO PERSONNEL PTE LTD",
-      "salary": "S$7,000 – S$9,700",
-      "type": "Contract",
-      "skills": [
-        "Code collaborator",
-        "Asset Management",
-        "Roadmap"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/fcc015685e3902dd678fc3f6a6b5eea9",
-      "posted": "2026-06-12T04:21:52.000Z"
-    },
-    {
-      "title": "Embodied AI Engineer",
-      "company": "ST ENGINEERING IHQ PTE. LTD.",
-      "salary": "S$5,000 – S$8,000",
-      "type": "Contract",
-      "skills": [
-        "Signal Integrity",
-        "Embedded Linux",
-        "Wiring"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/b0fdf012e1b2fdb7d528031fd939329c",
-      "posted": "2026-06-12T03:49:00.000Z"
-    },
-    {
-      "title": "AI Engineer (Senior Audio AI/ML Engineer-Lead)",
-      "company": "LUXOFT INFORMATION TECHNOLOGY (SINGAPORE) PTE. LTD.",
-      "salary": "S$17,000 – S$19,000",
-      "type": "Permanent",
-      "skills": [
-        "Machine Learning",
-        "Load software",
-        "Governance"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/fb500013f5e80abeeee58205ad764d5f",
-      "posted": "2026-06-12T03:15:23.000Z"
     }
   ]
 }

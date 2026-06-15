@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-06-14T05:00:04.949Z",
+  "generatedAt": "2026-06-15T05:19:46.783Z",
   "articles": [
+    {
+      "source": "Data Center Knowledge",
+      "title": "Data Centers’ Next Hurdle: Winning Public Trust and Social License",
+      "url": "https://www.datacenterknowledge.com/build-design/ai-infrastructure-s-new-constraint-public-trust",
+      "description": "The industry faces a “public legitimacy problem”: winning social license and trust is now as essential to approvals as securing megawatts and permits.",
+      "published": "2026-06-15T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Data centers are getting caught up in conflict. What does this mean for cloud strategy?",
+      "url": "https://www.datacenterdynamics.com/en/opinions/data-centers-are-getting-caught-up-in-conflict-what-does-this-mean-for-cloud-strategy/",
+      "description": "From regional disruption to sudden outages, organizations are being forced to design infrastructure that can withstand events beyond their control",
+      "published": "2026-06-14T11:00:29.000Z"
+    },
     {
       "source": "Data Center Dynamics",
       "title": "Vertiv's acquisition of ThermoKey closes",
@@ -44,13 +58,6 @@
       "published": "2026-06-12T17:00:29.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "SpaceX goes public, Elon Musk becomes world's first trillionaire",
-      "url": "https://www.datacenterdynamics.com/en/news/spacex-goes-public-elon-musk-becomes-worlds-first-trillionaire/",
-      "description": "Shares jump on controversial listing",
-      "published": "2026-06-12T16:39:45.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "AI’s Next Data Center Challenge: Scaling Memory for the Inference Era",
       "url": "https://www.datacenterknowledge.com/data-center-chips/ai-s-next-data-center-challenge-scaling-memory-for-the-inference-era",
@@ -91,48 +98,6 @@
       "url": "https://www.datacenterknowledge.com/outages/google-cloud-disruptions-continue-after-india-data-center-fire",
       "description": "Google has rerouted traffic after a Delhi data center fire, but customers across Indian metros may still experience latency and packet loss.",
       "published": "2026-06-12T07:05:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "AWS Tunes Up Graviton5 For Agentic AI, Boosts Bang For The Buck Bigtime",
-      "url": "https://www.nextplatform.com/compute/2026/06/11/aws-tunes-up-graviton5-for-agentic-ai-boosts-bang-for-the-buck-bigtime/5254538",
-      "description": "",
-      "published": "2026-06-11T21:42:38.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Federal Colocation Readiness: What Data Center Operators Must Prove",
-      "url": "https://www.datacenterknowledge.com/colocation/federal-colocation-readiness-what-data-center-operators-must-prove",
-      "description": "Discover how commercial data centers can meet US federal needs for uptime, security, and compliance, with guidance on readiness, ATO, and procurement.",
-      "published": "2026-06-11T19:01:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "The Overlooked Reason AI Data Centers Use So Much Power",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/the-overlooked-reason-ai-data-centers-use-so-much-power",
-      "description": "AI workload volatility forces data centers to run secondary tasks, inflating energy use, infrastructure demands, costs, and grid pressure.",
-      "published": "2026-06-11T16:09:47.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Cost Per Genomics Sample? Try Cost Per Sequencing Attempt",
-      "url": "https://www.nextplatform.com/cloud/2026/06/11/cost-per-genomics-sample-try-cost-per-sequencing-attempt/5254177",
-      "description": "",
-      "published": "2026-06-11T13:11:01.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
-      "url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside soccer’s data renaissance Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally kick the ball out of ",
-      "published": "2026-06-11T12:10:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Will Co-Packaged Optics Transform Data Centers?",
-      "url": "https://www.datacenterknowledge.com/networking/will-co-packaged-optics-transform-data-centers-",
-      "description": "Co-packaged optics promise efficiency and performance gains for data centers, but challenges remain for widespread adoption.",
-      "published": "2026-06-11T09:00:00.000Z"
     }
   ]
 }

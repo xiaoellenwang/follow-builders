@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-06-14T05:00:04.949Z",
+  "generatedAt": "2026-06-15T05:19:46.783Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "The hidden pattern behind successful products | Mark Pincus (FarmVille, Words with Friends, & more)",
+      "url": "https://www.youtube.com/watch?v=7eh9C3TUotc",
+      "published": "2026-06-14T12:30:37.000Z",
+      "description": "Mark Pincus founded Zynga—the company behind Words With Friends, FarmVille, and Zynga Poker—and has arguably created more hit consumer products than anyone in history. At Zynga, eight of 10 major game launches became massive hits, reaching over a billion players. Over the past five years, Mark has b"
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "The first iPod wasn't a success",
@@ -21,13 +28,6 @@
       "url": "https://www.youtube.com/watch?v=y1a7sH3vteY",
       "published": "2026-06-09T11:00:33.000Z",
       "description": "#product #startup #productmanager #ai"
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "Tony Fadell: How to build real taste (and why AI makes it matter more)",
-      "url": "https://www.youtube.com/watch?v=RJjl1TwyfWM",
-      "published": "2026-06-07T12:30:05.000Z",
-      "description": "Tony Fadell created the iPod, co-created the iPhone, and founded Nest (which he sold to Google for $3.2 billion). He’s co-authored over 300 patents, was part of the legendary team at General Magic, and wrote one of the most important and inspiring books for builders, called Build.\n\n*In our in-depth "
     }
   ]
 }
