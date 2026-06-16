@@ -1,103 +1,124 @@
 {
-  "generatedAt": "2026-06-15T05:19:46.783Z",
+  "generatedAt": "2026-06-16T05:23:33.304Z",
   "articles": [
+    {
+      "source": "Data Center Knowledge",
+      "title": "Articul8 Lands Major Industrial AI Deal, Beats Big GenAI Rivals",
+      "url": "https://www.datacenterknowledge.com/business/articul8-lands-major-industrial-ai-deal-beats-big-genai-rivals",
+      "description": "AI startup says a multinational industrial software company selected its platform as the core GenAI engine for engineering, simulation, and operational workloads.",
+      "published": "2026-06-16T00:37:45.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "More Power To You – And To The Datacenters",
+      "url": "https://www.nextplatform.com/compute/2026/06/15/more-power-to-you-and-to-the-datacenters/5255892",
+      "description": "",
+      "published": "2026-06-15T20:38:54.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Why do South Koreans love AI so much?",
+      "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face an",
+      "published": "2026-06-15T18:46:08.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
+      "url": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
+      "description": "\n                        AMD's stripping of TSME from consumer CPUs appears to be a deliberate, covert move.\n                    ",
+      "published": "2026-06-15T17:55:46.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Avanti sells geostationary communication satellite to Japan's SKY Perfect JSAT",
+      "url": "https://www.datacenterdynamics.com/en/news/avanti-sells-geostationary-communication-satellite-to-japans-sky-perfect-jsat/",
+      "description": "Company sells HYLAS 3",
+      "published": "2026-06-15T17:00:31.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Hyperco files to build another data center in Kouvola",
+      "url": "https://www.datacenterdynamics.com/en/news/hyperco-files-to-build-another-data-center-in-kouvola/",
+      "description": "Company expanding existing site with second building",
+      "published": "2026-06-15T16:50:30.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Greenidge crypto mining plant workers win first union contract",
+      "url": "https://www.datacenterdynamics.com/en/news/greenidge-crypto-mining-plant-workers-win-first-union-contract/",
+      "description": "Workers at Dresden Bitcoin mining site ratify IBEW contract",
+      "published": "2026-06-15T16:30:31.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Canaan to provide crypto waste heart to nordic district heating network",
+      "url": "https://www.datacenterdynamics.com/en/news/canaan-to-provide-crypto-waste-heart-to-nordic-district-heating-network/",
+      "description": "Miner to offer up to 8MW of waste heat",
+      "published": "2026-06-15T16:30:29.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Amazon files to place ground station in Kenya - report",
+      "url": "https://www.datacenterdynamics.com/en/news/amazon-files-to-place-ground-station-in-kenya-report/",
+      "description": "Cloud firm looking to expand ground support for Leo network",
+      "published": "2026-06-15T16:20:30.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
+      "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
+      "description": "Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (BCI) to “speak” sentences with the help of a research team in 2023. Since then, Harrell has clocked ",
+      "published": "2026-06-15T15:12:28.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Discover 2026: HPE Bets on Hybrid Quantum-Supercomputing Architectures",
+      "url": "https://www.datacenterknowledge.com/infrastructure/discover-2026-hpe-bets-on-hybrid-quantum-supercomputing-architectures",
+      "description": "HPE expands quantum partnerships as it works to connect supercomputers, AI systems, and quantum processors in future hybrid environments.",
+      "published": "2026-06-15T14:32:53.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: cutting AC emissions, and nature’s drug designer",
+      "url": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These new solid-state ACs promise a cool future. Scientists aren’t so sure. After three years of record-­breaking heat and another scorcher underway, ",
+      "published": "2026-06-15T12:10:00.000Z"
+    },
+    {
+      "source": "Import AI",
+      "title": "Import AI 461: “Alignment is not on track”; FrontierCode; and synthetic research interns",
+      "url": "https://jack-clark.net/2026/06/15/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/",
+      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI researchers launch new safety startup because “alignment is not on track”:…Sequent will have a portfolio of under-r",
+      "published": "2026-06-15T11:30:53.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "QumulusAI’s $124M Deal Spotlights AI Infrastructure’s Utilization Challenge",
+      "url": "https://www.datacenterknowledge.com/business/qumulusai-s-124m-deal-highlights-ai-infrastructure-s-next-challenge-utilization",
+      "description": "Hyperbolic and QumulusAI say customers now care as much about utilization, efficiency, and production operations as raw GPU capacity.",
+      "published": "2026-06-15T10:53:40.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
+      "url": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
+      "description": "After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will triple by 2050. That’s good for health—one Lancet study estimated that AC prevented nearly 200,000 p",
+      "published": "2026-06-15T09:00:00.000Z"
+    },
     {
       "source": "Data Center Knowledge",
       "title": "Data Centers’ Next Hurdle: Winning Public Trust and Social License",
       "url": "https://www.datacenterknowledge.com/build-design/ai-infrastructure-s-new-constraint-public-trust",
-      "description": "The industry faces a “public legitimacy problem”: winning social license and trust is now as essential to approvals as securing megawatts and permits.",
+      "description": "The industry faces a “public legitimacy challenge,” where earning social license and trust has become as critical to success as obtaining megawatts and permits.",
       "published": "2026-06-15T09:00:00.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Data centers are getting caught up in conflict. What does this mean for cloud strategy?",
-      "url": "https://www.datacenterdynamics.com/en/opinions/data-centers-are-getting-caught-up-in-conflict-what-does-this-mean-for-cloud-strategy/",
-      "description": "From regional disruption to sudden outages, organizations are being forced to design infrastructure that can withstand events beyond their control",
-      "published": "2026-06-14T11:00:29.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Vertiv's acquisition of ThermoKey closes",
-      "url": "https://www.datacenterdynamics.com/en/news/vertivs-acquisition-of-thermokey-closes/",
-      "description": "Expands cooling tech with Italian deal",
-      "published": "2026-06-13T09:00:24.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: Rethinking data center cooling for AI: The rise of direct-to-chip liquid cooling",
-      "url": "https://www.datacenterdynamics.com/en/opinions/rethinking-data-center-cooling-for-ai-the-rise-of-direct-to-chip-liquid-cooling/",
-      "description": "As the demand for AI and HPC infrastructure continues to grow, the move from air cooling to liquid cooling will become increasingly important for cooling AI workloads",
-      "published": "2026-06-13T07:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
-      "url": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
-      "description": "\n                        Vulnerability in the Oracle-owned PeopleSoft software is about as critical as they come.\n                    ",
-      "published": "2026-06-12T19:26:47.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "While Oracle Will Rake In Big Bucks On AI, Profits Are Hard To Predict",
-      "url": "https://www.nextplatform.com/cloud/2026/06/12/while-oracle-will-rake-in-big-bucks-on-ai-profits-are-hard-to-predict/5255098",
-      "description": "",
-      "published": "2026-06-12T18:08:22.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Amazon data centers used 2.5bn gallons of water in 2025",
-      "url": "https://www.datacenterdynamics.com/en/news/amazon-data-centers-used-25bn-gallons-of-water-in-2025/",
-      "description": "AWS shares the small number, as anti-data center protests focus on water usage",
-      "published": "2026-06-12T17:40:30.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sentinel DC backs off paper mill data center project in Maine",
-      "url": "https://www.datacenterdynamics.com/en/news/sentinel-dc-backs-off-paper-mill-data-center-project-in-maine/",
-      "description": "Company drops plans, even after state-wide moratorium was vetoed by the governor",
-      "published": "2026-06-12T17:00:29.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "AI’s Next Data Center Challenge: Scaling Memory for the Inference Era",
-      "url": "https://www.datacenterknowledge.com/data-center-chips/ai-s-next-data-center-challenge-scaling-memory-for-the-inference-era",
-      "description": "AI inference needs scalable memory, not just compute. CXL decouples the two, letting data centers scale memory independently and avoid overbuying expensive processors.",
-      "published": "2026-06-12T16:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
-      "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing aging right now Earlier this week, Life Biosciences, a biotech company focused on reversing ",
-      "published": "2026-06-12T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "You do your own time",
-      "url": "https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/",
-      "description": "There we were, a regular murderers’ row of librarians. Little Jo. Eustace. And me. Turning around in the nave of our library to greet the sound of footsteps, pistols leveled in case whoever was coming in didn’t respect sanctuary. Little Jo had a stack of books under one arm. Eustace was holding the ",
-      "published": "2026-06-12T10:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
-      "url": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
-      "description": "Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first volunteer. A person with glaucoma has had an experimental treatment injected straight into their eyeball. The idea is to try to treat the disease—which can cause vi",
-      "published": "2026-06-12T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Inside interoception: The hidden sense of how you feel inside",
-      "url": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
-      "description": "MIT Technology Review&#160;Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next.&#160;You can read more from the series here. Your brain lives in the dark space of your skull. Yet it knows when the wind lifts the hairs on you",
-      "published": "2026-06-12T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Google Cloud Disruptions Continue After India Data Center Fire",
-      "url": "https://www.datacenterknowledge.com/outages/google-cloud-disruptions-continue-after-india-data-center-fire",
-      "description": "Google has rerouted traffic after a Delhi data center fire, but customers across Indian metros may still experience latency and packet loss.",
-      "published": "2026-06-12T07:05:00.000Z"
+      "source": "DataEngineeringWeekly",
+      "title": "Data Engineering Weekly #274",
+      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-274",
+      "description": "The Weekly Data Engineering Newsletter",
+      "published": "2026-06-15T05:29:03.000Z"
     }
   ]
 }
