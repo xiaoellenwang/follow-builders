@@ -1,6 +1,118 @@
 {
-  "generatedAt": "2026-06-16T05:23:33.304Z",
+  "generatedAt": "2026-06-17T05:02:56.481Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "Bharti Airtel shareholders vote in favor to increase Airtel Africa stake",
+      "url": "https://www.datacenterdynamics.com/en/news/bharti-airtel-shareholders-vote-in-favor-to-increase-airtel-africa-stake/",
+      "description": "Shareholders unanimous in their approval",
+      "published": "2026-06-17T04:00:25.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Orca deploys quantum computer in Japan",
+      "url": "https://www.datacenterdynamics.com/en/news/orca-deploys-quantum-computer-in-japan/",
+      "description": "Company partners with Toyota Tsusho on enterprise deployment",
+      "published": "2026-06-16T23:10:24.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "From Grid Constraints to On-Site Solutions: The Future of Data Center Power",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/from-grid-constraints-to-on-site-solutions-the-future-of-data-center-power",
+      "description": "On-site power solutions are increasingly helping data centers overcome grid delays and meet growing energy demands.",
+      "published": "2026-06-16T23:05:08.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Year of free HPE software a “step in the correct direction” in VMware rivalry",
+      "url": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
+      "description": "\n                        Partner tells Ars that HPE should be giving out more free VM Essentials licenses. \n                    ",
+      "published": "2026-06-16T22:11:15.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "DC Blox data center in eastern Indianapolis receives recommendation for approval",
+      "url": "https://www.datacenterdynamics.com/en/news/dc-blox-data-center-in-eastern-indianapolis-receives-recommendation-for-approval/",
+      "description": "Another data center could come to Indianapolis",
+      "published": "2026-06-16T21:00:34.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Exclusive eBook: How AI is becoming the next military advisor",
+      "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+      "description": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. by Jame",
+      "published": "2026-06-16T20:35:02.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "DataBank secures $1.45bn for data center build-out",
+      "url": "https://www.datacenterdynamics.com/en/news/databank-secures-145bn-for-data-center-build-out/",
+      "description": "Part of financing to fuel construction of Red Oak campus in Texas",
+      "published": "2026-06-16T20:00:29.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "HPE Puts Networking at the Center of AI at Discover 2026",
+      "url": "https://www.datacenterknowledge.com/infrastructure/hpe-puts-networking-at-the-center-of-its-ai-strategy-at-discover-2026",
+      "description": "CEO Antonio Neri outlined the company’s “agentic enterprise” vision as HPE deepens Juniper integration and expands AI infrastructure portfolio.",
+      "published": "2026-06-16T19:19:17.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "AWS to host QuEra's next generation quantum computer",
+      "url": "https://www.datacenterdynamics.com/en/news/aws-to-host-queras-next-generation-quantum-computer/",
+      "description": "QuEra's Libra system due on AWS Braket from 2028",
+      "published": "2026-06-16T19:00:33.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Tensordyne Converts AI Matrix Math To Logs To Crank Up Inference Oomph",
+      "url": "https://www.nextplatform.com/compute/2026/06/16/tensordyne-converts-ai-matrix-math-to-logs-to-crank-up-inference-oomph/5256558",
+      "description": "",
+      "published": "2026-06-16T18:52:27.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "QuEra’s Libra Fault-Tolerant Quantum System Heading To Amazon Braket Service",
+      "url": "https://www.nextplatform.com/compute/2026/06/16/queras-libra-fault-tolerant-quantum-system-heading-to-amazon-braket-service/5256477",
+      "description": "",
+      "published": "2026-06-16T16:47:15.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "HPE Interview: Why Data Center Efficiency Is Now Core to IT Decisions",
+      "url": "https://www.datacenterknowledge.com/infrastructure/hpe-s-andrew-desrochers-on-why-efficiency-is-now-an-it-planning-imperative",
+      "description": "As AI infrastructure scales, HPE’s Andrew DesRochers explains how power availability, cooling, utility timelines, and water use are becoming core IT planning priorities.",
+      "published": "2026-06-16T14:55:31.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: the first brain implant power user and South Korea’s AI obsession",
+      "url": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This man with ALS is the first “power user” of a brain implant that lets him speak Casey Harrell has had a set of electrodes embedded in his brain for",
+      "published": "2026-06-16T12:10:00.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
+      "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+      "description": "\n                        SearchLeak exploit shows why the industry's approach to LLM security fails over and over.\n                    ",
+      "published": "2026-06-16T11:15:46.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Data Centers in Space: Hype, Reality, and the Long Timeline Ahead",
+      "url": "https://www.datacenterknowledge.com/next-gen-data-centers/data-centers-in-space-hype-reality-and-the-long-timeline-ahead",
+      "description": "SpaceX and others are exploring orbital data centers that promise limitless solar power, but these facilities face significant hurdles in cost, technology, and scalability.",
+      "published": "2026-06-16T09:05:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Want to get a data center online quickly? Give it some flex.",
+      "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+      "description": "At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments of stress: They made tea. That wave of electric kettles clicking on, however, caused a different&#82",
+      "published": "2026-06-16T09:00:00.000Z"
+    },
     {
       "source": "Data Center Knowledge",
       "title": "Articul8 Lands Major Industrial AI Deal, Beats Big GenAI Rivals",
@@ -19,7 +131,7 @@
       "source": "MIT Technology Review",
       "title": "Why do South Koreans love AI so much?",
       "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
-      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face an",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my fa",
       "published": "2026-06-15T18:46:08.000Z"
     },
     {
@@ -28,97 +140,6 @@
       "url": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
       "description": "\n                        AMD's stripping of TSME from consumer CPUs appears to be a deliberate, covert move.\n                    ",
       "published": "2026-06-15T17:55:46.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Avanti sells geostationary communication satellite to Japan's SKY Perfect JSAT",
-      "url": "https://www.datacenterdynamics.com/en/news/avanti-sells-geostationary-communication-satellite-to-japans-sky-perfect-jsat/",
-      "description": "Company sells HYLAS 3",
-      "published": "2026-06-15T17:00:31.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Hyperco files to build another data center in Kouvola",
-      "url": "https://www.datacenterdynamics.com/en/news/hyperco-files-to-build-another-data-center-in-kouvola/",
-      "description": "Company expanding existing site with second building",
-      "published": "2026-06-15T16:50:30.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Greenidge crypto mining plant workers win first union contract",
-      "url": "https://www.datacenterdynamics.com/en/news/greenidge-crypto-mining-plant-workers-win-first-union-contract/",
-      "description": "Workers at Dresden Bitcoin mining site ratify IBEW contract",
-      "published": "2026-06-15T16:30:31.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Canaan to provide crypto waste heart to nordic district heating network",
-      "url": "https://www.datacenterdynamics.com/en/news/canaan-to-provide-crypto-waste-heart-to-nordic-district-heating-network/",
-      "description": "Miner to offer up to 8MW of waste heat",
-      "published": "2026-06-15T16:30:29.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Amazon files to place ground station in Kenya - report",
-      "url": "https://www.datacenterdynamics.com/en/news/amazon-files-to-place-ground-station-in-kenya-report/",
-      "description": "Cloud firm looking to expand ground support for Leo network",
-      "published": "2026-06-15T16:20:30.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
-      "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
-      "description": "Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (BCI) to “speak” sentences with the help of a research team in 2023. Since then, Harrell has clocked ",
-      "published": "2026-06-15T15:12:28.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Discover 2026: HPE Bets on Hybrid Quantum-Supercomputing Architectures",
-      "url": "https://www.datacenterknowledge.com/infrastructure/discover-2026-hpe-bets-on-hybrid-quantum-supercomputing-architectures",
-      "description": "HPE expands quantum partnerships as it works to connect supercomputers, AI systems, and quantum processors in future hybrid environments.",
-      "published": "2026-06-15T14:32:53.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: cutting AC emissions, and nature’s drug designer",
-      "url": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These new solid-state ACs promise a cool future. Scientists aren’t so sure. After three years of record-­breaking heat and another scorcher underway, ",
-      "published": "2026-06-15T12:10:00.000Z"
-    },
-    {
-      "source": "Import AI",
-      "title": "Import AI 461: “Alignment is not on track”; FrontierCode; and synthetic research interns",
-      "url": "https://jack-clark.net/2026/06/15/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/",
-      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI researchers launch new safety startup because “alignment is not on track”:…Sequent will have a portfolio of under-r",
-      "published": "2026-06-15T11:30:53.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "QumulusAI’s $124M Deal Spotlights AI Infrastructure’s Utilization Challenge",
-      "url": "https://www.datacenterknowledge.com/business/qumulusai-s-124m-deal-highlights-ai-infrastructure-s-next-challenge-utilization",
-      "description": "Hyperbolic and QumulusAI say customers now care as much about utilization, efficiency, and production operations as raw GPU capacity.",
-      "published": "2026-06-15T10:53:40.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
-      "url": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
-      "description": "After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will triple by 2050. That’s good for health—one Lancet study estimated that AC prevented nearly 200,000 p",
-      "published": "2026-06-15T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Data Centers’ Next Hurdle: Winning Public Trust and Social License",
-      "url": "https://www.datacenterknowledge.com/build-design/ai-infrastructure-s-new-constraint-public-trust",
-      "description": "The industry faces a “public legitimacy challenge,” where earning social license and trust has become as critical to success as obtaining megawatts and permits.",
-      "published": "2026-06-15T09:00:00.000Z"
-    },
-    {
-      "source": "DataEngineeringWeekly",
-      "title": "Data Engineering Weekly #274",
-      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-274",
-      "description": "The Weekly Data Engineering Newsletter",
-      "published": "2026-06-15T05:29:03.000Z"
     }
   ]
 }
