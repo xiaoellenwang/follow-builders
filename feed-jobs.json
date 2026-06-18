@@ -1,200 +1,200 @@
 {
-  "generatedAt": "2026-06-17T05:02:56.481Z",
+  "generatedAt": "2026-06-18T04:52:13.905Z",
   "jobs": [
     {
-      "title": "AI Product Engineer",
-      "company": "ASK & EMBLA GALACTIC PTE. LTD.",
-      "salary": "S$4,500 – S$6,000",
+      "title": "Platform Professional Services Senior Consultant - AI",
+      "company": "CROWDSTRIKE SINGAPORE PTE. LTD.",
+      "salary": "S$11,666 – S$15,833",
+      "type": "Permanent",
+      "skills": [
+        "ETL",
+        "reduce false-positives",
+        "Operations and Maintenance"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/cc19ae571555e38003fd66f2255aa6d0",
+      "posted": "2026-06-18T04:12:49.000Z"
+    },
+    {
+      "title": "🤖 Junior AI Engineer, Assurance (Hybrid)",
+      "company": "SEACARE MANPOWER SERVICES PTE LTD",
+      "salary": "S$4,800 – S$6,500",
+      "type": "Contract",
+      "skills": [
+        "Analytical Approach",
+        "Communication",
+        "Dashboards"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/8b7634be436ca74f259b786e059bb078",
+      "posted": "2026-06-18T04:08:09.000Z"
+    },
+    {
+      "title": "AI Presales Architect",
+      "company": "MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD",
+      "salary": "S$13,000 – S$18,000",
+      "type": "Contract",
+      "skills": [
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Presales"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/71d51bc650b31d5563f696dd87ad861b",
+      "posted": "2026-06-18T03:26:43.000Z"
+    },
+    {
+      "title": "Backend Software Engineer (AI Coding) - TikTok Live Revenue",
+      "company": "TIKTOK PTE. LTD.",
+      "salary": "S$12,000 – S$24,000",
       "type": "Full Time",
       "skills": [
-        "TensorFlow",
-        "Teamwork",
-        "Process Improvement"
+        "Asset Management",
+        "PHP",
+        "Data Structures"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/ed957f1d03390f5d51bf20ac9f870ac2",
-      "posted": "2026-06-17T04:41:11.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/9192237d26a0f24d311db662ed9fbe99",
+      "posted": "2026-06-18T03:22:32.000Z"
     },
     {
-      "title": "Project Engineer (AI Infrastructure & Data Centre Solutions)",
-      "company": "QUETTAFLOW TECHNOLOGIES PTE. LTD.",
-      "salary": "S$3,500 – S$7,000",
+      "title": "Backend Software Engineer (AI Coding), TikTok Live Revenue",
+      "company": "TIKTOK PTE. LTD.",
+      "salary": "S$7,000 – S$14,000",
+      "type": "Full Time",
+      "skills": [
+        "Asset Management",
+        "PHP",
+        "Data Structures"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/ffdbe75a5265199483dcb3a6e6db4e3e",
+      "posted": "2026-06-18T03:21:34.000Z"
+    },
+    {
+      "title": "Lead/Tech Expert - Global Live (LLM Model Serving)",
+      "company": "TIKTOK PTE. LTD.",
+      "salary": "S$12,000 – S$24,000",
       "type": "Permanent",
       "skills": [
-        "customer event coordination",
-        "Factory Acceptance Testing",
-        "Data Center"
+        "Machine Learning",
+        "Big Data",
+        "Design Patterns"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/66b8562e961d7689956c394391bac63b",
-      "posted": "2026-06-17T04:33:36.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/e3f2f9883c4195b195a0c401464d8f6a",
+      "posted": "2026-06-18T03:19:09.000Z"
     },
     {
-      "title": "AI Engineering Lead",
-      "company": "SUNTORY BEVERAGE & FOOD ASIA PTE. LTD.",
-      "salary": "S$9,000 – S$11,000",
+      "title": "Tech Expert/Backend Engineer - Global Live (LLM)",
+      "company": "TIKTOK PTE. LTD.",
+      "salary": "S$12,000 – S$24,000",
       "type": "Permanent",
+      "skills": [
+        "Machine Learning",
+        "Big Data",
+        "Design Patterns"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/d8ee0bdf3782247be95f746f18a18d1d",
+      "posted": "2026-06-18T03:16:25.000Z"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "EVOLUT HOLDINGS PTE. LTD.",
+      "salary": "S$3,800 – S$4,500",
+      "type": "Full Time",
+      "skills": [
+        "product development strategies",
+        "scalable solutions",
+        "Cost Management"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/c731f4c1d3efbfe90b08832d92b0e7a9",
+      "posted": "2026-06-18T03:13:22.000Z"
+    },
+    {
+      "title": "Backend Engineer - Global Live (AI Infrastructure) - Singapore",
+      "company": "TIKTOK PTE. LTD.",
+      "salary": "S$12,000 – S$24,000",
+      "type": "Permanent",
+      "skills": [
+        "Design Patterns",
+        "Software Engineering",
+        "MySQL"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/a35faeb5075d4ffc852c4cf398365e75",
+      "posted": "2026-06-18T03:13:11.000Z"
+    },
+    {
+      "title": "Backend Engineer, Global Live (AI Infrastructure) - Singapore",
+      "company": "TIKTOK PTE. LTD.",
+      "salary": "S$7,000 – S$14,000",
+      "type": "Permanent",
+      "skills": [
+        "Design Patterns",
+        "Software Engineering",
+        "MySQL"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/2213fe014958b7b1cf822a932ceed6b0",
+      "posted": "2026-06-18T03:11:19.000Z"
+    },
+    {
+      "title": "AI Agent Engineer - TikTok Live (Singapore)",
+      "company": "TIKTOK PTE. LTD.",
+      "salary": "S$12,000 – S$24,000",
+      "type": "Full Time",
+      "skills": [
+        "Asset Management",
+        "PHP",
+        "Data Structures"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/e11320f4baf6fb7fe42773cc734690b7",
+      "posted": "2026-06-18T02:48:18.000Z"
+    },
+    {
+      "title": "AI Agent Engineer, TikTok Live (Singapore)",
+      "company": "TIKTOK PTE. LTD.",
+      "salary": "S$7,000 – S$14,000",
+      "type": "Full Time",
+      "skills": [
+        "Asset Management",
+        "PHP",
+        "Data Structures"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/cf61c310157579602cc4453391243e04",
+      "posted": "2026-06-18T02:47:08.000Z"
+    },
+    {
+      "title": "AI Cyber Security Engineer",
+      "company": "U3 SOLUTIONS PTE. LTD.",
+      "salary": "S$7,500 – S$13,000",
+      "type": "Contract",
       "skills": [
         "Certifications",
-        "Enterprise IT Infrastructure",
-        "Change Management"
+        "Terraform",
+        "Security Compliance"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/ec8db7bb304c698bd34becf1d3297d9a",
-      "posted": "2026-06-17T03:35:19.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/41118b0b098d824bb494dace006da476",
+      "posted": "2026-06-18T02:01:45.000Z"
     },
     {
-      "title": "Machine Learning Engineer (Recommendation) - CapCut",
-      "company": "TIKTOK PTE. LTD.",
-      "salary": "S$11,250 – S$22,500",
-      "type": "Full Time",
+      "title": "AI Cyber Security Engineer",
+      "company": "U3 INFOTECH PTE. LTD.",
+      "salary": "S$8,000 – S$13,000",
+      "type": "Contract",
       "skills": [
-        "Performance Testing",
-        "Natural Language Processing",
-        "managing large volumes of data"
+        "Certifications",
+        "Security Compliance",
+        "Kubernetes"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/4445df682a475ebc5d73165b301a30de",
-      "posted": "2026-06-17T03:32:09.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/90530be103e2e94287347a8128bae001",
+      "posted": "2026-06-18T01:57:09.000Z"
     },
     {
-      "title": "Data Science Engineer (AI / Machine Learning)",
-      "company": "GMP TECHNOLOGIES (S) PTE LTD",
-      "salary": "S$3,000 – S$4,000",
-      "type": "Permanent",
+      "title": "Research Fellow (Artificial Intelligence)",
+      "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
+      "salary": "S$6,000 – S$12,000",
+      "type": "Contract",
       "skills": [
-        "Deep learning",
-        "Machine Learning",
-        "Oracle"
+        "Report Writing",
+        "Quarterly reports",
+        "Partner Development"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/454e53c6e8237c96e762f20685e7474c",
-      "posted": "2026-06-17T02:48:42.000Z"
-    },
-    {
-      "title": "Research Engineer (Data Analytics and AI Innovation)",
-      "company": "NATIONAL UNIVERSITY OF SINGAPORE",
-      "salary": "S$5,200 – S$6,000",
-      "type": "Full Time",
-      "skills": [
-        "Design",
-        "Designs",
-        "Innovation"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/3cfc6c61dbb42525dbff306b0d3d1292",
-      "posted": "2026-06-17T01:29:30.000Z"
-    },
-    {
-      "title": "IT Engineer - Digitization and AI Specialist",
-      "company": "ACCLAIM SYSTEMS PTE. LTD.",
-      "salary": "S$3,500 – S$5,000",
-      "type": "Full Time",
-      "skills": [
-        "Digital Integration",
-        "Microsoft Office",
-        "IT Infrastructure Management"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/886482d216969be79328002a774e9dd7",
-      "posted": "2026-06-17T00:53:06.000Z"
-    },
-    {
-      "title": "Machine Learning Engineer Intern (Computer Vision & AI) (August 2026)",
-      "company": "CYNAPSE PTE. LTD.",
-      "salary": "S$1,100 – S$1,500",
-      "type": "Internship/Attachment",
-      "skills": [
-        "Machine Learning",
-        "Git",
-        "Pipelines"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/ea1982f524ee35ba11927ddb57610011",
-      "posted": "2026-06-16T09:01:03.000Z"
-    },
-    {
-      "title": "AI/ML Solution Architect - Agentic Automation (Managed Services) - Consulting",
-      "company": "Ernst & Young Advisory PTE. LTD.",
-      "salary": "S$12,000 – S$20,000",
-      "type": "Permanent",
-      "skills": [
-        "Coaching",
-        "Machine Learning",
-        "Digital"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/ab095a536c56335a751374ce1234acf2",
-      "posted": "2026-06-16T08:52:06.000Z"
-    },
-    {
-      "title": "AI Practice Delivery Lead (Senior Manager) / Technology Consulting",
-      "company": "Ernst & Young Advisory PTE. LTD.",
-      "salary": "S$12,000 – S$18,000",
-      "type": "Permanent",
-      "skills": [
-        "Machine Learning",
-        "Application Architecture",
-        "Management Consulting"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/63363a7d2c4e85cd256402920a06f85b",
-      "posted": "2026-06-16T07:12:49.000Z"
-    },
-    {
-      "title": "AI Engineer, Manager - Technology Consulting",
-      "company": "Ernst & Young Advisory PTE. LTD.",
-      "salary": "S$8,000 – S$12,000",
-      "type": "Permanent",
-      "skills": [
-        "Ontology",
-        "Machine Learning",
-        "Application Architecture"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/846c0f80a22b3eabf098cdbdaab9f6ef",
-      "posted": "2026-06-16T06:56:54.000Z"
-    },
-    {
-      "title": "AI Engineer (Software Development)",
-      "company": "SEATRIUM (SG) PTE. LTD.",
-      "salary": "S$3,500 – S$5,000",
-      "type": "Full Time",
-      "skills": [
-        "TensorFlow",
-        "Machine Learning",
-        "Business Intelligence"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/55fd2b0618aa6a5ee050d236209ebe34",
-      "posted": "2026-06-16T04:32:59.000Z"
-    },
-    {
-      "title": "AI Engineer",
-      "company": "SEATRIUM (SG) PTE. LTD.",
-      "salary": "S$3,500 – S$5,000",
-      "type": "Full Time",
-      "skills": [
-        "TensorFlow",
-        "Machine Learning",
-        "Business Intelligence"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/8d33992399378b23c3eafab2b24c2b9b",
-      "posted": "2026-06-16T04:31:43.000Z"
-    },
-    {
-      "title": "AI Engineer",
-      "company": "SIMPLIFYNEXT PTE. LTD.",
-      "salary": "S$5,500 – S$8,000",
-      "type": "Permanent",
-      "skills": [
-        "TensorFlow",
-        "Machine Learning",
-        "Git"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/548dae90f92723372f1a86c28739faff",
-      "posted": "2026-06-16T02:27:21.000Z"
-    },
-    {
-      "title": "AI Engineer",
-      "company": "FRAGMENT WORKS PTE. LTD.",
-      "salary": "S$5,500 – S$7,500",
-      "type": "Permanent",
-      "skills": [
-        "Machine Learning",
-        "Data Ingestion",
-        "Engineering Mathematics"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/d0bc882b9aec66b440b1c87971c04c86",
-      "posted": "2026-06-16T02:00:36.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/0ff20bbdf0335c925e4198acf16084f4",
+      "posted": "2026-06-18T00:58:47.000Z"
     }
   ]
 }
