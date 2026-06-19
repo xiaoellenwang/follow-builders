@@ -1,19 +1,96 @@
 {
-  "generatedAt": "2026-06-18T04:52:13.905Z",
+  "generatedAt": "2026-06-19T05:13:18.110Z",
   "articles": [
     {
-      "source": "Data Center Dynamics",
-      "title": "Equinix launches sixth data center in Hong Kong",
-      "url": "https://www.datacenterdynamics.com/en/news/equinix-launches-sixth-data-center-in-hong-kong/",
-      "description": "Company launches HK6 for AI and high density workloads",
-      "published": "2026-06-18T01:00:33.000Z"
+      "source": "Ars Technica Tech",
+      "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+      "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+      "description": "\n                        Crypto Clipper spreads over USB and communicates over Tor.\n                    ",
+      "published": "2026-06-18T23:28:52.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "FERC Targets Grid Rules for Data Centers and Large Loads",
+      "url": "https://www.datacenterknowledge.com/build-design/ferc-targets-grid-rules-for-data-centers-and-large-loads",
+      "description": "FERC gave six grid operators 60 days to justify or revise large-load tariffs and 30 days to explain how they will power growing AI demand.",
+      "published": "2026-06-18T20:12:08.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
+      "url": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
+      "description": "\n                        The vulnerability, disclosed 12 months ago, affects multiple manufacturers.\n                    ",
+      "published": "2026-06-18T19:41:35.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "STT GDC launches data center in Seoul, South Korea",
-      "url": "https://www.datacenterdynamics.com/en/news/stt-gdc-launches-data-center-in-seoul-south-korea/",
-      "description": "Company's first facility in Korea",
-      "published": "2026-06-18T00:00:27.000Z"
+      "title": "High-performance computing system ‘FRIDA’ launched in Slovenia",
+      "url": "https://www.datacenterdynamics.com/en/news/high-performance-computing-system-frida-launched-in-slovenia/",
+      "description": "System will enable new AI collaborations between Slovenian academics and businesses",
+      "published": "2026-06-18T18:00:31.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
+      "url": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
+      "description": "\n                        One previously unreported SpaceX investor has ties to Chinese military contractors.\n                    ",
+      "published": "2026-06-18T17:42:18.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Colo provider MIRhosting sees equipment disconnected at Netherlands data center",
+      "url": "https://www.datacenterdynamics.com/en/news/colo-provider-mirhosting-sees-equipment-disconnected-at-netherlands-data-center/",
+      "description": "Comes one week after 800 serves seized from customer of MIRhosting",
+      "published": "2026-06-18T17:00:31.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Google unveils new open-source liquid-to-air cooling sidecar for air-cooled environments",
+      "url": "https://www.datacenterdynamics.com/en/news/google-unveils-new-open-source-liquid-to-air-cooling-sidecar-for-air-cooled-environments/",
+      "description": "Dubbed Brazos, the new system furthers OCP development of sidecar designs",
+      "published": "2026-06-18T16:30:33.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Firstcolo breaks ground on data center in Rosbach vor der Höhe, Germany",
+      "url": "https://www.datacenterdynamics.com/en/news/firstcolo-breaks-ground-on-data-center-in-rosbach-vor-der-h%C3%B6he-germany/",
+      "description": "Choice of location determined by lack of suitable grid connections in Frankfurt",
+      "published": "2026-06-18T16:18:15.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "A perfect storm: data centers and tornadoes",
+      "url": "https://www.datacenterdynamics.com/en/analysis/a-perfect-storm-data-centers-and-tornadoes/",
+      "description": "The cloud goes up against its older, tempestuous brother",
+      "published": "2026-06-18T16:00:35.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
+      "url": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The search for dark matter has been blown wide open For decades, physicists have hunted for weakly interacting massive particles (WIMPs), a leading ca",
+      "published": "2026-06-18T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Geoengineering still faces major practical challenges",
+      "url": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
+      "description": "Solar geoengineering is often portrayed as a sort of emergency brake. Something along the lines of Pull in case of climate emergency to scatter light-reflecting particles to bounce sunlight out of the atmosphere and cool the planet. But it might be less like a simple brake and more like a complicate",
+      "published": "2026-06-18T10:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The search for dark matter has been blown wide open",
+      "url": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/",
+      "description": "Underneath an Apennine massif, below the Jinping Mountains of Sichuan, and at the bottom of a South Dakota mine, there is a cosmic hunt afoot. Isolated deep beneath these rocky shields, massive detectors filled with liquid xenon aim to make the first direct detections of dark matter, the long-sought",
+      "published": "2026-06-18T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Battery Storage Moves Closer to Data Centers, but Challenges Persist",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/battery-storage-edges-closer-to-the-data-center-but-questions-linger",
+      "description": "Operators are deploying battery systems to support reliability and grid flexibility, but cost, performance, and complexity still hinder adoption.",
+      "published": "2026-06-18T08:55:00.000Z"
     },
     {
       "source": "The Next Platform",
@@ -58,88 +135,11 @@
       "published": "2026-06-17T19:43:13.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Oracle denies $3bn Microsoft data center deal collapsed over security and compliance concerns",
-      "url": "https://www.datacenterdynamics.com/en/news/oracle-denies-3bn-microsoft-data-center-deal-collapsed-over-security-and-compliance-concerns/",
-      "description": "The two were previously in discussion for a lease deal",
-      "published": "2026-06-17T18:51:56.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "\"Dangerous\" AI models are coming no matter what",
-      "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
-      "description": "\n                        AI models with advanced hacking capabilities will soon be the norm.\n                    ",
-      "published": "2026-06-17T17:50:46.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Microsoft's Azure Core CTO latest to join Anthropic",
-      "url": "https://www.datacenterdynamics.com/en/news/microsofts-azure-core-cto-latest-to-join-anthropic/",
-      "description": "Marcus Fontoura aims to \"help build the next generation of AI systems\"",
-      "published": "2026-06-17T16:53:53.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Former shoe company Allbirds becomes Smartbird, appoints former AWS quantum exec as part of AI cloud pivot",
-      "url": "https://www.datacenterdynamics.com/en/news/former-shoe-company-allbirds-becomes-smartbird-appoints-former-aws-quantum-exec-as-part-of-ai-pivot/",
-      "description": "Shares jump again for wannabe neocloud",
-      "published": "2026-06-17T16:41:00.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "Why Validation Will Define the Future of HPC and AI",
       "url": "https://www.datacenterknowledge.com/ai-data-centers/why-validation-will-define-the-future-of-hpc-and-ai",
       "description": "As AI becomes part of HPC workflows, validation, data quality, and trust are emerging as key factors in technology and buying decisions.",
       "published": "2026-06-17T16:23:29.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "HPE, Vultr Go All In on AI Inference Data Center Growth",
-      "url": "https://www.datacenterknowledge.com/business/hpe-vultr-go-all-in-on-ai-inference-data-center-growth",
-      "description": "Vultr selects HPE and Nvidia AI infrastructure as enterprise demand shifts from model training to production inference and large-scale deployments.",
-      "published": "2026-06-17T15:30:38.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: a reality check for geoengineering and the science of interoception",
-      "url": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the c",
-      "published": "2026-06-17T12:10:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Windows and Linux users: The deadline to update Secure Boot keys is near",
-      "url": "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/",
-      "description": "\n                        What you need to know about the expiration of keys securing your machine's boot sequence.\n                    ",
-      "published": "2026-06-17T11:15:17.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Entrepreneurs in Nairobi make the case for going solar",
-      "url": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
-      "description": "Most of Kenya’s power grid runs on renewables. But with 25% of communities lacking centralized electricity, the nation is looking to off-grid solar to hit its goal of delivering universal electricity access by 2030 without driving up emissions. The ever-­improving economics of solar technology have ",
-      "published": "2026-06-17T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Hacking the atmosphere: Geoengineering gets a reality check",
-      "url": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/",
-      "description": "Jim Franke pulls away the cover page of a presentation on the wraparound desk in his office, revealing an illustration of an odd-­looking aircraft with massive wings stretching out from a stubby fuselage. The uncrewed plane is soaring thousands of meters higher than commercial jets fly—so high you c",
-      "published": "2026-06-17T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Data Center Automation: What’s New and What Works",
-      "url": "https://www.datacenterknowledge.com/automation/data-center-automation-what-s-new-and-what-works",
-      "description": "Modern data center automation replaces siloed tools with policy-led orchestration across power, cooling, security, and AIOps.",
-      "published": "2026-06-17T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "From Grid Constraints to On-Site Solutions: The Future of Data Center Power",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/from-grid-constraints-to-on-site-solutions-the-future-of-data-center-power",
-      "description": "On-site power solutions are increasingly helping data centers overcome grid delays and meet growing energy demands.",
-      "published": "2026-06-16T23:05:08.000Z"
     }
   ]
 }

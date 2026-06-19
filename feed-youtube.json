@@ -1,4 +1,33 @@
 {
-  "generatedAt": "2026-06-18T04:52:13.905Z",
-  "videos": []
+  "generatedAt": "2026-06-19T05:13:18.110Z",
+  "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Do we need a new social app?",
+      "url": "https://www.youtube.com/watch?v=IvHtY1X-wzM",
+      "published": "2026-06-18T11:00:30.000Z",
+      "description": "#socialmedia #founder #startup #ai"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "You should be less ambitious",
+      "url": "https://www.youtube.com/watch?v=Dr9_Qjr_Nok",
+      "published": "2026-06-17T11:00:33.000Z",
+      "description": "#founder #startup #product #ambition"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Innovation starts with copying",
+      "url": "https://www.youtube.com/watch?v=0Qd-nUslXGE",
+      "published": "2026-06-16T11:00:29.000Z",
+      "description": "#innovation #founder #startup"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "The hidden pattern behind successful products | Mark Pincus (FarmVille, Words with Friends, & more)",
+      "url": "https://www.youtube.com/watch?v=7eh9C3TUotc",
+      "published": "2026-06-14T12:30:37.000Z",
+      "description": "Mark Pincus founded Zynga—the company behind Words With Friends, FarmVille, and Zynga Poker—and has arguably created more hit consumer products than anyone in history. At Zynga, eight of 10 major game launches became massive hits, reaching over a billion players. Over the past five years, Mark has b"
+    }
+  ]
 }

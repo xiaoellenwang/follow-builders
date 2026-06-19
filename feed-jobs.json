@@ -1,70 +1,187 @@
 {
-  "generatedAt": "2026-06-18T04:52:13.905Z",
+  "generatedAt": "2026-06-19T05:13:18.110Z",
   "jobs": [
     {
-      "title": "Platform Professional Services Senior Consultant - AI",
-      "company": "CROWDSTRIKE SINGAPORE PTE. LTD.",
-      "salary": "S$11,666 – S$15,833",
-      "type": "Permanent",
-      "skills": [
-        "ETL",
-        "reduce false-positives",
-        "Operations and Maintenance"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/cc19ae571555e38003fd66f2255aa6d0",
-      "posted": "2026-06-18T04:12:49.000Z"
-    },
-    {
-      "title": "🤖 Junior AI Engineer, Assurance (Hybrid)",
-      "company": "SEACARE MANPOWER SERVICES PTE LTD",
-      "salary": "S$4,800 – S$6,500",
-      "type": "Contract",
-      "skills": [
-        "Analytical Approach",
-        "Communication",
-        "Dashboards"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/8b7634be436ca74f259b786e059bb078",
-      "posted": "2026-06-18T04:08:09.000Z"
-    },
-    {
-      "title": "AI Presales Architect",
-      "company": "MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD",
-      "salary": "S$13,000 – S$18,000",
+      "title": "Data Engineer(AI, LLM, NLP, ML, Python, AWS)",
+      "company": "NEPTUNEZ SINGAPORE PTE. LTD.",
+      "salary": "S$6,000 – S$7,800",
       "type": "Contract",
       "skills": [
         "Machine Learning",
-        "Artificial Intelligence",
-        "Presales"
+        "AWS",
+        "Natural Language Processing"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/71d51bc650b31d5563f696dd87ad861b",
-      "posted": "2026-06-18T03:26:43.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/e1fc58f811787a4da4a00ba4970a4add",
+      "posted": "2026-06-19T05:00:00.000Z"
     },
     {
-      "title": "Backend Software Engineer (AI Coding) - TikTok Live Revenue",
-      "company": "TIKTOK PTE. LTD.",
-      "salary": "S$12,000 – S$24,000",
-      "type": "Full Time",
+      "title": "AI Software Engineer (Python /LLM)",
+      "company": "SCIENTEC CONSULTING PTE. LTD.",
+      "salary": "S$5,000 – S$8,000",
+      "type": "Permanent",
       "skills": [
-        "Asset Management",
-        "PHP",
-        "Data Structures"
+        "Workflow Automation",
+        "Knowledge Database",
+        "Workflow"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/9192237d26a0f24d311db662ed9fbe99",
-      "posted": "2026-06-18T03:22:32.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/e20da10913dd7b33c19e0d5284f45ac0",
+      "posted": "2026-06-19T03:26:59.000Z"
     },
     {
-      "title": "Backend Software Engineer (AI Coding), TikTok Live Revenue",
-      "company": "TIKTOK PTE. LTD.",
-      "salary": "S$7,000 – S$14,000",
-      "type": "Full Time",
+      "title": "AI Data Engineer & Analyst",
+      "company": "RUDER FINN ASIA PTE LTD",
+      "salary": "S$5,500 – S$7,500",
+      "type": "Contract",
       "skills": [
-        "Asset Management",
-        "PHP",
-        "Data Structures"
+        "Machine Learning",
+        "Data Ingestion",
+        "Business Intelligence and Data Analytics"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/ffdbe75a5265199483dcb3a6e6db4e3e",
-      "posted": "2026-06-18T03:21:34.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/29672e9129ecf236e3f9bcc7c01df1bb",
+      "posted": "2026-06-19T02:45:33.000Z"
+    },
+    {
+      "title": "AI Data Centre Project Engineer",
+      "company": "RN CARE PTE. LTD.",
+      "salary": "S$4,000 – S$7,000",
+      "type": "Permanent",
+      "skills": [
+        "Computer Engineering",
+        "Factory Acceptance Testing",
+        "Information Technology"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/97aab1366bca6c8d22918a940d08d9e8",
+      "posted": "2026-06-19T02:34:55.000Z"
+    },
+    {
+      "title": "AI Infrastructure Project Engineer",
+      "company": "RN CARE PTE. LTD.",
+      "salary": "S$4,000 – S$7,000",
+      "type": "Permanent",
+      "skills": [
+        "Computer Engineering",
+        "Factory Acceptance Testing",
+        "Information Technology"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/048ceacfae76e7973660aa291b261418",
+      "posted": "2026-06-19T02:34:37.000Z"
+    },
+    {
+      "title": "Data Engineer(AI, LLM, NLP, MLOps , Python)",
+      "company": "NEPTUNEZ SINGAPORE PTE. LTD.",
+      "salary": "S$6,000 – S$7,800",
+      "type": "Contract",
+      "skills": [
+        "Machine Learning",
+        "AWS",
+        "Natural Language Processing"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/7185b4b12a6ed46b015ea2389c6a6f93",
+      "posted": "2026-06-18T14:38:24.000Z"
+    },
+    {
+      "title": "Principle AI Engineer",
+      "company": "BASIL TECHNOLOGIES PTE. LTD.",
+      "salary": "S$20,000 – S$20,700",
+      "type": "Contract",
+      "skills": [
+        "Machine Learning",
+        "Cost Management",
+        "Auditing"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/d238da783bec60d61371bf7d953099f1",
+      "posted": "2026-06-18T12:16:45.000Z"
+    },
+    {
+      "title": "AI Engineer (Strong in Python, C/C++, AI/ML frameworks) #IRT",
+      "company": "RECRUIT EXPRESS PTE LTD",
+      "salary": "S$7,000 – S$9,000",
+      "type": "Permanent",
+      "skills": [
+        "TensorFlow",
+        "Machine Learning",
+        "Business Optimization"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/1f98dfb7f4b8a3eeaa16d43adb824ff9",
+      "posted": "2026-06-18T10:43:03.000Z"
+    },
+    {
+      "title": "AI Data Scientist",
+      "company": "NSEARCH GLOBAL PTE. LTD.",
+      "salary": "S$9,000 – S$12,000",
+      "type": "Contract",
+      "skills": [
+        "Machine Learning",
+        "Computer Engineering",
+        "Scalability"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/b5bd48f4f302944311f363312f4f27fa",
+      "posted": "2026-06-18T10:10:34.000Z"
+    },
+    {
+      "title": "AI Engineer Intern (Agent) - Aug 2026 onwards (3/6 months)",
+      "company": "PENTAS VISION PTE. LTD.",
+      "salary": "S$1,200 – S$1,800",
+      "type": "Internship/Attachment",
+      "skills": [
+        "TensorFlow",
+        "Workflow Automation",
+        "Planning"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/ae21259c11c7097e03db17614ed74561",
+      "posted": "2026-06-18T09:48:23.000Z"
+    },
+    {
+      "title": "AI Practice Delivery Lead (Senior Manager) / Technology Consulting",
+      "company": "Ernst & Young Advisory PTE. LTD.",
+      "salary": "S$12,000 – S$13,000",
+      "type": "Permanent",
+      "skills": [
+        "Machine Learning",
+        "Application Architecture",
+        "Management Consulting"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/d23345e6737e33d91be89626a65111ea",
+      "posted": "2026-06-18T08:09:27.000Z"
+    },
+    {
+      "title": "Senior AI Infrastructure & Networking Engineer",
+      "company": "GENESIS NETWORKS PTE LTD",
+      "salary": "S$5,300 – S$6,000",
+      "type": "Permanent",
+      "skills": [
+        "Terraform",
+        "Nvidia",
+        "Kubernetes"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/873c6debbf564f1900da68939842b457",
+      "posted": "2026-06-18T06:45:29.000Z"
+    },
+    {
+      "title": "Senior AI Infrastructure & Networking Engineer",
+      "company": "GENESIS NETWORKS PTE LTD",
+      "salary": "S$4,600 – S$5,300",
+      "type": "Permanent",
+      "skills": [
+        "Terraform",
+        "Nvidia",
+        "Kubernetes"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/30b0e0e1f503407296343f138483b89d",
+      "posted": "2026-06-18T06:43:58.000Z"
+    },
+    {
+      "title": "Senior AI Infrastructure & Networking Engineer",
+      "company": "GENESIS NETWORKS PTE LTD",
+      "salary": "S$4,000 – S$4,600",
+      "type": "Permanent",
+      "skills": [
+        "Terraform",
+        "Nvidia",
+        "Kubernetes"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/c5efa2169a3508decc7e74191b438ded",
+      "posted": "2026-06-18T06:43:03.000Z"
     },
     {
       "title": "Lead/Tech Expert - Global Live (LLM Model Serving)",
@@ -73,128 +190,11 @@
       "type": "Permanent",
       "skills": [
         "Machine Learning",
-        "Big Data",
-        "Design Patterns"
+        "Design Patterns",
+        "Software Engineering"
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/e3f2f9883c4195b195a0c401464d8f6a",
       "posted": "2026-06-18T03:19:09.000Z"
-    },
-    {
-      "title": "Tech Expert/Backend Engineer - Global Live (LLM)",
-      "company": "TIKTOK PTE. LTD.",
-      "salary": "S$12,000 – S$24,000",
-      "type": "Permanent",
-      "skills": [
-        "Machine Learning",
-        "Big Data",
-        "Design Patterns"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/d8ee0bdf3782247be95f746f18a18d1d",
-      "posted": "2026-06-18T03:16:25.000Z"
-    },
-    {
-      "title": "AI Engineer",
-      "company": "EVOLUT HOLDINGS PTE. LTD.",
-      "salary": "S$3,800 – S$4,500",
-      "type": "Full Time",
-      "skills": [
-        "product development strategies",
-        "scalable solutions",
-        "Cost Management"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/c731f4c1d3efbfe90b08832d92b0e7a9",
-      "posted": "2026-06-18T03:13:22.000Z"
-    },
-    {
-      "title": "Backend Engineer - Global Live (AI Infrastructure) - Singapore",
-      "company": "TIKTOK PTE. LTD.",
-      "salary": "S$12,000 – S$24,000",
-      "type": "Permanent",
-      "skills": [
-        "Design Patterns",
-        "Software Engineering",
-        "MySQL"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/a35faeb5075d4ffc852c4cf398365e75",
-      "posted": "2026-06-18T03:13:11.000Z"
-    },
-    {
-      "title": "Backend Engineer, Global Live (AI Infrastructure) - Singapore",
-      "company": "TIKTOK PTE. LTD.",
-      "salary": "S$7,000 – S$14,000",
-      "type": "Permanent",
-      "skills": [
-        "Design Patterns",
-        "Software Engineering",
-        "MySQL"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/2213fe014958b7b1cf822a932ceed6b0",
-      "posted": "2026-06-18T03:11:19.000Z"
-    },
-    {
-      "title": "AI Agent Engineer - TikTok Live (Singapore)",
-      "company": "TIKTOK PTE. LTD.",
-      "salary": "S$12,000 – S$24,000",
-      "type": "Full Time",
-      "skills": [
-        "Asset Management",
-        "PHP",
-        "Data Structures"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/e11320f4baf6fb7fe42773cc734690b7",
-      "posted": "2026-06-18T02:48:18.000Z"
-    },
-    {
-      "title": "AI Agent Engineer, TikTok Live (Singapore)",
-      "company": "TIKTOK PTE. LTD.",
-      "salary": "S$7,000 – S$14,000",
-      "type": "Full Time",
-      "skills": [
-        "Asset Management",
-        "PHP",
-        "Data Structures"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/cf61c310157579602cc4453391243e04",
-      "posted": "2026-06-18T02:47:08.000Z"
-    },
-    {
-      "title": "AI Cyber Security Engineer",
-      "company": "U3 SOLUTIONS PTE. LTD.",
-      "salary": "S$7,500 – S$13,000",
-      "type": "Contract",
-      "skills": [
-        "Certifications",
-        "Terraform",
-        "Security Compliance"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/41118b0b098d824bb494dace006da476",
-      "posted": "2026-06-18T02:01:45.000Z"
-    },
-    {
-      "title": "AI Cyber Security Engineer",
-      "company": "U3 INFOTECH PTE. LTD.",
-      "salary": "S$8,000 – S$13,000",
-      "type": "Contract",
-      "skills": [
-        "Certifications",
-        "Security Compliance",
-        "Kubernetes"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/90530be103e2e94287347a8128bae001",
-      "posted": "2026-06-18T01:57:09.000Z"
-    },
-    {
-      "title": "Research Fellow (Artificial Intelligence)",
-      "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
-      "salary": "S$6,000 – S$12,000",
-      "type": "Contract",
-      "skills": [
-        "Report Writing",
-        "Quarterly reports",
-        "Partner Development"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/0ff20bbdf0335c925e4198acf16084f4",
-      "posted": "2026-06-18T00:58:47.000Z"
     }
   ]
 }
