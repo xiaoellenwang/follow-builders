@@ -1,6 +1,76 @@
 {
-  "generatedAt": "2026-06-19T05:13:18.110Z",
+  "generatedAt": "2026-06-20T04:24:44.423Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "Nuclear physics research lab Jefferson Lab breaks ground on 30,000 sq ft data center",
+      "url": "https://www.datacenterdynamics.com/en/news/nuclear-physics-research-lab-jefferson-lab-breaks-ground-on-30000-sq-ft-data-center/",
+      "description": "Facility backed by $49m in funding",
+      "published": "2026-06-19T17:00:30.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Digi Power X sued over noise from New York crypto mining site",
+      "url": "https://www.datacenterdynamics.com/en/news/digi-power-x-sued-over-noise-from-new-york-crypto-mining-site/",
+      "description": "Residents have long been unhappy about noise of crypto site",
+      "published": "2026-06-19T16:30:26.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Plans filed for three-building data center campus in Northumberland, UK",
+      "url": "https://www.datacenterdynamics.com/en/news/plans-filed-for-three-building-data-center-campus-in-northumberland-uk/",
+      "description": "Site to use natural gas-powered fuel cells for bridging power",
+      "published": "2026-06-19T16:20:28.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "AT&T Business extends 400G wavelength to more than a dozen metros",
+      "url": "https://www.datacenterdynamics.com/en/news/att-business-extends-400g-wavelength-to-more-than-a-dozen-metros/",
+      "description": "Those locations will now have access to AT&amp;T’s wavelength edgeless handoff capabilities",
+      "published": "2026-06-19T16:00:25.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Building the data center workforce starts in the classroom",
+      "url": "https://www.datacenterdynamics.com/en/opinions/building-the-data-center-workforce-starts-in-the-classroom/",
+      "description": "The importance of talking to young people about the sector",
+      "published": "2026-06-19T15:58:46.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: AI bottleneck debates, and BCI trials take off",
+      "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it h",
+      "published": "2026-06-19T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "description": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has sta",
+      "published": "2026-06-19T10:40:24.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Evaporative Cooling in Data Centers: Why the Industry Hesitates to Move On",
+      "url": "https://www.datacenterknowledge.com/cooling/evaporative-cooling-in-data-centers-why-the-industry-hesitates-to-move-on",
+      "description": "Evaporative cooling still dominates data centers, but with rising liquid cooling adoption, is the industry ready to embrace more sustainable solutions?",
+      "published": "2026-06-19T09:22:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The inevitable weakness of metrics",
+      "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
+      "description": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a lo",
+      "published": "2026-06-19T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Brain-computer interface trials are taking off",
+      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+      "description": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interf",
+      "published": "2026-06-19T09:00:00.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
@@ -23,46 +93,11 @@
       "published": "2026-06-18T19:41:35.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "High-performance computing system ‘FRIDA’ launched in Slovenia",
-      "url": "https://www.datacenterdynamics.com/en/news/high-performance-computing-system-frida-launched-in-slovenia/",
-      "description": "System will enable new AI collaborations between Slovenian academics and businesses",
-      "published": "2026-06-18T18:00:31.000Z"
-    },
-    {
       "source": "Ars Technica Tech",
       "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
       "url": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
       "description": "\n                        One previously unreported SpaceX investor has ties to Chinese military contractors.\n                    ",
       "published": "2026-06-18T17:42:18.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Colo provider MIRhosting sees equipment disconnected at Netherlands data center",
-      "url": "https://www.datacenterdynamics.com/en/news/colo-provider-mirhosting-sees-equipment-disconnected-at-netherlands-data-center/",
-      "description": "Comes one week after 800 serves seized from customer of MIRhosting",
-      "published": "2026-06-18T17:00:31.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Google unveils new open-source liquid-to-air cooling sidecar for air-cooled environments",
-      "url": "https://www.datacenterdynamics.com/en/news/google-unveils-new-open-source-liquid-to-air-cooling-sidecar-for-air-cooled-environments/",
-      "description": "Dubbed Brazos, the new system furthers OCP development of sidecar designs",
-      "published": "2026-06-18T16:30:33.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Firstcolo breaks ground on data center in Rosbach vor der Höhe, Germany",
-      "url": "https://www.datacenterdynamics.com/en/news/firstcolo-breaks-ground-on-data-center-in-rosbach-vor-der-h%C3%B6he-germany/",
-      "description": "Choice of location determined by lack of suitable grid connections in Frankfurt",
-      "published": "2026-06-18T16:18:15.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "A perfect storm: data centers and tornadoes",
-      "url": "https://www.datacenterdynamics.com/en/analysis/a-perfect-storm-data-centers-and-tornadoes/",
-      "description": "The cloud goes up against its older, tempestuous brother",
-      "published": "2026-06-18T16:00:35.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -72,32 +107,11 @@
       "published": "2026-06-18T12:10:00.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "Geoengineering still faces major practical challenges",
-      "url": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
-      "description": "Solar geoengineering is often portrayed as a sort of emergency brake. Something along the lines of Pull in case of climate emergency to scatter light-reflecting particles to bounce sunlight out of the atmosphere and cool the planet. But it might be less like a simple brake and more like a complicate",
-      "published": "2026-06-18T10:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The search for dark matter has been blown wide open",
-      "url": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/",
-      "description": "Underneath an Apennine massif, below the Jinping Mountains of Sichuan, and at the bottom of a South Dakota mine, there is a cosmic hunt afoot. Isolated deep beneath these rocky shields, massive detectors filled with liquid xenon aim to make the first direct detections of dark matter, the long-sought",
-      "published": "2026-06-18T09:00:00.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "Battery Storage Moves Closer to Data Centers, but Challenges Persist",
       "url": "https://www.datacenterknowledge.com/energy-power-supply/battery-storage-edges-closer-to-the-data-center-but-questions-linger",
       "description": "Operators are deploying battery systems to support reliability and grid flexibility, but cost, performance, and complexity still hinder adoption.",
       "published": "2026-06-18T08:55:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "The Server Boom Balances Price Increases Against Chip Shortages",
-      "url": "https://www.nextplatform.com/compute/2026/06/17/the-server-boom-balances-price-increases-against-chip-shortages/5258066",
-      "description": "",
-      "published": "2026-06-17T22:03:17.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -107,25 +121,11 @@
       "published": "2026-06-17T20:33:00.000Z"
     },
     {
-      "source": "The Next Platform",
-      "title": "HPE’s Datacenter Networking Picture Comes Into Clearer Focus",
-      "url": "https://www.nextplatform.com/connect/2026/06/17/hpes-datacenter-networking-picture-comes-into-clearer-focus/5258015",
-      "description": "",
-      "published": "2026-06-17T20:02:57.000Z"
-    },
-    {
       "source": "Ars Technica Tech",
       "title": "Massive breach spills credentials for thousands of sensitive networks",
       "url": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
       "description": "\n                        The affected include Oracle, Lenovo, FedEx, a NATO contractor, and Fortinet.\n                    ",
       "published": "2026-06-17T19:54:31.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Quantum Pulse Does Industrial Light Magic To Deliver Massive Boost In Qubits",
-      "url": "https://www.nextplatform.com/connect/2026/06/17/quantum-pulse-does-industrial-light-magic-to-deliver-massive-boost-in-qubits/5257989",
-      "description": "",
-      "published": "2026-06-17T19:49:52.000Z"
     },
     {
       "source": "Ars Technica Tech",
