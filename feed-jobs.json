@@ -1,6 +1,45 @@
 {
-  "generatedAt": "2026-06-20T04:24:44.423Z",
+  "generatedAt": "2026-06-21T05:08:40.920Z",
   "jobs": [
+    {
+      "title": "Backend Engineer (Generative AI)",
+      "company": "CMC-APAC PRIVATE LIMITED",
+      "salary": "S$6,000 – S$7,000",
+      "type": "Full Time",
+      "skills": [
+        "Performance Testing",
+        "Microsoft Excel",
+        "Technical Writing"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/56243715d543a045f5e7c434f440c53e",
+      "posted": "2026-06-21T02:58:05.000Z"
+    },
+    {
+      "title": "Machine Learning Engineer (12-Month Contract)",
+      "company": "ACHIEVE CAREER CONSULTANT PTE LTD",
+      "salary": "S$8,000 – S$10,000",
+      "type": "Contract",
+      "skills": [
+        "Analytics and Computational Modelling",
+        "Development",
+        "Google Cloud Platform"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/be0680af6ebe23e9a3063ae0ac941bee",
+      "posted": "2026-06-21T02:43:06.000Z"
+    },
+    {
+      "title": "Data and Artificial Intelligence Scientist",
+      "company": "CMC-APAC PRIVATE LIMITED",
+      "salary": "S$6,000 – S$8,000",
+      "type": "Full Time",
+      "skills": [
+        "Liaising with cross functional teams",
+        "Git",
+        "Design"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/09412a4f5a8d072761bcba29a3cb0332",
+      "posted": "2026-06-21T02:41:44.000Z"
+    },
     {
       "title": "Quant Researcher #77900",
       "company": "ANRADUS PTE. LTD.",
@@ -93,19 +132,6 @@
       "posted": "2026-06-19T08:59:07.000Z"
     },
     {
-      "title": "Research Fellow/Engineer (in AI solutions for train operations and maintenance) - FG(1056)",
-      "company": "SINGAPORE INSTITUTE OF TECHNOLOGY",
-      "salary": "S$4,500 – S$7,000",
-      "type": "Contract",
-      "skills": [
-        "Deep Learning",
-        "Machine Learning",
-        "Computer Engineering"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/173d2a7942ed67858e367bfcf7659234",
-      "posted": "2026-06-19T08:52:46.000Z"
-    },
-    {
       "title": "Research Engineer/Fellow ( Applied Artificial Intelligence (AI)) - RK(1023)",
       "company": "SINGAPORE INSTITUTE OF TECHNOLOGY",
       "salary": "S$4,500 – S$7,000",
@@ -145,19 +171,6 @@
       "posted": "2026-06-19T08:19:09.000Z"
     },
     {
-      "title": "AI Product Manager",
-      "company": "RANDSTAD PTE. LIMITED",
-      "salary": "S$7,000 – S$15,000",
-      "type": "Permanent",
-      "skills": [
-        "Retrieval-Augmented Generation (RAG)",
-        "AI Agents",
-        "Communicating With Agents"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/57560e2871ff555233defe73a5ac623c",
-      "posted": "2026-06-19T07:45:21.000Z"
-    },
-    {
       "title": "AI Customer Engineer III, Cloud AI, Google Cloud - Singapore",
       "company": "GOOGLE ASIA PACIFIC PTE. LTD.",
       "salary": "S$15,000 – S$30,000",
@@ -182,19 +195,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/1f8e5e6099edf5653c124f66e9e11132",
       "posted": "2026-06-19T07:11:44.000Z"
-    },
-    {
-      "title": "ML/AI Engineer",
-      "company": "HCL SINGAPORE PTE. LTD.",
-      "salary": "S$8,000 – S$10,000",
-      "type": "Full Time",
-      "skills": [
-        "Adobe Spark",
-        "Video",
-        "Hadoop Database"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/9800236f88fa01b4362fb4a073295259",
-      "posted": "2026-06-19T07:06:59.000Z"
     }
   ]
 }

@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-06-20T04:24:44.423Z",
+  "generatedAt": "2026-06-21T05:08:40.920Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: BESS Is becoming the bridge between AI data centers and the grid",
+      "url": "https://www.datacenterdynamics.com/en/opinions/bess-is-becoming-the-bridge-between-ai-data-centers-and-the-grid/",
+      "description": "Battery energy storage is becoming essential for AI data centers, helping bridge grid constraints, support resilience, and accelerate speed-to-power",
+      "published": "2026-06-20T07:00:00.000Z"
+    },
     {
       "source": "Data Center Dynamics",
       "title": "Nuclear physics research lab Jefferson Lab breaks ground on 30,000 sq ft data center",
@@ -28,13 +35,6 @@
       "url": "https://www.datacenterdynamics.com/en/news/att-business-extends-400g-wavelength-to-more-than-a-dozen-metros/",
       "description": "Those locations will now have access to AT&amp;T’s wavelength edgeless handoff capabilities",
       "published": "2026-06-19T16:00:25.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Building the data center workforce starts in the classroom",
-      "url": "https://www.datacenterdynamics.com/en/opinions/building-the-data-center-workforce-starts-in-the-classroom/",
-      "description": "The importance of talking to young people about the sector",
-      "published": "2026-06-19T15:58:46.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -112,34 +112,6 @@
       "url": "https://www.datacenterknowledge.com/energy-power-supply/battery-storage-edges-closer-to-the-data-center-but-questions-linger",
       "description": "Operators are deploying battery systems to support reliability and grid flexibility, but cost, performance, and complexity still hinder adoption.",
       "published": "2026-06-18T08:55:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Missouri Emerges as the Next Hyperscale Frontier Amid Growing Power Demands",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/amazon-s-10b-missouri-data-center-underscores-hyperscalers-search-for-power",
-      "description": "Amazon and Google’s multibillion-dollar data center investments in Montgomery County are positioning Missouri as a key destination for hyperscalers seeking power and scalability.",
-      "published": "2026-06-17T20:33:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Massive breach spills credentials for thousands of sensitive networks",
-      "url": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
-      "description": "\n                        The affected include Oracle, Lenovo, FedEx, a NATO contractor, and Fortinet.\n                    ",
-      "published": "2026-06-17T19:54:31.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
-      "url": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
-      "description": "\n                        Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings. \n                    ",
-      "published": "2026-06-17T19:43:13.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Why Validation Will Define the Future of HPC and AI",
-      "url": "https://www.datacenterknowledge.com/ai-data-centers/why-validation-will-define-the-future-of-hpc-and-ai",
-      "description": "As AI becomes part of HPC workflows, validation, data quality, and trust are emerging as key factors in technology and buying decisions.",
-      "published": "2026-06-17T16:23:29.000Z"
     }
   ]
 }
