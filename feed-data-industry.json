@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-06-21T05:08:40.920Z",
+  "generatedAt": "2026-06-22T05:21:14.436Z",
   "articles": [
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "Data Engineering Weekly #275",
+      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-275",
+      "description": "The Weekly Data Engineering Newsletter",
+      "published": "2026-06-22T04:02:10.000Z"
+    },
     {
       "source": "Data Center Dynamics",
       "title": "Sponsored: BESS Is becoming the bridge between AI data centers and the grid",
@@ -37,6 +44,13 @@
       "published": "2026-06-19T16:00:25.000Z"
     },
     {
+      "source": "The Next Platform",
+      "title": "Everpure’s AI Strategy Is Almost Purely Based On Nvidia",
+      "url": "https://www.nextplatform.com/store/2026/06/19/everpures-ai-strategy-is-almost-purely-based-on-nvidia/5258997",
+      "description": "",
+      "published": "2026-06-19T12:58:58.000Z"
+    },
+    {
       "source": "MIT Technology Review",
       "title": "The Download: AI bottleneck debates, and BCI trials take off",
       "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
@@ -70,48 +84,6 @@
       "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
       "description": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interf",
       "published": "2026-06-19T09:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
-      "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
-      "description": "\n                        Crypto Clipper spreads over USB and communicates over Tor.\n                    ",
-      "published": "2026-06-18T23:28:52.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "FERC Targets Grid Rules for Data Centers and Large Loads",
-      "url": "https://www.datacenterknowledge.com/build-design/ferc-targets-grid-rules-for-data-centers-and-large-loads",
-      "description": "FERC gave six grid operators 60 days to justify or revise large-load tariffs and 30 days to explain how they will power growing AI demand.",
-      "published": "2026-06-18T20:12:08.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
-      "url": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
-      "description": "\n                        The vulnerability, disclosed 12 months ago, affects multiple manufacturers.\n                    ",
-      "published": "2026-06-18T19:41:35.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
-      "url": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
-      "description": "\n                        One previously unreported SpaceX investor has ties to Chinese military contractors.\n                    ",
-      "published": "2026-06-18T17:42:18.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
-      "url": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The search for dark matter has been blown wide open For decades, physicists have hunted for weakly interacting massive particles (WIMPs), a leading ca",
-      "published": "2026-06-18T12:10:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Battery Storage Moves Closer to Data Centers, but Challenges Persist",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/battery-storage-edges-closer-to-the-data-center-but-questions-linger",
-      "description": "Operators are deploying battery systems to support reliability and grid flexibility, but cost, performance, and complexity still hinder adoption.",
-      "published": "2026-06-18T08:55:00.000Z"
     }
   ]
 }

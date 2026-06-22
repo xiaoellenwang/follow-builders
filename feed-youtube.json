@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-06-21T05:08:40.920Z",
+  "generatedAt": "2026-06-22T05:21:14.436Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "How the most AI-pilled product team builds products | Fiona Fung (Claude Code and Cowork)",
+      "url": "https://www.youtube.com/watch?v=Ybrl4FYM57c",
+      "published": "2026-06-21T12:30:02.000Z",
+      "description": "Fiona Fung leads the teams behind Claude Code and Cowork at Anthropic (overseeing Boris Cherny and the entire engineering and PM team). Before Anthropic, she spent 11 years at Microsoft building Visual Studio and TypeScript and then moved to Meta, where she started Facebook Marketplace (now generati"
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "Do we need a new social app?",
@@ -21,13 +28,6 @@
       "url": "https://www.youtube.com/watch?v=0Qd-nUslXGE",
       "published": "2026-06-16T11:00:29.000Z",
       "description": "#innovation #founder #startup"
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "The hidden pattern behind successful products | Mark Pincus (FarmVille, Words with Friends, & more)",
-      "url": "https://www.youtube.com/watch?v=7eh9C3TUotc",
-      "published": "2026-06-14T12:30:37.000Z",
-      "description": "Mark Pincus founded Zynga—the company behind Words With Friends, FarmVille, and Zynga Poker—and has arguably created more hit consumer products than anyone in history. At Zynga, eight of 10 major game launches became massive hits, reaching over a billion players. Over the past five years, Mark has b"
     }
   ]
 }
