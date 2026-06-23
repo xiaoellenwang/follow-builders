@@ -1,89 +1,103 @@
 {
-  "generatedAt": "2026-06-22T05:21:14.436Z",
+  "generatedAt": "2026-06-23T04:14:26.875Z",
   "articles": [
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "You Don't Graduate From Data Engineering: Why We Built aide for Continuous Learning",
+      "url": "https://www.dataengineeringweekly.com/p/you-dont-graduate-from-data-engineering",
+      "description": "Introducing aidataengineer.io &#8212; an AI-powered learning platform built on 275+ editions of Data Engineering Weekly.",
+      "published": "2026-06-23T03:47:56.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
+      "url": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
+      "description": "\n                        Critics saw the move as an underhanded way to steer them toward more costly chips.\n                    ",
+      "published": "2026-06-22T19:16:52.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Three things to watch amid Anthropic’s latest feud with the government",
+      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI mode",
+      "published": "2026-06-22T18:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Microsoft plans 2GW data center campus in Pecos, Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-plans-2gw-data-center-campus-in-pecos-texas/",
+      "description": "Chevron signed on for energy supply deal",
+      "published": "2026-06-22T16:34:06.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "DCD Podcast - What data centers should expect from the next UK Prime Minister",
+      "url": "https://www.datacenterdynamics.com/en/news/dcd-podcast-what-data-centers-should-expect-from-the-next-uk-prime-minister/",
+      "description": "Chatting to Kao Data's CEO Spencer Lamb about Keir Starmer and Andy Burnham",
+      "published": "2026-06-22T16:29:45.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Gigawatt-scale data center campus proposed in Kansas",
+      "url": "https://www.datacenterdynamics.com/en/news/gigawatt-scale-data-center-campus-proposed-in-kansas/",
+      "description": "Flint Hills Digital Campus proposed near Emporia, few details available",
+      "published": "2026-06-22T16:21:07.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "PLDT files to establish and float data center REIT in Philippines",
+      "url": "https://www.datacenterdynamics.com/en/news/pldt-files-to-establish-and-float-data-center-reit-in-philippines/",
+      "description": "Vitro REIT seeded with eight facilities totaling 24MW, aims to raise $396m",
+      "published": "2026-06-22T16:20:28.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Karis eyes potential data center development outside Chicago, Illinois",
+      "url": "https://www.datacenterdynamics.com/en/news/karis-eyes-potential-data-center-development-outside-chicago-illinois/",
+      "description": "Company eyes Naperville again after previous project was killed by local officials",
+      "published": "2026-06-22T16:07:56.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "HPE Rides The Agentic AI Wave Back Into The Datacenter",
+      "url": "https://www.nextplatform.com/enterprise/2026/06/22/hpe-rides-the-agentic-ai-wave-back-into-the-datacenter/5259579",
+      "description": "",
+      "published": "2026-06-22T14:05:46.000Z"
+    },
+    {
+      "source": "Import AI",
+      "title": "Import AI 462: Superpersuasion; self-sustaining AI; paths to ASI",
+      "url": "https://jack-clark.net/2026/06/22/import-ai-462-superpersuasion-self-sustaining-ai-paths-to-asi/",
+      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI can decisively out-persuade humans:…“AI systems were reliably more persuasive than expert humans”&#8230;Researchers",
+      "published": "2026-06-22T12:31:45.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: record-breaking subsea tunnels and flexible data centers",
+      "url": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the world’s deepest and longest subsea road tunnel —Niall Firth I’m currently around 1,000 feet beneath the North Sea, in a dark, dank cave. It",
+      "published": "2026-06-22T12:10:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Building Data Centers Faster: Plays That De-Risk Delays",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/building-data-centers-faster-plays-that-de-risk-delays",
+      "description": "Data center build timelines are driven less by the shell and more by permitting, utility interconnection, and supply-chain bottlenecks.",
+      "published": "2026-06-22T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Inside the world’s deepest and longest subsea road tunnel",
+      "url": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
+      "description": "It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird. And I am increasingly aware of the pressure from millions of tons of seawater just abov",
+      "published": "2026-06-22T08:00:00.000Z"
+    },
     {
       "source": "DataEngineeringWeekly",
       "title": "Data Engineering Weekly #275",
       "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-275",
       "description": "The Weekly Data Engineering Newsletter",
       "published": "2026-06-22T04:02:10.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: BESS Is becoming the bridge between AI data centers and the grid",
-      "url": "https://www.datacenterdynamics.com/en/opinions/bess-is-becoming-the-bridge-between-ai-data-centers-and-the-grid/",
-      "description": "Battery energy storage is becoming essential for AI data centers, helping bridge grid constraints, support resilience, and accelerate speed-to-power",
-      "published": "2026-06-20T07:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Nuclear physics research lab Jefferson Lab breaks ground on 30,000 sq ft data center",
-      "url": "https://www.datacenterdynamics.com/en/news/nuclear-physics-research-lab-jefferson-lab-breaks-ground-on-30000-sq-ft-data-center/",
-      "description": "Facility backed by $49m in funding",
-      "published": "2026-06-19T17:00:30.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Digi Power X sued over noise from New York crypto mining site",
-      "url": "https://www.datacenterdynamics.com/en/news/digi-power-x-sued-over-noise-from-new-york-crypto-mining-site/",
-      "description": "Residents have long been unhappy about noise of crypto site",
-      "published": "2026-06-19T16:30:26.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Plans filed for three-building data center campus in Northumberland, UK",
-      "url": "https://www.datacenterdynamics.com/en/news/plans-filed-for-three-building-data-center-campus-in-northumberland-uk/",
-      "description": "Site to use natural gas-powered fuel cells for bridging power",
-      "published": "2026-06-19T16:20:28.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "AT&T Business extends 400G wavelength to more than a dozen metros",
-      "url": "https://www.datacenterdynamics.com/en/news/att-business-extends-400g-wavelength-to-more-than-a-dozen-metros/",
-      "description": "Those locations will now have access to AT&amp;T’s wavelength edgeless handoff capabilities",
-      "published": "2026-06-19T16:00:25.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Everpure’s AI Strategy Is Almost Purely Based On Nvidia",
-      "url": "https://www.nextplatform.com/store/2026/06/19/everpures-ai-strategy-is-almost-purely-based-on-nvidia/5258997",
-      "description": "",
-      "published": "2026-06-19T12:58:58.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: AI bottleneck debates, and BCI trials take off",
-      "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it h",
-      "published": "2026-06-19T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-      "description": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has sta",
-      "published": "2026-06-19T10:40:24.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Evaporative Cooling in Data Centers: Why the Industry Hesitates to Move On",
-      "url": "https://www.datacenterknowledge.com/cooling/evaporative-cooling-in-data-centers-why-the-industry-hesitates-to-move-on",
-      "description": "Evaporative cooling still dominates data centers, but with rising liquid cooling adoption, is the industry ready to embrace more sustainable solutions?",
-      "published": "2026-06-19T09:22:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The inevitable weakness of metrics",
-      "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
-      "description": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a lo",
-      "published": "2026-06-19T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Brain-computer interface trials are taking off",
-      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
-      "description": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interf",
-      "published": "2026-06-19T09:00:00.000Z"
     }
   ]
 }
