@@ -1,47 +1,131 @@
 {
-  "generatedAt": "2026-06-24T04:17:16.105Z",
+  "generatedAt": "2026-06-25T04:17:15.950Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "India’s biggest telco, Jio Platforms, declares ambition for sovereign LEO in path to 6G",
+      "url": "https://www.datacenterdynamics.com/en/news/indias-biggest-telco-jio-platforms-declares-ambition-for-sovereign-leo-in-path-to-6g/",
+      "description": "Subsidiary of Indian industry giant seeks to create sovereign network infrastructure extending to the stars",
+      "published": "2026-06-25T02:00:26.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Proposed data center in Guernsey County, Ohio, could go ahead despite local government opposition",
+      "url": "https://www.datacenterdynamics.com/en/news/proposed-data-center-in-guernsey-county-ohio-could-go-ahead-despite-local-government-opposition/",
+      "description": "Project proposed by Smart Energy Partners still in extremely early stages",
+      "published": "2026-06-25T00:52:02.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Subsidiary of Malaysian state development agency to develop 65MW data center with domestic operator",
+      "url": "https://www.datacenterdynamics.com/en/news/subsidiary-of-malaysian-state-development-agency-to-develop-65mw-data-center-with-domestic-operator/",
+      "description": "Will allegedly deploy immersion cooling",
+      "published": "2026-06-25T00:00:27.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
+      "url": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
+      "description": "\n                        \"Operation Endgame\" simultaneously disrupts two widely used crime tools.\n                    ",
+      "published": "2026-06-24T21:03:34.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Northwood announces Prism & Portal satellite ground station antennas, targets 10Gbps+ per site",
+      "url": "https://www.datacenterdynamics.com/en/news/northwood-announces-prism-portal-satellite-ground-station-antennas-targets-10gbps-per-site/",
+      "description": "California firm has already deployed 14 antennas across five sites",
+      "published": "2026-06-24T20:00:23.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Blockware appoints Megan Brooks-Anderson as CEO amid AI and HPC push",
+      "url": "https://www.datacenterdynamics.com/en/news/blockware-appoints-megan-brooks-anderson-as-ceo-amid-ai-and-hpc-push/",
+      "description": "Brooks-Anderson will lead pivot to AI",
+      "published": "2026-06-24T19:00:22.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Microsoft’s Wisconsin AI Data Center Campus Now Fully Operational",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/microsoft-s-wisconsin-ai-campus-moves-from-construction-to-operations",
+      "description": "The Mount Pleasant campus offers a glimpse of how hyperscalers are turning multibillion-dollar AI infrastructure plans into operational capacity.",
+      "published": "2026-06-24T17:18:15.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Powering Behind-The-Meter Power: Where LNG and Process Safety Meet Digital Resilience",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/powering-behind-the-meter-power-where-lng-and-process-safety-meet-digital-resilience",
+      "description": "As LNG becomes critical infrastructure for data center resilience, operators must use performance-based fire modeling and proactively integrate fuel systems into their overall safety strategy.",
+      "published": "2026-06-24T16:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Europe’s extreme heat is shutting down power plants",
+      "url": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
+      "description": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.&#8",
+      "published": "2026-06-24T15:25:28.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Texas Approves ‘Batch Zero’ Study as Data Center Demand Soars",
+      "url": "https://www.datacenterknowledge.com/build-design/texas-creates-a-credibility-test-for-gigawatt-scale-data-center-demand",
+      "description": "ERCOT’s Batch Zero framework centralizes grid reviews, streamlining large-load approvals to meet soaring AI and data center power demands.",
+      "published": "2026-06-24T15:22:20.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Nvidia Overtakes Rivals in Data Center Ethernet Switching, IDC Says",
+      "url": "https://www.datacenterknowledge.com/infrastructure/nvidia-overtakes-rivals-in-data-center-ethernet-switching-idc-says",
+      "description": "Nvidia has surged to the top of the data center Ethernet switching market by selling networking as part of integrated, GPU-centric AI platforms.",
+      "published": "2026-06-24T13:41:51.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: introducing the Engineering issue",
+      "url": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Engineering issue We can’t fix everything, but we can be ambitious. We can take on the challenge of making the world better through h",
+      "published": "2026-06-24T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
+      "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+      "description": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new&#8230;",
+      "published": "2026-06-24T12:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The emergence of the web data infrastructure layer for AI",
+      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "description": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundati",
+      "published": "2026-06-24T11:59:54.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "HPE Delivers Upgraded HPC Hardware, Software For Security, Sovereignty, And Multi-Tenancy",
+      "url": "https://www.nextplatform.com/hpc/2026/06/24/hpe-delivers-upgraded-hpc-hardware-software-for-security-sovereignty-and-multi-tenancy/5261332",
+      "description": "",
+      "published": "2026-06-24T11:30:05.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "This flying solar-powered platform could deliver better internet from the air",
+      "url": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
+      "description": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.&#160; Once there, the roughly 200-foot-long craft, built by the New Mexico–based company Sceye, will park some 18 kilometers above the ocean’s surfa",
+      "published": "2026-06-24T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Bridging the Divide: How Data Centers Are Addressing Community Concerns",
+      "url": "https://www.datacenterknowledge.com/data-center-site-selection/bridging-the-divide-how-data-centers-are-addressing-community-concerns",
+      "description": "As opposition grows, data center developers are rethinking how they engage communities on power, taxes, jobs, and infrastructure issues.",
+      "published": "2026-06-24T08:45:00.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
       "url": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
       "description": "\n                        Order warns of national security risks if post-quantum cryptography isn't adopted in time.\n                    ",
       "published": "2026-06-23T22:30:57.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Heads in the game",
-      "url": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/",
-      "description": "The Argentina v. France final of the 2022 Men’s World Cup in Qatar was shaping up to be one of the most epic games in soccer history. With just 12 minutes remaining in the extra time added to the game to break a tie, the referee had a critical decision to make—and fast. Lionel Messi,&#8230;",
-      "published": "2026-06-23T21:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Super Mario is mathier than you think",
-      "url": "https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/",
-      "description": "Here’s a problem you probably didn’t solve in school: You’re an ambitious young plumber from Brooklyn in a world inhabited by violent human-size mushrooms called Goombas. The love of your life has been kidnapped, so you embark on a quest to rescue her, venturing through stretches of pipe-filled and ",
-      "published": "2026-06-23T21:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "A man of many words",
-      "url": "https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/",
-      "description": "Brian Sietsema has a favorite word. It’s somewhat surprising that he can choose just one. He’s the person spellers rely on to confirm pronunciations and answer questions about the roots of the words they’re given at the Scripps National Spelling Bee—arguably the world’s most prestigious competition ",
-      "published": "2026-06-23T21:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Sharing a love for calculus",
-      "url": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/",
-      "description": "The national conversation about the value of education is currently dominated by speculation about the risks and positive potential of AI.&#160; Whatever your own perspective on that debate, I hope you’ll be glad to know that MIT is also working on a deeply important but comparatively old-fashioned ",
-      "published": "2026-06-23T21:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Stand Up for Research, Innovation, and Education",
-      "url": "https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/",
-      "description": "Right now, MIT alumni and friends are voicing their support for: America’s scientific and technological leadership Merit-based admissions and affordable education Advances that increase US health, security, and prosperity Our community is standing up for MIT and its mission to serve the nation and t",
-      "published": "2026-06-23T21:00:00.000Z"
     },
     {
       "source": "Ars Technica Tech",
@@ -51,95 +135,11 @@
       "published": "2026-06-23T20:17:38.000Z"
     },
     {
-      "source": "Data Center Knowledge",
-      "title": "Virginia Approves First-Ever Data Center Power Tax",
-      "url": "https://www.datacenterknowledge.com/regulations/virginia-approves-first-ever-data-center-power-tax",
-      "description": "Virginia’s new electricity tax on data centers, including self-generated power, is projected to generate $600M annually.",
-      "published": "2026-06-23T19:02:12.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "AlpSemi raises €17m for development of wide-bandgap power switches for AI data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/alpsemi-raises-17m-for-development-of-wide-bandgap-power-switches-for-ai-data-centers/",
-      "description": "Round was led by Yotta Capital with participation from SE Ventures, Navitas Semiconductor, and Cycle Group",
-      "published": "2026-06-23T17:00:25.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Argentum AI secures $4.1bn AI cloud contract with unnamed customer",
-      "url": "https://www.datacenterdynamics.com/en/news/argentum-ai-secures-41bn-ai-cloud-contract-with-unnamed-customer/",
-      "description": "Will cover 27,000 Nvidia GB300 GPUs",
-      "published": "2026-06-23T16:40:27.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Nexus DC files to develop data center in Dallas, Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/nexus-dc-files-to-develop-data-center-in-dallas-texas/",
-      "description": "~500,000 sq ft building due live next year",
-      "published": "2026-06-23T16:30:41.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Local council objects to 60,000 sqm data center proposal in Buckinghamshire, UK",
-      "url": "https://www.datacenterdynamics.com/en/news/local-council-objects-to-60000-sqm-data-center-proposal-in-buckinghamshire-uk/",
-      "description": "Joined by other councillors",
-      "published": "2026-06-23T16:30:39.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Virgin Media O2 to start 2G switch off in 2029",
-      "url": "https://www.datacenterdynamics.com/en/news/virgin-media-o2-to-start-2g-switch-off-in-2029/",
-      "description": "Will begin from the summer of 2029",
-      "published": "2026-06-23T16:00:39.000Z"
-    },
-    {
       "source": "The Next Platform",
-      "title": "AMD And Nvidia Are Neck In HPC Supercomputing",
-      "url": "https://www.nextplatform.com/hpc/2026/06/23/amd-and-nvidia-are-neck-in-hpc-supercomputing/5260202",
+      "title": "AMD And Nvidia Are Neck And Neck In HPC Supercomputing",
+      "url": "https://www.nextplatform.com/hpc/2026/06/23/amd-and-nvidia-are-neck-and-neck-in-hpc-supercomputing/5260202",
       "description": "",
       "published": "2026-06-23T12:25:15.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Behind-the-Meter AI: Microsoft-Chevron’s West Texas Bet",
-      "url": "https://www.datacenterknowledge.com/build-design/chevron-lands-20-year-microsoft-deal-to-power-west-texas-ai-campus",
-      "description": "Microsoft’s West Texas power agreement with Chevron shows how AI developers are securing generation capacity alongside compute.",
-      "published": "2026-06-23T11:17:27.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Data Centers Take Training into Their Own Hands Amid Talent Shortages",
-      "url": "https://www.datacenterknowledge.com/training-certifications/data-centers-take-training-into-their-own-hands-amid-talent-shortages",
-      "description": "Data center operators are launching training programs, apprenticeships, and college partnerships to address growing AI-era talent shortages.",
-      "published": "2026-06-23T09:00:00.000Z"
-    },
-    {
-      "source": "DataEngineeringWeekly",
-      "title": "You Don't Graduate From Data Engineering: Why We Built aide for Continuous Learning",
-      "url": "https://www.dataengineeringweekly.com/p/you-dont-graduate-from-data-engineering",
-      "description": "Introducing aidataengineer.io &#8212; an AI-powered learning platform built on 275+ editions of Data Engineering Weekly.",
-      "published": "2026-06-23T03:47:56.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
-      "url": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
-      "description": "\n                        Critics saw the move as an underhanded way to steer them toward more costly chips.\n                    ",
-      "published": "2026-06-22T19:16:52.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "The Breaking Points 2035: A Data Center Space Odyssey",
-      "url": "https://www.datacenterknowledge.com/build-design/breaking-points-2035-a-data-center-space-odyssey",
-      "description": "Orbital data centers promise relief from terrestrial power challenges, but their future may hinge on a harder question: repair infrastructure or replace fleets.",
-      "published": "2026-06-22T14:08:46.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "HPE Rides The Agentic AI Wave Back Into The Datacenter",
-      "url": "https://www.nextplatform.com/enterprise/2026/06/22/hpe-rides-the-agentic-ai-wave-back-into-the-datacenter/5259579",
-      "description": "",
-      "published": "2026-06-22T14:05:46.000Z"
     }
   ]
 }

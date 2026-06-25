@@ -1,40 +1,4 @@
 {
-  "generatedAt": "2026-06-24T04:17:16.105Z",
-  "videos": [
-    {
-      "channel": "Lenny's Podcast",
-      "title": "The antidote for AI anxiety",
-      "url": "https://www.youtube.com/watch?v=D9gK7GD6AXg",
-      "published": "2026-06-23T11:00:39.000Z",
-      "description": "#ai #artificialintelligence #chatgpt #claude"
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "Fiona Fung’s Claude now automatically reads her Slack every morning?",
-      "url": "https://www.youtube.com/watch?v=Dh50sbzOXfE",
-      "published": "2026-06-23T00:50:01.000Z",
-      "description": ""
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "What happens after coding is solved? | Fiona Fung (Claude Code and Cowork)",
-      "url": "https://www.youtube.com/watch?v=Ybrl4FYM57c",
-      "published": "2026-06-21T12:30:02.000Z",
-      "description": "Fiona Fung leads the teams behind Claude Code and Cowork at Anthropic (overseeing Boris Cherny and the entire engineering and PM team). Before Anthropic, she spent 11 years at Microsoft building Visual Studio and TypeScript and then moved to Meta, where she started Facebook Marketplace (now generati"
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "Do we need a new social app?",
-      "url": "https://www.youtube.com/watch?v=IvHtY1X-wzM",
-      "published": "2026-06-18T11:00:30.000Z",
-      "description": "#socialmedia #founder #startup #ai"
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "You should be less ambitious",
-      "url": "https://www.youtube.com/watch?v=Dr9_Qjr_Nok",
-      "published": "2026-06-17T11:00:33.000Z",
-      "description": "#founder #startup #product #ambition"
-    }
-  ]
+  "generatedAt": "2026-06-25T04:17:15.950Z",
+  "videos": []
 }
