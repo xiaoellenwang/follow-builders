@@ -1,26 +1,117 @@
 {
-  "generatedAt": "2026-06-25T04:17:15.950Z",
+  "generatedAt": "2026-06-26T04:23:39.503Z",
   "articles": [
     {
-      "source": "Data Center Dynamics",
-      "title": "India’s biggest telco, Jio Platforms, declares ambition for sovereign LEO in path to 6G",
-      "url": "https://www.datacenterdynamics.com/en/news/indias-biggest-telco-jio-platforms-declares-ambition-for-sovereign-leo-in-path-to-6g/",
-      "description": "Subsidiary of Indian industry giant seeks to create sovereign network infrastructure extending to the stars",
-      "published": "2026-06-25T02:00:26.000Z"
+      "source": "Ars Technica Tech",
+      "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+      "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+      "description": "\n                        Notion is \"going all in on using agents to run your inbox.\" \n                    ",
+      "published": "2026-06-25T19:04:57.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Oracle’s Wisconsin Suit Tests How States Hedge AI Data Center Risks",
+      "url": "https://www.datacenterknowledge.com/regulations/oracle-lawsuit-tests-wisconsin-ai-data-center-credit-rules",
+      "description": "Oracle’s challenge to Wisconsin’s AI data center tariff could shape how regulators nationwide require financial guarantees for massive power projects.",
+      "published": "2026-06-25T18:07:19.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "ICF Warns Grid Deliverability May Limit AI-Era Power Growth",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/icf-warns-grid-deliverability-may-limit-ai-era-power-growth",
+      "description": "US electricity demand could rise 39% by 2035, but a new ICF report suggests the bigger challenge may be delivering power to fast-growing load centers.",
+      "published": "2026-06-25T18:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Texas AI Data Centers: Power, Policy, and Progress",
+      "url": "https://www.datacenterknowledge.com/regulations/texas-ai-data-centers-coverage-hub-power-policy-and-progress",
+      "description": "The future of AI infrastructure is taking shape in Texas, where policy reform, power-first strategies, and transmission constraints are determining which gigawatt-scale campuses move from announcement to actual operation.",
+      "published": "2026-06-25T17:53:59.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Proposed data center in Guernsey County, Ohio, could go ahead despite local government opposition",
-      "url": "https://www.datacenterdynamics.com/en/news/proposed-data-center-in-guernsey-county-ohio-could-go-ahead-despite-local-government-opposition/",
-      "description": "Project proposed by Smart Energy Partners still in extremely early stages",
-      "published": "2026-06-25T00:52:02.000Z"
+      "title": "Gorilla Technology secures $2.5bn GPUaaS contract in Indonesia",
+      "url": "https://www.datacenterdynamics.com/en/news/gorilla-technology-secures-25bn-gpuaas-contract-in-indonesia/",
+      "description": "Will see capacity deployed at NeutraDC Batam data center in Indonesia",
+      "published": "2026-06-25T16:30:27.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Subsidiary of Malaysian state development agency to develop 65MW data center with domestic operator",
-      "url": "https://www.datacenterdynamics.com/en/news/subsidiary-of-malaysian-state-development-agency-to-develop-65mw-data-center-with-domestic-operator/",
-      "description": "Will allegedly deploy immersion cooling",
-      "published": "2026-06-25T00:00:27.000Z"
+      "title": "IBM details major chip breakthrough with new sub-1nm ‘nanostack’ 3D architecture",
+      "url": "https://www.datacenterdynamics.com/en/news/ibm-details-major-chip-breakthrough-with-new-sub-1nm-nanostack-3d-architecture/",
+      "description": "Company claims technology provides up to 50 percent more performance or 70 percent greater energy efficiency",
+      "published": "2026-06-25T16:15:14.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "OpenAI: \"New bet\" to partner with semiconductor companies, using AI to optimize chip design",
+      "url": "https://www.datacenterdynamics.com/en/news/openai-plans-new-bet-to-partner-with-semiconductor-companies-using-ai-to-optimize-chip-design/",
+      "description": "After it used its own models to help co-design the Jalapeño AI chip with Broadcom",
+      "published": "2026-06-25T16:07:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Cloud.ru begins construction on data center in Moscow, Russia",
+      "url": "https://www.datacenterdynamics.com/en/news/cloudru-begins-construction-on-data-center-in-moscow-russia/",
+      "description": "Commissioning is targeted for 2027",
+      "published": "2026-06-25T16:00:30.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Can you really make chips in space?",
+      "url": "https://www.datacenterdynamics.com/en/analysis/can-you-really-make-chips-in-space/",
+      "description": "Will orbital semiconductor manufacturing ever become a reality?",
+      "published": "2026-06-25T16:00:00.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "A Deep Dive On China’s “LineShine” All-CPU, Exaflops-Class Supercomputer",
+      "url": "https://www.nextplatform.com/hpc/2026/06/25/a-deep-dive-on-chinas-lineshine-all-cpu-exaflops-class-supercomputer/5262439",
+      "description": "",
+      "published": "2026-06-25T15:48:02.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Qualcomm Lands Meta CPU Deal, Unveils AI Data Center Platform",
+      "url": "https://www.datacenterknowledge.com/data-center-chips/qualcomm-lands-meta-cpu-deal-unveils-ai-data-center-platform",
+      "description": "The chipmaker outlines its full AI infrastructure strategy, wins two hyperscale customers, and targets a $15 billion data center business by 2029.",
+      "published": "2026-06-25T14:46:03.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Repositioning retail for the AI era",
+      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "description": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inven",
+      "published": "2026-06-25T14:22:59.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "How Corning Became One of the Biggest Winners in AI Infrastructure",
+      "url": "https://www.datacenterknowledge.com/networking/how-corning-became-one-of-the-biggest-winners-in-ai-infrastructure",
+      "description": "Corning’s AI deals with Meta, Amazon, and Nvidia show how optical infrastructure has become a strategic capacity as hyperscalers race to build AI clusters.",
+      "published": "2026-06-25T13:42:04.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
+      "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits",
+      "published": "2026-06-25T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "What Europe’s heat wave means for the power grid",
+      "url": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
+      "description": "It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particularly ironic case, forcing the cancellation of a London Climate Action Week event ",
+      "published": "2026-06-25T10:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
+      "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+      "description": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to co",
+      "published": "2026-06-25T10:00:00.000Z"
     },
     {
       "source": "Ars Technica Tech",
@@ -30,74 +121,11 @@
       "published": "2026-06-24T21:03:34.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Northwood announces Prism & Portal satellite ground station antennas, targets 10Gbps+ per site",
-      "url": "https://www.datacenterdynamics.com/en/news/northwood-announces-prism-portal-satellite-ground-station-antennas-targets-10gbps-per-site/",
-      "description": "California firm has already deployed 14 antennas across five sites",
-      "published": "2026-06-24T20:00:23.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Blockware appoints Megan Brooks-Anderson as CEO amid AI and HPC push",
-      "url": "https://www.datacenterdynamics.com/en/news/blockware-appoints-megan-brooks-anderson-as-ceo-amid-ai-and-hpc-push/",
-      "description": "Brooks-Anderson will lead pivot to AI",
-      "published": "2026-06-24T19:00:22.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Microsoft’s Wisconsin AI Data Center Campus Now Fully Operational",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/microsoft-s-wisconsin-ai-campus-moves-from-construction-to-operations",
-      "description": "The Mount Pleasant campus offers a glimpse of how hyperscalers are turning multibillion-dollar AI infrastructure plans into operational capacity.",
-      "published": "2026-06-24T17:18:15.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Powering Behind-The-Meter Power: Where LNG and Process Safety Meet Digital Resilience",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/powering-behind-the-meter-power-where-lng-and-process-safety-meet-digital-resilience",
-      "description": "As LNG becomes critical infrastructure for data center resilience, operators must use performance-based fire modeling and proactively integrate fuel systems into their overall safety strategy.",
-      "published": "2026-06-24T16:00:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "Europe’s extreme heat is shutting down power plants",
       "url": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
       "description": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.&#8",
       "published": "2026-06-24T15:25:28.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Texas Approves ‘Batch Zero’ Study as Data Center Demand Soars",
-      "url": "https://www.datacenterknowledge.com/build-design/texas-creates-a-credibility-test-for-gigawatt-scale-data-center-demand",
-      "description": "ERCOT’s Batch Zero framework centralizes grid reviews, streamlining large-load approvals to meet soaring AI and data center power demands.",
-      "published": "2026-06-24T15:22:20.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Nvidia Overtakes Rivals in Data Center Ethernet Switching, IDC Says",
-      "url": "https://www.datacenterknowledge.com/infrastructure/nvidia-overtakes-rivals-in-data-center-ethernet-switching-idc-says",
-      "description": "Nvidia has surged to the top of the data center Ethernet switching market by selling networking as part of integrated, GPU-centric AI platforms.",
-      "published": "2026-06-24T13:41:51.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: introducing the Engineering issue",
-      "url": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Engineering issue We can’t fix everything, but we can be ambitious. We can take on the challenge of making the world better through h",
-      "published": "2026-06-24T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
-      "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
-      "description": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new&#8230;",
-      "published": "2026-06-24T12:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The emergence of the web data infrastructure layer for AI",
-      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
-      "description": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundati",
-      "published": "2026-06-24T11:59:54.000Z"
     },
     {
       "source": "The Next Platform",
@@ -107,39 +135,11 @@
       "published": "2026-06-24T11:30:05.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "This flying solar-powered platform could deliver better internet from the air",
-      "url": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
-      "description": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.&#160; Once there, the roughly 200-foot-long craft, built by the New Mexico–based company Sceye, will park some 18 kilometers above the ocean’s surfa",
-      "published": "2026-06-24T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Bridging the Divide: How Data Centers Are Addressing Community Concerns",
-      "url": "https://www.datacenterknowledge.com/data-center-site-selection/bridging-the-divide-how-data-centers-are-addressing-community-concerns",
-      "description": "As opposition grows, data center developers are rethinking how they engage communities on power, taxes, jobs, and infrastructure issues.",
-      "published": "2026-06-24T08:45:00.000Z"
-    },
-    {
       "source": "Ars Technica Tech",
       "title": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
       "url": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
       "description": "\n                        Order warns of national security risks if post-quantum cryptography isn't adopted in time.\n                    ",
       "published": "2026-06-23T22:30:57.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
-      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
-      "description": "\n                        Oracle is spending billions on data center infrastructure to support AI. \n                    ",
-      "published": "2026-06-23T20:17:38.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "AMD And Nvidia Are Neck And Neck In HPC Supercomputing",
-      "url": "https://www.nextplatform.com/hpc/2026/06/23/amd-and-nvidia-are-neck-and-neck-in-hpc-supercomputing/5260202",
-      "description": "",
-      "published": "2026-06-23T12:25:15.000Z"
     }
   ]
 }

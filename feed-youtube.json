@@ -1,4 +1,47 @@
 {
-  "generatedAt": "2026-06-25T04:17:15.950Z",
-  "videos": []
+  "generatedAt": "2026-06-26T04:23:39.503Z",
+  "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "What AI coding costs engineers",
+      "url": "https://www.youtube.com/watch?v=X_LrhBI3Z2Y",
+      "published": "2026-06-25T11:00:36.000Z",
+      "description": "#ai #engineering #coding #claudecode"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Coding is no longer the bottleneck",
+      "url": "https://www.youtube.com/watch?v=UPUFF1pkAOI",
+      "published": "2026-06-24T17:30:07.000Z",
+      "description": "Anthropic engineers ship 8x as much code per quarter as they did, compared to 2021-2025. And it's not just engineers anymore; designers and PMs check in code too.\n\nWe’ve got more people shipping and more throughput. Which makes verification the new hard problem."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "The two hires Anthropic wants",
+      "url": "https://www.youtube.com/watch?v=GwMjY4tBX_M",
+      "published": "2026-06-24T11:00:22.000Z",
+      "description": "#anthropic #ai #hiring #artificialintelligence #claude"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "The antidote for AI anxiety",
+      "url": "https://www.youtube.com/watch?v=D9gK7GD6AXg",
+      "published": "2026-06-23T11:00:39.000Z",
+      "description": "#ai #artificialintelligence #chatgpt #claude"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Fiona Fung’s Claude now automatically reads her Slack every morning?",
+      "url": "https://www.youtube.com/watch?v=Dh50sbzOXfE",
+      "published": "2026-06-23T00:50:01.000Z",
+      "description": ""
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "What happens after coding is solved? | Fiona Fung (Claude Code & Cowork)",
+      "url": "https://www.youtube.com/watch?v=Ybrl4FYM57c",
+      "published": "2026-06-21T12:30:02.000Z",
+      "description": "Fiona Fung leads the teams behind Claude Code and Cowork at Anthropic (overseeing Boris Cherny and the entire engineering and PM team). Before Anthropic, she spent 11 years at Microsoft building Visual Studio and TypeScript and then moved to Meta, where she started Facebook Marketplace (now generati"
+    }
+  ]
 }
