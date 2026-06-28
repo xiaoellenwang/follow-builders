@@ -1,6 +1,45 @@
 {
-  "generatedAt": "2026-06-27T04:10:04.921Z",
+  "generatedAt": "2026-06-28T04:43:32.837Z",
   "jobs": [
+    {
+      "title": "Senior Data Engineer - Databricks",
+      "company": "CITTABASE SOLUTIONS PTE. LTD.",
+      "salary": "S$10,000 – S$13,500",
+      "type": "Full Time",
+      "skills": [
+        "Pipelines",
+        "ETL",
+        "Data Governance"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/2011fcc66decd731baae0b197a37ebb5",
+      "posted": "2026-06-27T11:16:16.000Z"
+    },
+    {
+      "title": "AI Product Designer",
+      "company": "MORPHEUS LABS PTE. LTD.",
+      "salary": "S$6,000 – S$7,500",
+      "type": "Full Time",
+      "skills": [
+        "Interaction Design",
+        "Big Data Analytics",
+        "Interfaces"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/a4010648dd303e8b89fdfe749d1d43be",
+      "posted": "2026-06-27T09:31:37.000Z"
+    },
+    {
+      "title": "PRINCIPAL AI ENGINEER - AGENTIC CYBER SYSTEMS",
+      "company": "RAPSYS TECHNOLOGIES PTE. LTD.",
+      "salary": "S$9,000 – S$15,000",
+      "type": "Contract",
+      "skills": [
+        "Multi-Agent Systems",
+        "Machine Learning",
+        "Audit Tools"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/53d418d933483ab8ad8681ad2b9d2142",
+      "posted": "2026-06-27T06:59:26.000Z"
+    },
     {
       "title": "Machine Learning Engineer",
       "company": "CANTINA RESEARCH SINGAPORE PTE. LTD.",
@@ -156,32 +195,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/8b4bfc407f763f1cd9646dea6201cdb4",
       "posted": "2026-06-25T07:27:57.000Z"
-    },
-    {
-      "title": "Data and Artificial Intelligence Scientist - A26195",
-      "company": "ACTIVATE INTERACTIVE PTE LTD",
-      "salary": "S$6,000 – S$12,000",
-      "type": "Full Time",
-      "skills": [
-        "Written and Verbal Communication Abilities",
-        "Communication",
-        "Ai"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/46029711fa9576a97591a80dded9acdc",
-      "posted": "2026-06-25T07:26:17.000Z"
-    },
-    {
-      "title": "AI Engineer (Azure AI Solutions)",
-      "company": "JEET ANALYTICS PTE. LTD.",
-      "salary": "S$7,000 – S$11,000",
-      "type": "Contract",
-      "skills": [
-        "Azure AI",
-        "API Development",
-        "TensorFlow"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/89e73df343a8dc8b6722c4906539ef66",
-      "posted": "2026-06-25T03:20:08.000Z"
     }
   ]
 }
