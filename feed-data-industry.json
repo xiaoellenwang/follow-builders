@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-06-28T04:43:32.837Z",
+  "generatedAt": "2026-06-29T04:52:25.341Z",
   "articles": [
+    {
+      "source": "Data Center Knowledge",
+      "title": "AI’s Duplicate Demand Problem Spurs Grids to Commitment-First Planning",
+      "url": "https://www.datacenterknowledge.com/regulations/ai-s-duplicate-demand-problem-is-rewriting-grid-planning",
+      "description": "FERC filings show AI developers and grid operators converging on stricter readiness rules to separate real power demand from speculative projects.",
+      "published": "2026-06-29T16:00:00.000Z"
+    },
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "Data Engineering Weekly #276",
+      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-276",
+      "description": "The Weekly Data Engineering Newsletter",
+      "published": "2026-06-29T03:52:17.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Elon Musk gets FTC nod to acquire data center optics business Mesh Optical",
+      "url": "https://www.datacenterdynamics.com/en/news/elon-musk-gets-ftc-nod-to-acquire-data-center-optics-business-mesh-optical/",
+      "description": "The transceiver company was founded by SpaceX employees",
+      "published": "2026-06-28T22:43:35.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Turning constraints into opportunity",
+      "url": "https://www.datacenterdynamics.com/en/opinions/turning-constraints-into-opportunity/",
+      "description": "The future of sustainable data center design",
+      "published": "2026-06-28T11:00:23.000Z"
+    },
     {
       "source": "The Next Platform",
       "title": "The End Of Boom/Bust Cycles For The Memory Market",
@@ -28,20 +56,6 @@
       "url": "https://www.datacenterdynamics.com/en/news/vantage-tops-out-second-building-at-openais-lighthouse-campus-in-wisconsin/",
       "description": "Structural work completed",
       "published": "2026-06-26T15:59:30.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Dogecoin cryptominer Z Squared acquires site in Arkansas for AI/HPC data center development",
-      "url": "https://www.datacenterdynamics.com/en/news/dogecoin-cryptominer-z-squared-acquires-site-in-arkansas-for-aihpc-data-center-development/",
-      "description": "Company aims to develop 150MW immersion-cooled campus featuring behind-the-meter natural gas",
-      "published": "2026-06-26T15:31:13.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Unnamed data center developer eyeing former Crystal Geyser bottling site in Mount Shasta, California",
-      "url": "https://www.datacenterdynamics.com/en/news/unnamed-data-center-developer-eyeing-former-crystal-geyser-bottling-site-in-mount-shasta-california/",
-      "description": "No formal application has been submitted yet",
-      "published": "2026-06-26T15:20:33.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -77,55 +91,6 @@
       "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
       "description": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures ",
       "published": "2026-06-26T09:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
-      "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
-      "description": "\n                        Notion is \"going all in on using agents to run your inbox.\" \n                    ",
-      "published": "2026-06-25T19:04:57.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Oracle’s Wisconsin Suit Tests How States Hedge AI Data Center Risks",
-      "url": "https://www.datacenterknowledge.com/regulations/oracle-lawsuit-tests-wisconsin-ai-data-center-credit-rules",
-      "description": "Oracle’s challenge to Wisconsin’s AI data center tariff could shape how regulators nationwide require financial guarantees for massive power projects.",
-      "published": "2026-06-25T18:07:19.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "ICF Warns Grid Deliverability May Limit AI-Era Power Growth",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/icf-warns-grid-deliverability-may-limit-ai-era-power-growth",
-      "description": "US electricity demand could rise 39% by 2035, but a new ICF report suggests the bigger challenge may be delivering power to fast-growing load centers.",
-      "published": "2026-06-25T18:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "A Deep Dive On China’s “LineShine” All-CPU, Exaflops-Class Supercomputer",
-      "url": "https://www.nextplatform.com/hpc/2026/06/25/a-deep-dive-on-chinas-lineshine-all-cpu-exaflops-class-supercomputer/5262439",
-      "description": "",
-      "published": "2026-06-25T15:48:02.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Repositioning retail for the AI era",
-      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-      "description": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inven",
-      "published": "2026-06-25T14:22:59.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
-      "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits",
-      "published": "2026-06-25T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "What Europe’s heat wave means for the power grid",
-      "url": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
-      "description": "It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particularly ironic case, forcing the cancellation of a London Climate Action Week event ",
-      "published": "2026-06-25T10:00:00.000Z"
     }
   ]
 }

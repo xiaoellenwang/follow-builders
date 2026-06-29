@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-06-28T04:43:32.837Z",
+  "generatedAt": "2026-06-29T04:52:25.341Z",
   "jobs": [
+    {
+      "title": "AI Apps Developer (Intern)",
+      "company": "FACULTY DIGITAL PTE. LTD.",
+      "salary": "S$1,200 – S$1,500",
+      "type": "Internship/Attachment",
+      "skills": [
+        "Ai",
+        "Proven ability",
+        "Automated Tools"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/a4c05d832708272ed8623a1f41d82aca",
+      "posted": "2026-06-29T00:21:12.000Z"
+    },
+    {
+      "title": "Expression of Interest- Multimodal AI & Applied LLM Researcher",
+      "company": "RECRUIT123 PTE. LTD.",
+      "salary": "S$9,500 – S$14,000",
+      "type": "Permanent",
+      "skills": [
+        "Architectural Modeling",
+        "Liaising with cross functional teams",
+        "Rational Software Architect"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/62f56eebf7c0f96ca7e259ebdc922f1b",
+      "posted": "2026-06-28T17:14:03.000Z"
+    },
     {
       "title": "Senior Data Engineer - Databricks",
       "company": "CITTABASE SOLUTIONS PTE. LTD.",
@@ -39,19 +65,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/53d418d933483ab8ad8681ad2b9d2142",
       "posted": "2026-06-27T06:59:26.000Z"
-    },
-    {
-      "title": "Machine Learning Engineer",
-      "company": "CANTINA RESEARCH SINGAPORE PTE. LTD.",
-      "salary": "S$8,000 – S$30,000",
-      "type": "Full Time",
-      "skills": [
-        "Microsoft Azure",
-        "Kubernetes",
-        "Data Maintenance"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/ce9a9d72eb2f8a7bd9bf8d5e2521981f",
-      "posted": "2026-06-26T13:13:30.000Z"
     },
     {
       "title": "AI Engineer (Entry Level)",
@@ -117,84 +130,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/55530f86b28322b4fbbb8245dbd393d9",
       "posted": "2026-06-26T05:05:53.000Z"
-    },
-    {
-      "title": "Machine Learning Engineer",
-      "company": "ALLEGIS GROUP SINGAPORE PRIVATE LIMITED",
-      "salary": "S$6,000 – S$12,000",
-      "type": "Contract",
-      "skills": [
-        "Liaising with cross functional teams",
-        "Subject Matter Expert",
-        "Design"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/07383000b8f5342867acd9abb615ea60",
-      "posted": "2026-06-26T02:58:23.000Z"
-    },
-    {
-      "title": "AI Security Engineer",
-      "company": "TECH GRID ASIA PTE. LTD.",
-      "salary": "S$6,500 – S$9,000",
-      "type": "Permanent",
-      "skills": [
-        "Incident Response",
-        "Engineering Opportunities-",
-        "Cyber Security"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/2f464425d7f3273afc5b8e570d6c304b",
-      "posted": "2026-06-26T02:13:07.000Z"
-    },
-    {
-      "title": "AI Engineer",
-      "company": "LYNEER CORP (SINGAPORE) PTE. LTD.",
-      "salary": "S$11,000 – S$14,000",
-      "type": "Contract",
-      "skills": [
-        "Multi-Agent Systems",
-        "Kubernetes",
-        "Data Pipeline"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/c1f382019e50c423e0cca5ef6f2189cc",
-      "posted": "2026-06-25T08:44:56.000Z"
-    },
-    {
-      "title": "AI Engineer",
-      "company": "LYNEER CORP (SINGAPORE) PTE. LTD.",
-      "salary": "S$8,000 – S$11,000",
-      "type": "Contract",
-      "skills": [
-        "Multi-Agent Systems",
-        "Kubernetes",
-        "Data Pipeline"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/e6fbdbe471a558fdc27462814a1a4ad8",
-      "posted": "2026-06-25T08:27:10.000Z"
-    },
-    {
-      "title": "AI Engineer (Azure AI Solutions)",
-      "company": "UNISON CONSULTING PTE. LTD.",
-      "salary": "S$7,000 – S$11,000",
-      "type": "Contract",
-      "skills": [
-        "Azure AI",
-        "API Development",
-        "TensorFlow"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/12aa3a5fb0666f08454084edc44643e4",
-      "posted": "2026-06-25T07:57:44.000Z"
-    },
-    {
-      "title": "Senior Data and Artificial Intelligence Scientist - A26195",
-      "company": "ACTIVATE INTERACTIVE PTE LTD",
-      "salary": "S$8,000 – S$16,000",
-      "type": "Full Time",
-      "skills": [
-        "Written and Verbal Communication Abilities",
-        "Communication",
-        "Ai"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/8b4bfc407f763f1cd9646dea6201cdb4",
-      "posted": "2026-06-25T07:27:57.000Z"
     }
   ]
 }

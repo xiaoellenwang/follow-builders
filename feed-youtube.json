@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-06-28T04:43:32.837Z",
+  "generatedAt": "2026-06-29T04:52:25.341Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "OpenAI Codex lead on the new shape of product work | Andrew Ambrosino",
+      "url": "https://www.youtube.com/watch?v=P3KDebPTUrw",
+      "published": "2026-06-28T12:30:05.000Z",
+      "description": "Andrew Ambrosino leads development of the Codex desktop app at OpenAI. Nearly 100% of OpenAI employees—not just engineers—now use Codex weekly. A lifelong builder with a background spanning engineering, design, product management, and founding companies, he is now responsible for turning the Codex d"
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "What AI coding costs engineers",
@@ -35,13 +42,6 @@
       "url": "https://www.youtube.com/watch?v=Dh50sbzOXfE",
       "published": "2026-06-23T00:50:01.000Z",
       "description": ""
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "What happens after coding is solved? | Fiona Fung (Claude Code & Cowork)",
-      "url": "https://www.youtube.com/watch?v=Ybrl4FYM57c",
-      "published": "2026-06-21T12:30:02.000Z",
-      "description": "Fiona Fung leads the teams behind Claude Code and Cowork at Anthropic (overseeing Boris Cherny and the entire engineering and PM team). Before Anthropic, she spent 11 years at Microsoft building Visual Studio and TypeScript and then moved to Meta, where she started Facebook Marketplace (now generati"
     }
   ]
 }
