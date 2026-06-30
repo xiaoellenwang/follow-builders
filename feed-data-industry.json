@@ -1,12 +1,103 @@
 {
-  "generatedAt": "2026-06-29T04:52:25.341Z",
+  "generatedAt": "2026-06-30T04:18:36.128Z",
   "articles": [
     {
+      "source": "Ars Technica Tech",
+      "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
+      "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
+      "description": "\n                        Operation by two Russia-state groups has been ongoing since at least March.\n                    ",
+      "published": "2026-06-29T22:05:33.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "AI agents are not your “coworkers”",
+      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex",
+      "published": "2026-06-29T18:00:00.000Z"
+    },
+    {
       "source": "Data Center Knowledge",
-      "title": "AI’s Duplicate Demand Problem Spurs Grids to Commitment-First Planning",
+      "title": "Rack-Based Environmental Monitoring: Benefits, Insights, and Getting Started",
+      "url": "https://www.datacenterknowledge.com/data-observability/rack-based-environmental-monitoring-benefits-insights-and-getting-started",
+      "description": "Rack-based environmental monitoring enhances data center efficiency by providing granular insights into temperature, humidity, and airflow.",
+      "published": "2026-06-29T17:40:13.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Hyperscale Data completes land acquisition to expand Michigan campus",
+      "url": "https://www.datacenterdynamics.com/en/news/hyperscale-data-completes-land-acquisition-to-expand-michigan-campus/",
+      "description": "Adds 48.5 acres to Michigan footprint",
+      "published": "2026-06-29T17:30:23.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Google limits Meta's AI use due to capacity constraints - report",
+      "url": "https://www.datacenterdynamics.com/en/news/google-limits-metas-ai-use-due-to-capacity-constraints-report/",
+      "description": "Had to restrict other customers as well",
+      "published": "2026-06-29T17:00:31.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Kyivstar announces plans for AI data center in Ukraine",
+      "url": "https://www.datacenterdynamics.com/en/news/kyivstar-announces-plans-for-ai-data-center-in-ukraine/",
+      "description": "Ukrainian telco signs MoU for facility with the country’s government",
+      "published": "2026-06-29T16:50:27.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Lawsuit filed to lift data center moratorium in Eagan, Minnesota",
+      "url": "https://www.datacenterdynamics.com/en/news/lawsuit-filed-to-lift-data-center-moratorium-in-eagan-minnesota/",
+      "description": "Eagan Capital calls ban unlawful",
+      "published": "2026-06-29T16:30:28.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "900-acre data center could be built in Salix, Iowa",
+      "url": "https://www.datacenterdynamics.com/en/news/900-acre-data-center-could-be-built-in-salix-iowa/",
+      "description": "But faces opposition from locals",
+      "published": "2026-06-29T16:30:27.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "AMD Stretches Server DRAM With Flash Extended Memory",
+      "url": "https://www.nextplatform.com/store/2026/06/29/amd-stretches-server-dram-with-flash-extended-memory/5263848",
+      "description": "",
+      "published": "2026-06-29T15:20:32.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Agent confidence on the technical frontier",
+      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+      "description": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial out",
+      "published": "2026-06-29T14:44:01.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "CoreWeave Unveils Aria to Streamline AI Workflows for Data Centers",
+      "url": "https://www.datacenterknowledge.com/next-gen-data-centers/coreweave-pushes-beyond-gpu-cloud-with-aria",
+      "description": "The cloud company’s new AI tool analyzes training experiments, visualizes data, and automates insights as cloud providers expand beyond infrastructure.",
+      "published": "2026-06-29T14:23:23.000Z"
+    },
+    {
+      "source": "Import AI",
+      "title": "Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era",
+      "url": "https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/",
+      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now NVIDIA sets up a crude self-improvement loop for real world robotics:…What if you could take the best ideas from AI ag",
+      "published": "2026-06-29T13:03:27.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: metric weaknesses and AI elephant warnings",
+      "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a l",
+      "published": "2026-06-29T12:10:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "AI’s Duplicate Demand Problem Drives Grids to Commitment-First Planning",
       "url": "https://www.datacenterknowledge.com/regulations/ai-s-duplicate-demand-problem-is-rewriting-grid-planning",
-      "description": "FERC filings show AI developers and grid operators converging on stricter readiness rules to separate real power demand from speculative projects.",
-      "published": "2026-06-29T16:00:00.000Z"
+      "description": "Recent FERC filings show AI developers and grid operators converging on stricter readiness rules to separate real power demand from speculative projects.",
+      "published": "2026-06-29T09:00:00.000Z"
     },
     {
       "source": "DataEngineeringWeekly",
@@ -14,83 +105,6 @@
       "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-276",
       "description": "The Weekly Data Engineering Newsletter",
       "published": "2026-06-29T03:52:17.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Elon Musk gets FTC nod to acquire data center optics business Mesh Optical",
-      "url": "https://www.datacenterdynamics.com/en/news/elon-musk-gets-ftc-nod-to-acquire-data-center-optics-business-mesh-optical/",
-      "description": "The transceiver company was founded by SpaceX employees",
-      "published": "2026-06-28T22:43:35.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Turning constraints into opportunity",
-      "url": "https://www.datacenterdynamics.com/en/opinions/turning-constraints-into-opportunity/",
-      "description": "The future of sustainable data center design",
-      "published": "2026-06-28T11:00:23.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "The End Of Boom/Bust Cycles For The Memory Market",
-      "url": "https://www.nextplatform.com/store/2026/06/26/the-end-of-boom/bust-cycles-for-the-memory-market/5263287",
-      "description": "",
-      "published": "2026-06-26T19:02:02.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Edged tops out data center in Council Bluffs, Iowa",
-      "url": "https://www.datacenterdynamics.com/en/news/edged-tops-out-data-center-in-council-bluffs-iowa/",
-      "description": "Second building due to be topped out in September",
-      "published": "2026-06-26T16:38:33.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "FCC concludes AWS-3 spectrum, raises $3.5bn",
-      "url": "https://www.datacenterdynamics.com/en/news/fcc-concludes-aws-3-spectrum-raises-35bn/",
-      "description": "Will be used to fund \"rip and replace\" of Chinese telecoms kit",
-      "published": "2026-06-26T16:00:31.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Vantage tops out second building at OpenAI's Lighthouse campus in Wisconsin",
-      "url": "https://www.datacenterdynamics.com/en/news/vantage-tops-out-second-building-at-openais-lighthouse-campus-in-wisconsin/",
-      "description": "Structural work completed",
-      "published": "2026-06-26T15:59:30.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Losing the Plot: Why a Responsible Approach to Land Is Pivotal to Data Center Development",
-      "url": "https://www.datacenterknowledge.com/data-center-site-selection/why-a-responsible-approach-to-land-is-pivotal-to-data-center-development",
-      "description": "Responsible land use is key to sustainable data center growth, balancing environmental care, community value, and digital infrastructure needs, writes atNorth’s Johann Thor Jonsson.",
-      "published": "2026-06-26T13:45:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "AI Data Center Loads Rewrite the Utility Playbook",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/ai-power-boom-rewrites-the-utility-playbook",
-      "description": "Utilities, grid operators, and developers say hyperscale AI data centers are forcing faster, larger‑scale transmission, interconnection, and reliability planning as demand outpaces legacy assumptions.",
-      "published": "2026-06-26T12:52:24.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
-      "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous",
-      "published": "2026-06-26T12:10:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "The Carolinas May Hold a Critical Resource for AI Data Centers",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/the-carolinas-may-hold-a-critical-resource-for-ai-data-centers",
-      "description": "A USGS study estimates that 1.4 million metric tons of recoverable lithium oxide are present in the Carolinas, a potential boost for grid-scale battery energy storage.",
-      "published": "2026-06-26T09:15:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
-      "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
-      "description": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures ",
-      "published": "2026-06-26T09:00:00.000Z"
     }
   ]
 }

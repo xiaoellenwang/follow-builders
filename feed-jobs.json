@@ -1,135 +1,200 @@
 {
-  "generatedAt": "2026-06-29T04:52:25.341Z",
+  "generatedAt": "2026-06-30T04:18:36.128Z",
   "jobs": [
     {
-      "title": "AI Apps Developer (Intern)",
-      "company": "FACULTY DIGITAL PTE. LTD.",
-      "salary": "S$1,200 – S$1,500",
-      "type": "Internship/Attachment",
+      "title": "Principal AI Engineer",
+      "company": "IDC TECHNOLOGIES (SINGAPORE) PTE. LTD.",
+      "salary": "S$11,000 – S$14,000",
+      "type": "Contract",
       "skills": [
-        "Ai",
-        "Proven ability",
-        "Automated Tools"
+        "Code Review",
+        "Modeling Tool",
+        "AI Agents"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/a4c05d832708272ed8623a1f41d82aca",
-      "posted": "2026-06-29T00:21:12.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/0b6e0bfafd5fd763d087db64f0ebc524",
+      "posted": "2026-06-30T04:18:28.000Z"
     },
     {
-      "title": "Expression of Interest- Multimodal AI & Applied LLM Researcher",
-      "company": "RECRUIT123 PTE. LTD.",
-      "salary": "S$9,500 – S$14,000",
+      "title": "Principal AI Engineer",
+      "company": "IDC TECHNOLOGIES (SINGAPORE) PTE. LTD.",
+      "salary": "S$8,000 – S$11,000",
+      "type": "Contract",
+      "skills": [
+        "Code Review",
+        "Modeling Tool",
+        "AI Agents"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/a9821b1ca1e3375f9061c1607656ef34",
+      "posted": "2026-06-30T04:16:51.000Z"
+    },
+    {
+      "title": "Senior Engineer (AI)",
+      "company": "ZENITH INFOTECH (S) PTE LTD.",
+      "salary": "S$5,000 – S$7,000",
       "type": "Permanent",
       "skills": [
-        "Architectural Modeling",
-        "Liaising with cross functional teams",
-        "Rational Software Architect"
+        "Security Clearance",
+        "Retrieval-Augmented Generation (RAG)",
+        "Regulatory Compliance"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/62f56eebf7c0f96ca7e259ebdc922f1b",
-      "posted": "2026-06-28T17:14:03.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/e6145a3f297656c0eb7c785dde21c49f",
+      "posted": "2026-06-30T03:49:13.000Z"
     },
     {
-      "title": "Senior Data Engineer - Databricks",
-      "company": "CITTABASE SOLUTIONS PTE. LTD.",
-      "salary": "S$10,000 – S$13,500",
-      "type": "Full Time",
+      "title": "Software & AI Manager",
+      "company": "IP-TRIBE (PRIVATE) LIMITED",
+      "salary": "S$7,500 – S$9,000",
+      "type": "Permanent",
       "skills": [
-        "Pipelines",
-        "ETL",
-        "Data Governance"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/2011fcc66decd731baae0b197a37ebb5",
-      "posted": "2026-06-27T11:16:16.000Z"
-    },
-    {
-      "title": "AI Product Designer",
-      "company": "MORPHEUS LABS PTE. LTD.",
-      "salary": "S$6,000 – S$7,500",
-      "type": "Full Time",
-      "skills": [
-        "Interaction Design",
-        "Big Data Analytics",
-        "Interfaces"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/a4010648dd303e8b89fdfe749d1d43be",
-      "posted": "2026-06-27T09:31:37.000Z"
-    },
-    {
-      "title": "PRINCIPAL AI ENGINEER - AGENTIC CYBER SYSTEMS",
-      "company": "RAPSYS TECHNOLOGIES PTE. LTD.",
-      "salary": "S$9,000 – S$15,000",
-      "type": "Contract",
-      "skills": [
-        "Multi-Agent Systems",
         "Machine Learning",
-        "Audit Tools"
+        "Proven track record of success",
+        "Leadership Experience"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/53d418d933483ab8ad8681ad2b9d2142",
-      "posted": "2026-06-27T06:59:26.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/f7ff767c31c7fe43a7999dac0d426e27",
+      "posted": "2026-06-30T03:13:17.000Z"
     },
     {
-      "title": "AI Engineer (Entry Level)",
-      "company": "GO-GENIE PTE. LTD.",
-      "salary": "S$6,000 – S$7,000",
+      "title": "Specialist, Machine Learning Engineer",
+      "company": "MSD INTERNATIONAL GMBH (Singapore Branch)",
+      "salary": "S$5,000 – S$8,000",
       "type": "Full Time",
       "skills": [
-        "Analytical Approach",
-        "Graduate Recruitment",
-        "Machine Learning"
+        "Qualitative Analysis",
+        "Ai",
+        "Provides Support"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/fded203f5c9f9193330e6f01e64a9402",
-      "posted": "2026-06-26T09:49:40.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/5143a524b18b54d457327c8996f9b22f",
+      "posted": "2026-06-30T02:27:41.000Z"
     },
     {
-      "title": "AI Engineer",
-      "company": "MTZ INVESTMENT MANAGEMENT PTE. LTD.",
-      "salary": "S$3,500 – S$4,000",
-      "type": "Contract",
+      "title": "AI Data Centre Project Engineer",
+      "company": "RN CARE PTE. LTD.",
+      "salary": "S$4,000 – S$7,000",
+      "type": "Permanent",
       "skills": [
-        "Automated Tools",
-        "AI Ethics",
-        "Experimentation"
+        "Computer Engineering",
+        "Factory Acceptance Testing",
+        "Information Technology"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/61dbb091bc14eccd42cb866d2fe1b7e4",
-      "posted": "2026-06-26T06:21:21.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/3525ea454799cbe5847d64ead64c86db",
+      "posted": "2026-06-30T02:21:59.000Z"
     },
     {
-      "title": "Principal AI Engineer (6 months contract)",
-      "company": "ESOL PTE. LTD.",
-      "salary": "S$19,000 – S$21,000",
-      "type": "Contract",
+      "title": "AI Infrastructure Project Engineer",
+      "company": "RN CARE PTE. LTD.",
+      "salary": "S$4,000 – S$7,000",
+      "type": "Permanent",
       "skills": [
-        "Multi-Agent Systems",
-        "Machine Learning",
-        "Knowledge Database"
+        "Computer Engineering",
+        "Factory Acceptance Testing",
+        "Information Technology"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/df392cd2aacceafea9e06353ce320bbe",
-      "posted": "2026-06-26T06:20:22.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/4a4fc0bafe1ef006f929f58a1a35650b",
+      "posted": "2026-06-30T02:21:47.000Z"
     },
     {
-      "title": "AI Scientist - LLM & AI Agent",
-      "company": "DUOTECH PTE. LTD.",
-      "salary": "S$6,000 – S$10,000",
+      "title": "Solution Architect – Core Banking, AI & SRE",
+      "company": "KG INFORMATION SYSTEMS PTE. LTD.",
+      "salary": "S$14,000 – S$15,000",
       "type": "Full Time",
       "skills": [
         "Ai",
-        "Academia",
-        "Customer Support"
+        "Risk Management Solutions",
+        "Regulatory Compliance"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/bdebdd84409659ff6e56107989da2284",
-      "posted": "2026-06-26T05:55:54.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/1e6b851daab43d489b76e237b28057af",
+      "posted": "2026-06-30T02:04:26.000Z"
     },
     {
-      "title": "Principal Software Engineer (Agentic AI)",
-      "company": "TYCO ELECTRONICS SINGAPORE PTE LTD",
+      "title": "Member of Technical Staff (MTS), Machine Learning, SMAI",
+      "company": "MICRON SEMICONDUCTOR ASIA OPERATIONS PTE. LTD.",
+      "salary": "S$14,000 – S$24,000",
+      "type": "Full Time",
+      "skills": [
+        "AutoGen",
+        "Logical Reasoning",
+        "AI Agents"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/9d06b4fe45296140e73ca28306f9c54f",
+      "posted": "2026-06-30T01:37:05.000Z"
+    },
+    {
+      "title": "Principal Engineer, Machine Learning, SMAI",
+      "company": "MICRON SEMICONDUCTOR ASIA OPERATIONS PTE. LTD.",
+      "salary": "S$13,000 – S$23,000",
+      "type": "Full Time",
+      "skills": [
+        "AutoGen",
+        "AI Agents",
+        "LangGraph"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/8c809b76dbc5d339996f3f78d56cabda",
+      "posted": "2026-06-30T00:31:14.000Z"
+    },
+    {
+      "title": "Member of Technical Staff (MTS), Machine Learning, SMAI",
+      "company": "MICRON SEMICONDUCTOR ASIA OPERATIONS PTE. LTD.",
+      "salary": "S$14,000 – S$24,000",
+      "type": "Full Time",
+      "skills": [
+        "AutoGen",
+        "AI Agents",
+        "LangGraph"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/8960137eb2b00416d25db3d8df054ffb",
+      "posted": "2026-06-30T00:27:55.000Z"
+    },
+    {
+      "title": "MTS, AI Engineering, SMAI",
+      "company": "MICRON SEMICONDUCTOR ASIA OPERATIONS PTE. LTD.",
+      "salary": "S$14,000 – S$24,000",
+      "type": "Full Time",
+      "skills": [
+        "AutoGen",
+        "Logical Reasoning",
+        "AI Agents"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/9bf4abaff115eb68f1796438babc987d",
+      "posted": "2026-06-30T00:25:45.000Z"
+    },
+    {
+      "title": "Principal Robotics AI Engineer (Perception & Autonomy Systems)",
+      "company": "ENGGSOL PTE. LTD.",
+      "salary": "S$8,000 – S$10,000",
+      "type": "Contract",
+      "skills": [
+        "Sensor Fusion",
+        "TensorFlow",
+        "Partnerships"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/e0a81ed8d78334b3c242ecd07245d302",
+      "posted": "2026-06-29T17:04:49.000Z"
+    },
+    {
+      "title": "Assistant Principal AI Engineer, Robotics Operations",
+      "company": "ENGGSOL PTE. LTD.",
+      "salary": "S$6,500 – S$8,000",
+      "type": "Contract",
+      "skills": [
+        "TensorFlow",
+        "Lead Management",
+        "Leadership"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/f83907d3a1fda6faecd52999b30edb2f",
+      "posted": "2026-06-29T17:00:06.000Z"
+    },
+    {
+      "title": "Principal AI Engineer",
+      "company": "ACHIEVE CAREER CONSULTANT PTE LTD",
       "salary": "S$15,000 – S$20,000",
-      "type": "Permanent",
+      "type": "Contract",
       "skills": [
-        "Innovation Consulting",
-        "Engineering Product Design",
-        "Technology Strategy Design"
+        "Machine Learning",
+        "Hardware Architecture",
+        "AI Agents"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/55530f86b28322b4fbbb8245dbd393d9",
-      "posted": "2026-06-26T05:05:53.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/b9f701046f6d357d3de1facbbb18d4e0",
+      "posted": "2026-06-29T09:41:34.000Z"
     }
   ]
 }
