@@ -1,6 +1,97 @@
 {
-  "generatedAt": "2026-07-01T04:46:48.967Z",
+  "generatedAt": "2026-07-02T04:13:58.309Z",
   "articles": [
+    {
+      "source": "Ars Technica Tech",
+      "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
+      "url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
+      "description": "\n                        T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses. \n                    ",
+      "published": "2026-07-01T21:21:21.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Cloud Capital and Realty Income partner for $6bn data center joint venture fund",
+      "url": "https://www.datacenterdynamics.com/en/news/cloud-capital-and-realty-income-partner-for-6bn-data-center-joint-venture-fund/",
+      "description": "JV acquires stakes in three Virginia data centers",
+      "published": "2026-07-01T16:00:51.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "It’s a sprint and a marathon: why capital continues to define data center leaders",
+      "url": "https://www.datacenterdynamics.com/en/opinions/its-a-sprint-and-a-marathon-why-capital-continues-to-define-data-center-leaders/",
+      "description": "The real winners will be those who have the stamina to sustain their pace",
+      "published": "2026-07-01T16:00:30.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "150MW data center planned for North Frisia, Germany, attracts protests",
+      "url": "https://www.datacenterdynamics.com/en/news/150mw-data-center-planned-for-north-frisia-germany-attracts-protests/",
+      "description": "Residents skeptical about height of the proposed development",
+      "published": "2026-07-01T16:00:28.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "AWS launches Secret Cloud for Industry",
+      "url": "https://www.datacenterdynamics.com/en/news/aws-launches-secret-cloud-for-industry/",
+      "description": "Gives US defense contractors secure access to cloud",
+      "published": "2026-07-01T15:40:27.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "AI Interconnect Delays Spur $1.75B National Grid-Joulent Deal",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/national-grid-agrees-to-1-75b-investment-in-joulent-to-expand-ai-power-infrastructure",
+      "description": "The utility’s planned $1.75 billion investment in Joulent illustrates how dedicated power infrastructure is becoming central to AI data center growth.",
+      "published": "2026-07-01T15:29:03.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Egypt greenlights license for $400m data center expansion",
+      "url": "https://www.datacenterdynamics.com/en/news/egypt-greenlights-licence-for-400m-data-center-expansion/",
+      "description": "The initiative backs the country’s strategy for data centers and cloud computing",
+      "published": "2026-07-01T15:20:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "description": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it&#8230;",
+      "published": "2026-07-01T14:35:16.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+      "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropi",
+      "published": "2026-07-01T12:10:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Google Says AI Growth Is Outrunning Grid Decarbonization",
+      "url": "https://www.datacenterknowledge.com/sustainability/google-says-ai-is-outrunning-grid-decarbonization",
+      "description": "Google’s AI infrastructure growth is accelerating faster than power grids can decarbonize, highlighting gaps in clean energy deployment.",
+      "published": "2026-07-01T11:49:55.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Brookfield-Bloom $25B Aims to Make Energy Certainty Financeable",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/brookfield-bloom-s-25-billion-gambit-signals-ai-power-s-emergence-as-an-asset-class",
+      "description": "The expansion reflects a strategic shift where capital providers bundle financing with guaranteed power delivery from day one, enabling hyperscalers to advance projects on schedule even while awaiting utility connections.",
+      "published": "2026-07-01T11:28:57.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Data Center Power Coalition Launches to Tackle AI’s Biggest Bottleneck",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/data-center-power-coalition-launches-to-tackle-ai-s-biggest-bottleneck",
+      "description": "As utilities struggle to keep pace with AI-driven demand, a new industry coalition aims to create a common playbook for powering next-generation data centers.",
+      "published": "2026-07-01T08:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "How Do Utilities Determine Which AI Data Centers Get Grid Access?",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/how-utilities-decide-which-ai-data-centers-deserve-the-grid",
+      "description": "Planning documents from Georgia Power, Duke Energy, and Dominion Energy reveal how utilities filter AI demand, test scenarios, and plan investments.",
+      "published": "2026-07-01T07:30:00.000Z"
+    },
     {
       "source": "MIT Technology Review",
       "title": "Claude Science is Anthropic’s newest flagship product",
@@ -23,88 +114,11 @@
       "published": "2026-06-30T17:36:48.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Education tech company Classover pivots to AI cloud provider",
-      "url": "https://www.datacenterdynamics.com/en/news/education-tech-company-classover-pivots-to-ai-cloud-provider/",
-      "description": "Rebrands as Kidz AI Inc.",
-      "published": "2026-06-30T16:31:31.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Proposed data center outside Calgary, Canada, withdrawn by developer",
-      "url": "https://www.datacenterdynamics.com/en/news/proposed-data-center-outside-calgary-canada-withdrawn-by-developer/",
-      "description": "Kalina backs out",
-      "published": "2026-06-30T16:27:58.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "DCD Studio: Italian data center deals, with Sergio Ardigò, Dils",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-italian-data-center-deals-with-sergio-ardigo-dils/",
-      "description": "Seb Moss speaks with Sergio Ardigò of Dils on Italy’s expanding data center market, land acquisition, investment trends, hyperscale growth, and the evolving power and regulatory landscape.",
-      "published": "2026-06-30T16:17:12.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Shaking off the rust: Pennsylvania’s data center rise",
-      "url": "https://www.datacenterdynamics.com/en/analysis/shaking-off-the-rust-pennsylvanias-data-center-rise/",
-      "description": "How the Rust Belt state has become one of latest boom markets in the US",
-      "published": "2026-06-30T16:00:28.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Why AI Data Centers Make Existing Power Plants More Valuable",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/why-ai-data-centers-make-existing-power-plants-more-valuable",
-      "description": "As AI accelerates electricity demand, utilities and investors are paying a growing premium for existing generation that can reach the grid faster than new projects.",
-      "published": "2026-06-30T15:22:16.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Michigan's Oakland University board votes to move ahead with data center project",
-      "url": "https://www.datacenterdynamics.com/en/news/michigans-oakland-university-board-votes-to-move-ahead-with-data-center-project/",
-      "description": "Project still has a way to go",
-      "published": "2026-06-30T15:08:05.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "AWS Launches Graviton5-Powered EC2 Instances for AI and HPC",
-      "url": "https://www.datacenterknowledge.com/data-center-chips/aws-makes-the-case-for-cpus-in-the-ai-stack",
-      "description": "New Graviton5-powered C9g and C9gd instances target AI orchestration alongside HPC and analytics, as AWS argues CPUs remain central to the next generation of AI infrastructure.",
-      "published": "2026-06-30T15:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Digital Realty Pays $3.5B for Blackstone Data Center Stakes",
-      "url": "https://www.datacenterknowledge.com/build-design/digital-realty-pays-3-5b-for-blackstone-data-center-stakes",
-      "description": "The deal reflects the operator’s strategy to scale its footprint amid surging AI-driven demand for data center infrastructure, while potentially signaling Blackstone’s shift toward higher-return investments.",
-      "published": "2026-06-30T13:47:17.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: AI “coworkers” and stratospheric internet",
       "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
       "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI to",
       "published": "2026-06-30T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Agriculture is ready for AI, but its data isn’t",
-      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
-      "description": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins ",
-      "published": "2026-06-30T12:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Building tech in the world’s secret R&D hub",
-      "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
-      "description": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&#38;D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, howe",
-      "published": "2026-06-30T10:23:30.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Stargate Update: AI’s Biggest Data Center Buildout Meets Reality",
-      "url": "https://www.datacenterknowledge.com/ai-data-centers/stargate-update-ai-s-biggest-data-center-buildout-meets-reality",
-      "description": "The initiative’s success now hinges on whether it can scale faster than the mounting risks around energy, financing, governance, and community consent.",
-      "published": "2026-06-30T09:00:00.000Z"
     },
     {
       "source": "Ars Technica Tech",
@@ -114,25 +128,11 @@
       "published": "2026-06-29T22:05:33.000Z"
     },
     {
-      "source": "Data Center Knowledge",
-      "title": "Rack-Based Environmental Monitoring: Benefits, Insights, and Getting Started",
-      "url": "https://www.datacenterknowledge.com/data-observability/rack-based-environmental-monitoring-benefits-insights-and-getting-started",
-      "description": "Rack-based environmental monitoring enhances data center efficiency by providing granular insights into temperature, humidity, and airflow.",
-      "published": "2026-06-29T17:40:13.000Z"
-    },
-    {
       "source": "Import AI",
       "title": "Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era",
       "url": "https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/",
       "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now NVIDIA sets up a crude self-improvement loop for real world robotics:…What if you could take the best ideas from AI ag",
       "published": "2026-06-29T13:03:27.000Z"
-    },
-    {
-      "source": "DataEngineeringWeekly",
-      "title": "Data Engineering Weekly #276",
-      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-276",
-      "description": "The Weekly Data Engineering Newsletter",
-      "published": "2026-06-29T03:52:17.000Z"
     }
   ]
 }
