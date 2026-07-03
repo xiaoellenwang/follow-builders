@@ -1,6 +1,104 @@
 {
-  "generatedAt": "2026-07-02T04:13:58.309Z",
+  "generatedAt": "2026-07-03T04:00:33.020Z",
   "articles": [
+    {
+      "source": "Ars Technica Tech",
+      "title": "Newly discovered PamStealer isn't your typical macOS malware",
+      "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
+      "description": "\n                        The discovery underscores the increased effort being poured into Mac infostealers.\n                    ",
+      "published": "2026-07-02T19:38:57.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "The Switch Is the Bottleneck: Why AI Infrastructure Has a Network Problem",
+      "url": "https://www.datacenterknowledge.com/switches-routers/the-switch-is-the-bottleneck-why-ai-infrastructure-has-a-network-problem",
+      "description": "AI workloads are outpacing network capabilities, leaving expensive chips idle. Mark Rushworth explains why the switch is the bottleneck and how to fix it.",
+      "published": "2026-07-02T17:52:30.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Google plans \"connectivity hub\" in the Eastern Cape, South Africa",
+      "url": "https://www.datacenterdynamics.com/en/news/esds/",
+      "description": "Will be the first of four hubs in Africa",
+      "published": "2026-07-02T16:20:32.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Mitsubishi Electric acquires satellite ground station firm Infostellar",
+      "url": "https://www.datacenterdynamics.com/en/news/mitsubishi-electric-acquires-satellite-ground-station-firm-infostellar/",
+      "description": "Ground station as a service provider has new owners",
+      "published": "2026-07-02T16:20:31.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Qolab raises $54.2m to support development of superconducting quantum computing",
+      "url": "https://www.datacenterdynamics.com/en/news/qolab-raises-542m-to-support-development-of-superconducting-quantum-computing/",
+      "description": "While China’s SpinQ raises $147m, announces establishment of superconducting quantum chip facility in Shenzhen",
+      "published": "2026-07-02T16:20:30.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "SoftBank establishes SB Neo to operate US neocloud business",
+      "url": "https://www.datacenterdynamics.com/en/news/softbank-establishes-sb-neo-to-operate-us-neocloud-business/",
+      "description": "Will be established this month and jointly owned by SoftBank companies",
+      "published": "2026-07-02T16:20:29.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Why China’s Top500 return is the best thing for supercomputing",
+      "url": "https://www.datacenterdynamics.com/en/opinions/why-chinas-top500-return-is-the-best-thing-for-supercomputing/",
+      "description": "After years of muted competition, China's return turned a sleepy benchmark back into a geopolitical scoreboard",
+      "published": "2026-07-02T16:17:36.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Texas Tests New Rules for AI Campuses Behind Existing Power Plants",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/texas-tests-new-rules-for-ai-campuses-behind-existing-power-plants",
+      "description": "PUCT staff backs ERCOT’s proposed operating conditions in an early test of Texas’ new framework for colocated data centers.",
+      "published": "2026-07-02T16:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Achieving operational excellence with AI",
+      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+      "description": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how wo",
+      "published": "2026-07-02T15:37:08.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Teaching AI to run with the turbines",
+      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+      "description": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is beco",
+      "published": "2026-07-02T12:51:44.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: a startup has a solution for AI’s groupthink problem",
+      "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give m",
+      "published": "2026-07-02T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Why California’s carbon manure math doesn’t add up",
+      "url": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
+      "description": "Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It’s b",
+      "published": "2026-07-02T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "New Data Center Developments: July 2026",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/new-data-center-developments-july-2026",
+      "description": "We look at some of the latest data center developments announced over the past month.",
+      "published": "2026-07-02T08:55:00.000Z"
+    },
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "Announcing leetdata.ai — A Practice Ground for Data Engineers",
+      "url": "https://www.dataengineeringweekly.com/p/announcing-leetdataai-a-practice",
+      "description": "Software engineers got a gym. Data engineers got production. It's time to fix that.",
+      "published": "2026-07-02T08:27:41.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
@@ -9,32 +107,11 @@
       "published": "2026-07-01T21:21:21.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Cloud Capital and Realty Income partner for $6bn data center joint venture fund",
-      "url": "https://www.datacenterdynamics.com/en/news/cloud-capital-and-realty-income-partner-for-6bn-data-center-joint-venture-fund/",
-      "description": "JV acquires stakes in three Virginia data centers",
-      "published": "2026-07-01T16:00:51.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "It’s a sprint and a marathon: why capital continues to define data center leaders",
-      "url": "https://www.datacenterdynamics.com/en/opinions/its-a-sprint-and-a-marathon-why-capital-continues-to-define-data-center-leaders/",
-      "description": "The real winners will be those who have the stamina to sustain their pace",
-      "published": "2026-07-01T16:00:30.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "150MW data center planned for North Frisia, Germany, attracts protests",
-      "url": "https://www.datacenterdynamics.com/en/news/150mw-data-center-planned-for-north-frisia-germany-attracts-protests/",
-      "description": "Residents skeptical about height of the proposed development",
-      "published": "2026-07-01T16:00:28.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "AWS launches Secret Cloud for Industry",
-      "url": "https://www.datacenterdynamics.com/en/news/aws-launches-secret-cloud-for-industry/",
-      "description": "Gives US defense contractors secure access to cloud",
-      "published": "2026-07-01T15:40:27.000Z"
+      "source": "The Next Platform",
+      "title": "Of Course Meta Platforms Is Going To Be A Cloud",
+      "url": "https://www.nextplatform.com/cloud/2026/07/01/of-course-meta-platforms-is-going-to-be-a-cloud/5265392",
+      "description": "",
+      "published": "2026-07-01T20:44:16.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -44,25 +121,11 @@
       "published": "2026-07-01T15:29:03.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Egypt greenlights license for $400m data center expansion",
-      "url": "https://www.datacenterdynamics.com/en/news/egypt-greenlights-licence-for-400m-data-center-expansion/",
-      "description": "The initiative backs the country’s strategy for data centers and cloud computing",
-      "published": "2026-07-01T15:20:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
       "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
       "description": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it&#8230;",
       "published": "2026-07-01T14:35:16.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-      "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropi",
-      "published": "2026-07-01T12:10:00.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -72,67 +135,11 @@
       "published": "2026-07-01T11:49:55.000Z"
     },
     {
-      "source": "Data Center Knowledge",
-      "title": "Brookfield-Bloom $25B Aims to Make Energy Certainty Financeable",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/brookfield-bloom-s-25-billion-gambit-signals-ai-power-s-emergence-as-an-asset-class",
-      "description": "The expansion reflects a strategic shift where capital providers bundle financing with guaranteed power delivery from day one, enabling hyperscalers to advance projects on schedule even while awaiting utility connections.",
-      "published": "2026-07-01T11:28:57.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Data Center Power Coalition Launches to Tackle AI’s Biggest Bottleneck",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/data-center-power-coalition-launches-to-tackle-ai-s-biggest-bottleneck",
-      "description": "As utilities struggle to keep pace with AI-driven demand, a new industry coalition aims to create a common playbook for powering next-generation data centers.",
-      "published": "2026-07-01T08:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "How Do Utilities Determine Which AI Data Centers Get Grid Access?",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/how-utilities-decide-which-ai-data-centers-deserve-the-grid",
-      "description": "Planning documents from Georgia Power, Duke Energy, and Dominion Energy reveal how utilities filter AI demand, test scenarios, and plan investments.",
-      "published": "2026-07-01T07:30:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Claude Science is Anthropic’s newest flagship product",
-      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-      "description": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously c",
-      "published": "2026-06-30T21:50:04.000Z"
-    },
-    {
       "source": "Ars Technica Tech",
       "title": "New attack provides one more reason why AI browsers are a bad idea",
       "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
       "description": "\n                        Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.\n                    ",
       "published": "2026-06-30T20:03:14.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
-      "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
-      "description": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity&#8217;s new focus. Spe",
-      "published": "2026-06-30T17:36:48.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: AI “coworkers” and stratospheric internet",
-      "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI to",
-      "published": "2026-06-30T12:10:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
-      "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
-      "description": "\n                        Operation by two Russia-state groups has been ongoing since at least March.\n                    ",
-      "published": "2026-06-29T22:05:33.000Z"
-    },
-    {
-      "source": "Import AI",
-      "title": "Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era",
-      "url": "https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/",
-      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now NVIDIA sets up a crude self-improvement loop for real world robotics:…What if you could take the best ideas from AI ag",
-      "published": "2026-06-29T13:03:27.000Z"
     }
   ]
 }

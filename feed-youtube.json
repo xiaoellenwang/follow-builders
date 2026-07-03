@@ -1,4 +1,47 @@
 {
-  "generatedAt": "2026-07-02T04:13:58.309Z",
-  "videos": []
+  "generatedAt": "2026-07-03T04:00:33.020Z",
+  "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Why is AI so bad at design?",
+      "url": "https://www.youtube.com/watch?v=TuXk2bNwT8o",
+      "published": "2026-07-02T18:00:31.000Z",
+      "description": "#ai #design #chatgpt #claudecode"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Codex App would’ve failed if released in November 2025. Here’s why;",
+      "url": "https://www.youtube.com/watch?v=d2R-PVx1zyM",
+      "published": "2026-07-02T13:20:55.000Z",
+      "description": ""
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Taste is more than aesthetics",
+      "url": "https://www.youtube.com/watch?v=F4y64akVDjI",
+      "published": "2026-07-01T12:00:30.000Z",
+      "description": "#taste #ai #product #chatgpt"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "PRDs are not dead",
+      "url": "https://www.youtube.com/watch?v=9ukb1zmyvs8",
+      "published": "2026-06-30T18:00:18.000Z",
+      "description": "#ai #product #prototype #chatgpt"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "The taste to know what to build is what matters now.",
+      "url": "https://www.youtube.com/watch?v=mEnAn5sN96c",
+      "published": "2026-06-29T13:27:37.000Z",
+      "description": ""
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "OpenAI Codex lead on the new shape of product work | Andrew Ambrosino",
+      "url": "https://www.youtube.com/watch?v=P3KDebPTUrw",
+      "published": "2026-06-28T12:30:05.000Z",
+      "description": "Andrew Ambrosino leads development of the Codex desktop app at OpenAI. Nearly 100% of OpenAI employees—not just engineers—now use Codex weekly. A lifelong builder with a background spanning engineering, design, product management, and founding companies, he is now responsible for turning the Codex d"
+    }
+  ]
 }
