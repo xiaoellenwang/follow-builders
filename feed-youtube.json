@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-07-03T04:00:33.020Z",
+  "generatedAt": "2026-07-04T03:54:09.979Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Why product roles need to stay",
+      "url": "https://www.youtube.com/watch?v=fciOhYZOZuo",
+      "published": "2026-07-03T14:00:06.000Z",
+      "description": "#product #pm #ai #chatgpt"
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "Why is AI so bad at design?",

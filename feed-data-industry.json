@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-07-03T04:00:33.020Z",
+  "generatedAt": "2026-07-04T03:54:09.979Z",
   "articles": [
+    {
+      "source": "MIT Technology Review",
+      "title": " A device that revives eyeballs from dead donors could make eye transplants possible",
+      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+      "description": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn’t able to see. But researchers believe they might have a solution: a devi",
+      "published": "2026-07-03T17:34:37.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "300MW data center campus proposed in Kent, UK",
+      "url": "https://www.datacenterdynamics.com/en/news/300mw-data-center-campus-proposed-in-kent-uk/",
+      "description": "Renewables firm Clearstone looks to build campus near Dartford",
+      "published": "2026-07-03T15:47:43.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Equinix-occupied data center in Manchester, UK, sold to a new landlord - report",
+      "url": "https://www.datacenterdynamics.com/en/news/equinix-occupied-data-center-in-manchester-uk-sold-to-a-new-landlord-report/",
+      "description": "Former Telecity site changes hands",
+      "published": "2026-07-03T15:39:56.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "CPP Investments to pump $1.75 billion into EQT and EdgeConneX's AI data center build-out",
+      "url": "https://www.datacenterdynamics.com/en/news/cpp-investments-to-pump-175-billion-into-eqt-and-edgeconnexs-ai-data-center-build-out/",
+      "description": "EdgeConneX claims 10GW development pipeline",
+      "published": "2026-07-03T15:38:31.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "AWS injects AT&T into Interconnect connection cadre",
+      "url": "https://www.datacenterdynamics.com/en/news/aws-injects-att-into-interconnect-connection-cadre/",
+      "description": "The integration ties AT&amp;T’s network into AWS Interconnect service",
+      "published": "2026-07-03T15:38:19.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "New Jersey lawmakers pass bill to establish large load data center tariff",
+      "url": "https://www.datacenterdynamics.com/en/news/new-jersey-lawmakers-pass-bill-to-establish-large-load-data-center-tariff/",
+      "description": "Will now head to the governor for final approval",
+      "published": "2026-07-03T15:38:15.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+      "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about h",
+      "published": "2026-07-03T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+      "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
+      "description": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevaili",
+      "published": "2026-07-03T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "NERC Flags AI Data Center Grid Risks in Report",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/nerc-flags-ai-data-center-grid-risks-in-report",
+      "description": "NERC’s 2026 report emphasizes that as individual campuses approach gigawatt scale and cluster regionally, these abrupt disconnections now threaten grid stability and require new modeling standards, operational coordination, and regulatory frameworks.",
+      "published": "2026-07-03T09:00:00.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "Newly discovered PamStealer isn't your typical macOS malware",
@@ -14,41 +77,6 @@
       "url": "https://www.datacenterknowledge.com/switches-routers/the-switch-is-the-bottleneck-why-ai-infrastructure-has-a-network-problem",
       "description": "AI workloads are outpacing network capabilities, leaving expensive chips idle. Mark Rushworth explains why the switch is the bottleneck and how to fix it.",
       "published": "2026-07-02T17:52:30.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Google plans \"connectivity hub\" in the Eastern Cape, South Africa",
-      "url": "https://www.datacenterdynamics.com/en/news/esds/",
-      "description": "Will be the first of four hubs in Africa",
-      "published": "2026-07-02T16:20:32.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Mitsubishi Electric acquires satellite ground station firm Infostellar",
-      "url": "https://www.datacenterdynamics.com/en/news/mitsubishi-electric-acquires-satellite-ground-station-firm-infostellar/",
-      "description": "Ground station as a service provider has new owners",
-      "published": "2026-07-02T16:20:31.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Qolab raises $54.2m to support development of superconducting quantum computing",
-      "url": "https://www.datacenterdynamics.com/en/news/qolab-raises-542m-to-support-development-of-superconducting-quantum-computing/",
-      "description": "While China’s SpinQ raises $147m, announces establishment of superconducting quantum chip facility in Shenzhen",
-      "published": "2026-07-02T16:20:30.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "SoftBank establishes SB Neo to operate US neocloud business",
-      "url": "https://www.datacenterdynamics.com/en/news/softbank-establishes-sb-neo-to-operate-us-neocloud-business/",
-      "description": "Will be established this month and jointly owned by SoftBank companies",
-      "published": "2026-07-02T16:20:29.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Why China’s Top500 return is the best thing for supercomputing",
-      "url": "https://www.datacenterdynamics.com/en/opinions/why-chinas-top500-return-is-the-best-thing-for-supercomputing/",
-      "description": "After years of muted competition, China's return turned a sleepy benchmark back into a geopolitical scoreboard",
-      "published": "2026-07-02T16:17:36.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -72,20 +100,6 @@
       "published": "2026-07-02T12:51:44.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "The Download: a startup has a solution for AI’s groupthink problem",
-      "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give m",
-      "published": "2026-07-02T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Why California’s carbon manure math doesn’t add up",
-      "url": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
-      "description": "Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It’s b",
-      "published": "2026-07-02T09:00:00.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "New Data Center Developments: July 2026",
       "url": "https://www.datacenterknowledge.com/data-center-construction/new-data-center-developments-july-2026",
@@ -107,39 +121,11 @@
       "published": "2026-07-01T21:21:21.000Z"
     },
     {
-      "source": "The Next Platform",
-      "title": "Of Course Meta Platforms Is Going To Be A Cloud",
-      "url": "https://www.nextplatform.com/cloud/2026/07/01/of-course-meta-platforms-is-going-to-be-a-cloud/5265392",
-      "description": "",
-      "published": "2026-07-01T20:44:16.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "AI Interconnect Delays Spur $1.75B National Grid-Joulent Deal",
       "url": "https://www.datacenterknowledge.com/energy-power-supply/national-grid-agrees-to-1-75b-investment-in-joulent-to-expand-ai-power-infrastructure",
       "description": "The utility’s planned $1.75 billion investment in Joulent illustrates how dedicated power infrastructure is becoming central to AI data center growth.",
       "published": "2026-07-01T15:29:03.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-      "description": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it&#8230;",
-      "published": "2026-07-01T14:35:16.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Google Says AI Growth Is Outrunning Grid Decarbonization",
-      "url": "https://www.datacenterknowledge.com/sustainability/google-says-ai-is-outrunning-grid-decarbonization",
-      "description": "Google’s AI infrastructure growth is accelerating faster than power grids can decarbonize, highlighting gaps in clean energy deployment.",
-      "published": "2026-07-01T11:49:55.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "New attack provides one more reason why AI browsers are a bad idea",
-      "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-      "description": "\n                        Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.\n                    ",
-      "published": "2026-06-30T20:03:14.000Z"
     }
   ]
 }
