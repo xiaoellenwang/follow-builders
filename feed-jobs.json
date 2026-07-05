@@ -1,6 +1,45 @@
 {
-  "generatedAt": "2026-07-04T03:54:09.979Z",
+  "generatedAt": "2026-07-05T04:13:10.710Z",
   "jobs": [
+    {
+      "title": "Corporate Trainer - Data Science and AI",
+      "company": "XALTIUS PTE. LTD.",
+      "salary": "S$4,500 – S$8,000",
+      "type": "Full Time",
+      "skills": [
+        "Machine Learning",
+        "Microsoft Excel",
+        "Virtual Training"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/b630cc109c1888ed310dd171f15515ad",
+      "posted": "2026-07-05T01:05:31.000Z"
+    },
+    {
+      "title": "Head of AI",
+      "company": "THE STAKEHOLDER COMPANY PTE. LTD.",
+      "salary": "S$12,000 – S$15,000",
+      "type": "Full Time",
+      "skills": [
+        "Security Risk",
+        "Machine Learning",
+        "Retrieval-Augmented Generation (RAG)"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/b5c331928e2f3bf3422d322d0f099201",
+      "posted": "2026-07-04T06:53:59.000Z"
+    },
+    {
+      "title": "Senior Offensive Security Consultant (AI Red Teaming)",
+      "company": "STONE CYBERSECURITY PTE. LTD.",
+      "salary": "S$5,000 – S$8,000",
+      "type": "Permanent",
+      "skills": [
+        "Strategic Planning",
+        "Security Assessments",
+        "OWASP"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/abba247d4c91971c36d8a075f84ec366",
+      "posted": "2026-07-04T04:50:11.000Z"
+    },
     {
       "title": "Principal Architect - Agentic AI",
       "company": "PERSOL SINGAPORE PTE. LTD.",
@@ -156,45 +195,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/0885ee8cdca40f50b15e0d5009dcd4f0",
       "posted": "2026-07-03T09:07:16.000Z"
-    },
-    {
-      "title": "Machine Learning Engineer Intern (Computer Vision & AI) (August 2026)",
-      "company": "CYNAPSE PTE. LTD.",
-      "salary": "S$1,100 – S$1,500",
-      "type": "Internship/Attachment",
-      "skills": [
-        "Machine Learning",
-        "Git",
-        "Pipelines"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/37917bdb0ffbf4faee3baaf11e7b8213",
-      "posted": "2026-07-03T08:57:17.000Z"
-    },
-    {
-      "title": "AI Software Engineer (Python)",
-      "company": "SCIENTEC CONSULTING PTE. LTD.",
-      "salary": "S$5,000 – S$9,000",
-      "type": "Permanent",
-      "skills": [
-        "Workflow Automation",
-        "Knowledge Database",
-        "Workflow"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/0ca00423c317dada945b4f14dc59c33b",
-      "posted": "2026-07-03T08:28:28.000Z"
-    },
-    {
-      "title": "Senior AI Systems Engineer",
-      "company": "CLIPLY PTE. LTD.",
-      "salary": "S$5,000 – S$8,000",
-      "type": "Full Time",
-      "skills": [
-        "Deep Learning",
-        "TensorFlow",
-        "Distributed Processing"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/30e21d2501f5ec2bf4df54b80c311a9e",
-      "posted": "2026-07-03T08:21:10.000Z"
     }
   ]
 }

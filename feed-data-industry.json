@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-04T03:54:09.979Z",
+  "generatedAt": "2026-07-05T04:13:10.710Z",
   "articles": [
     {
       "source": "MIT Technology Review",
       "title": " A device that revives eyeballs from dead donors could make eye transplants possible",
       "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
-      "description": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn’t able to see. But researchers believe they might have a solution: a devi",
+      "description": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a devi",
       "published": "2026-07-03T17:34:37.000Z"
     },
     {
@@ -112,20 +112,6 @@
       "url": "https://www.dataengineeringweekly.com/p/announcing-leetdataai-a-practice",
       "description": "Software engineers got a gym. Data engineers got production. It's time to fix that.",
       "published": "2026-07-02T08:27:41.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
-      "url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
-      "description": "\n                        T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses. \n                    ",
-      "published": "2026-07-01T21:21:21.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "AI Interconnect Delays Spur $1.75B National Grid-Joulent Deal",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/national-grid-agrees-to-1-75b-investment-in-joulent-to-expand-ai-power-infrastructure",
-      "description": "The utility’s planned $1.75 billion investment in Joulent illustrates how dedicated power infrastructure is becoming central to AI data center growth.",
-      "published": "2026-07-01T15:29:03.000Z"
     }
   ]
 }
