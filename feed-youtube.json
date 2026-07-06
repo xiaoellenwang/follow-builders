@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-07-05T04:13:10.710Z",
+  "generatedAt": "2026-07-06T04:20:48.101Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "How Codex learnt to edit videos",
+      "url": "https://www.youtube.com/watch?v=MBQLYAWhlO4",
+      "published": "2026-07-05T11:00:31.000Z",
+      "description": "#codex #chatgpt #openai #ai"
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "Why product roles need to stay",
@@ -42,13 +49,6 @@
       "url": "https://www.youtube.com/watch?v=mEnAn5sN96c",
       "published": "2026-06-29T13:27:37.000Z",
       "description": ""
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "OpenAI Codex lead on the new shape of product work | Andrew Ambrosino",
-      "url": "https://www.youtube.com/watch?v=P3KDebPTUrw",
-      "published": "2026-06-28T12:30:05.000Z",
-      "description": "Andrew Ambrosino leads development of the Codex desktop app at OpenAI. Nearly 100% of OpenAI employees—not just engineers—now use Codex weekly. A lifelong builder with a background spanning engineering, design, product management, and founding companies, he is now responsible for turning the Codex d"
     }
   ]
 }

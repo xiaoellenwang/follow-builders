@@ -1,18 +1,109 @@
 {
-  "generatedAt": "2026-07-05T04:13:10.710Z",
+  "generatedAt": "2026-07-06T04:20:48.101Z",
   "jobs": [
     {
-      "title": "Corporate Trainer - Data Science and AI",
-      "company": "XALTIUS PTE. LTD.",
-      "salary": "S$4,500 – S$8,000",
+      "title": "Data Engineer",
+      "company": "MORGAN MCKINLEY PTE. LTD.",
+      "salary": "S$10,000 – S$15,000",
       "type": "Full Time",
       "skills": [
-        "Machine Learning",
-        "Microsoft Excel",
-        "Virtual Training"
+        "Dashboards",
+        "Spark SQL",
+        "PySpark"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/b630cc109c1888ed310dd171f15515ad",
-      "posted": "2026-07-05T01:05:31.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/0a37de38f5b5b4b3421871f7c69b5555",
+      "posted": "2026-07-06T03:49:51.000Z"
+    },
+    {
+      "title": "AVP, Specialist, AI Governance, Transformation & Data, Group COO (WD83183)",
+      "company": "DBS BANK LTD.",
+      "salary": "S$6,500 – S$11,700",
+      "type": "Permanent",
+      "skills": [
+        "Deep Learning",
+        "Game Artificial Intelligence Development",
+        "Machine Learning"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/0ed4c1aa10feae3bdec2a5199865a6b3",
+      "posted": "2026-07-06T02:54:59.000Z"
+    },
+    {
+      "title": "VP, Specialist, AI Governance, Transformation & Data, Group COO (WD83183)",
+      "company": "DBS BANK LTD.",
+      "salary": "S$10,400 – S$18,700",
+      "type": "Permanent",
+      "skills": [
+        "Deep Learning",
+        "Game Artificial Intelligence Development",
+        "Machine Learning"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/aa979458db6d6786cb32ddeac766a501",
+      "posted": "2026-07-06T02:50:20.000Z"
+    },
+    {
+      "title": "AI Infrastructure Project Engineer",
+      "company": "RN CARE PTE. LTD.",
+      "salary": "S$4,000 – S$7,000",
+      "type": "Permanent",
+      "skills": [
+        "Computer Engineering",
+        "Factory Acceptance Testing",
+        "Information Technology"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/059fcd29f6f6f146da884d9943ccbb35",
+      "posted": "2026-07-06T02:31:47.000Z"
+    },
+    {
+      "title": "AI Data Centre Project Engineer",
+      "company": "RN CARE PTE. LTD.",
+      "salary": "S$4,000 – S$7,000",
+      "type": "Permanent",
+      "skills": [
+        "Computer Engineering",
+        "Factory Acceptance Testing",
+        "Information Technology"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/4bef698ec0e1f0a0dc0320b620772a9f",
+      "posted": "2026-07-06T02:31:33.000Z"
+    },
+    {
+      "title": "Data Engineer, Big Data (8-months contract)",
+      "company": "OPTIMUM SOLUTIONS (SINGAPORE) PTE LTD",
+      "salary": "S$8,500 – S$9,800",
+      "type": "Contract",
+      "skills": [
+        "Operational Efficiency",
+        "Validation",
+        "Design"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/d9b102ab5f4f8c17fb815b55b03aafea",
+      "posted": "2026-07-06T01:29:41.000Z"
+    },
+    {
+      "title": "Forward Deployment Engineer - AI Solutions",
+      "company": "FOOYO PTE. LTD.",
+      "salary": "S$5,500 – S$9,500",
+      "type": "Contract",
+      "skills": [
+        "Chroma",
+        "Computer Engineering",
+        "Agents"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/9b6212fcc477ecc3e144e3df7237f310",
+      "posted": "2026-07-06T01:08:29.000Z"
+    },
+    {
+      "title": "AI Engineer (FDE)",
+      "company": "TECHKNOWLEDGEY PTE. LTD.",
+      "salary": "S$7,000 – S$15,000",
+      "type": "Permanent",
+      "skills": [
+        "Security Controls",
+        "Multi-Agent Systems",
+        "Machine Learning"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/45d0aa9067628f7da74316fc25aa4a12",
+      "posted": "2026-07-05T15:30:44.000Z"
     },
     {
       "title": "Head of AI",
@@ -54,45 +145,6 @@
       "posted": "2026-07-03T16:02:21.000Z"
     },
     {
-      "title": "Software Engineer - Machine Learning (Behaviors)",
-      "company": "MOTIONAL SINGAPORE PTE. LIMITED",
-      "salary": "S$6,500 – S$11,500",
-      "type": "Permanent",
-      "skills": [
-        "Deep Learning",
-        "large datasets",
-        "scientific software"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/8233d32389f281298d640d429564691b",
-      "posted": "2026-07-03T15:02:28.000Z"
-    },
-    {
-      "title": "Data Engineer (Senior)",
-      "company": "XIAOMI TECHNOLOGIES SINGAPORE PTE. LTD.",
-      "salary": "S$6,000 – S$15,000",
-      "type": "Permanent",
-      "skills": [
-        "Complex Data Sources",
-        "Data Warehousing Design",
-        "Analytics Support"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/fe6f46ac96df839695c35c73f4068dc2",
-      "posted": "2026-07-03T14:58:34.000Z"
-    },
-    {
-      "title": "Senior Software Engineer (AI/ML)",
-      "company": "EPAM SYSTEMS PTE. LTD.",
-      "salary": "S$9,000 – S$11,000",
-      "type": "Full Time",
-      "skills": [
-        "TensorFlow",
-        "Machine Learning",
-        "Git"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/59e22c5018942a9491b4d94e2cb1424a",
-      "posted": "2026-07-03T14:28:19.000Z"
-    },
-    {
       "title": "Senior Software Engineer (MLOps)",
       "company": "EPAM SYSTEMS PTE. LTD.",
       "salary": "S$9,000 – S$11,000",
@@ -104,19 +156,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/8aff5351aac63624ddb53d9b4c2c578b",
       "posted": "2026-07-03T14:22:03.000Z"
-    },
-    {
-      "title": "Software Engineering, Machine Learning",
-      "company": "FACEBOOK SINGAPORE PTE. LTD.",
-      "salary": "S$13,500 – S$20,840",
-      "type": "Permanent",
-      "skills": [
-        "TensorFlow",
-        "Machine Learning",
-        "Scalability"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/d6a7170a5ae94684c89068202409fdb0",
-      "posted": "2026-07-03T13:51:37.000Z"
     },
     {
       "title": "AI Engineer",
@@ -145,32 +184,6 @@
       "posted": "2026-07-03T11:23:58.000Z"
     },
     {
-      "title": "GEN AI Engineer - RAG",
-      "company": "PERSOL SINGAPORE PTE. LTD.",
-      "salary": "S$7,000 – S$10,500",
-      "type": "Contract",
-      "skills": [
-        "Information Retrieval",
-        "TensorFlow",
-        "Machine Learning"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/706df6d5e0363c9405c7b687472ba79e",
-      "posted": "2026-07-03T10:37:59.000Z"
-    },
-    {
-      "title": "AI & Digital Transformation Lead / Head of AI",
-      "company": "EXECUTIVE SHIP MANAGEMENT PTE LTD",
-      "salary": "S$10,000 – S$18,000",
-      "type": "Permanent",
-      "skills": [
-        "Contacting candidates",
-        "Dashboards",
-        "Enterprise Integration Solution"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/3f719ccbd78522ceddc6a136032b0fbf",
-      "posted": "2026-07-03T09:33:32.000Z"
-    },
-    {
       "title": "MLOps Integration Engineer",
       "company": "UNITED OVERSEAS BANK LIMITED",
       "salary": "S$4,200 – S$5,000",
@@ -182,19 +195,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/c92aa77b1bd7171f47c3ead768a93ce8",
       "posted": "2026-07-03T09:14:14.000Z"
-    },
-    {
-      "title": "AI Engineer",
-      "company": "ZENITH INFOTECH (S) PTE LTD.",
-      "salary": "S$5,000 – S$7,000",
-      "type": "Permanent",
-      "skills": [
-        "Algorithm Analysis",
-        "Retrieval-Augmented Generation (RAG)",
-        "Sprint Planning"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/0885ee8cdca40f50b15e0d5009dcd4f0",
-      "posted": "2026-07-03T09:07:16.000Z"
     }
   ]
 }

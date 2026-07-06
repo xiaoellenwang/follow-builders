@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-07-05T04:13:10.710Z",
+  "generatedAt": "2026-07-06T04:20:48.101Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "Turning infrastructure into advantage: the new telco CDN playbook",
+      "url": "https://www.datacenterdynamics.com/en/opinions/turning-infrastructure-into-advantage-the-new-telco-cdn-playbook/",
+      "description": "Recalibrating CDN strategy for modern streaming",
+      "published": "2026-07-05T14:00:30.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "The 20 percent problem: why data center sites fail before they’re built",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-20-percent-problem-why-data-center-sites-fail-before-theyre-built/",
+      "description": "Why the industry must continue to look beyond the grid",
+      "published": "2026-07-05T10:00:30.000Z"
+    },
     {
       "source": "MIT Technology Review",
       "title": " A device that revives eyeballs from dead donors could make eye transplants possible",
@@ -30,20 +44,6 @@
       "published": "2026-07-03T15:38:31.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "AWS injects AT&T into Interconnect connection cadre",
-      "url": "https://www.datacenterdynamics.com/en/news/aws-injects-att-into-interconnect-connection-cadre/",
-      "description": "The integration ties AT&amp;T’s network into AWS Interconnect service",
-      "published": "2026-07-03T15:38:19.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "New Jersey lawmakers pass bill to establish large load data center tariff",
-      "url": "https://www.datacenterdynamics.com/en/news/new-jersey-lawmakers-pass-bill-to-establish-large-load-data-center-tariff/",
-      "description": "Will now head to the governor for final approval",
-      "published": "2026-07-03T15:38:15.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
       "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
@@ -63,55 +63,6 @@
       "url": "https://www.datacenterknowledge.com/energy-power-supply/nerc-flags-ai-data-center-grid-risks-in-report",
       "description": "NERC’s 2026 report emphasizes that as individual campuses approach gigawatt scale and cluster regionally, these abrupt disconnections now threaten grid stability and require new modeling standards, operational coordination, and regulatory frameworks.",
       "published": "2026-07-03T09:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Newly discovered PamStealer isn't your typical macOS malware",
-      "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
-      "description": "\n                        The discovery underscores the increased effort being poured into Mac infostealers.\n                    ",
-      "published": "2026-07-02T19:38:57.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "The Switch Is the Bottleneck: Why AI Infrastructure Has a Network Problem",
-      "url": "https://www.datacenterknowledge.com/switches-routers/the-switch-is-the-bottleneck-why-ai-infrastructure-has-a-network-problem",
-      "description": "AI workloads are outpacing network capabilities, leaving expensive chips idle. Mark Rushworth explains why the switch is the bottleneck and how to fix it.",
-      "published": "2026-07-02T17:52:30.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Texas Tests New Rules for AI Campuses Behind Existing Power Plants",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/texas-tests-new-rules-for-ai-campuses-behind-existing-power-plants",
-      "description": "PUCT staff backs ERCOT’s proposed operating conditions in an early test of Texas’ new framework for colocated data centers.",
-      "published": "2026-07-02T16:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Achieving operational excellence with AI",
-      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "description": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how wo",
-      "published": "2026-07-02T15:37:08.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Teaching AI to run with the turbines",
-      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-      "description": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is beco",
-      "published": "2026-07-02T12:51:44.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "New Data Center Developments: July 2026",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/new-data-center-developments-july-2026",
-      "description": "We look at some of the latest data center developments announced over the past month.",
-      "published": "2026-07-02T08:55:00.000Z"
-    },
-    {
-      "source": "DataEngineeringWeekly",
-      "title": "Announcing leetdata.ai — A Practice Ground for Data Engineers",
-      "url": "https://www.dataengineeringweekly.com/p/announcing-leetdataai-a-practice",
-      "description": "Software engineers got a gym. Data engineers got production. It's time to fix that.",
-      "published": "2026-07-02T08:27:41.000Z"
     }
   ]
 }
