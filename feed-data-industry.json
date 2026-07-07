@@ -1,68 +1,103 @@
 {
-  "generatedAt": "2026-07-06T04:20:48.101Z",
+  "generatedAt": "2026-07-07T04:10:07.173Z",
   "articles": [
     {
-      "source": "Data Center Dynamics",
-      "title": "Turning infrastructure into advantage: the new telco CDN playbook",
-      "url": "https://www.datacenterdynamics.com/en/opinions/turning-infrastructure-into-advantage-the-new-telco-cdn-playbook/",
-      "description": "Recalibrating CDN strategy for modern streaming",
-      "published": "2026-07-05T14:00:30.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "The 20 percent problem: why data center sites fail before they’re built",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-20-percent-problem-why-data-center-sites-fail-before-theyre-built/",
-      "description": "Why the industry must continue to look beyond the grid",
-      "published": "2026-07-05T10:00:30.000Z"
-    },
-    {
       "source": "MIT Technology Review",
-      "title": " A device that revives eyeballs from dead donors could make eye transplants possible",
-      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
-      "description": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a devi",
-      "published": "2026-07-03T17:34:37.000Z"
+      "title": "Your family’s $300 stake in OpenAI",
+      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times",
+      "published": "2026-07-06T18:00:00.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "300MW data center campus proposed in Kent, UK",
-      "url": "https://www.datacenterdynamics.com/en/news/300mw-data-center-campus-proposed-in-kent-uk/",
-      "description": "Renewables firm Clearstone looks to build campus near Dartford",
-      "published": "2026-07-03T15:47:43.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Equinix-occupied data center in Manchester, UK, sold to a new landlord - report",
-      "url": "https://www.datacenterdynamics.com/en/news/equinix-occupied-data-center-in-manchester-uk-sold-to-a-new-landlord-report/",
-      "description": "Former Telecity site changes hands",
-      "published": "2026-07-03T15:39:56.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "CPP Investments to pump $1.75 billion into EQT and EdgeConneX's AI data center build-out",
-      "url": "https://www.datacenterdynamics.com/en/news/cpp-investments-to-pump-175-billion-into-eqt-and-edgeconnexs-ai-data-center-build-out/",
-      "description": "EdgeConneX claims 10GW development pipeline",
-      "published": "2026-07-03T15:38:31.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
-      "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about h",
-      "published": "2026-07-03T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
-      "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
-      "description": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevaili",
-      "published": "2026-07-03T09:00:00.000Z"
+      "title": "Japan's IPS planning $141m cable landing station in Wakayama, near Osaka",
+      "url": "https://www.datacenterdynamics.com/en/news/japans-ips-planning-141m-cable-landing-station-in-wakayama-near-osaka/",
+      "description": "Branch of Indonesia-Japan cable could land at station",
+      "published": "2026-07-06T16:16:29.000Z"
     },
     {
       "source": "Data Center Knowledge",
-      "title": "NERC Flags AI Data Center Grid Risks in Report",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/nerc-flags-ai-data-center-grid-risks-in-report",
-      "description": "NERC’s 2026 report emphasizes that as individual campuses approach gigawatt scale and cluster regionally, these abrupt disconnections now threaten grid stability and require new modeling standards, operational coordination, and regulatory frameworks.",
-      "published": "2026-07-03T09:00:00.000Z"
+      "title": "Texas’ 765 kV Decision: Build the Wires, the AI Will Follow",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/how-ercot-s-post-crez-bet-is-reshaping-ai-infrastructure",
+      "description": "The state’s first extra-high-voltage network marks a fundamental shift in grid planning – building massive capacity for data centers and other large loads before they even break ground.",
+      "published": "2026-07-06T16:12:14.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Trends & Outlooks series sponsorship guide",
+      "url": "https://www.datacenterdynamics.com/en/dcd-downloads/trends-outlooks-series-sponsorship-guide/",
+      "description": "Lead the conversation for the year ahead in the data center sectorNovember 30 - December 14, 2026",
+      "published": "2026-07-06T16:12:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Vodacom finalizes $2.1bn deal to snap up additional 20% stake in Kenya's Safaricom",
+      "url": "https://www.datacenterdynamics.com/en/news/vodacom-finalizes-21bn-deal-to-snap-up-additional-20-stake-in-kenyas-safaricom/",
+      "description": "As the South African pushes to expand East Africa presence with controlling stake",
+      "published": "2026-07-06T16:11:23.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Meta rebuilds its AI storage stack from the ground up to stop GPUs sitting idle",
+      "url": "https://www.datacenterdynamics.com/en/news/meta-rebuilds-its-ai-storage-stack-from-the-ground-up-to-stop-gpus-sitting-idle/",
+      "description": "An inside look at how the wannabe cloud provider cuts data wait times by up to 97 percent",
+      "published": "2026-07-06T16:08:17.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Microsoft plans to cut 4,800 jobs",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-plans-to-cut-4800-jobs/",
+      "description": "Primarily impacts Xbox, but cloud workers also hit",
+      "published": "2026-07-06T16:01:34.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "As Goes AI Compute, So Goes Ethernet Networking",
+      "url": "https://www.nextplatform.com/connect/2026/07/06/as-goes-ai-compute-so-goes-ethernet-networking/5267007",
+      "description": "",
+      "published": "2026-07-06T15:04:26.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
+      "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a m",
+      "published": "2026-07-06T13:00:00.000Z"
+    },
+    {
+      "source": "Import AI",
+      "title": "Import AI 464: Fables writes GPU kernels; AI automation; and analog computation",
+      "url": "https://jack-clark.net/2026/07/06/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
+      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Fable writes a decent GPU kernel, hinting at broader AI R&#38;D automation:…The start of an RSI loop…Fable has written",
+      "published": "2026-07-06T12:31:05.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "What QTS’ Canceled $30B Project Reveals About AI Data Center Development",
+      "url": "https://www.datacenterknowledge.com/data-center-site-selection/what-qts-canceled-30b-project-reveals-about-ai-data-center-development",
+      "description": "QTS withdrew its $30 billion Digital Gateway project despite strong infrastructure, raising questions about whether permitting certainty and community opposition now rival power availability as deal-breaking factors.",
+      "published": "2026-07-06T10:32:12.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "South Korea’s hottest new bachelors are chip workers",
+      "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
+      "description": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to ",
+      "published": "2026-07-06T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Do Data Centers Cause Air Pollution? It Depends on Power.",
+      "url": "https://www.datacenterknowledge.com/sustainability/do-data-centers-cause-air-pollution-it-depends-on-power-",
+      "description": "A data center’s air-quality impact varies widely depending on the facility's power source, grid mix, and whether it uses on-site generation.",
+      "published": "2026-07-06T09:00:00.000Z"
+    },
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "Data Engineering Weekly #277",
+      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-277",
+      "description": "The Weekly Data Engineering Newsletter",
+      "published": "2026-07-06T04:58:46.000Z"
     }
   ]
 }
