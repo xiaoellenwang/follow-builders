@@ -1,6 +1,83 @@
 {
-  "generatedAt": "2026-07-07T04:10:07.173Z",
+  "generatedAt": "2026-07-08T03:34:31.387Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "Former cryptominer Sato inks preliminary agreement to develop AI data center in Bhutan",
+      "url": "https://www.datacenterdynamics.com/en/news/former-cryptominer-sato-inks-preliminary-agreement-to-develop-ai-data-center-in-bhutan/",
+      "description": "Bitcoin meets Buddhism",
+      "published": "2026-07-07T18:00:23.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Blockfusion signs LOI for $175 million lease with AI customer in Niagara Falls",
+      "url": "https://www.datacenterdynamics.com/en/news/blockfusion-signs-loi-for-175-million-lease-with-ai-customer-in-niagara-falls/",
+      "description": "Mystery tenant could lease up to 300MW from reformed crypto firm",
+      "published": "2026-07-07T17:50:29.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Intesa Sanpaolo Group migrates core IT systems to Google Cloud",
+      "url": "https://www.datacenterdynamics.com/en/news/intesa-sanpaolo-group-migrates-core-it-systems-to-google-cloud/",
+      "description": "Adopts Google regions in TIM data centers in Italy",
+      "published": "2026-07-07T17:20:25.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Megazone Cloud and Pasqal sign agreement to offer quantum computing via the cloud in South Korea",
+      "url": "https://www.datacenterdynamics.com/en/news/megazone-cloud-and-pasqal-sign-agreement-to-offer-quantum-computing-via-the-cloud-in-south-korea/",
+      "description": "Pasqal's QPU technology will be integrated into Megazone Cloud's quantum platform",
+      "published": "2026-07-07T17:00:28.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Metropolitan Stock Exchange of India selects NTT Data's data center in Mumbai for trading platform",
+      "url": "https://www.datacenterdynamics.com/en/news/metropolitan-stock-exchange-of-india-selects-ntt-datas-data-center-in-mumbai-for-trading-platform/",
+      "description": "Will lease 6.4MW of capacity at campus",
+      "published": "2026-07-07T16:28:53.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "QuiX Quantum Shows Off A Photonic Architecture For HPC Datacenters",
+      "url": "https://www.nextplatform.com/compute/2026/07/07/quix-quantum-shows-off-a-photonic-architecture-for-hpc-datacenters/5267793",
+      "description": "",
+      "published": "2026-07-07T16:08:01.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+      "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with report",
+      "published": "2026-07-07T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The foundational elements of AI architecture that IT leaders need to scale",
+      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "description": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the futur",
+      "published": "2026-07-07T11:10:52.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Why worms (and microbes) are catching on as a manure pollution solution",
+      "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
+      "description": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squi",
+      "published": "2026-07-07T10:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "IBM Brings Z to 19-Inch Racks as AI Reshapes Data Centers",
+      "url": "https://www.datacenterknowledge.com/servers/ibm-brings-z17-mainframes-to-standard-racks",
+      "description": "New rack-mount and single-frame systems give enterprises more flexibility as data center space, cooling, and AI demands intensify.",
+      "published": "2026-07-07T10:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Enter the Network Supercycle: Preparing Data Center Networks for AI’s Next Wave",
+      "url": "https://www.datacenterknowledge.com/networking/enter-the-network-supercycle-preparing-data-center-networks-for-ai-s-next-wave",
+      "description": "At Cisco Live 2026, experts warned: AI’s growth demands a networking supercycle, making networks as vital as GPUs and power.",
+      "published": "2026-07-07T08:30:00.000Z"
+    },
     {
       "source": "MIT Technology Review",
       "title": "Your family’s $300 stake in OpenAI",
@@ -9,46 +86,11 @@
       "published": "2026-07-06T18:00:00.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Japan's IPS planning $141m cable landing station in Wakayama, near Osaka",
-      "url": "https://www.datacenterdynamics.com/en/news/japans-ips-planning-141m-cable-landing-station-in-wakayama-near-osaka/",
-      "description": "Branch of Indonesia-Japan cable could land at station",
-      "published": "2026-07-06T16:16:29.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "Texas’ 765 kV Decision: Build the Wires, the AI Will Follow",
       "url": "https://www.datacenterknowledge.com/energy-power-supply/how-ercot-s-post-crez-bet-is-reshaping-ai-infrastructure",
       "description": "The state’s first extra-high-voltage network marks a fundamental shift in grid planning – building massive capacity for data centers and other large loads before they even break ground.",
       "published": "2026-07-06T16:12:14.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Trends & Outlooks series sponsorship guide",
-      "url": "https://www.datacenterdynamics.com/en/dcd-downloads/trends-outlooks-series-sponsorship-guide/",
-      "description": "Lead the conversation for the year ahead in the data center sectorNovember 30 - December 14, 2026",
-      "published": "2026-07-06T16:12:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Vodacom finalizes $2.1bn deal to snap up additional 20% stake in Kenya's Safaricom",
-      "url": "https://www.datacenterdynamics.com/en/news/vodacom-finalizes-21bn-deal-to-snap-up-additional-20-stake-in-kenyas-safaricom/",
-      "description": "As the South African pushes to expand East Africa presence with controlling stake",
-      "published": "2026-07-06T16:11:23.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Meta rebuilds its AI storage stack from the ground up to stop GPUs sitting idle",
-      "url": "https://www.datacenterdynamics.com/en/news/meta-rebuilds-its-ai-storage-stack-from-the-ground-up-to-stop-gpus-sitting-idle/",
-      "description": "An inside look at how the wannabe cloud provider cuts data wait times by up to 97 percent",
-      "published": "2026-07-06T16:08:17.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Microsoft plans to cut 4,800 jobs",
-      "url": "https://www.datacenterdynamics.com/en/news/microsoft-plans-to-cut-4800-jobs/",
-      "description": "Primarily impacts Xbox, but cloud workers also hit",
-      "published": "2026-07-06T16:01:34.000Z"
     },
     {
       "source": "The Next Platform",
@@ -77,13 +119,6 @@
       "url": "https://www.datacenterknowledge.com/data-center-site-selection/what-qts-canceled-30b-project-reveals-about-ai-data-center-development",
       "description": "QTS withdrew its $30 billion Digital Gateway project despite strong infrastructure, raising questions about whether permitting certainty and community opposition now rival power availability as deal-breaking factors.",
       "published": "2026-07-06T10:32:12.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "South Korea’s hottest new bachelors are chip workers",
-      "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
-      "description": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to ",
-      "published": "2026-07-06T09:00:00.000Z"
     },
     {
       "source": "Data Center Knowledge",
