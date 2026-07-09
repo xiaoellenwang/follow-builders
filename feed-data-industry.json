@@ -1,40 +1,110 @@
 {
-  "generatedAt": "2026-07-08T03:34:31.387Z",
+  "generatedAt": "2026-07-09T04:04:37.268Z",
   "articles": [
     {
-      "source": "Data Center Dynamics",
-      "title": "Former cryptominer Sato inks preliminary agreement to develop AI data center in Bhutan",
-      "url": "https://www.datacenterdynamics.com/en/news/former-cryptominer-sato-inks-preliminary-agreement-to-develop-ai-data-center-in-bhutan/",
-      "description": "Bitcoin meets Buddhism",
-      "published": "2026-07-07T18:00:23.000Z"
+      "source": "Ars Technica Tech",
+      "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
+      "url": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
+      "description": "\n                        Both vulnerabilities allow untrusted users to gain root privileges.\n                    ",
+      "published": "2026-07-08T19:01:19.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Aussie gov't tells volunteers to throw out thousands of functioning test routers",
+      "url": "https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/",
+      "description": "\n                        But the devices could \"easily be reflashed.\" \n                    ",
+      "published": "2026-07-08T18:10:16.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "EmTech AI 2026: The Rise of the AI Platform",
+      "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+      "description": "\n\n\n\n\n\n",
+      "published": "2026-07-08T16:26:10.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Omdia: The Agentic Era Collapses Cloud Layers",
+      "url": "https://www.datacenterknowledge.com/cloud/omdia-the-agentic-era-collapses-cloud-layers",
+      "description": "Omdia research shows AI models are collapsing traditional cloud architectures by integrating multiple layers into single API calls and shifting billing from “pay-per-layer” to “pay-per-token.”",
+      "published": "2026-07-08T16:24:52.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Blockfusion signs LOI for $175 million lease with AI customer in Niagara Falls",
-      "url": "https://www.datacenterdynamics.com/en/news/blockfusion-signs-loi-for-175-million-lease-with-ai-customer-in-niagara-falls/",
-      "description": "Mystery tenant could lease up to 300MW from reformed crypto firm",
-      "published": "2026-07-07T17:50:29.000Z"
+      "title": "Plans for 29MW data center in Bonner, Montana, dropped",
+      "url": "https://www.datacenterdynamics.com/en/news/plans-for-29mw-data-center-in-bonner-montana-dropped/",
+      "description": "Owner of building eyed for data center drops support, killing project",
+      "published": "2026-07-08T16:10:31.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Intesa Sanpaolo Group migrates core IT systems to Google Cloud",
-      "url": "https://www.datacenterdynamics.com/en/news/intesa-sanpaolo-group-migrates-core-it-systems-to-google-cloud/",
-      "description": "Adopts Google regions in TIM data centers in Italy",
-      "published": "2026-07-07T17:20:25.000Z"
+      "title": "Tyler, Texas, rejects Bitcoin mining data center",
+      "url": "https://www.datacenterdynamics.com/en/news/tyler-texas-rejects-bitcoin-mining-data-center/",
+      "description": "Opponents win out",
+      "published": "2026-07-08T16:10:29.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Megazone Cloud and Pasqal sign agreement to offer quantum computing via the cloud in South Korea",
-      "url": "https://www.datacenterdynamics.com/en/news/megazone-cloud-and-pasqal-sign-agreement-to-offer-quantum-computing-via-the-cloud-in-south-korea/",
-      "description": "Pasqal's QPU technology will be integrated into Megazone Cloud's quantum platform",
-      "published": "2026-07-07T17:00:28.000Z"
+      "title": "Malaysia's Global Telecommunications Group buys 36-acre parcel for 210MW data center in Selangor, Malaysia",
+      "url": "https://www.datacenterdynamics.com/en/news/malaysias-global-telecommunications-group-buys-36-acre-parcel-for-210mw-data-center-in-selangor-malaysia/",
+      "description": "Parcel located in planned industrial and residential development",
+      "published": "2026-07-08T16:00:36.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Metropolitan Stock Exchange of India selects NTT Data's data center in Mumbai for trading platform",
-      "url": "https://www.datacenterdynamics.com/en/news/metropolitan-stock-exchange-of-india-selects-ntt-datas-data-center-in-mumbai-for-trading-platform/",
-      "description": "Will lease 6.4MW of capacity at campus",
-      "published": "2026-07-07T16:28:53.000Z"
+      "title": "Edged eyes 725MW data center campus in Pennsylvania",
+      "url": "https://www.datacenterdynamics.com/en/news/edged-eyes-725mw-data-center-campus-in-pennsylvania/",
+      "description": "Company’s Project Atlas drops from six planned buildings to three",
+      "published": "2026-07-08T15:57:58.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Plans filed for 100,000 sq ft data center outside Dallas, Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/plans-filed-for-100000-sq-ft-data-center-outside-dallas-texas/",
+      "description": "Belltown Power-linked affiliate aims to launch Royse City facility next year",
+      "published": "2026-07-08T15:50:29.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Why AI-Ready Data Is The Real Advantage",
+      "url": "https://www.nextplatform.com/store/2026/07/08/why-ai-ready-data-is-the-real-advantage/5268409",
+      "description": "",
+      "published": "2026-07-08T13:53:41.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
+      "url": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
+      "description": "\n                        Miners backed by Trump admin sell to Japan, South Korea despite push to develop domestic supply chain.\n                    ",
+      "published": "2026-07-08T13:26:10.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: worms fight pollution, and geoengineering faces reality",
+      "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California dairy farmer, pulls a rake throu",
+      "published": "2026-07-08T12:10:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Second Major Virginia Data Center Project Dies, Raising AI Site Selection Stakes",
+      "url": "https://www.datacenterknowledge.com/data-center-site-selection/second-major-virginia-data-center-project-dies-raising-ai-site-selection-stakes",
+      "description": "Days after QTS abandoned its $30 billion Digital Gateway project, county supervisors unanimously rejected the first planning step for a proposed 43 million-square-foot data center campus.",
+      "published": "2026-07-08T12:00:33.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "The Role of Brokers in Accelerating Data Center Construction",
+      "url": "https://www.datacenterknowledge.com/colocation/the-role-of-brokers-in-accelerating-data-center-construction",
+      "description": "Data center brokers bridge the gap between buyers and sellers, navigating a complex market to facilitate deals and drive industry expansion.",
+      "published": "2026-07-08T09:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+      "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+      "description": "\n                        \"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"\n                    ",
+      "published": "2026-07-08T07:00:51.000Z"
     },
     {
       "source": "The Next Platform",
@@ -70,69 +140,6 @@
       "url": "https://www.datacenterknowledge.com/servers/ibm-brings-z17-mainframes-to-standard-racks",
       "description": "New rack-mount and single-frame systems give enterprises more flexibility as data center space, cooling, and AI demands intensify.",
       "published": "2026-07-07T10:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Enter the Network Supercycle: Preparing Data Center Networks for AI’s Next Wave",
-      "url": "https://www.datacenterknowledge.com/networking/enter-the-network-supercycle-preparing-data-center-networks-for-ai-s-next-wave",
-      "description": "At Cisco Live 2026, experts warned: AI’s growth demands a networking supercycle, making networks as vital as GPUs and power.",
-      "published": "2026-07-07T08:30:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Your family’s $300 stake in OpenAI",
-      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times",
-      "published": "2026-07-06T18:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Texas’ 765 kV Decision: Build the Wires, the AI Will Follow",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/how-ercot-s-post-crez-bet-is-reshaping-ai-infrastructure",
-      "description": "The state’s first extra-high-voltage network marks a fundamental shift in grid planning – building massive capacity for data centers and other large loads before they even break ground.",
-      "published": "2026-07-06T16:12:14.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "As Goes AI Compute, So Goes Ethernet Networking",
-      "url": "https://www.nextplatform.com/connect/2026/07/06/as-goes-ai-compute-so-goes-ethernet-networking/5267007",
-      "description": "",
-      "published": "2026-07-06T15:04:26.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
-      "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a m",
-      "published": "2026-07-06T13:00:00.000Z"
-    },
-    {
-      "source": "Import AI",
-      "title": "Import AI 464: Fables writes GPU kernels; AI automation; and analog computation",
-      "url": "https://jack-clark.net/2026/07/06/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
-      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Fable writes a decent GPU kernel, hinting at broader AI R&#38;D automation:…The start of an RSI loop…Fable has written",
-      "published": "2026-07-06T12:31:05.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "What QTS’ Canceled $30B Project Reveals About AI Data Center Development",
-      "url": "https://www.datacenterknowledge.com/data-center-site-selection/what-qts-canceled-30b-project-reveals-about-ai-data-center-development",
-      "description": "QTS withdrew its $30 billion Digital Gateway project despite strong infrastructure, raising questions about whether permitting certainty and community opposition now rival power availability as deal-breaking factors.",
-      "published": "2026-07-06T10:32:12.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Do Data Centers Cause Air Pollution? It Depends on Power.",
-      "url": "https://www.datacenterknowledge.com/sustainability/do-data-centers-cause-air-pollution-it-depends-on-power-",
-      "description": "A data center’s air-quality impact varies widely depending on the facility's power source, grid mix, and whether it uses on-site generation.",
-      "published": "2026-07-06T09:00:00.000Z"
-    },
-    {
-      "source": "DataEngineeringWeekly",
-      "title": "Data Engineering Weekly #277",
-      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-277",
-      "description": "The Weekly Data Engineering Newsletter",
-      "published": "2026-07-06T04:58:46.000Z"
     }
   ]
 }
