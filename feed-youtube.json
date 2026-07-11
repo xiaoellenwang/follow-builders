@@ -1,4 +1,33 @@
 {
-  "generatedAt": "2026-07-10T04:03:58.035Z",
-  "videos": []
+  "generatedAt": "2026-07-11T03:31:01.721Z",
+  "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "The shape of product teams in 2026",
+      "url": "https://www.youtube.com/watch?v=CBqNhKZgFmk",
+      "published": "2026-07-10T11:00:18.000Z",
+      "description": "#product #ai #instagram #meta"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "AI content will help Instagram",
+      "url": "https://www.youtube.com/watch?v=JzDuRXjU3V0",
+      "published": "2026-07-09T18:00:14.000Z",
+      "description": "#instagram #ai #artificialintelligence #content"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "The rise of taste, human authenticity and judgment in an AI world | Adam Mosseri (Head of IG)",
+      "url": "https://www.youtube.com/watch?v=yQ_EWmtfWvQ",
+      "published": "2026-07-09T12:30:32.000Z",
+      "description": "Adam Mosseri is the Head of Instagram, where he oversees an app used by over 3 billion people. He also leads the team building Threads. Adam has run Instagram for longer than its founders did, after taking over from Kevin Systrom and Mike Krieger in 2018. A designer by training, he spent over 15 yea"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "How Codex learnt to edit videos",
+      "url": "https://www.youtube.com/watch?v=MBQLYAWhlO4",
+      "published": "2026-07-05T11:00:31.000Z",
+      "description": "#codex #chatgpt #openai #ai"
+    }
+  ]
 }
