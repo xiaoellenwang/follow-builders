@@ -1,6 +1,71 @@
 {
-  "generatedAt": "2026-07-11T03:31:01.721Z",
+  "generatedAt": "2026-07-12T03:42:29.423Z",
   "jobs": [
+    {
+      "title": "Software/Data Engineer (Python) - SPVL",
+      "company": "SCIENTEC CONSULTING PTE. LTD.",
+      "salary": "S$6,500 – S$11,000",
+      "type": "Full Time",
+      "skills": [
+        "Dashboards",
+        "Data Pipeline",
+        "QLoRA"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/18dbc986b9fa463e3cad7ea9dad895cf",
+      "posted": "2026-07-11T16:46:30.000Z"
+    },
+    {
+      "title": "Senior Software Engineer (AI project) - SPVL",
+      "company": "SCIENTEC CONSULTING PTE. LTD.",
+      "salary": "S$8,000 – S$11,000",
+      "type": "Full Time",
+      "skills": [
+        "Terraform",
+        "AWS",
+        "TypeScript"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/d4a62731cebfa615f962c403c5bf7ae4",
+      "posted": "2026-07-11T15:47:01.000Z"
+    },
+    {
+      "title": "AI/ML Research Engineer - Robotics Perception",
+      "company": "VILOTA PTE. LTD.",
+      "salary": "S$6,400 – S$9,500",
+      "type": "Full Time",
+      "skills": [
+        "Sensor Fusion",
+        "Implement Embedded Software",
+        "Data Analysis"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/cd2f58cea8511b44d663145685ecdb2f",
+      "posted": "2026-07-11T13:57:12.000Z"
+    },
+    {
+      "title": "Machine Learning Engineer (LLM & AI Systems)",
+      "company": "TRITON AI PTE. LTD.",
+      "salary": "S$7,000 – S$11,000",
+      "type": "Permanent",
+      "skills": [
+        "Deep Learning",
+        "Machine Learning",
+        "Data Pipeline"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/d96df6e3efa6b7da00bfa44981fe4010",
+      "posted": "2026-07-11T06:14:12.000Z"
+    },
+    {
+      "title": "Senior AI and Software Engineer",
+      "company": "MXHL PTE. LTD.",
+      "salary": "S$5,550 – S$6,600",
+      "type": "Permanent",
+      "skills": [
+        "Amazon SQS",
+        "Git",
+        "Container"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/8d600d44d9ad1db6f99a611e1150a744",
+      "posted": "2026-07-11T04:59:33.000Z"
+    },
     {
       "title": "Actuarial Data, Automation and AI",
       "company": "PRUDENTIAL ASSURANCE COMPANY SINGAPORE (PTE) LIMITED",
@@ -119,19 +184,6 @@
       "posted": "2026-07-10T07:30:59.000Z"
     },
     {
-      "title": "Software Engineer (AI Coding)",
-      "company": "QRINNO PTE. LTD.",
-      "salary": "S$2,000 – S$6,000",
-      "type": "Full Time",
-      "skills": [
-        "Distributed Database",
-        "Business Optimization",
-        "AI Agents"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/19306bbc6a5a3d635980e50b8823a6b9",
-      "posted": "2026-07-10T06:50:19.000Z"
-    },
-    {
       "title": "AI MLOps Engineer",
       "company": "MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD",
       "salary": "S$6,000 – S$7,500",
@@ -143,58 +195,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/6dd2cf77d89cdaf84ea69839c692257b",
       "posted": "2026-07-10T05:41:11.000Z"
-    },
-    {
-      "title": "AI Security Engineer/Manager (Cybersecurity | Located at Tuas)",
-      "company": "GOOD JOB CREATIONS (SINGAPORE) PTE. LTD.",
-      "salary": "S$8,500 – S$9,500",
-      "type": "Permanent",
-      "skills": [
-        "Security Architecture",
-        "AI Agents",
-        "Computer Engineering"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/2b5abc72a4d26f38c1aad5981b1e4f48",
-      "posted": "2026-07-10T03:49:41.000Z"
-    },
-    {
-      "title": "Senior Vice President, Artificial Intelligence",
-      "company": "SINGAPORE LIFE LTD.",
-      "salary": "S$20,000 – S$25,000",
-      "type": "Permanent",
-      "skills": [
-        "Azure AI",
-        "AI Governance",
-        "Regulatory Compliance"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/97a69c048ca157db327eb4afdbf71e1e",
-      "posted": "2026-07-10T02:59:09.000Z"
-    },
-    {
-      "title": "Senior AI & Data Science Lead — HR & Payroll",
-      "company": "BIPO (ASIA) PTE. LTD.",
-      "salary": "S$7,500 – S$9,000",
-      "type": "Permanent",
-      "skills": [
-        "Design",
-        "Leadership",
-        "Psychological Assessment"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/5ad02abe207ed905c56168c5a0c3b4f9",
-      "posted": "2026-07-10T02:52:21.000Z"
-    },
-    {
-      "title": "AI ENGINEER",
-      "company": "HELIUS TECHNOLOGIES PTE. LTD.",
-      "salary": "S$8,500 – S$9,500",
-      "type": "Contract",
-      "skills": [
-        "Partner Relationship Management",
-        "Distributed Platforms",
-        "Channel Growth"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/7da62c149b693ddde04f332c0c2ac45e",
-      "posted": "2026-07-10T01:31:54.000Z"
     }
   ]
 }

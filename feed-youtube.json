@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-07-11T03:31:01.721Z",
+  "generatedAt": "2026-07-12T03:42:29.423Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "The best product leaders aren't the ones with the most ideas.",
+      "url": "https://www.youtube.com/watch?v=vr13eFx8BEk",
+      "published": "2026-07-11T12:48:53.000Z",
+      "description": "The best product leaders aren't the ones with the most ideas."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Don't worship AI tools",
+      "url": "https://www.youtube.com/watch?v=h_1x1UqI5ro",
+      "published": "2026-07-11T11:00:35.000Z",
+      "description": "The people who will get the most out of this moment are the ones who are clear-eyed about what AI is actually good at"
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "The shape of product teams in 2026",

@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-07-11T03:31:01.721Z",
+  "generatedAt": "2026-07-12T03:42:29.423Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "OpenAI's Sam Altman accuses Musk of selling public market investors \"on short-term space data centers\"",
+      "url": "https://www.datacenterdynamics.com/en/news/openais-sam-altman-accuses-musk-of-selling-public-market-investors-on-short-term-space-data-centers/",
+      "description": "Generative AI business unlikely to make use of proposed SpaceX Orbital Data Center System",
+      "published": "2026-07-11T20:21:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: A new definition of speed to power",
+      "url": "https://www.datacenterdynamics.com/en/opinions/a-new-definition-of-speed-to-power/",
+      "description": "In today's environment, speed to power becomes less about overcoming external constraints and more about internal alignment",
+      "published": "2026-07-11T15:00:00.000Z"
+    },
     {
       "source": "Data Center Dynamics",
       "title": "SK Hynix raises $26.5bn in blockbuster US IPO",
@@ -28,20 +42,6 @@
       "url": "https://www.datacenterdynamics.com/en/news/meeza-completes-data-center-expansion-project-for-major-hyperscaler/",
       "description": "Claims to have delivered nine months ahead of schedule",
       "published": "2026-07-10T15:08:56.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Aruba acquires three hydroelectric plants around Turin, Italy",
-      "url": "https://www.datacenterdynamics.com/en/news/aruba-acquires-three-hydroelectric-plants-around-turin-italy/",
-      "description": "Company now owns 11 hydro plants, totaling 11.6MW of capacity",
-      "published": "2026-07-10T15:08:36.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Scaleway acquires HPC specialist Qarnot to expand cloud platform",
-      "url": "https://www.datacenterdynamics.com/en/news/scaleway-acquires-hpc-specialist-qarnot-to-expand-cloud-platform/",
-      "description": "Scaleway's cloud platform will integrate Qarnot's HPC technology",
-      "published": "2026-07-10T15:00:27.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -126,20 +126,6 @@
       "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
       "description": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone es",
       "published": "2026-07-09T08:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
-      "url": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
-      "description": "\n                        Both vulnerabilities allow untrusted users to gain root privileges.\n                    ",
-      "published": "2026-07-08T19:01:19.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Aussie gov't tells volunteers to throw out thousands of functioning test routers",
-      "url": "https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/",
-      "description": "\n                        But the devices could \"easily be reflashed.\" \n                    ",
-      "published": "2026-07-08T18:10:16.000Z"
     }
   ]
 }
