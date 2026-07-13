@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-07-12T03:42:29.423Z",
+  "generatedAt": "2026-07-13T03:45:12.679Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Why the tech workforce is quietly splitting in two | Annual AI sentiment survey (Noam Segal)",
+      "url": "https://www.youtube.com/watch?v=_cmpIveXnvE",
+      "published": "2026-07-12T12:30:31.000Z",
+      "description": "Noam Segal is a longtime research leader across Airbnb, Meta, Twitter, Zapier, Intercom, and Figma, a certified coach, AI builder, and my community research lead. Together, we run the annual Tech Worker Sentiment Survey, now in its second year and one of the largest of its kind: a quantitative study"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "The head of Instagram on why AI content is a tailwind, not a headwind.",
+      "url": "https://www.youtube.com/watch?v=TNyVjLUy9ck",
+      "published": "2026-07-12T12:09:37.000Z",
+      "description": "The head of Instagram on why AI content is a tailwind, not a headwind."
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "The best product leaders aren't the ones with the most ideas.",
@@ -35,13 +49,6 @@
       "url": "https://www.youtube.com/watch?v=yQ_EWmtfWvQ",
       "published": "2026-07-09T12:30:32.000Z",
       "description": "Adam Mosseri is the Head of Instagram, where he oversees an app used by over 3 billion people. He also leads the team building Threads. Adam has run Instagram for longer than its founders did, after taking over from Kevin Systrom and Mike Krieger in 2018. A designer by training, he spent over 15 yea"
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "How Codex learnt to edit videos",
-      "url": "https://www.youtube.com/watch?v=MBQLYAWhlO4",
-      "published": "2026-07-05T11:00:31.000Z",
-      "description": "#codex #chatgpt #openai #ai"
     }
   ]
 }

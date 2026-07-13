@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-07-12T03:42:29.423Z",
+  "generatedAt": "2026-07-13T03:45:12.679Z",
   "articles": [
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "Data Engineering Weekly #278",
+      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-278",
+      "description": "The Weekly Data Engineering Newsletter",
+      "published": "2026-07-13T02:44:42.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "The electrical infrastructure gap: What AI data center density demands from every project team",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-electrical-infrastructure-gap-what-ai-data-center-density-demands-from-every-project-team/",
+      "description": "Getting the basics right",
+      "published": "2026-07-12T14:30:26.000Z"
+    },
     {
       "source": "Data Center Dynamics",
       "title": "OpenAI's Sam Altman accuses Musk of selling public market investors \"on short-term space data centers\"",
@@ -35,13 +49,6 @@
       "url": "https://www.datacenterdynamics.com/en/whitepapers/the-last-mile-of-al-capacity/",
       "description": "How to de-risk white-space deployment at hyperscale speed",
       "published": "2026-07-10T15:43:50.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Meeza completes data center expansion project for major hyperscaler",
-      "url": "https://www.datacenterdynamics.com/en/news/meeza-completes-data-center-expansion-project-for-major-hyperscaler/",
-      "description": "Claims to have delivered nine months ahead of schedule",
-      "published": "2026-07-10T15:08:56.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -84,48 +91,6 @@
       "url": "https://www.datacenterknowledge.com/data-center-site-selection/can-transparency-become-an-ai-data-center-advantage-",
       "description": "After a cryptocurrency mining project collapsed in one Ohio town, a proposed AI data center is testing whether early community engagement, developer-funded infrastructure and public disclosure can become part of the permitting playbook.",
       "published": "2026-07-10T07:30:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
-      "url": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
-      "description": "\n                        The feud between NightmareEclipse and Microsoft shows no signs of resolving soon.\n                    ",
-      "published": "2026-07-09T20:52:55.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Allstate accuses Broadcom of auditing it because it quit VMware, CA",
-      "url": "https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/",
-      "description": "\n                        Broadcom accuses Allstate of dodging VMware audits. \n                    ",
-      "published": "2026-07-09T20:28:55.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "description": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the ",
-      "published": "2026-07-09T20:22:28.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Meta’s First Canadian AI Campus Was Planned Around the Grid",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/meta-s-first-canadian-ai-campus-was-planned-around-the-grid",
-      "description": "Meta’s 1 GW Alberta campus reveals how hyperscalers now secure power and transmission years before announcing AI campuses.",
-      "published": "2026-07-09T16:29:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
-      "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside ba",
-      "published": "2026-07-09T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Four nuclear reactors hit a big milestone in the US",
-      "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
-      "description": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone es",
-      "published": "2026-07-09T08:00:00.000Z"
     }
   ]
 }
