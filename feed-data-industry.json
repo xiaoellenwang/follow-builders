@@ -1,96 +1,103 @@
 {
-  "generatedAt": "2026-07-13T03:45:12.679Z",
+  "generatedAt": "2026-07-14T03:19:35.285Z",
   "articles": [
+    {
+      "source": "Ars Technica Tech",
+      "title": "The US government warns that Russia state hackers are coming after your router",
+      "url": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
+      "description": "\n                        With residential proxies all the rage, CISA urges router users to be vigilant.\n                    ",
+      "published": "2026-07-13T21:03:07.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Meta’s 5 GW Hyperion Turns AI into a Grid Anchor",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/meta-s-5-gw-hyperion-campus-signals-ai-s-shift-into-utility-territory",
+      "description": "Meta’s Louisiana AI campus grows to 5 GW, a scale analysts say could influence generation, transmission, and utility planning across the region.",
+      "published": "2026-07-13T19:04:14.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Next-Gen CEMS: Simplifying Data Center Emissions Tracking",
+      "url": "https://www.datacenterknowledge.com/data-observability/next-gen-cems-simplifying-data-center-emissions-tracking",
+      "description": "Innovations like laser spectroscopy are simplifying data center emissions monitoring, cutting maintenance burdens for IT-focused engineering teams.",
+      "published": "2026-07-13T18:10:51.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s loo",
+      "published": "2026-07-13T18:00:00.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "The Aspirations Of HPE And Dell In The Quantum-Classical HPC Datacenter",
+      "url": "https://www.nextplatform.com/compute/2026/07/13/the-aspirations-of-hpe-and-dell-in-the-quantum-classical-hpc-datacenter/5270664",
+      "description": "",
+      "published": "2026-07-13T17:44:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "575-acre data center could be built near Calgary, Canada",
+      "url": "https://www.datacenterdynamics.com/en/news/575-acre-data-center-could-be-built-near-calgary-canada/",
+      "description": "But more approvals still needed",
+      "published": "2026-07-13T17:00:31.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "NTT breaks ground on campus in Chonburi, Thailand",
+      "url": "https://www.datacenterdynamics.com/en/news/ntt-breaks-ground-on-campus-in-chonburi-thailand/",
+      "description": "Bangkok 4 set to be energized in Q2 2027",
+      "published": "2026-07-13T16:30:31.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "County officials deny application for 2,000-acre data center campus in Virginia",
+      "url": "https://www.datacenterdynamics.com/en/news/county-officials-deny-application-for-2000-acre-data-center-campus-in-virginia/",
+      "description": "Dulles South gets cold shoulder weeks after QTS drops PW Gateway application",
+      "published": "2026-07-13T16:10:27.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Design driven infrastructure automation",
+      "url": "https://www.datacenterdynamics.com/en/opinions/design-driven-infrastructure-automation/",
+      "description": "Reconciliation is the key",
+      "published": "2026-07-13T16:00:39.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "TA Realty buys data center-zoned land in Sterling, Virginia",
+      "url": "https://www.datacenterdynamics.com/en/news/ta-realty-buys-data-center-zoned-land-in-sterling-virginia/",
+      "description": "Real estate firm buys 10-acre site for $6.1 million per acre",
+      "published": "2026-07-13T16:00:15.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Now, defenders are embracing the prompt injection, too",
+      "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "description": "\n                        \"Context bombing\" tricks hacking agents into shutting down before they can do harm.\n                    ",
+      "published": "2026-07-13T15:06:34.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: a donor conception cap and world models for AI",
+      "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a ",
+      "published": "2026-07-13T12:10:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Data Center Hardware Highlights: July 2026",
+      "url": "https://www.datacenterknowledge.com/data-center-hardware/data-center-hardware-highlights-july-2026",
+      "description": "We explore the latest data center hardware and infrastructure developments from the last month, spanning networking, memory, CPUs, orchestration software, and chip design.",
+      "published": "2026-07-13T09:00:00.000Z"
+    },
     {
       "source": "DataEngineeringWeekly",
       "title": "Data Engineering Weekly #278",
       "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-278",
       "description": "The Weekly Data Engineering Newsletter",
       "published": "2026-07-13T02:44:42.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "The electrical infrastructure gap: What AI data center density demands from every project team",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-electrical-infrastructure-gap-what-ai-data-center-density-demands-from-every-project-team/",
-      "description": "Getting the basics right",
-      "published": "2026-07-12T14:30:26.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "OpenAI's Sam Altman accuses Musk of selling public market investors \"on short-term space data centers\"",
-      "url": "https://www.datacenterdynamics.com/en/news/openais-sam-altman-accuses-musk-of-selling-public-market-investors-on-short-term-space-data-centers/",
-      "description": "Generative AI business unlikely to make use of proposed SpaceX Orbital Data Center System",
-      "published": "2026-07-11T20:21:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: A new definition of speed to power",
-      "url": "https://www.datacenterdynamics.com/en/opinions/a-new-definition-of-speed-to-power/",
-      "description": "In today's environment, speed to power becomes less about overcoming external constraints and more about internal alignment",
-      "published": "2026-07-11T15:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "SK Hynix raises $26.5bn in blockbuster US IPO",
-      "url": "https://www.datacenterdynamics.com/en/news/sk-hynix-raises-265bn-in-blockbuster-us-ipo/",
-      "description": "The largest ever listing by a foreign firm",
-      "published": "2026-07-10T18:53:09.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "NC Ends Data Center Power Tax Break, Keeps Capital Incentives",
-      "url": "https://www.datacenterknowledge.com/regulations/nc-ends-data-center-power-tax-break-keeps-capital-incentives",
-      "description": "North Carolina repealed the sales tax exemption on data center electricity while preserving equipment incentives as AI power demand reshapes policy.",
-      "published": "2026-07-10T18:30:31.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "The last mile of Al capacity",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/the-last-mile-of-al-capacity/",
-      "description": "How to de-risk white-space deployment at hyperscale speed",
-      "published": "2026-07-10T15:43:50.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Crusoe Pushes Data Center AI Competition Beyond GPUs",
-      "url": "https://www.datacenterknowledge.com/next-gen-data-centers/crusoe-pushes-data-center-competition-beyond-gpus",
-      "description": "New serverless fine-tuning and inference services target the full AI model lifecycle – from model customization through production deployment.",
-      "published": "2026-07-10T12:21:47.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on ins",
-      "published": "2026-07-10T12:10:00.000Z"
-    },
-    {
-      "source": "DataEngineeringWeekly",
-      "title": "Beyond Redaction: Anatomy of a Privacy-Safe Data Platform",
-      "url": "https://www.dataengineeringweekly.com/p/beyond-redaction-anatomy-of-a-privacy",
-      "description": "Why privacy engineering is about governing data in use&#8212;not simply hiding it.",
-      "published": "2026-07-10T10:20:21.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Sperm donors need limits, says a European fertility group",
-      "url": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
-      "description": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have",
-      "published": "2026-07-10T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "FLOPS vs Megawatts: Who’s Winning in 2026 Supercomputing?",
-      "url": "https://www.datacenterknowledge.com/supercomputers/flops-vs-megawatts-who-s-winning-in-2026-supercomputing-",
-      "description": "Supercomputing is splitting into two tracks: publicly funded exascale systems ranked by TOP500/HPL FLOPS and hyperscaler-built AI campuses measured by megawatt–gigawatt capacity.",
-      "published": "2026-07-10T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "The Transparency Bet: Inside Decimal Digital’s Plan to Win Over a Wary Ohio Town",
-      "url": "https://www.datacenterknowledge.com/data-center-site-selection/can-transparency-become-an-ai-data-center-advantage-",
-      "description": "After a cryptocurrency mining project collapsed in one Ohio town, a proposed AI data center is testing whether early community engagement, developer-funded infrastructure and public disclosure can become part of the permitting playbook.",
-      "published": "2026-07-10T07:30:00.000Z"
     }
   ]
 }
