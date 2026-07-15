@@ -1,6 +1,90 @@
 {
-  "generatedAt": "2026-07-14T03:19:35.285Z",
+  "generatedAt": "2026-07-15T03:19:02.632Z",
   "articles": [
+    {
+      "source": "The Next Platform",
+      "title": "SREs To AI Agents: Prove Yourself Before You Touch Production",
+      "url": "https://www.nextplatform.com/control/2026/07/15/sres-to-ai-agents-prove-yourself-before-you-touch-production/5271533",
+      "description": "",
+      "published": "2026-07-15T02:15:35.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
+      "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
+      "description": "\n                        Old and forgotten \"shims\" Microsoft failed to revoke have made Secure Boot bypasses simple.\n                    ",
+      "published": "2026-07-14T22:20:48.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "A1 Digital bets on Spain, expand Exoscale cloud infrastructure into country",
+      "url": "https://www.datacenterdynamics.com/en/news/a1-digital-chooses-spain-to-expand-its-cloud-infrastructure-in-europe/",
+      "description": "The Austrian company announces its entry into the Spanish market with Exoscale, its sovereign cloud platform.",
+      "published": "2026-07-14T16:50:28.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "New York Data Center Moratorium: State Pauses Projects Over 50 MW",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/new-york-data-center-moratorium-state-pauses-projects-over-50-mw",
+      "description": "A new executive order pauses certain permits for new data centers above 50 MW as New York develops rules for grid costs, water use, and host communities.",
+      "published": "2026-07-14T16:43:36.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Can data centers keep pace with AI?",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/can-data-centers-keep-pace-with-ai/",
+      "description": "A global data center outlook ",
+      "published": "2026-07-14T16:36:01.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Valfortec plans €300m data center campus in Alicante, Spain",
+      "url": "https://www.datacenterdynamics.com/en/news/valfortec-plans-300m-data-center-campus-in-alicante-spain/",
+      "description": "The facility is expected to reach a capacity of approximately 60MW",
+      "published": "2026-07-14T16:30:25.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Krolmap plans 150MW data center campus in Aragón, Spain",
+      "url": "https://www.datacenterdynamics.com/en/news/krolmap-plans-a-150-mw-data-center-campus-in-aragon/",
+      "description": "Based on its projected capacity, the initiative ranks among the largest developments announced to date in the region",
+      "published": "2026-07-14T16:14:58.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Oratomic raises $300m for development of 20,000 qubit fault-tolerant quantum computer",
+      "url": "https://www.datacenterdynamics.com/en/news/oratomic-raises-300m-for-development-of-20000-qubit-fault-tolerant-quantum-computer/",
+      "description": "Pasadena-based startup emerged from stealth earlier this year",
+      "published": "2026-07-14T16:00:38.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "IBM Warns AI Infrastructure Shift Impacts Software Deals, Shares Plunge",
+      "url": "https://www.datacenterknowledge.com/business/ibm-warns-ai-infrastructure-spending-delays-software-deals-as-shares-plunge",
+      "description": "IBM said customers shifted spending to secure supply-constrained infrastructure, delaying software deals and driving shares down 23%.",
+      "published": "2026-07-14T15:16:48.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: Claude’s inner workings, and the future of world models",
+      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O&#8217;Donnell When Anthropic announced last week that it had found a new window in",
+      "published": "2026-07-14T12:10:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "A Guide to Network Redundancy in Data Centers",
+      "url": "https://www.datacenterknowledge.com/networking/a-guide-to-network-redundancy-in-data-centers",
+      "description": "Data center network redundancy ensures reliable connectivity by minimizing downtime risks with backup connections and equipment.",
+      "published": "2026-07-14T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
+      "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+      "description": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute ze",
+      "published": "2026-07-14T08:00:00.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "The US government warns that Russia state hackers are coming after your router",
@@ -37,41 +121,6 @@
       "published": "2026-07-13T17:44:00.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "575-acre data center could be built near Calgary, Canada",
-      "url": "https://www.datacenterdynamics.com/en/news/575-acre-data-center-could-be-built-near-calgary-canada/",
-      "description": "But more approvals still needed",
-      "published": "2026-07-13T17:00:31.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "NTT breaks ground on campus in Chonburi, Thailand",
-      "url": "https://www.datacenterdynamics.com/en/news/ntt-breaks-ground-on-campus-in-chonburi-thailand/",
-      "description": "Bangkok 4 set to be energized in Q2 2027",
-      "published": "2026-07-13T16:30:31.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "County officials deny application for 2,000-acre data center campus in Virginia",
-      "url": "https://www.datacenterdynamics.com/en/news/county-officials-deny-application-for-2000-acre-data-center-campus-in-virginia/",
-      "description": "Dulles South gets cold shoulder weeks after QTS drops PW Gateway application",
-      "published": "2026-07-13T16:10:27.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Design driven infrastructure automation",
-      "url": "https://www.datacenterdynamics.com/en/opinions/design-driven-infrastructure-automation/",
-      "description": "Reconciliation is the key",
-      "published": "2026-07-13T16:00:39.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "TA Realty buys data center-zoned land in Sterling, Virginia",
-      "url": "https://www.datacenterdynamics.com/en/news/ta-realty-buys-data-center-zoned-land-in-sterling-virginia/",
-      "description": "Real estate firm buys 10-acre site for $6.1 million per acre",
-      "published": "2026-07-13T16:00:15.000Z"
-    },
-    {
       "source": "Ars Technica Tech",
       "title": "Now, defenders are embracing the prompt injection, too",
       "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
@@ -84,13 +133,6 @@
       "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
       "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a ",
       "published": "2026-07-13T12:10:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Data Center Hardware Highlights: July 2026",
-      "url": "https://www.datacenterknowledge.com/data-center-hardware/data-center-hardware-highlights-july-2026",
-      "description": "We explore the latest data center hardware and infrastructure developments from the last month, spanning networking, memory, CPUs, orchestration software, and chip design.",
-      "published": "2026-07-13T09:00:00.000Z"
     },
     {
       "source": "DataEngineeringWeekly",
