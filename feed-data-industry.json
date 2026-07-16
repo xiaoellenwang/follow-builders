@@ -1,6 +1,97 @@
 {
-  "generatedAt": "2026-07-15T03:19:02.632Z",
+  "generatedAt": "2026-07-16T03:26:25.486Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "STT GDC inaugurates 6MW enterprise data center in Jaipur, India",
+      "url": "https://www.datacenterdynamics.com/en/news/stt-gdc-inaugurates-6mw-enterprise-data-center-in-jaipur-india/",
+      "description": "Offers 95,300 sq ft of total built up area",
+      "published": "2026-07-16T02:00:24.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Nokia to support Taiwan Mobile's AI push with expanded 5G agreement",
+      "url": "https://www.datacenterdynamics.com/en/news/nokia-to-support-taiwan-mobiles-ai-push-with-expanded-5g-agreement/",
+      "description": "The vendor will provide its AirScale portfolio to the telco",
+      "published": "2026-07-16T00:00:33.000Z"
+    },
+    {
+      "source": "VentureBeat AI",
+      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "description": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agents”",
+      "published": "2026-07-15T22:24:17.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
+      "url": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
+      "description": "\n                        The convenience store chain will use StorMagic instead. \n                    ",
+      "published": "2026-07-15T21:41:56.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "IDCA CEO Calls for Global Consensus on Data Center Development",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/idca-ceo-calls-for-global-consensus-on-data-center-development",
+      "description": "As AI-driven power demand accelerates, the IDCA says fragmented national policies risk slowing data center development and calls for a common global framework.",
+      "published": "2026-07-15T20:41:08.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Plug Power sells Texas site to Stream Data Centers",
+      "url": "https://www.datacenterdynamics.com/en/news/plug-power-sells-texas-site-to-stream-data-centers/",
+      "description": "Land in Graham earmarked for hydrogen plant set to host data centers",
+      "published": "2026-07-15T20:00:28.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Windows 0-day drops the same day Microsoft releases record number of patches",
+      "url": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/",
+      "description": "\n                        HiveLegacy is a \"powerful primitive\" that's likely capable of other nefarious actions.\n                    ",
+      "published": "2026-07-15T19:59:48.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Community Partnerships Are Becoming Data Centers’ Most Valuable Asset",
+      "url": "https://www.datacenterknowledge.com/data-center-site-selection/community-partnerships-are-becoming-data-centers-most-valuable-asset",
+      "description": "Community trust is now a core input to capacity. Here’s how developers can align projects with local priorities on culture, jobs, and long-term sustainability.",
+      "published": "2026-07-15T19:53:39.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Eutelsat files for planned Next LEO satellite constellation",
+      "url": "https://www.datacenterdynamics.com/en/news/eutelsat-files-for-planned-next-leo-satellite-constellation/",
+      "description": "New fleet will total 528 LEO satellites",
+      "published": "2026-07-15T18:00:27.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "description": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its m",
+      "published": "2026-07-15T17:09:37.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "US gov’t eases AI chip export controls on UAE following country’s support in Iran war",
+      "url": "https://www.datacenterdynamics.com/en/news/us-govt-eases-ai-chip-export-controls-on-uae-following-countrys-support-in-iran-war/",
+      "description": "UAE-based companies will now have unrestricted access to purchase advanced AI chips from the US",
+      "published": "2026-07-15T17:00:28.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+      "url": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like",
+      "published": "2026-07-15T12:10:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Quantum Meets the Data Center: Hybrid Systems Take Off",
+      "url": "https://www.datacenterknowledge.com/supercomputers/quantum-meets-the-data-center-hybrid-systems-take-off",
+      "description": "Data centers are moving from lab demos to production by colocating QPUs with GPU/CPU nodes, driven by 2026 US policy boosts and new vendor roadmaps.",
+      "published": "2026-07-15T09:00:00.000Z"
+    },
     {
       "source": "The Next Platform",
       "title": "SREs To AI Agents: Prove Yourself Before You Touch Production",
@@ -16,46 +107,11 @@
       "published": "2026-07-14T22:20:48.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "A1 Digital bets on Spain, expand Exoscale cloud infrastructure into country",
-      "url": "https://www.datacenterdynamics.com/en/news/a1-digital-chooses-spain-to-expand-its-cloud-infrastructure-in-europe/",
-      "description": "The Austrian company announces its entry into the Spanish market with Exoscale, its sovereign cloud platform.",
-      "published": "2026-07-14T16:50:28.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "New York Data Center Moratorium: State Pauses Projects Over 50 MW",
       "url": "https://www.datacenterknowledge.com/data-center-construction/new-york-data-center-moratorium-state-pauses-projects-over-50-mw",
       "description": "A new executive order pauses certain permits for new data centers above 50 MW as New York develops rules for grid costs, water use, and host communities.",
       "published": "2026-07-14T16:43:36.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Can data centers keep pace with AI?",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/can-data-centers-keep-pace-with-ai/",
-      "description": "A global data center outlook ",
-      "published": "2026-07-14T16:36:01.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Valfortec plans €300m data center campus in Alicante, Spain",
-      "url": "https://www.datacenterdynamics.com/en/news/valfortec-plans-300m-data-center-campus-in-alicante-spain/",
-      "description": "The facility is expected to reach a capacity of approximately 60MW",
-      "published": "2026-07-14T16:30:25.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Krolmap plans 150MW data center campus in Aragón, Spain",
-      "url": "https://www.datacenterdynamics.com/en/news/krolmap-plans-a-150-mw-data-center-campus-in-aragon/",
-      "description": "Based on its projected capacity, the initiative ranks among the largest developments announced to date in the region",
-      "published": "2026-07-14T16:14:58.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Oratomic raises $300m for development of 20,000 qubit fault-tolerant quantum computer",
-      "url": "https://www.datacenterdynamics.com/en/news/oratomic-raises-300m-for-development-of-20000-qubit-fault-tolerant-quantum-computer/",
-      "description": "Pasadena-based startup emerged from stealth earlier this year",
-      "published": "2026-07-14T16:00:38.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -72,13 +128,6 @@
       "published": "2026-07-14T12:10:00.000Z"
     },
     {
-      "source": "Data Center Knowledge",
-      "title": "A Guide to Network Redundancy in Data Centers",
-      "url": "https://www.datacenterknowledge.com/networking/a-guide-to-network-redundancy-in-data-centers",
-      "description": "Data center network redundancy ensures reliable connectivity by minimizing downtime risks with backup connections and equipment.",
-      "published": "2026-07-14T09:00:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
       "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
@@ -91,55 +140,6 @@
       "url": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
       "description": "\n                        With residential proxies all the rage, CISA urges router users to be vigilant.\n                    ",
       "published": "2026-07-13T21:03:07.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Meta’s 5 GW Hyperion Turns AI into a Grid Anchor",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/meta-s-5-gw-hyperion-campus-signals-ai-s-shift-into-utility-territory",
-      "description": "Meta’s Louisiana AI campus grows to 5 GW, a scale analysts say could influence generation, transmission, and utility planning across the region.",
-      "published": "2026-07-13T19:04:14.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Next-Gen CEMS: Simplifying Data Center Emissions Tracking",
-      "url": "https://www.datacenterknowledge.com/data-observability/next-gen-cems-simplifying-data-center-emissions-tracking",
-      "description": "Innovations like laser spectroscopy are simplifying data center emissions monitoring, cutting maintenance burdens for IT-focused engineering teams.",
-      "published": "2026-07-13T18:10:51.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s loo",
-      "published": "2026-07-13T18:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "The Aspirations Of HPE And Dell In The Quantum-Classical HPC Datacenter",
-      "url": "https://www.nextplatform.com/compute/2026/07/13/the-aspirations-of-hpe-and-dell-in-the-quantum-classical-hpc-datacenter/5270664",
-      "description": "",
-      "published": "2026-07-13T17:44:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Now, defenders are embracing the prompt injection, too",
-      "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
-      "description": "\n                        \"Context bombing\" tricks hacking agents into shutting down before they can do harm.\n                    ",
-      "published": "2026-07-13T15:06:34.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: a donor conception cap and world models for AI",
-      "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a ",
-      "published": "2026-07-13T12:10:00.000Z"
-    },
-    {
-      "source": "DataEngineeringWeekly",
-      "title": "Data Engineering Weekly #278",
-      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-278",
-      "description": "The Weekly Data Engineering Newsletter",
-      "published": "2026-07-13T02:44:42.000Z"
     }
   ]
 }
