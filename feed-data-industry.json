@@ -1,19 +1,131 @@
 {
-  "generatedAt": "2026-07-16T03:26:25.486Z",
+  "generatedAt": "2026-07-17T03:28:55.358Z",
   "articles": [
     {
-      "source": "Data Center Dynamics",
-      "title": "STT GDC inaugurates 6MW enterprise data center in Jaipur, India",
-      "url": "https://www.datacenterdynamics.com/en/news/stt-gdc-inaugurates-6mw-enterprise-data-center-in-jaipur-india/",
-      "description": "Offers 95,300 sq ft of total built up area",
-      "published": "2026-07-16T02:00:24.000Z"
+      "source": "Ars Technica Tech",
+      "title": "HP fined 1.4 billion rupees for “cartelization” of ink cartridges, toner, PCs",
+      "url": "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/",
+      "description": "\n                        Resellers threatened to ditch HP printing supplies for counterfeits. \n                    ",
+      "published": "2026-07-16T22:02:31.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "AI Chips Drive Around A Third Of TSMC Revenues",
+      "url": "https://www.nextplatform.com/ai/2026/07/16/ai-chips-drive-around-a-third-of-tsmc-revenues/5273929",
+      "description": "",
+      "published": "2026-07-16T21:13:48.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Now, even Russia's most elite hackers are using Clickfix to infect devices",
+      "url": "https://arstechnica.com/security/2026/07/now-even-russias-most-elite-hackers-are-using-clickfix-to-infect-devices/",
+      "description": "\n                        The social-engineering technique has primarily been a tool of financially motivated criminals.\n                    ",
+      "published": "2026-07-16T19:28:33.000Z"
+    },
+    {
+      "source": "VentureBeat AI",
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "description": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today; a",
+      "published": "2026-07-16T19:16:48.000Z"
+    },
+    {
+      "source": "VentureBeat AI",
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "description": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents stil",
+      "published": "2026-07-16T19:02:38.000Z"
+    },
+    {
+      "source": "VentureBeat AI",
+      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "description": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define th",
+      "published": "2026-07-16T17:06:08.000Z"
+    },
+    {
+      "source": "VentureBeat AI",
+      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "description": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated ev",
+      "published": "2026-07-16T16:40:48.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Nokia to support Taiwan Mobile's AI push with expanded 5G agreement",
-      "url": "https://www.datacenterdynamics.com/en/news/nokia-to-support-taiwan-mobiles-ai-push-with-expanded-5g-agreement/",
-      "description": "The vendor will provide its AirScale portfolio to the telco",
-      "published": "2026-07-16T00:00:33.000Z"
+      "title": "The vertically integrated neocloud",
+      "url": "https://www.datacenterdynamics.com/en/analysis/the-vertically-integrated-neocloud/",
+      "description": "Iren’s journey from crypto to gigawatt-scale AI",
+      "published": "2026-07-16T16:00:23.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "How NASA’s Artemis Lessons Apply to AI Infrastructure Planning",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/how-nasa-s-artemis-lessons-apply-to-ai-infrastructure-planning",
+      "description": "NASA’s Artemis audit and recent ERCOT planning changes point to a new discipline for AI infrastructure: proving demand before billions of dollars are committed.",
+      "published": "2026-07-16T15:52:51.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
+      "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+      "description": "\n                        Companies coming to market are raising money at fastest pace this century.\n                    ",
+      "published": "2026-07-16T15:48:21.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sonatel deploys OneWeb ground station in Senegal",
+      "url": "https://www.datacenterdynamics.com/en/news/sonatel-deploys-oneweb-ground-station-in-senegal/",
+      "description": "As Bell Canada deploys AST SpaceMobile ground station in Québec",
+      "published": "2026-07-16T15:22:26.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: How data centers can be good neighbors to communities",
+      "url": "https://www.datacenterdynamics.com/en/opinions/how-data-centers-can-be-good-neighbors-to-communities/",
+      "description": "Build community relationships the same way you build the infrastructure – early, deliberately, and to last",
+      "published": "2026-07-16T15:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "E-commerce platform Polibeli explores AI data center pivot",
+      "url": "https://www.datacenterdynamics.com/en/news/e-commerce-platform-polibeli-explores-ai-data-center-pivot/",
+      "description": "Signs MoU's for data center projects in Thailand and Indonesia",
+      "published": "2026-07-16T14:40:26.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Italian judge blocks Inwit's efforts to stop Telecom Italia, Fastweb+Vodafone tower agreement exits",
+      "url": "https://www.datacenterdynamics.com/en/news/italian-judge-blocks-inwits-efforts-to-stop-telecom-italia-fastwebvodafone-tower-agreement-exits/",
+      "description": "But Inwit plans to appeal the decision",
+      "published": "2026-07-16T14:00:31.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+      "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring",
+      "published": "2026-07-16T12:10:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "TSMC Expands Arizona Campus to $265B as AI Demand Surges",
+      "url": "https://www.datacenterknowledge.com/infrastructure/tsmc-expands-arizona-campus-to-265b-as-ai-demand-surges",
+      "description": "The chipmaker raises capital spending outlook after cloud providers continue signaling robust demand for AI infrastructure.",
+      "published": "2026-07-16T11:19:36.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Why heat pumps are still so hot in the US",
+      "url": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
+      "description": "It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have been brutal—but we need to talk about heat pumps. The appliances use electricity for heating, they’re incredibly efficient, and they’re on the rise. (Fo",
+      "published": "2026-07-16T10:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "What Britain’s Next Prime Minister Could Mean for UK Data Centers",
+      "url": "https://www.datacenterknowledge.com/regulations/what-britain-s-next-prime-minister-could-mean-for-uk-data-centers",
+      "description": "Incoming UK Prime Minister Andy Burnham appears to favor homegrown AI, but planning disputes and data center moratoriums could cause early friction.",
+      "published": "2026-07-16T07:30:00.000Z"
     },
     {
       "source": "VentureBeat AI",
@@ -28,118 +140,6 @@
       "url": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
       "description": "\n                        The convenience store chain will use StorMagic instead. \n                    ",
       "published": "2026-07-15T21:41:56.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "IDCA CEO Calls for Global Consensus on Data Center Development",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/idca-ceo-calls-for-global-consensus-on-data-center-development",
-      "description": "As AI-driven power demand accelerates, the IDCA says fragmented national policies risk slowing data center development and calls for a common global framework.",
-      "published": "2026-07-15T20:41:08.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Plug Power sells Texas site to Stream Data Centers",
-      "url": "https://www.datacenterdynamics.com/en/news/plug-power-sells-texas-site-to-stream-data-centers/",
-      "description": "Land in Graham earmarked for hydrogen plant set to host data centers",
-      "published": "2026-07-15T20:00:28.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Windows 0-day drops the same day Microsoft releases record number of patches",
-      "url": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/",
-      "description": "\n                        HiveLegacy is a \"powerful primitive\" that's likely capable of other nefarious actions.\n                    ",
-      "published": "2026-07-15T19:59:48.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Community Partnerships Are Becoming Data Centers’ Most Valuable Asset",
-      "url": "https://www.datacenterknowledge.com/data-center-site-selection/community-partnerships-are-becoming-data-centers-most-valuable-asset",
-      "description": "Community trust is now a core input to capacity. Here’s how developers can align projects with local priorities on culture, jobs, and long-term sustainability.",
-      "published": "2026-07-15T19:53:39.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Eutelsat files for planned Next LEO satellite constellation",
-      "url": "https://www.datacenterdynamics.com/en/news/eutelsat-files-for-planned-next-leo-satellite-constellation/",
-      "description": "New fleet will total 528 LEO satellites",
-      "published": "2026-07-15T18:00:27.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "description": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its m",
-      "published": "2026-07-15T17:09:37.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "US gov’t eases AI chip export controls on UAE following country’s support in Iran war",
-      "url": "https://www.datacenterdynamics.com/en/news/us-govt-eases-ai-chip-export-controls-on-uae-following-countrys-support-in-iran-war/",
-      "description": "UAE-based companies will now have unrestricted access to purchase advanced AI chips from the US",
-      "published": "2026-07-15T17:00:28.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
-      "url": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like",
-      "published": "2026-07-15T12:10:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Quantum Meets the Data Center: Hybrid Systems Take Off",
-      "url": "https://www.datacenterknowledge.com/supercomputers/quantum-meets-the-data-center-hybrid-systems-take-off",
-      "description": "Data centers are moving from lab demos to production by colocating QPUs with GPU/CPU nodes, driven by 2026 US policy boosts and new vendor roadmaps.",
-      "published": "2026-07-15T09:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "SREs To AI Agents: Prove Yourself Before You Touch Production",
-      "url": "https://www.nextplatform.com/control/2026/07/15/sres-to-ai-agents-prove-yourself-before-you-touch-production/5271533",
-      "description": "",
-      "published": "2026-07-15T02:15:35.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
-      "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
-      "description": "\n                        Old and forgotten \"shims\" Microsoft failed to revoke have made Secure Boot bypasses simple.\n                    ",
-      "published": "2026-07-14T22:20:48.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "New York Data Center Moratorium: State Pauses Projects Over 50 MW",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/new-york-data-center-moratorium-state-pauses-projects-over-50-mw",
-      "description": "A new executive order pauses certain permits for new data centers above 50 MW as New York develops rules for grid costs, water use, and host communities.",
-      "published": "2026-07-14T16:43:36.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "IBM Warns AI Infrastructure Shift Impacts Software Deals, Shares Plunge",
-      "url": "https://www.datacenterknowledge.com/business/ibm-warns-ai-infrastructure-spending-delays-software-deals-as-shares-plunge",
-      "description": "IBM said customers shifted spending to secure supply-constrained infrastructure, delaying software deals and driving shares down 23%.",
-      "published": "2026-07-14T15:16:48.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: Claude’s inner workings, and the future of world models",
-      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O&#8217;Donnell When Anthropic announced last week that it had found a new window in",
-      "published": "2026-07-14T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
-      "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
-      "description": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute ze",
-      "published": "2026-07-14T08:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "The US government warns that Russia state hackers are coming after your router",
-      "url": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
-      "description": "\n                        With residential proxies all the rage, CISA urges router users to be vigilant.\n                    ",
-      "published": "2026-07-13T21:03:07.000Z"
     }
   ]
 }

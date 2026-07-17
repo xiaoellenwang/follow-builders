@@ -1,4 +1,54 @@
 {
-  "generatedAt": "2026-07-16T03:26:25.486Z",
-  "videos": []
+  "generatedAt": "2026-07-17T03:28:55.358Z",
+  "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "AI is both addicting and exhausting",
+      "url": "https://www.youtube.com/watch?v=zshnOIH-8Qs",
+      "published": "2026-07-15T11:00:04.000Z",
+      "description": "#ai #claude #chatgpt #product"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "The 4 types of tech workers in 2026",
+      "url": "https://www.youtube.com/watch?v=2De481hOI4g",
+      "published": "2026-07-14T11:00:39.000Z",
+      "description": "#technology #ai #claude #chatgpt"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Why the AI’s honeymoon is ending (and tech workers are feeling it) | Noam Segal",
+      "url": "https://www.youtube.com/watch?v=_cmpIveXnvE",
+      "published": "2026-07-12T12:30:31.000Z",
+      "description": "Noam Segal is a longtime research leader across Airbnb, Meta, Twitter, Zapier, Intercom, and Figma, a certified coach, AI builder, and my community research lead. Together, we run the annual Tech Worker Sentiment Survey, now in its second year and one of the largest of its kind: a quantitative study"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "The head of Instagram on why AI content is a tailwind, not a headwind.",
+      "url": "https://www.youtube.com/watch?v=TNyVjLUy9ck",
+      "published": "2026-07-12T12:09:37.000Z",
+      "description": "The head of Instagram on why AI content is a tailwind, not a headwind."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "The best product leaders aren't the ones with the most ideas.",
+      "url": "https://www.youtube.com/watch?v=vr13eFx8BEk",
+      "published": "2026-07-11T12:48:53.000Z",
+      "description": "The best product leaders aren't the ones with the most ideas."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Don't worship AI tools",
+      "url": "https://www.youtube.com/watch?v=h_1x1UqI5ro",
+      "published": "2026-07-11T11:00:35.000Z",
+      "description": "The people who will get the most out of this moment are the ones who are clear-eyed about what AI is actually good at"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "The shape of product teams in 2026",
+      "url": "https://www.youtube.com/watch?v=CBqNhKZgFmk",
+      "published": "2026-07-10T11:00:18.000Z",
+      "description": "#product #ai #instagram #meta"
+    }
+  ]
 }

@@ -1,4 +1,200 @@
 {
-  "generatedAt": "2026-07-16T03:26:25.486Z",
-  "jobs": []
+  "generatedAt": "2026-07-17T03:28:55.358Z",
+  "jobs": [
+    {
+      "title": "Research Engineer I (Computer Science / Artificial Intelligence / Cyber Security)",
+      "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
+      "salary": "S$3,300 – S$6,600",
+      "type": "Contract",
+      "skills": [
+        "Internships",
+        "International Conferences",
+        "Training Set"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/2010b0b63e56ecf3c725b2032045e7d0",
+      "posted": "2026-07-17T03:14:34.000Z"
+    },
+    {
+      "title": "Research Engineer II (Computer Science / Cyber Security / Artificial Intelligence)",
+      "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
+      "salary": "S$4,000 – S$8,000",
+      "type": "Contract",
+      "skills": [
+        "Competitive Advantage",
+        "Agents",
+        "Profiling"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/963b4cd7009846d469910571277a050c",
+      "posted": "2026-07-17T03:07:36.000Z"
+    },
+    {
+      "title": "AI Data Centre Project Engineer",
+      "company": "RN CARE PTE. LTD.",
+      "salary": "S$4,000 – S$7,000",
+      "type": "Permanent",
+      "skills": [
+        "Computer Engineering",
+        "Factory Acceptance Testing",
+        "Information Technology"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/19a73b91c2e0140612d8a5f2b52f59b9",
+      "posted": "2026-07-17T03:00:59.000Z"
+    },
+    {
+      "title": "AI Infrastructure Project Engineer",
+      "company": "RN CARE PTE. LTD.",
+      "salary": "S$4,000 – S$7,000",
+      "type": "Permanent",
+      "skills": [
+        "Computer Engineering",
+        "Factory Acceptance Testing",
+        "Information Technology"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/ed0bb2d4979a309bc1a852c1f0ff8c6a",
+      "posted": "2026-07-17T03:00:54.000Z"
+    },
+    {
+      "title": "AI Engineer (Generative AI / AI-ML / Microsoft Copilot)",
+      "company": "UARROW PTE. LTD.",
+      "salary": "S$5,000 – S$10,000",
+      "type": "Contract",
+      "skills": [
+        "Chatbot",
+        "Retrieval-Augmented Generation (RAG)",
+        "Design"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/f210a27948c3944c8467d3a2b4fe5c54",
+      "posted": "2026-07-17T02:46:26.000Z"
+    },
+    {
+      "title": "AI Engineer (FDE – Full Development Engineer)",
+      "company": "UARROW PTE. LTD.",
+      "salary": "S$6,000 – S$10,000",
+      "type": "Contract",
+      "skills": [
+        "Azure AI",
+        "Liaising with cross functional teams",
+        "Ai"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/36f13cb167531465dbd823b88e40c12a",
+      "posted": "2026-07-17T02:30:48.000Z"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "SUNNYSTEP PTE. LTD.",
+      "salary": "S$3,500 – S$8,000",
+      "type": "Permanent",
+      "skills": [
+        "Candidate Screening",
+        "Computer Engineering",
+        "Strong Attention To Detail"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/4b588211f029471be23395ee5f6dc477",
+      "posted": "2026-07-17T02:12:25.000Z"
+    },
+    {
+      "title": "Computer Vision Scientist",
+      "company": "AICADIUM SINGAPORE PTE. LTD.",
+      "salary": "S$7,000 – S$12,000",
+      "type": "Permanent",
+      "skills": [
+        "Deep Learning",
+        "Instance Segmentation",
+        "Teamwork"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/27a81132c045f6f26e11f89290c73968",
+      "posted": "2026-07-17T02:09:09.000Z"
+    },
+    {
+      "title": "AI Researcher",
+      "company": "PERSOL SINGAPORE PTE. LTD.",
+      "salary": "S$8,000 – S$15,000",
+      "type": "Contract",
+      "skills": [
+        "Machine Learning",
+        "Search",
+        "Idea Generation"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/7555a0666de8dbe0102573fd662ac85b",
+      "posted": "2026-07-17T00:21:37.000Z"
+    },
+    {
+      "title": "Senior Engineer, Artificial Intelligence",
+      "company": "VOYAGE CONSULTANTS PTE. LTD.",
+      "salary": "S$30,000 – S$35,000",
+      "type": "Permanent",
+      "skills": [
+        "Ai",
+        "Generative AI Application Development and Deployment",
+        "AI Agents"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/4980469a0f3497f248e8e86139e26d9e",
+      "posted": "2026-07-16T07:55:52.000Z"
+    },
+    {
+      "title": "AI Researcher",
+      "company": "WORKATO PTE. LTD.",
+      "salary": "S$11,000 – S$17,000",
+      "type": "Full Time",
+      "skills": [
+        "Snowflake Cloud Data Warehouse",
+        "Machine Learning",
+        "Code Review"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/c2568860754a0c4e4d361963590db351",
+      "posted": "2026-07-16T07:46:35.000Z"
+    },
+    {
+      "title": "Research Scientist (Computer Science/Software Engineering/Artificial Intelligence)",
+      "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
+      "salary": "S$4,000 – S$8,000",
+      "type": "Contract",
+      "skills": [
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Software Engineering"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/10a862f71279e75c51c250378256d6b5",
+      "posted": "2026-07-16T07:07:12.000Z"
+    },
+    {
+      "title": "AI & Data Science Consultant/Engineer (Japanese Speaking)",
+      "company": "ABEAM CONSULTING (SINGAPORE) PTE. LTD.",
+      "salary": "S$8,000 – S$12,000",
+      "type": "Contract",
+      "skills": [
+        "Machine Learning",
+        "Business Data Analysis",
+        "Retrieval-Augmented Generation (RAG)"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/6149b66f8cf0361c11f2afbcef9d38c5",
+      "posted": "2026-07-16T06:47:56.000Z"
+    },
+    {
+      "title": "Machine Learning Engineer, National Jobs-Skills Data Office (INTD)",
+      "company": "Skills and Workforce Development Agency",
+      "salary": "S$3,000 – S$6,000",
+      "type": "Contract",
+      "skills": [
+        "Analytical Approach",
+        "TensorFlow",
+        "Machine Learning"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/0493b26deae0ab9020579c06e57e0454",
+      "posted": "2026-07-16T06:35:33.000Z"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "PERSOL SINGAPORE PTE. LTD.",
+      "salary": "S$5,000 – S$9,000",
+      "type": "Contract",
+      "skills": [
+        "Machine Learning",
+        "Search",
+        "Idea Generation"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/8d225452cbdfc67885b200601eb21698",
+      "posted": "2026-07-16T06:16:19.000Z"
+    }
+  ]
 }
