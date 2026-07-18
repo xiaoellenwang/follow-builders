@@ -1,6 +1,83 @@
 {
-  "generatedAt": "2026-07-17T03:28:55.358Z",
+  "generatedAt": "2026-07-18T03:17:49.285Z",
   "articles": [
+    {
+      "source": "The Next Platform",
+      "title": "Marvell Brings Radix, Low Latency, And Bandwidth To Bear With Teralynx T100",
+      "url": "https://www.nextplatform.com/connect/2026/07/17/marvell-brings-radix-low-latency-and-bandwidth-to-bear-with-teralynx-t100/5274615",
+      "description": "",
+      "published": "2026-07-17T19:40:08.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Anthropic considers leasing compute from Meta in $10bn deal",
+      "url": "https://www.datacenterdynamics.com/en/news/anthropic-considers-leasing-compute-from-meta-in-10bn-deal/",
+      "description": "As Meta increasingly looks set to become a cloud provider",
+      "published": "2026-07-17T17:28:24.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Coalition of environmental action groups petition FCC to halt orbital data center applications",
+      "url": "https://www.datacenterdynamics.com/en/news/coalition-of-environmental-action-groups-petition-fcc-to-halt-orbital-data-center-applications/",
+      "description": "Earthjustice set to take the issue to court if applications keep getting granted",
+      "published": "2026-07-17T15:20:31.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Duos Edge AI to provide 10MW of capacity for five years to “investment-grade hyperscaler”",
+      "url": "https://www.datacenterdynamics.com/en/news/duos-edge-ai-to-provide-10mw-of-capacity-for-five-years-to-investment-grade-hyperscaler/",
+      "description": "Agreement worth $111m",
+      "published": "2026-07-17T15:00:40.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Elon Musk quietly acquires mobile gas generation firm APR Energy - report",
+      "url": "https://www.datacenterdynamics.com/en/news/elon-musk-quietly-acquires-mobile-gas-generation-firm-apr-energy-report/",
+      "description": "Deal could be worth up to $1bn",
+      "published": "2026-07-17T14:30:30.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Security complexity in data centers: when more controls do not necessarily mean more control",
+      "url": "https://www.datacenterdynamics.com/en/opinions/security-complexity-in-data-centers-when-more-controls-do-not-necessarily-mean-more-control/",
+      "description": "And why organizations need to understand how to deliver the best security for their data centers",
+      "published": "2026-07-17T14:30:27.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Palm Beach Denial Challenges Wall Street's AI Power Bet",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/project-tango-denial-challenges-wall-street-s-ai-power-bet",
+      "description": "Jefferies says Palm Beach County's rejection of a proposed 600 MW AI campus shows local permitting could determine whether AI load materializes.",
+      "published": "2026-07-17T14:00:12.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: perimenopause misinformation and China’s latest AI leap",
+      "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo, but not anymore. Thanks at least in part to TV do",
+      "published": "2026-07-17T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
+      "url": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
+      "description": "Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers. Perhaps it’s my age, but these days, both my algorithm and my conversations with friends increasing",
+      "published": "2026-07-17T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Right-Sizing Data Centers: How to Match Footprint to Real-World Demand",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/right-sizing-data-centers-how-to-match-footprint-to-real-world-demand",
+      "description": "Data centers span from single-rack edge sites to multi-building campuses. Here’s how to choose the right scale for your workload, power, and growth profile.",
+      "published": "2026-07-17T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The risk of weather data sabotage is rising",
+      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "description": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, wit",
+      "published": "2026-07-17T08:57:32.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "HP fined 1.4 billion rupees for “cartelization” of ink cartridges, toner, PCs",
@@ -51,13 +128,6 @@
       "published": "2026-07-16T16:40:48.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "The vertically integrated neocloud",
-      "url": "https://www.datacenterdynamics.com/en/analysis/the-vertically-integrated-neocloud/",
-      "description": "Iren’s journey from crypto to gigawatt-scale AI",
-      "published": "2026-07-16T16:00:23.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "How NASA’s Artemis Lessons Apply to AI Infrastructure Planning",
       "url": "https://www.datacenterknowledge.com/energy-power-supply/how-nasa-s-artemis-lessons-apply-to-ai-infrastructure-planning",
@@ -70,76 +140,6 @@
       "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
       "description": "\n                        Companies coming to market are raising money at fastest pace this century.\n                    ",
       "published": "2026-07-16T15:48:21.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sonatel deploys OneWeb ground station in Senegal",
-      "url": "https://www.datacenterdynamics.com/en/news/sonatel-deploys-oneweb-ground-station-in-senegal/",
-      "description": "As Bell Canada deploys AST SpaceMobile ground station in Québec",
-      "published": "2026-07-16T15:22:26.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: How data centers can be good neighbors to communities",
-      "url": "https://www.datacenterdynamics.com/en/opinions/how-data-centers-can-be-good-neighbors-to-communities/",
-      "description": "Build community relationships the same way you build the infrastructure – early, deliberately, and to last",
-      "published": "2026-07-16T15:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "E-commerce platform Polibeli explores AI data center pivot",
-      "url": "https://www.datacenterdynamics.com/en/news/e-commerce-platform-polibeli-explores-ai-data-center-pivot/",
-      "description": "Signs MoU's for data center projects in Thailand and Indonesia",
-      "published": "2026-07-16T14:40:26.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Italian judge blocks Inwit's efforts to stop Telecom Italia, Fastweb+Vodafone tower agreement exits",
-      "url": "https://www.datacenterdynamics.com/en/news/italian-judge-blocks-inwits-efforts-to-stop-telecom-italia-fastwebvodafone-tower-agreement-exits/",
-      "description": "But Inwit plans to appeal the decision",
-      "published": "2026-07-16T14:00:31.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-      "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring",
-      "published": "2026-07-16T12:10:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "TSMC Expands Arizona Campus to $265B as AI Demand Surges",
-      "url": "https://www.datacenterknowledge.com/infrastructure/tsmc-expands-arizona-campus-to-265b-as-ai-demand-surges",
-      "description": "The chipmaker raises capital spending outlook after cloud providers continue signaling robust demand for AI infrastructure.",
-      "published": "2026-07-16T11:19:36.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Why heat pumps are still so hot in the US",
-      "url": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
-      "description": "It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have been brutal—but we need to talk about heat pumps. The appliances use electricity for heating, they’re incredibly efficient, and they’re on the rise. (Fo",
-      "published": "2026-07-16T10:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "What Britain’s Next Prime Minister Could Mean for UK Data Centers",
-      "url": "https://www.datacenterknowledge.com/regulations/what-britain-s-next-prime-minister-could-mean-for-uk-data-centers",
-      "description": "Incoming UK Prime Minister Andy Burnham appears to favor homegrown AI, but planning disputes and data center moratoriums could cause early friction.",
-      "published": "2026-07-16T07:30:00.000Z"
-    },
-    {
-      "source": "VentureBeat AI",
-      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-      "description": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agents”",
-      "published": "2026-07-15T22:24:17.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
-      "url": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
-      "description": "\n                        The convenience store chain will use StorMagic instead. \n                    ",
-      "published": "2026-07-15T21:41:56.000Z"
     }
   ]
 }

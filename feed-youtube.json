@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T03:28:55.358Z",
+  "generatedAt": "2026-07-18T03:17:49.285Z",
   "videos": [
     {
       "channel": "Lenny's Podcast",
@@ -42,13 +42,6 @@
       "url": "https://www.youtube.com/watch?v=h_1x1UqI5ro",
       "published": "2026-07-11T11:00:35.000Z",
       "description": "The people who will get the most out of this moment are the ones who are clear-eyed about what AI is actually good at"
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "The shape of product teams in 2026",
-      "url": "https://www.youtube.com/watch?v=CBqNhKZgFmk",
-      "published": "2026-07-10T11:00:18.000Z",
-      "description": "#product #ai #instagram #meta"
     }
   ]
 }
