@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-07-18T03:17:49.285Z",
+  "generatedAt": "2026-07-19T03:38:42.611Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: How AI demand is redefining risk for US data center developers",
+      "url": "https://www.datacenterdynamics.com/en/opinions/how-ai-demand-is-redefining-risk-for-us-data-center-developers/",
+      "description": "Rapid AI-driven data center growth is colliding with US power system constraints and community push-back amidst a fragmented policy landscape, raising risks for developers across the full project lifecycle",
+      "published": "2026-07-18T15:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Equinix tops out Munich data center in Germany",
+      "url": "https://www.datacenterdynamics.com/en/news/equinix-tops-out-munich-data-center-in-germany/",
+      "description": "Company expanding MU4",
+      "published": "2026-07-18T12:00:25.000Z"
+    },
     {
       "source": "The Next Platform",
       "title": "Marvell Brings Radix, Low Latency, And Bandwidth To Bear With Teralynx T100",
@@ -28,20 +42,6 @@
       "url": "https://www.datacenterdynamics.com/en/news/duos-edge-ai-to-provide-10mw-of-capacity-for-five-years-to-investment-grade-hyperscaler/",
       "description": "Agreement worth $111m",
       "published": "2026-07-17T15:00:40.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Elon Musk quietly acquires mobile gas generation firm APR Energy - report",
-      "url": "https://www.datacenterdynamics.com/en/news/elon-musk-quietly-acquires-mobile-gas-generation-firm-apr-energy-report/",
-      "description": "Deal could be worth up to $1bn",
-      "published": "2026-07-17T14:30:30.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Security complexity in data centers: when more controls do not necessarily mean more control",
-      "url": "https://www.datacenterdynamics.com/en/opinions/security-complexity-in-data-centers-when-more-controls-do-not-necessarily-mean-more-control/",
-      "description": "And why organizations need to understand how to deliver the best security for their data centers",
-      "published": "2026-07-17T14:30:27.000Z"
     },
     {
       "source": "Data Center Knowledge",

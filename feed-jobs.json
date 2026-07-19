@@ -1,6 +1,58 @@
 {
-  "generatedAt": "2026-07-18T03:17:49.285Z",
+  "generatedAt": "2026-07-19T03:38:42.611Z",
   "jobs": [
+    {
+      "title": "Machine Learning Engineer (LLM)",
+      "company": "MEDICODER PTE. LTD.",
+      "salary": "S$5,000 – S$8,000",
+      "type": "Full Time",
+      "skills": [
+        "Deep Learning",
+        "Machine Learning",
+        "Ai"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/5ddd2fc5a49e6411855e1d0e943278a7",
+      "posted": "2026-07-18T15:20:11.000Z"
+    },
+    {
+      "title": "Senior Data Scientist (Gen AI & Machine Learning)",
+      "company": "ACHIEVE CAREER CONSULTANT PTE LTD",
+      "salary": "S$12,000 – S$15,000",
+      "type": "Contract",
+      "skills": [
+        "Tableau",
+        "Zumba",
+        "Apache Spark"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/eeb4858981e97cb5a7ed329360823dbf",
+      "posted": "2026-07-18T09:31:25.000Z"
+    },
+    {
+      "title": "Backend Engineer (AI Infrastructure)",
+      "company": "ACHIEVE CAREER CONSULTANT PTE LTD",
+      "salary": "S$15,000 – S$20,000",
+      "type": "Permanent",
+      "skills": [
+        "Machine Learning",
+        "Monitoring Tools",
+        "Oracle Alerts"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/e4acf06737c20b3e8b01aea679ba3329",
+      "posted": "2026-07-18T09:27:56.000Z"
+    },
+    {
+      "title": "Full Stack Developer & AI Automation Engineer",
+      "company": "ASTA INNOSYS PTE. LTD.",
+      "salary": "S$3,000 – S$3,600",
+      "type": "Full Time",
+      "skills": [
+        "AI Agents",
+        "Database Schemas",
+        "AI Governance"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/6bd6f82f03c7a5e0fc3a04b885c4889f",
+      "posted": "2026-07-18T08:18:19.000Z"
+    },
     {
       "title": "Quant Researcher #77900",
       "company": "ANRADUS PTE. LTD.",
@@ -52,19 +104,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/8ec2d38cf6d4f7d360d152536f836e2b",
       "posted": "2026-07-17T09:08:10.000Z"
-    },
-    {
-      "title": "R&D AI Software Development Engineer",
-      "company": "KEYSIGHT TECHNOLOGIES SINGAPORE (SALES) PTE. LTD.",
-      "salary": "S$6,050 – S$9,000",
-      "type": "Full Time",
-      "skills": [
-        "Git",
-        "Collaborate With Engineers",
-        "Tools Development"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/b69d988169b88a3c2c1ce2be1dbeb4f0",
-      "posted": "2026-07-17T09:05:17.000Z"
     },
     {
       "title": "AI Engineer (FDE – Full Development Engineer)",
@@ -145,19 +184,6 @@
       "posted": "2026-07-17T07:24:33.000Z"
     },
     {
-      "title": "Forward Deployed Engineer (AI)",
-      "company": "NICOLL CURTIN TECHNOLOGY PTE. LTD.",
-      "salary": "S$10,000 – S$15,000",
-      "type": "Contract",
-      "skills": [
-        "Vector Search",
-        "Use cases",
-        "Development"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/6a5a0272e9650812cbe82c8c5f387316",
-      "posted": "2026-07-17T06:53:43.000Z"
-    },
-    {
       "title": "Research Associate (Spatial Environmental Health and AI-based Exposure Modelling)",
       "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
       "salary": "S$4,000 – S$8,000",
@@ -169,32 +195,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/096d61cb6adf6dd859046b946be0915c",
       "posted": "2026-07-17T06:03:25.000Z"
-    },
-    {
-      "title": "AI Engineer",
-      "company": "FRAGMENT WORKS PTE. LTD.",
-      "salary": "S$5,500 – S$7,500",
-      "type": "Permanent",
-      "skills": [
-        "Machine Learning",
-        "Data Ingestion",
-        "Artificial Intelligence"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/f75d31f0764e1562f8967874f6a3c728",
-      "posted": "2026-07-17T04:53:42.000Z"
-    },
-    {
-      "title": "AI Engineer",
-      "company": "INNOVATIVE CONSULTING PTE. LTD.",
-      "salary": "S$6,000 – S$7,000",
-      "type": "Contract",
-      "skills": [
-        "TensorFlow",
-        "Liaising with cross functional teams",
-        "Ai"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/3465c4bfceac26ae0cdc3cb8d796bcf8",
-      "posted": "2026-07-17T03:32:40.000Z"
     }
   ]
 }
