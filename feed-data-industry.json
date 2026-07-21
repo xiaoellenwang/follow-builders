@@ -1,82 +1,103 @@
 {
-  "generatedAt": "2026-07-20T03:52:43.136Z",
+  "generatedAt": "2026-07-21T03:32:43.035Z",
   "articles": [
     {
-      "source": "Data Center Dynamics",
-      "title": "Why network recovery still depends on a site visit",
-      "url": "https://www.datacenterdynamics.com/en/opinions/why-network-recovery-still-depends-on-a-site-visit/",
-      "description": "And why automated power control could be the answer",
-      "published": "2026-07-19T13:00:32.000Z"
+      "source": "Data Center Knowledge",
+      "title": "PJM Issued First Backup-Generator Warnings During Heat Wave",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/pjm-issued-first-backup-generator-warnings-during-heat-wave",
+      "description": "The new warnings process saw its first operational use as PJM neared record demand, but the grid operator says no large-load backup generators were called to run.",
+      "published": "2026-07-20T20:30:49.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: How AI demand is redefining risk for US data center developers",
-      "url": "https://www.datacenterdynamics.com/en/opinions/how-ai-demand-is-redefining-risk-for-us-data-center-developers/",
-      "description": "Rapid AI-driven data center growth is colliding with US power system constraints and community push-back amidst a fragmented policy landscape, raising risks for developers across the full project lifecycle",
-      "published": "2026-07-18T15:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Equinix tops out Munich data center in Germany",
-      "url": "https://www.datacenterdynamics.com/en/news/equinix-tops-out-munich-data-center-in-germany/",
-      "description": "Company expanding MU4",
-      "published": "2026-07-18T12:00:25.000Z"
+      "source": "MIT Technology Review",
+      "title": "China’s AI models have Trump’s AI world at war with itself",
+      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sa",
+      "published": "2026-07-20T18:00:00.000Z"
     },
     {
       "source": "The Next Platform",
-      "title": "Marvell Brings Radix, Low Latency, And Bandwidth To Bear With Teralynx T100",
-      "url": "https://www.nextplatform.com/connect/2026/07/17/marvell-brings-radix-low-latency-and-bandwidth-to-bear-with-teralynx-t100/5274615",
+      "title": "Microsoft Taps AMD For At Scale AI CPU And GPU Clusters",
+      "url": "https://www.nextplatform.com/cloud/2026/07/20/microsoft-taps-amd-for-at-scale-ai-cpu-and-gpu-clusters/5275161",
       "description": "",
-      "published": "2026-07-17T19:40:08.000Z"
+      "published": "2026-07-20T17:16:17.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Anthropic considers leasing compute from Meta in $10bn deal",
-      "url": "https://www.datacenterdynamics.com/en/news/anthropic-considers-leasing-compute-from-meta-in-10bn-deal/",
-      "description": "As Meta increasingly looks set to become a cloud provider",
-      "published": "2026-07-17T17:28:24.000Z"
+      "title": "Telecom Italia board approves Poste Italiane takeover bid",
+      "url": "https://www.datacenterdynamics.com/en/news/telecom-italia-board-approves-poste-italiane-takeover-bid/",
+      "description": "The takeover will see Telecom Italia back into state ownership",
+      "published": "2026-07-20T17:00:35.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Coalition of environmental action groups petition FCC to halt orbital data center applications",
-      "url": "https://www.datacenterdynamics.com/en/news/coalition-of-environmental-action-groups-petition-fcc-to-halt-orbital-data-center-applications/",
-      "description": "Earthjustice set to take the issue to court if applications keep getting granted",
-      "published": "2026-07-17T15:20:31.000Z"
+      "title": "48MW data center eyed for Kane County, Illinois",
+      "url": "https://www.datacenterdynamics.com/en/news/48mw-data-center-eyed-for-kane-county-illinois/",
+      "description": "“My wife is mad at me,” says local landowner",
+      "published": "2026-07-20T16:23:18.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Hut 8 signs 352MW lease with unnamed hyperscaler in Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/hut-8-signs-352mw-lease-with-unnamed-hyperscaler-in-texas/",
+      "description": "Company extends lease at Beacon Point campus, site now fully leased",
+      "published": "2026-07-20T16:01:09.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "DC Blox data center campus greenlit in Indianapolis, Indiana",
+      "url": "https://www.datacenterdynamics.com/en/news/dc-blox-data-center-campus-greenlit-in-indianapolis-indiana/",
+      "description": "But proposal has been scaled back",
+      "published": "2026-07-20T15:56:26.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Neocloud Iren signs $2.8bn in customer contracts, raises 2026 annual run rate to $4bn+",
+      "url": "https://www.datacenterdynamics.com/en/news/neocloud-iren-signs-28bn-in-customer-contracts-raises-2026-annual-run-rate-to-4bn/",
+      "description": "Contracts secured from \"leading AI developers\"",
+      "published": "2026-07-20T15:45:55.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Google Uses AI Reinforcement Learning For Quantum Error Correction",
+      "url": "https://www.nextplatform.com/compute/2026/07/20/google-uses-ai-reinforcement-learning-for-quantum-error-correction/5275023",
+      "description": "",
+      "published": "2026-07-20T14:52:40.000Z"
+    },
+    {
+      "source": "Import AI",
+      "title": "Import AI 465: Open vs closed gaps; Kimi K3; Demis’ big policy plan",
+      "url": "https://jack-clark.net/2026/07/20/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/",
+      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now UK government: Gap between open and closed weight models on cyber is shrinking:…The cyber-eschaton cometh…The UK gover",
+      "published": "2026-07-20T12:31:45.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: AI hiring biases, and weather data sabotage",
+      "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it. But th",
+      "published": "2026-07-20T12:10:00.000Z"
     },
     {
       "source": "Data Center Knowledge",
-      "title": "Palm Beach Denial Challenges Wall Street's AI Power Bet",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/project-tango-denial-challenges-wall-street-s-ai-power-bet",
-      "description": "Jefferies says Palm Beach County's rejection of a proposed 600 MW AI campus shows local permitting could determine whether AI load materializes.",
-      "published": "2026-07-17T14:00:12.000Z"
+      "title": "Finland’s Data Center Boom is Just Getting Started",
+      "url": "https://www.datacenterknowledge.com/data-center-site-selection/finland-s-data-center-boom-is-just-getting-started",
+      "description": "Finland is emerging as one of Europe’s fastest-growing data center markets, driven by AI demand, abundant renewable energy, and favorable policies.",
+      "published": "2026-07-20T08:45:00.000Z"
     },
     {
       "source": "MIT Technology Review",
-      "title": "The Download: perimenopause misinformation and China’s latest AI leap",
-      "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo, but not anymore. Thanks at least in part to TV do",
-      "published": "2026-07-17T12:10:00.000Z"
+      "title": "AI is more likely than humans to form biases when hiring",
+      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "description": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own bi",
+      "published": "2026-07-20T08:39:01.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
-      "url": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
-      "description": "Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers. Perhaps it’s my age, but these days, both my algorithm and my conversations with friends increasing",
-      "published": "2026-07-17T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Right-Sizing Data Centers: How to Match Footprint to Real-World Demand",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/right-sizing-data-centers-how-to-match-footprint-to-real-world-demand",
-      "description": "Data centers span from single-rack edge sites to multi-building campuses. Here’s how to choose the right scale for your workload, power, and growth profile.",
-      "published": "2026-07-17T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The risk of weather data sabotage is rising",
-      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-      "description": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, wit",
-      "published": "2026-07-17T08:57:32.000Z"
+      "source": "DataEngineeringWeekly",
+      "title": "Data Engineering Weekly #279",
+      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-279",
+      "description": "The Weekly Data Engineering Newsletter",
+      "published": "2026-07-20T04:07:20.000Z"
     }
   ]
 }
