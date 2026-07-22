@@ -1,6 +1,90 @@
 {
-  "generatedAt": "2026-07-21T03:32:43.035Z",
+  "generatedAt": "2026-07-22T03:31:30.129Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "Tata acquires land in India for OpenAI data centers - report",
+      "url": "https://www.datacenterdynamics.com/en/news/tata-acquires-land-in-india-for-openai-data-centers-report/",
+      "description": "But details sparse",
+      "published": "2026-07-22T01:30:25.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Telin & BW Digital land subsea cable in Batam, Indonesia",
+      "url": "https://www.datacenterdynamics.com/en/news/telin-bw-digital-land-subsea-cable-in-batam-indonesia/",
+      "description": "Nongsa Changi Cable the first system to land in Batam",
+      "published": "2026-07-22T00:00:35.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "China's Z.ai partially operating 1GW data center using Chinese-made chips - report",
+      "url": "https://www.datacenterdynamics.com/en/news/chinas-zai-partially-operating-1gw-data-center-using-chinese-made-chips-report/",
+      "description": "But source says data center is fully complete",
+      "published": "2026-07-21T23:00:34.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Ground broken on 300MW data center in Pohang, South Korea",
+      "url": "https://www.datacenterdynamics.com/en/news/ground-broken-on-300mw-data-center-in-pohang-south-korea/",
+      "description": "First phase to offer 40MW",
+      "published": "2026-07-21T22:00:34.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "GenAI Hardware Investments Are Way Ahead Of Model And Platform Revenues",
+      "url": "https://www.nextplatform.com/ai/2026/07/21/genai-hardware-investments-are-way-ahead-of-model-and-platform-revenues/5275842",
+      "description": "",
+      "published": "2026-07-21T20:32:13.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "US boosts AI-RAN with $53bn funding opportunity",
+      "url": "https://www.datacenterdynamics.com/en/news/us-boosts-ai-ran-with-53bn-funding-opportunity/",
+      "description": "NTIA tender looking to accelerate AI-native RAN architecture",
+      "published": "2026-07-21T18:00:33.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "TreeSize won't renew perpetual-license support unless users subscribe",
+      "url": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
+      "description": "\n                        \"Current economic conditions\" have shifted TreeSize's business model. \n                    ",
+      "published": "2026-07-21T15:18:23.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Spain’s $3.4B AI Campus Skips the Queue with On-Site Generation",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/spain-s-3-4b-ai-campus-bets-on-on-site-power",
+      "description": "The planned 300 MW AI campus in Spain would rank among Europe’s largest as developers pursue fast-track approval and an on-site power strategy.",
+      "published": "2026-07-21T12:48:30.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "IREN’s $2.8B AI Deals Highlight New Funding Model",
+      "url": "https://www.datacenterknowledge.com/deals/iren-s-2-8b-ai-deals-highlight-new-funding-model",
+      "description": "The company raised AI cloud ARR target above $4 billion after signing $2.8 billion in new contracts, pointing to a financing model gaining traction across AI infrastructure.",
+      "published": "2026-07-21T12:32:40.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
+      "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald Trump on AI publicly ",
+      "published": "2026-07-21T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Advancing next-gen AI with materials science innovation",
+      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+      "description": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI ",
+      "published": "2026-07-21T10:37:34.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Electromagnetic Interference: The Invisible Threat to Data Center Uptime",
+      "url": "https://www.datacenterknowledge.com/physical-security/electromagnetic-interference-the-invisible-threat-to-data-center-uptime",
+      "description": "Denser digital infrastructure and pervasive wireless have raised background radio-frequency levels. Here’s how EMI threatens data centers and what operators can do to contain it.",
+      "published": "2026-07-21T09:00:00.000Z"
+    },
     {
       "source": "Data Center Knowledge",
       "title": "PJM Issued First Backup-Generator Warnings During Heat Wave",
@@ -21,41 +105,6 @@
       "url": "https://www.nextplatform.com/cloud/2026/07/20/microsoft-taps-amd-for-at-scale-ai-cpu-and-gpu-clusters/5275161",
       "description": "",
       "published": "2026-07-20T17:16:17.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Telecom Italia board approves Poste Italiane takeover bid",
-      "url": "https://www.datacenterdynamics.com/en/news/telecom-italia-board-approves-poste-italiane-takeover-bid/",
-      "description": "The takeover will see Telecom Italia back into state ownership",
-      "published": "2026-07-20T17:00:35.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "48MW data center eyed for Kane County, Illinois",
-      "url": "https://www.datacenterdynamics.com/en/news/48mw-data-center-eyed-for-kane-county-illinois/",
-      "description": "“My wife is mad at me,” says local landowner",
-      "published": "2026-07-20T16:23:18.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Hut 8 signs 352MW lease with unnamed hyperscaler in Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/hut-8-signs-352mw-lease-with-unnamed-hyperscaler-in-texas/",
-      "description": "Company extends lease at Beacon Point campus, site now fully leased",
-      "published": "2026-07-20T16:01:09.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "DC Blox data center campus greenlit in Indianapolis, Indiana",
-      "url": "https://www.datacenterdynamics.com/en/news/dc-blox-data-center-campus-greenlit-in-indianapolis-indiana/",
-      "description": "But proposal has been scaled back",
-      "published": "2026-07-20T15:56:26.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Neocloud Iren signs $2.8bn in customer contracts, raises 2026 annual run rate to $4bn+",
-      "url": "https://www.datacenterdynamics.com/en/news/neocloud-iren-signs-28bn-in-customer-contracts-raises-2026-annual-run-rate-to-4bn/",
-      "description": "Contracts secured from \"leading AI developers\"",
-      "published": "2026-07-20T15:45:55.000Z"
     },
     {
       "source": "The Next Platform",
@@ -91,13 +140,6 @@
       "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
       "description": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own bi",
       "published": "2026-07-20T08:39:01.000Z"
-    },
-    {
-      "source": "DataEngineeringWeekly",
-      "title": "Data Engineering Weekly #279",
-      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-279",
-      "description": "The Weekly Data Engineering Newsletter",
-      "published": "2026-07-20T04:07:20.000Z"
     }
   ]
 }
