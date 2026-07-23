@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T03:31:30.129Z",
+  "generatedAt": "2026-07-23T03:35:57.923Z",
   "videos": [
     {
       "channel": "Lenny's Podcast",
@@ -28,13 +28,6 @@
       "url": "https://www.youtube.com/watch?v=t0GiTyz4syY",
       "published": "2026-07-19T12:30:35.000Z",
       "description": "Elizabeth Stone is the Chief Product and Technology Officer (CPTO) at Netflix, where she oversees Engineering, Product, and Design. Since her first appearance on the podcast two years ago—which remained my second-most-popular episode for more than a year—she has expanded her role to lead product, in"
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "AI is both addicting and exhausting",
-      "url": "https://www.youtube.com/watch?v=zshnOIH-8Qs",
-      "published": "2026-07-15T11:00:04.000Z",
-      "description": "#ai #claude #chatgpt #product"
     }
   ]
 }

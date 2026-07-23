@@ -1,33 +1,89 @@
 {
-  "generatedAt": "2026-07-22T03:31:30.129Z",
+  "generatedAt": "2026-07-23T03:35:57.923Z",
   "articles": [
     {
       "source": "Data Center Dynamics",
-      "title": "Tata acquires land in India for OpenAI data centers - report",
-      "url": "https://www.datacenterdynamics.com/en/news/tata-acquires-land-in-india-for-openai-data-centers-report/",
-      "description": "But details sparse",
-      "published": "2026-07-22T01:30:25.000Z"
+      "title": "Google increases 2026 capex to $195-205bn as it accelerates AI data center buildout",
+      "url": "https://www.datacenterdynamics.com/en/news/google-increases-2026-capex-195-205bn-as-it-accelerates-ai-data-center-buildout/",
+      "description": "Record Google Cloud revenue, but investors are uneasy about growing capex commitments",
+      "published": "2026-07-22T22:00:00.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Telin & BW Digital land subsea cable in Batam, Indonesia",
-      "url": "https://www.datacenterdynamics.com/en/news/telin-bw-digital-land-subsea-cable-in-batam-indonesia/",
-      "description": "Nongsa Changi Cable the first system to land in Batam",
-      "published": "2026-07-22T00:00:35.000Z"
+      "title": "SpaceXAI considers large-scale data center in Texas - report",
+      "url": "https://www.datacenterdynamics.com/en/news/spacexai-considers-large-scale-data-center-in-texas-report/",
+      "description": "Despite orbital ambitions, has sights set on gigawatt campus",
+      "published": "2026-07-22T21:33:47.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Salience Labs Wants To Scale Up AI With Silicon Photonics Optical Switch",
+      "url": "https://www.nextplatform.com/connect/2026/07/22/salience-labs-wants-to-scale-up-ai-with-silicon-photonics-optical-switch/5276643",
+      "description": "",
+      "published": "2026-07-22T20:28:10.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Europe’s Chips Act: A Brief Supply Chain Opinion",
+      "url": "https://www.datacenterknowledge.com/data-center-chips/europe-s-chips-act-a-brief-supply-chain-opinion",
+      "description": "The European Chips Act is a bold step toward semiconductor sovereignty, but its success hinges on fostering local demand and innovation to sustain supply chains.",
+      "published": "2026-07-22T18:30:38.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "White House Warns PJM to Reform Grid Governance ‘Before It Is Too Late’",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/after-blockbuster-breakup-report-white-house-warns-pjm-to-reform",
+      "description": "Amid mounting pressure over rising AI power demand, the White House warns PJM Interconnection to overhaul its industry-controlled board or face potential regulatory fallout.",
+      "published": "2026-07-22T18:11:17.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "China's Z.ai partially operating 1GW data center using Chinese-made chips - report",
-      "url": "https://www.datacenterdynamics.com/en/news/chinas-zai-partially-operating-1gw-data-center-using-chinese-made-chips-report/",
-      "description": "But source says data center is fully complete",
-      "published": "2026-07-21T23:00:34.000Z"
+      "title": "MGX, AIP, and BlackRock’s GIP complete $40bn acquisition of Aligned Data Centers",
+      "url": "https://www.datacenterdynamics.com/en/news/mgx-aip-and-blackrocks-gip-complete-40bn-acquisition-of-aligned-data-centers/",
+      "description": "Acquisition is the largest-ever in data centers",
+      "published": "2026-07-22T17:31:19.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Ground broken on 300MW data center in Pohang, South Korea",
-      "url": "https://www.datacenterdynamics.com/en/news/ground-broken-on-300mw-data-center-in-pohang-south-korea/",
-      "description": "First phase to offer 40MW",
-      "published": "2026-07-21T22:00:34.000Z"
+      "title": "Sponsored: Polish Data Center Association, DCD Academy and Warsaw University of Technology launch Data Center Training Scholarship",
+      "url": "https://www.datacenterdynamics.com/en/product-news/polish-data-center-association-dcd-academy-and-warsaw-university-of-technology-launch-data-center-training-scholarship/",
+      "description": "Supporting Poland’s digital ambitions",
+      "published": "2026-07-22T17:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Core42 to supply sovereign AI cloud to telecoms firm e& in UAE",
+      "url": "https://www.datacenterdynamics.com/en/news/core42-to-supply-sovereign-ai-cloud-to-telecoms-firm-e-in-uae/",
+      "description": "Both UAE-based firms said the deal would accelerate AI deployments in the Gulf state",
+      "published": "2026-07-22T16:30:32.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Lawsuit Tests Water Strategy Behind California’s Lithium Valley",
+      "url": "https://www.datacenterknowledge.com/regulations/lawsuit-tests-water-strategy-behind-california-s-lithium-valley",
+      "description": "The case serves as a critical early test for Imperial County’s Lithium Valley development strategy, which envisions shifting agricultural water to support decades of industrial growth, including lithium processing and data centers.",
+      "published": "2026-07-22T13:22:01.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+      "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as ear",
+      "published": "2026-07-22T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
+      "url": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
+      "description": "When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a st",
+      "published": "2026-07-22T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "AI Data Center Boom Strains Global Construction Capacity",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/ai-data-center-boom-strains-global-construction-capacity",
+      "description": "Data center construction is now the most capacity-constrained sector globally, driven by the rapid growth of AI infrastructure and labor shortages.",
+      "published": "2026-07-22T09:00:00.000Z"
     },
     {
       "source": "The Next Platform",
@@ -35,13 +91,6 @@
       "url": "https://www.nextplatform.com/ai/2026/07/21/genai-hardware-investments-are-way-ahead-of-model-and-platform-revenues/5275842",
       "description": "",
       "published": "2026-07-21T20:32:13.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "US boosts AI-RAN with $53bn funding opportunity",
-      "url": "https://www.datacenterdynamics.com/en/news/us-boosts-ai-ran-with-53bn-funding-opportunity/",
-      "description": "NTIA tender looking to accelerate AI-native RAN architecture",
-      "published": "2026-07-21T18:00:33.000Z"
     },
     {
       "source": "Ars Technica Tech",
@@ -58,13 +107,6 @@
       "published": "2026-07-21T12:48:30.000Z"
     },
     {
-      "source": "Data Center Knowledge",
-      "title": "IREN’s $2.8B AI Deals Highlight New Funding Model",
-      "url": "https://www.datacenterknowledge.com/deals/iren-s-2-8b-ai-deals-highlight-new-funding-model",
-      "description": "The company raised AI cloud ARR target above $4 billion after signing $2.8 billion in new contracts, pointing to a financing model gaining traction across AI infrastructure.",
-      "published": "2026-07-21T12:32:40.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
       "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
@@ -77,20 +119,6 @@
       "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
       "description": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI ",
       "published": "2026-07-21T10:37:34.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Electromagnetic Interference: The Invisible Threat to Data Center Uptime",
-      "url": "https://www.datacenterknowledge.com/physical-security/electromagnetic-interference-the-invisible-threat-to-data-center-uptime",
-      "description": "Denser digital infrastructure and pervasive wireless have raised background radio-frequency levels. Here’s how EMI threatens data centers and what operators can do to contain it.",
-      "published": "2026-07-21T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "PJM Issued First Backup-Generator Warnings During Heat Wave",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/pjm-issued-first-backup-generator-warnings-during-heat-wave",
-      "description": "The new warnings process saw its first operational use as PJM neared record demand, but the grid operator says no large-load backup generators were called to run.",
-      "published": "2026-07-20T20:30:49.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -112,34 +140,6 @@
       "url": "https://www.nextplatform.com/compute/2026/07/20/google-uses-ai-reinforcement-learning-for-quantum-error-correction/5275023",
       "description": "",
       "published": "2026-07-20T14:52:40.000Z"
-    },
-    {
-      "source": "Import AI",
-      "title": "Import AI 465: Open vs closed gaps; Kimi K3; Demis’ big policy plan",
-      "url": "https://jack-clark.net/2026/07/20/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/",
-      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now UK government: Gap between open and closed weight models on cyber is shrinking:…The cyber-eschaton cometh…The UK gover",
-      "published": "2026-07-20T12:31:45.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: AI hiring biases, and weather data sabotage",
-      "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it. But th",
-      "published": "2026-07-20T12:10:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Finland’s Data Center Boom is Just Getting Started",
-      "url": "https://www.datacenterknowledge.com/data-center-site-selection/finland-s-data-center-boom-is-just-getting-started",
-      "description": "Finland is emerging as one of Europe’s fastest-growing data center markets, driven by AI demand, abundant renewable energy, and favorable policies.",
-      "published": "2026-07-20T08:45:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "AI is more likely than humans to form biases when hiring",
-      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-      "description": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own bi",
-      "published": "2026-07-20T08:39:01.000Z"
     }
   ]
 }
