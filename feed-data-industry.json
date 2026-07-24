@@ -1,19 +1,96 @@
 {
-  "generatedAt": "2026-07-23T03:35:57.923Z",
+  "generatedAt": "2026-07-24T03:32:42.261Z",
   "articles": [
     {
-      "source": "Data Center Dynamics",
-      "title": "Google increases 2026 capex to $195-205bn as it accelerates AI data center buildout",
-      "url": "https://www.datacenterdynamics.com/en/news/google-increases-2026-capex-195-205bn-as-it-accelerates-ai-data-center-buildout/",
-      "description": "Record Google Cloud revenue, but investors are uneasy about growing capex commitments",
-      "published": "2026-07-22T22:00:00.000Z"
+      "source": "Data Center Knowledge",
+      "title": "AMD Fires Back at Nvidia with Helios AI System, Epyc CPUs",
+      "url": "https://www.datacenterknowledge.com/data-center-chips/amd-fires-back-at-nvidia-with-helios-ai-system-epyc-cpus",
+      "description": "AMD’s latest hardware innovations aim to reshape the AI infrastructure market, challenging Nvidia’s dominance and driving the next wave of agentic AI adoption.",
+      "published": "2026-07-23T21:01:59.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "SpaceXAI considers large-scale data center in Texas - report",
-      "url": "https://www.datacenterdynamics.com/en/news/spacexai-considers-large-scale-data-center-in-texas-report/",
-      "description": "Despite orbital ambitions, has sights set on gigawatt campus",
-      "published": "2026-07-22T21:33:47.000Z"
+      "title": "Microsoft Azure outage at West US region causes intermittent connectivity failures",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-azure-outage-at-west-us-region-causes-intermittent-connectivity-failures/",
+      "description": "Systems expected to recover as issue is rolled back",
+      "published": "2026-07-23T19:04:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "AMD and Schneider Electric launch reference standards for Helios AI rack",
+      "url": "https://www.datacenterdynamics.com/en/news/amd-and-schneider-electric-launch-reference-standards-for-helios-ai-rack/",
+      "description": "Will help developers incorporate rack into AI data centers",
+      "published": "2026-07-23T19:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "AMD partners with big chip co. Cerebras for ultra-low-latency and high throughput AI inference system",
+      "url": "https://www.datacenterdynamics.com/en/news/amd-partners-with-big-chip-co-cerebras-for-ultra-low-latency-and-high-throughput-ai-inference-system/",
+      "description": "Helios and Cerebras go up against Nvidia's NVL72 and Groq LPX",
+      "published": "2026-07-23T17:32:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Meta to deploy custom AMD Instinct MI450-based GPU, is 'lead customer' for Venice Epyc CPU",
+      "url": "https://www.datacenterdynamics.com/en/news/meta-to-deploy-custom-amd-instinct-mi450-based-gpu-is-lead-customer-for-venice-epyc-cpu/",
+      "description": "As part of ongoing 6GW AMD rollout",
+      "published": "2026-07-23T17:22:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "OpenAI to deploy AMD Helios rackscale system as first part of up to 6GW partnership",
+      "url": "https://www.datacenterdynamics.com/en/news/openai-to-deploy-amd-helios-rackscale-system-as-first-part-of-up-to-6gw-partnership/",
+      "description": "Company has already tested the beefy AI rack",
+      "published": "2026-07-23T17:02:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
+      "url": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
+      "description": "When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too long and the organ will become unusable. In most cases, organs will be kept&#823",
+      "published": "2026-07-23T16:58:28.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Fault in Data Center Alley Triggered 3 GW Load Drop",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/fault-in-data-center-alley-triggered-3-gw-load-drop-on-pjm",
+      "description": "Dominion says data centers transferred to backup power after a transmission line fault, creating one of the largest sudden load changes publicly reported on the US grid.",
+      "published": "2026-07-23T15:00:10.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "DoE Fires The $5 Billion Starter Gun For Its AI-Targeted Genesis Mission",
+      "url": "https://www.nextplatform.com/hpc/2026/07/23/doe-fires-the-5-billion-starter-gun-for-its-ai-targeted-genesis-mission/5277061",
+      "description": "",
+      "published": "2026-07-23T13:33:17.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: energy transmission and US threats against Chinese AI",
+      "url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags  During a heat wave on July 3, New York State’s grid imported enough electricity fr",
+      "published": "2026-07-23T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "How AI helps scientists design the next generation of medicines",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "description": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered pro",
+      "published": "2026-07-23T12:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The power line that could reshape New York’s grid is hitting snags",
+      "url": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
+      "description": "On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day. Some of that power shuttled in on a 339-mile power line stretching from Quebec to Queens called the Champlain Huds",
+      "published": "2026-07-23T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "After the AI Rush, Can Data Centers Reclaim Sustainability?",
+      "url": "https://www.datacenterknowledge.com/sustainability/after-the-ai-rush-can-data-centers-reclaim-sustainability-",
+      "description": "Sustainability’s legacy was sidelined by AI growth and politics, but public scrutiny and hard economics are forcing a course correction.",
+      "published": "2026-07-23T09:00:00.000Z"
     },
     {
       "source": "The Next Platform",
@@ -37,53 +114,11 @@
       "published": "2026-07-22T18:11:17.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "MGX, AIP, and BlackRock’s GIP complete $40bn acquisition of Aligned Data Centers",
-      "url": "https://www.datacenterdynamics.com/en/news/mgx-aip-and-blackrocks-gip-complete-40bn-acquisition-of-aligned-data-centers/",
-      "description": "Acquisition is the largest-ever in data centers",
-      "published": "2026-07-22T17:31:19.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: Polish Data Center Association, DCD Academy and Warsaw University of Technology launch Data Center Training Scholarship",
-      "url": "https://www.datacenterdynamics.com/en/product-news/polish-data-center-association-dcd-academy-and-warsaw-university-of-technology-launch-data-center-training-scholarship/",
-      "description": "Supporting Poland’s digital ambitions",
-      "published": "2026-07-22T17:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Core42 to supply sovereign AI cloud to telecoms firm e& in UAE",
-      "url": "https://www.datacenterdynamics.com/en/news/core42-to-supply-sovereign-ai-cloud-to-telecoms-firm-e-in-uae/",
-      "description": "Both UAE-based firms said the deal would accelerate AI deployments in the Gulf state",
-      "published": "2026-07-22T16:30:32.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Lawsuit Tests Water Strategy Behind California’s Lithium Valley",
-      "url": "https://www.datacenterknowledge.com/regulations/lawsuit-tests-water-strategy-behind-california-s-lithium-valley",
-      "description": "The case serves as a critical early test for Imperial County’s Lithium Valley development strategy, which envisions shifting agricultural water to support decades of industrial growth, including lithium processing and data centers.",
-      "published": "2026-07-22T13:22:01.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
       "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
       "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as ear",
       "published": "2026-07-22T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
-      "url": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
-      "description": "When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a st",
-      "published": "2026-07-22T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "AI Data Center Boom Strains Global Construction Capacity",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/ai-data-center-boom-strains-global-construction-capacity",
-      "description": "Data center construction is now the most capacity-constrained sector globally, driven by the rapid growth of AI infrastructure and labor shortages.",
-      "published": "2026-07-22T09:00:00.000Z"
     },
     {
       "source": "The Next Platform",
@@ -98,48 +133,6 @@
       "url": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
       "description": "\n                        \"Current economic conditions\" have shifted TreeSize's business model. \n                    ",
       "published": "2026-07-21T15:18:23.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Spain’s $3.4B AI Campus Skips the Queue with On-Site Generation",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/spain-s-3-4b-ai-campus-bets-on-on-site-power",
-      "description": "The planned 300 MW AI campus in Spain would rank among Europe’s largest as developers pursue fast-track approval and an on-site power strategy.",
-      "published": "2026-07-21T12:48:30.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
-      "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald Trump on AI publicly ",
-      "published": "2026-07-21T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Advancing next-gen AI with materials science innovation",
-      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
-      "description": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI ",
-      "published": "2026-07-21T10:37:34.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "China’s AI models have Trump’s AI world at war with itself",
-      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sa",
-      "published": "2026-07-20T18:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Microsoft Taps AMD For At Scale AI CPU And GPU Clusters",
-      "url": "https://www.nextplatform.com/cloud/2026/07/20/microsoft-taps-amd-for-at-scale-ai-cpu-and-gpu-clusters/5275161",
-      "description": "",
-      "published": "2026-07-20T17:16:17.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Google Uses AI Reinforcement Learning For Quantum Error Correction",
-      "url": "https://www.nextplatform.com/compute/2026/07/20/google-uses-ai-reinforcement-learning-for-quantum-error-correction/5275023",
-      "description": "",
-      "published": "2026-07-20T14:52:40.000Z"
     }
   ]
 }
