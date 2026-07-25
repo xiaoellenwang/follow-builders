@@ -1,47 +1,82 @@
 {
-  "generatedAt": "2026-07-24T03:32:42.261Z",
+  "generatedAt": "2026-07-25T03:29:58.641Z",
   "articles": [
+    {
+      "source": "Data Center Knowledge",
+      "title": "AI Is Redefining Data Center Ownership: Multiple Assets, Multiple Timelines",
+      "url": "https://www.datacenterknowledge.com/investing/ai-is-redefining-data-center-ownership-multiple-assets-multiple-timelines",
+      "description": "As AI infrastructure grows more complex, companies are rethinking how they acquire, own, and finance assets that operate on dramatically different economic timelines.",
+      "published": "2026-07-24T19:53:48.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "The Money AMD Is Chasing With Its Rackscale AI System Roadmaps",
+      "url": "https://www.nextplatform.com/compute/2026/07/24/the-money-amd-is-chasing-with-its-rackscale-ai-system-roadmaps/5278510",
+      "description": "",
+      "published": "2026-07-24T18:22:11.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The quest to keep organs alive outside the body",
+      "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+      "description": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that ca",
+      "published": "2026-07-24T17:03:55.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: AI’s impact on data center infrastructure – is this the dawn of “the flux capacitor”?",
+      "url": "https://www.datacenterdynamics.com/en/opinions/ais-impact-on-data-center-infrastructure-is-this-the-dawn-of-the-flux-capacitor/",
+      "description": "Who knew Doc Brown and Marty McFly would be helping us build AI data centers?",
+      "published": "2026-07-24T15:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Empery Digital invests $20m in Cardinal Data Power",
+      "url": "https://www.datacenterdynamics.com/en/news/empery-digital-invests-20m-in-cardinal-data-power/",
+      "description": "Investment supports proposed West Texas campus with plans to scale beyond 5GW",
+      "published": "2026-07-24T14:40:30.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Parks S/A to invest R$500m in 5MW data center in Cachoeirinha, Brazil",
+      "url": "https://www.datacenterdynamics.com/en/news/parks-sa-to-invest-r500-million-in-a-new-tier-iii-data-center-in-cachoeirinha-rio-grande-do-sul/",
+      "description": "Project to total 5MW in the Porto Alegre Metropolitan Region",
+      "published": "2026-07-24T14:35:35.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Eurus Energy & Toyota break ground on wind-powered data center in Hokkaido, Japan",
+      "url": "https://www.datacenterdynamics.com/en/news/eurus-energy-toyota-break-ground-on-wind-powered-data-center-in-hokkaido-japan/",
+      "description": "Soya Green Data Center 1 is Japan’s first data center to be directly connected to wind power",
+      "published": "2026-07-24T14:19:07.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "AI chip startup Etched closes $300m funding round, doubles its valuation to $10.3bn",
+      "url": "https://www.datacenterdynamics.com/en/news/ai-chip-startup-etched-closes-300m-funding-round-doubles-its-valuation-to-103bn/",
+      "description": "Latest round saw participation from SK Hynix, Andreessen Horowitz, Jane Street, and Diffusion",
+      "published": "2026-07-24T14:01:32.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+      "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”&#160; When it comes to organ donation, time is everything. As soon as",
+      "published": "2026-07-24T12:10:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "DOE: AI Data Centers Are Transforming America’s Transmission Map",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/doe-says-ai-data-centers-are-rewriting-america-s-transmission-map",
+      "description": "A draft federal study concludes that AI data centers are now the dominant driver of electricity demand growth, compelling planners to reconsider where and how the grid expands.",
+      "published": "2026-07-24T09:00:00.000Z"
+    },
     {
       "source": "Data Center Knowledge",
       "title": "AMD Fires Back at Nvidia with Helios AI System, Epyc CPUs",
       "url": "https://www.datacenterknowledge.com/data-center-chips/amd-fires-back-at-nvidia-with-helios-ai-system-epyc-cpus",
       "description": "AMD’s latest hardware innovations aim to reshape the AI infrastructure market, challenging Nvidia’s dominance and driving the next wave of agentic AI adoption.",
       "published": "2026-07-23T21:01:59.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Microsoft Azure outage at West US region causes intermittent connectivity failures",
-      "url": "https://www.datacenterdynamics.com/en/news/microsoft-azure-outage-at-west-us-region-causes-intermittent-connectivity-failures/",
-      "description": "Systems expected to recover as issue is rolled back",
-      "published": "2026-07-23T19:04:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "AMD and Schneider Electric launch reference standards for Helios AI rack",
-      "url": "https://www.datacenterdynamics.com/en/news/amd-and-schneider-electric-launch-reference-standards-for-helios-ai-rack/",
-      "description": "Will help developers incorporate rack into AI data centers",
-      "published": "2026-07-23T19:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "AMD partners with big chip co. Cerebras for ultra-low-latency and high throughput AI inference system",
-      "url": "https://www.datacenterdynamics.com/en/news/amd-partners-with-big-chip-co-cerebras-for-ultra-low-latency-and-high-throughput-ai-inference-system/",
-      "description": "Helios and Cerebras go up against Nvidia's NVL72 and Groq LPX",
-      "published": "2026-07-23T17:32:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Meta to deploy custom AMD Instinct MI450-based GPU, is 'lead customer' for Venice Epyc CPU",
-      "url": "https://www.datacenterdynamics.com/en/news/meta-to-deploy-custom-amd-instinct-mi450-based-gpu-is-lead-customer-for-venice-epyc-cpu/",
-      "description": "As part of ongoing 6GW AMD rollout",
-      "published": "2026-07-23T17:22:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "OpenAI to deploy AMD Helios rackscale system as first part of up to 6GW partnership",
-      "url": "https://www.datacenterdynamics.com/en/news/openai-to-deploy-amd-helios-rackscale-system-as-first-part-of-up-to-6gw-partnership/",
-      "description": "Company has already tested the beefy AI rack",
-      "published": "2026-07-23T17:02:00.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -53,7 +88,7 @@
     {
       "source": "Data Center Knowledge",
       "title": "Fault in Data Center Alley Triggered 3 GW Load Drop",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/fault-in-data-center-alley-triggered-3-gw-load-drop-on-pjm",
+      "url": "https://www.datacenterknowledge.com/outages/fault-in-data-center-alley-triggered-3-gw-load-drop-on-pjm",
       "description": "Dominion says data centers transferred to backup power after a transmission line fault, creating one of the largest sudden load changes publicly reported on the US grid.",
       "published": "2026-07-23T15:00:10.000Z"
     },
@@ -79,13 +114,6 @@
       "published": "2026-07-23T12:00:00.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "The power line that could reshape New York’s grid is hitting snags",
-      "url": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
-      "description": "On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day. Some of that power shuttled in on a 339-mile power line stretching from Quebec to Queens called the Champlain Huds",
-      "published": "2026-07-23T09:00:00.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "After the AI Rush, Can Data Centers Reclaim Sustainability?",
       "url": "https://www.datacenterknowledge.com/sustainability/after-the-ai-rush-can-data-centers-reclaim-sustainability-",
@@ -98,41 +126,6 @@
       "url": "https://www.nextplatform.com/connect/2026/07/22/salience-labs-wants-to-scale-up-ai-with-silicon-photonics-optical-switch/5276643",
       "description": "",
       "published": "2026-07-22T20:28:10.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Europe’s Chips Act: A Brief Supply Chain Opinion",
-      "url": "https://www.datacenterknowledge.com/data-center-chips/europe-s-chips-act-a-brief-supply-chain-opinion",
-      "description": "The European Chips Act is a bold step toward semiconductor sovereignty, but its success hinges on fostering local demand and innovation to sustain supply chains.",
-      "published": "2026-07-22T18:30:38.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "White House Warns PJM to Reform Grid Governance ‘Before It Is Too Late’",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/after-blockbuster-breakup-report-white-house-warns-pjm-to-reform",
-      "description": "Amid mounting pressure over rising AI power demand, the White House warns PJM Interconnection to overhaul its industry-controlled board or face potential regulatory fallout.",
-      "published": "2026-07-22T18:11:17.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
-      "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as ear",
-      "published": "2026-07-22T12:10:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "GenAI Hardware Investments Are Way Ahead Of Model And Platform Revenues",
-      "url": "https://www.nextplatform.com/ai/2026/07/21/genai-hardware-investments-are-way-ahead-of-model-and-platform-revenues/5275842",
-      "description": "",
-      "published": "2026-07-21T20:32:13.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "TreeSize won't renew perpetual-license support unless users subscribe",
-      "url": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
-      "description": "\n                        \"Current economic conditions\" have shifted TreeSize's business model. \n                    ",
-      "published": "2026-07-21T15:18:23.000Z"
     }
   ]
 }

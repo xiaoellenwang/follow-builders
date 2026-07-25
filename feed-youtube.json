@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-07-24T03:32:42.261Z",
+  "generatedAt": "2026-07-25T03:29:58.641Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Why Boris Cherny came back to Anthropic from Cursor",
+      "url": "https://www.youtube.com/watch?v=Ld57aoBSwq0",
+      "published": "2026-07-24T11:27:29.000Z",
+      "description": ""
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Netflix's CPTO on whether teams need specialists",
+      "url": "https://www.youtube.com/watch?v=vyKPMWhcEBk",
+      "published": "2026-07-24T11:00:07.000Z",
+      "description": "#product #ai #netflix"
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "The skill Netflix is hiring for",
