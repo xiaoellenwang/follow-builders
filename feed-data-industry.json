@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-07-25T03:29:58.641Z",
+  "generatedAt": "2026-07-26T03:44:18.611Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: The key to the data center power problem",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-key-to-the-data-center-power-problem/",
+      "description": "A power-first mindset amid AI at scale and aging infrastructure",
+      "published": "2026-07-25T15:00:00.000Z"
+    },
     {
       "source": "Data Center Knowledge",
       "title": "AI Is Redefining Data Center Ownership: Multiple Assets, Multiple Timelines",
       "url": "https://www.datacenterknowledge.com/investing/ai-is-redefining-data-center-ownership-multiple-assets-multiple-timelines",
       "description": "As AI infrastructure grows more complex, companies are rethinking how they acquire, own, and finance assets that operate on dramatically different economic timelines.",
       "published": "2026-07-24T19:53:48.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "The Money AMD Is Chasing With Its Rackscale AI System Roadmaps",
-      "url": "https://www.nextplatform.com/compute/2026/07/24/the-money-amd-is-chasing-with-its-rackscale-ai-system-roadmaps/5278510",
-      "description": "",
-      "published": "2026-07-24T18:22:11.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -51,13 +51,6 @@
       "published": "2026-07-24T14:19:07.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "AI chip startup Etched closes $300m funding round, doubles its valuation to $10.3bn",
-      "url": "https://www.datacenterdynamics.com/en/news/ai-chip-startup-etched-closes-300m-funding-round-doubles-its-valuation-to-103bn/",
-      "description": "Latest round saw participation from SK Hynix, Andreessen Horowitz, Jane Street, and Diffusion",
-      "published": "2026-07-24T14:01:32.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
       "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
@@ -93,13 +86,6 @@
       "published": "2026-07-23T15:00:10.000Z"
     },
     {
-      "source": "The Next Platform",
-      "title": "DoE Fires The $5 Billion Starter Gun For Its AI-Targeted Genesis Mission",
-      "url": "https://www.nextplatform.com/hpc/2026/07/23/doe-fires-the-5-billion-starter-gun-for-its-ai-targeted-genesis-mission/5277061",
-      "description": "",
-      "published": "2026-07-23T13:33:17.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: energy transmission and US threats against Chinese AI",
       "url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
@@ -119,13 +105,6 @@
       "url": "https://www.datacenterknowledge.com/sustainability/after-the-ai-rush-can-data-centers-reclaim-sustainability-",
       "description": "Sustainability’s legacy was sidelined by AI growth and politics, but public scrutiny and hard economics are forcing a course correction.",
       "published": "2026-07-23T09:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Salience Labs Wants To Scale Up AI With Silicon Photonics Optical Switch",
-      "url": "https://www.nextplatform.com/connect/2026/07/22/salience-labs-wants-to-scale-up-ai-with-silicon-photonics-optical-switch/5276643",
-      "description": "",
-      "published": "2026-07-22T20:28:10.000Z"
     }
   ]
 }
