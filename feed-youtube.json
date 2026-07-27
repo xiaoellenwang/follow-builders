@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-07-26T03:44:18.611Z",
+  "generatedAt": "2026-07-27T03:53:41.836Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "How Anthropic builds products like Claude Code before the AI models are ready | Dianne Penn",
+      "url": "https://www.youtube.com/watch?v=tivaWTTVRhY",
+      "published": "2026-07-26T12:30:06.000Z",
+      "description": "Dianne Penn is Head of Product for Anthropic’s AI Research and Labs teams. She joined in 2023 as Anthropic’s first technical product manager, when the entire product team was five engineers, and has since helped ship every model from Claude 2 through Fable, and helped incubate Claude Code, MCP, Skil"
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "Why Boris Cherny came back to Anthropic from Cursor",
@@ -28,20 +35,6 @@
       "url": "https://www.youtube.com/watch?v=0v_RqRo6waQ",
       "published": "2026-07-20T13:00:32.000Z",
       "description": "AI is Changing How Netflix Operates"
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "The Answer to \"What's My Job in the Age of AI?”",
-      "url": "https://www.youtube.com/watch?v=NiDZmfkQbcU",
-      "published": "2026-07-19T16:00:16.000Z",
-      "description": "The Answer to \"What's My Job in the Age of AI?”"
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO)",
-      "url": "https://www.youtube.com/watch?v=t0GiTyz4syY",
-      "published": "2026-07-19T12:30:35.000Z",
-      "description": "Elizabeth Stone is the Chief Product and Technology Officer (CPTO) at Netflix, where she oversees Engineering, Product, and Design. Since her first appearance on the podcast two years ago—which remained my second-most-popular episode for more than a year—she has expanded her role to lead product, in"
     }
   ]
 }

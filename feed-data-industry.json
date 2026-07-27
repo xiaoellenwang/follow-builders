@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-07-26T03:44:18.611Z",
+  "generatedAt": "2026-07-27T03:53:41.836Z",
   "articles": [
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "Data Engineering Weekly #280",
+      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-280",
+      "description": "The Weekly Data Engineering Newsletter",
+      "published": "2026-07-27T03:37:19.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Rethinking redundancy: smarter strategies for the AI-driven data center",
+      "url": "https://www.datacenterdynamics.com/en/opinions/rethinking-redundancy-smarter-strategies-for-the-ai-driven-data-center/",
+      "description": "Thinking harder about cooling, power, and server-level redundancy",
+      "published": "2026-07-26T13:00:28.000Z"
+    },
     {
       "source": "Data Center Dynamics",
       "title": "Sponsored: The key to the data center power problem",
@@ -14,6 +28,13 @@
       "url": "https://www.datacenterknowledge.com/investing/ai-is-redefining-data-center-ownership-multiple-assets-multiple-timelines",
       "description": "As AI infrastructure grows more complex, companies are rethinking how they acquire, own, and finance assets that operate on dramatically different economic timelines.",
       "published": "2026-07-24T19:53:48.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "The Money AMD Is Chasing With Its Rackscale AI System Roadmaps",
+      "url": "https://www.nextplatform.com/compute/2026/07/24/the-money-amd-is-chasing-with-its-rackscale-ai-system-roadmaps/5278510",
+      "description": "",
+      "published": "2026-07-24T18:22:11.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -44,13 +65,6 @@
       "published": "2026-07-24T14:35:35.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Eurus Energy & Toyota break ground on wind-powered data center in Hokkaido, Japan",
-      "url": "https://www.datacenterdynamics.com/en/news/eurus-energy-toyota-break-ground-on-wind-powered-data-center-in-hokkaido-japan/",
-      "description": "Soya Green Data Center 1 is Japan’s first data center to be directly connected to wind power",
-      "published": "2026-07-24T14:19:07.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
       "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
@@ -63,48 +77,6 @@
       "url": "https://www.datacenterknowledge.com/energy-power-supply/doe-says-ai-data-centers-are-rewriting-america-s-transmission-map",
       "description": "A draft federal study concludes that AI data centers are now the dominant driver of electricity demand growth, compelling planners to reconsider where and how the grid expands.",
       "published": "2026-07-24T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "AMD Fires Back at Nvidia with Helios AI System, Epyc CPUs",
-      "url": "https://www.datacenterknowledge.com/data-center-chips/amd-fires-back-at-nvidia-with-helios-ai-system-epyc-cpus",
-      "description": "AMD’s latest hardware innovations aim to reshape the AI infrastructure market, challenging Nvidia’s dominance and driving the next wave of agentic AI adoption.",
-      "published": "2026-07-23T21:01:59.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
-      "url": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
-      "description": "When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too long and the organ will become unusable. In most cases, organs will be kept&#823",
-      "published": "2026-07-23T16:58:28.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Fault in Data Center Alley Triggered 3 GW Load Drop",
-      "url": "https://www.datacenterknowledge.com/outages/fault-in-data-center-alley-triggered-3-gw-load-drop-on-pjm",
-      "description": "Dominion says data centers transferred to backup power after a transmission line fault, creating one of the largest sudden load changes publicly reported on the US grid.",
-      "published": "2026-07-23T15:00:10.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: energy transmission and US threats against Chinese AI",
-      "url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags  During a heat wave on July 3, New York State’s grid imported enough electricity fr",
-      "published": "2026-07-23T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "How AI helps scientists design the next generation of medicines",
-      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "description": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered pro",
-      "published": "2026-07-23T12:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "After the AI Rush, Can Data Centers Reclaim Sustainability?",
-      "url": "https://www.datacenterknowledge.com/sustainability/after-the-ai-rush-can-data-centers-reclaim-sustainability-",
-      "description": "Sustainability’s legacy was sidelined by AI growth and politics, but public scrutiny and hard economics are forcing a course correction.",
-      "published": "2026-07-23T09:00:00.000Z"
     }
   ]
 }
