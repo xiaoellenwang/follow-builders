@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-27T03:53:41.836Z",
+  "generatedAt": "2026-07-28T03:24:42.392Z",
   "videos": [
     {
       "channel": "Lenny's Podcast",
-      "title": "How Anthropic builds products like Claude Code before the AI models are ready | Dianne Penn",
+      "title": "Why the best product leaders are building for 2028 | Dianne Penn (Anthropic)",
       "url": "https://www.youtube.com/watch?v=tivaWTTVRhY",
       "published": "2026-07-26T12:30:06.000Z",
       "description": "Dianne Penn is Head of Product for Anthropic’s AI Research and Labs teams. She joined in 2023 as Anthropic’s first technical product manager, when the entire product team was five engineers, and has since helped ship every model from Claude 2 through Fable, and helped incubate Claude Code, MCP, Skil"
@@ -28,13 +28,6 @@
       "url": "https://www.youtube.com/watch?v=ol7ZuT3Hm3c",
       "published": "2026-07-21T11:00:22.000Z",
       "description": "#netflix #ai #hiring"
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "AI is Changing How Netflix Operates",
-      "url": "https://www.youtube.com/watch?v=0v_RqRo6waQ",
-      "published": "2026-07-20T13:00:32.000Z",
-      "description": "AI is Changing How Netflix Operates"
     }
   ]
 }

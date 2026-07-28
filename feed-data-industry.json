@@ -1,82 +1,117 @@
 {
-  "generatedAt": "2026-07-27T03:53:41.836Z",
+  "generatedAt": "2026-07-28T03:24:42.392Z",
   "articles": [
+    {
+      "source": "Ars Technica Tech",
+      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "description": "\n                        Microsoft says tools cost less than competing ones and outperform them, too.\n                    ",
+      "published": "2026-07-27T21:56:14.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "As AI Expands to Orbit, Can Ground-to-Space Links Keep Pace?",
+      "url": "https://www.datacenterknowledge.com/next-gen-data-centers/as-ai-expands-to-orbit-can-ground-to-space-links-keep-pace-",
+      "description": "With AI workloads spreading across terrestrial and orbital compute, the atmosphere is emerging as the key bottleneck for moving data between ground and space.",
+      "published": "2026-07-27T19:26:25.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. ",
+      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company",
+      "published": "2026-07-27T18:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Nebius details plans for 1.2GW data center campus in Pennsylvania",
+      "url": "https://www.datacenterdynamics.com/en/news/nebius-details-plans-for-12gw-data-center-campus-in-pennsylvania/",
+      "description": "AI cloud firm aims to build in Schuylkill County’s Highridge Business Park",
+      "published": "2026-07-27T16:20:56.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Compass Datacenters raises $413 million in ABS bonds",
+      "url": "https://www.datacenterdynamics.com/en/news/compass-datacenters-raises-413-million-in-abs-bonds/",
+      "description": "Part of transaction rated A by S&amp;P Ratings",
+      "published": "2026-07-27T16:00:31.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Boldyn Networks to deploy neutral host 5G DAS for Chicago Fire's new stadium, McDonald's Park",
+      "url": "https://www.datacenterdynamics.com/en/news/boldyn-networks-to-deploy-neutral-host-5g-das-for-chicago-fires-new-stadium-mcdonalds-park/",
+      "description": "As Boldyn secures another MLS stadium connectivity contract",
+      "published": "2026-07-27T15:55:44.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "CoreWeave to lease capacity from EdgeConneX at data center campus in Cedar Creek, Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/coreweave-to-lease-capacity-from-edgeconnex-at-data-center-campus-in-cedar-creek-texas/",
+      "description": "Bastrop County campus will feature four data centers",
+      "published": "2026-07-27T15:48:32.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Nvidia considers $250bn backstop for OpenAI's planned 10GW Ohio data center - report",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-considers-250bn-backstop-for-openais-planned-10gw-ohio-data-center-report/",
+      "description": "SoftBank facility is planned on Department of Energy land",
+      "published": "2026-07-27T15:38:11.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Texas Pushes AI Data Centers to Pay Their Own Grid Costs",
+      "url": "https://www.datacenterknowledge.com/regulations/texas-pushes-ai-data-centers-to-pay-their-own-grid-costs",
+      "description": "PUCT outlines new interconnection rules, cost reforms and planning changes following Gov. Abbott’s order to protect ratepayers and the ERCOT grid.",
+      "published": "2026-07-27T14:30:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "How lasers could help provide fuel for nuclear reactors",
+      "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
+      "description": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old ma",
+      "published": "2026-07-27T14:24:42.000Z"
+    },
+    {
+      "source": "Import AI",
+      "title": "Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI’s accidental AI hacker",
+      "url": "https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/",
+      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Epoch and METR release MirrorCode, a benchmark for seeing how well AI systems can do long-horizon programming tasks:…A",
+      "published": "2026-07-27T13:30:53.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
+      "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How lasers could help provide fuel for nuclear reactors&#160; Nuclear power provides about 9% of global electricity today, and that fraction could tic",
+      "published": "2026-07-27T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The path to artificial superintelligence",
+      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+      "description": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not",
+      "published": "2026-07-27T12:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Closing the data loop in AI-driven drug discovery",
+      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+      "description": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug",
+      "published": "2026-07-27T11:40:16.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Intel Layoffs Show Data Center Workers Aren’t Immune to Corporate Job Cuts",
+      "url": "https://www.datacenterknowledge.com/management/intel-layoffs-show-data-center-workers-aren-t-immune-to-corporate-job-cuts",
+      "description": "Despite booming demand for AI infrastructure, Intel’s latest round of layoffs highlight that no sector is safe from the wave of tech job cuts.",
+      "published": "2026-07-27T08:45:00.000Z"
+    },
     {
       "source": "DataEngineeringWeekly",
       "title": "Data Engineering Weekly #280",
       "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-280",
       "description": "The Weekly Data Engineering Newsletter",
       "published": "2026-07-27T03:37:19.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Rethinking redundancy: smarter strategies for the AI-driven data center",
-      "url": "https://www.datacenterdynamics.com/en/opinions/rethinking-redundancy-smarter-strategies-for-the-ai-driven-data-center/",
-      "description": "Thinking harder about cooling, power, and server-level redundancy",
-      "published": "2026-07-26T13:00:28.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: The key to the data center power problem",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-key-to-the-data-center-power-problem/",
-      "description": "A power-first mindset amid AI at scale and aging infrastructure",
-      "published": "2026-07-25T15:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "AI Is Redefining Data Center Ownership: Multiple Assets, Multiple Timelines",
-      "url": "https://www.datacenterknowledge.com/investing/ai-is-redefining-data-center-ownership-multiple-assets-multiple-timelines",
-      "description": "As AI infrastructure grows more complex, companies are rethinking how they acquire, own, and finance assets that operate on dramatically different economic timelines.",
-      "published": "2026-07-24T19:53:48.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "The Money AMD Is Chasing With Its Rackscale AI System Roadmaps",
-      "url": "https://www.nextplatform.com/compute/2026/07/24/the-money-amd-is-chasing-with-its-rackscale-ai-system-roadmaps/5278510",
-      "description": "",
-      "published": "2026-07-24T18:22:11.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The quest to keep organs alive outside the body",
-      "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
-      "description": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that ca",
-      "published": "2026-07-24T17:03:55.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: AI’s impact on data center infrastructure – is this the dawn of “the flux capacitor”?",
-      "url": "https://www.datacenterdynamics.com/en/opinions/ais-impact-on-data-center-infrastructure-is-this-the-dawn-of-the-flux-capacitor/",
-      "description": "Who knew Doc Brown and Marty McFly would be helping us build AI data centers?",
-      "published": "2026-07-24T15:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Empery Digital invests $20m in Cardinal Data Power",
-      "url": "https://www.datacenterdynamics.com/en/news/empery-digital-invests-20m-in-cardinal-data-power/",
-      "description": "Investment supports proposed West Texas campus with plans to scale beyond 5GW",
-      "published": "2026-07-24T14:40:30.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Parks S/A to invest R$500m in 5MW data center in Cachoeirinha, Brazil",
-      "url": "https://www.datacenterdynamics.com/en/news/parks-sa-to-invest-r500-million-in-a-new-tier-iii-data-center-in-cachoeirinha-rio-grande-do-sul/",
-      "description": "Project to total 5MW in the Porto Alegre Metropolitan Region",
-      "published": "2026-07-24T14:35:35.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
-      "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”&#160; When it comes to organ donation, time is everything. As soon as",
-      "published": "2026-07-24T12:10:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "DOE: AI Data Centers Are Transforming America’s Transmission Map",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/doe-says-ai-data-centers-are-rewriting-america-s-transmission-map",
-      "description": "A draft federal study concludes that AI data centers are now the dominant driver of electricity demand growth, compelling planners to reconsider where and how the grid expands.",
-      "published": "2026-07-24T09:00:00.000Z"
     }
   ]
 }
