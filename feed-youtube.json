@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-07-28T03:24:42.392Z",
+  "generatedAt": "2026-07-29T03:26:33.381Z",
   "videos": [
     {
       "channel": "Lenny's Podcast",
-      "title": "Why the best product leaders are building for 2028 | Dianne Penn (Anthropic)",
+      "title": "You need frontier products to feel the magic of frontier models",
+      "url": "https://www.youtube.com/watch?v=e_Su-bDcYSA",
+      "published": "2026-07-28T13:00:26.000Z",
+      "description": ""
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Why the people building AI can’t tell you what’s next | Dianne Penn (Anthropic)",
       "url": "https://www.youtube.com/watch?v=tivaWTTVRhY",
       "published": "2026-07-26T12:30:06.000Z",
       "description": "Dianne Penn is Head of Product for Anthropic’s AI Research and Labs teams. She joined in 2023 as Anthropic’s first technical product manager, when the entire product team was five engineers, and has since helped ship every model from Claude 2 through Fable, and helped incubate Claude Code, MCP, Skil"
@@ -21,13 +28,6 @@
       "url": "https://www.youtube.com/watch?v=vyKPMWhcEBk",
       "published": "2026-07-24T11:00:07.000Z",
       "description": "#product #ai #netflix"
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "The skill Netflix is hiring for",
-      "url": "https://www.youtube.com/watch?v=ol7ZuT3Hm3c",
-      "published": "2026-07-21T11:00:22.000Z",
-      "description": "#netflix #ai #hiring"
     }
   ]
 }

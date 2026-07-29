@@ -1,6 +1,90 @@
 {
-  "generatedAt": "2026-07-28T03:24:42.392Z",
+  "generatedAt": "2026-07-29T03:26:33.381Z",
   "articles": [
+    {
+      "source": "Ars Technica Tech",
+      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+      "description": "\n                        10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.\n                    ",
+      "published": "2026-07-28T21:36:39.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Core Scientific Doubles AI Capacity to 1.1 GW in $14B AMD Deal",
+      "url": "https://www.datacenterknowledge.com/deals/core-scientific-doubles-ai-capacity-to-1-1-gw-in-14b-amd-deal",
+      "description": "A 15-year agreement adds 530 MW across five campuses, doubling the company’s AI footprint and securing long-term revenue.",
+      "published": "2026-07-28T18:31:32.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Galaxy’s 500-Acre Texas AI Campus Reflects New Grid Model",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/galaxy-s-500-acre-texas-ai-campus-reflects-new-grid-model",
+      "description": "The McGregor project pairs a 74 MW first phase with a privately funded substation and utility financial assurances, reflecting changing expectations for large AI power users.",
+      "published": "2026-07-28T16:31:23.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "European modular data center company Cyanis AI raises €250,000 in pre-seed financing",
+      "url": "https://www.datacenterdynamics.com/en/news/european-modular-data-center-company-cyanis-ai-raises-250000-in-pre-seed-financing/",
+      "description": "Planning initial deployment of 10MW",
+      "published": "2026-07-28T16:29:53.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Flexential acquires 110 acres outside Dallas, Texas, for 108MW data center campus",
+      "url": "https://www.datacenterdynamics.com/en/news/flexential-acquires-110-acres-outside-dallas-texas-for-108mw-data-center-campus/",
+      "description": "Company buys land in Talty, targets three-building campus",
+      "published": "2026-07-28T16:26:03.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Nvidia to invest $5bn in Safe Superintelligence, Sutskever firm to substantially increase GPU compute",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-to-invest-5bn-in-safe-superintelligence-sutskever-firm-to-substantially-increase-gpu-compute/",
+      "description": "Ilya's AI lab had been using Google TPUs",
+      "published": "2026-07-28T16:03:19.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Life and death on a tower",
+      "url": "https://www.datacenterdynamics.com/en/analysis/life-and-death-on-a-tower/",
+      "description": "Telecom tower climbers across the US are risking their lives to make always-on connectivity a reality",
+      "published": "2026-07-28T16:00:31.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "TSMC resumes production at Japanese fab following 7.1 magnitude earthquake",
+      "url": "https://www.datacenterdynamics.com/en/news/tsmc-resumes-production-at-japanese-fab-following-71-magnitude-earthquake/",
+      "description": "Chipmaker says all employees on site were evacuated and have been accounted for",
+      "published": "2026-07-28T15:52:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+      "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&#160; —Will Douglas Heaven, senior AI editor Reading OpenAI’s account",
+      "published": "2026-07-28T12:10:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "OpenAI’s Project Camellia Was on Georgia Power’s Radar Months Before Its Debut",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/openai-s-project-camellia-was-on-georgia-power-s-radar-months-before-its-debut",
+      "description": "PSC filings show Georgia Power planning for a 3,200 MW commitment months before OpenAI unveiled its 3.2 GW AI campus.",
+      "published": "2026-07-28T11:16:13.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix ",
+      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "description": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips w",
+      "published": "2026-07-28T09:18:57.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "What Is Phased Energization, and When Should Data Centers Adopt It?",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/what-is-phased-energization-and-when-should-data-centers-adopt-it-",
+      "description": "Phased energization helps data centers navigate power constraints by energizing facilities in stages, but it’s not without limitations.",
+      "published": "2026-07-28T09:05:00.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "Microsoft unveils AI security tools it says outperform competing platforms",
@@ -23,48 +107,6 @@
       "published": "2026-07-27T18:00:00.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Nebius details plans for 1.2GW data center campus in Pennsylvania",
-      "url": "https://www.datacenterdynamics.com/en/news/nebius-details-plans-for-12gw-data-center-campus-in-pennsylvania/",
-      "description": "AI cloud firm aims to build in Schuylkill County’s Highridge Business Park",
-      "published": "2026-07-27T16:20:56.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Compass Datacenters raises $413 million in ABS bonds",
-      "url": "https://www.datacenterdynamics.com/en/news/compass-datacenters-raises-413-million-in-abs-bonds/",
-      "description": "Part of transaction rated A by S&amp;P Ratings",
-      "published": "2026-07-27T16:00:31.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Boldyn Networks to deploy neutral host 5G DAS for Chicago Fire's new stadium, McDonald's Park",
-      "url": "https://www.datacenterdynamics.com/en/news/boldyn-networks-to-deploy-neutral-host-5g-das-for-chicago-fires-new-stadium-mcdonalds-park/",
-      "description": "As Boldyn secures another MLS stadium connectivity contract",
-      "published": "2026-07-27T15:55:44.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "CoreWeave to lease capacity from EdgeConneX at data center campus in Cedar Creek, Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/coreweave-to-lease-capacity-from-edgeconnex-at-data-center-campus-in-cedar-creek-texas/",
-      "description": "Bastrop County campus will feature four data centers",
-      "published": "2026-07-27T15:48:32.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Nvidia considers $250bn backstop for OpenAI's planned 10GW Ohio data center - report",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-considers-250bn-backstop-for-openais-planned-10gw-ohio-data-center-report/",
-      "description": "SoftBank facility is planned on Department of Energy land",
-      "published": "2026-07-27T15:38:11.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Texas Pushes AI Data Centers to Pay Their Own Grid Costs",
-      "url": "https://www.datacenterknowledge.com/regulations/texas-pushes-ai-data-centers-to-pay-their-own-grid-costs",
-      "description": "PUCT outlines new interconnection rules, cost reforms and planning changes following Gov. Abbott’s order to protect ratepayers and the ERCOT grid.",
-      "published": "2026-07-27T14:30:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "How lasers could help provide fuel for nuclear reactors",
       "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
@@ -84,27 +126,6 @@
       "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
       "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How lasers could help provide fuel for nuclear reactors&#160; Nuclear power provides about 9% of global electricity today, and that fraction could tic",
       "published": "2026-07-27T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The path to artificial superintelligence",
-      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-      "description": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not",
-      "published": "2026-07-27T12:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Closing the data loop in AI-driven drug discovery",
-      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-      "description": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug",
-      "published": "2026-07-27T11:40:16.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Intel Layoffs Show Data Center Workers Aren’t Immune to Corporate Job Cuts",
-      "url": "https://www.datacenterknowledge.com/management/intel-layoffs-show-data-center-workers-aren-t-immune-to-corporate-job-cuts",
-      "description": "Despite booming demand for AI infrastructure, Intel’s latest round of layoffs highlight that no sector is safe from the wave of tech job cuts.",
-      "published": "2026-07-27T08:45:00.000Z"
     },
     {
       "source": "DataEngineeringWeekly",
