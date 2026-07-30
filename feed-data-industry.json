@@ -1,6 +1,104 @@
 {
-  "generatedAt": "2026-07-29T03:26:33.381Z",
+  "generatedAt": "2026-07-30T03:14:22.470Z",
   "articles": [
+    {
+      "source": "Ars Technica Tech",
+      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+      "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+      "description": "\n                        HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.\n                    ",
+      "published": "2026-07-29T22:07:06.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "With The Carina System, QuiX Pushes Photonic Quantum Computing Forward",
+      "url": "https://www.nextplatform.com/compute/2026/07/29/with-the-carina-system-quix-pushes-photonic-quantum-computing-forward/5280744",
+      "description": "",
+      "published": "2026-07-29T20:18:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "ViaSat-3 F3 successfully deploys reflector and boom over Asia-Pacific, completing GEO trio",
+      "url": "https://www.datacenterdynamics.com/en/news/viasat-3-f3-successfully-deploys-reflector-and-boom-over-asia-pacific-completing-geo-trio/",
+      "description": "The storied ViaSat-3 constellation is finally complete, perhaps one of the last big GEO megaprojects of its kind",
+      "published": "2026-07-29T18:00:29.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "How an overlooked geothermal plant got a second chance",
+      "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
+      "description": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again",
+      "published": "2026-07-29T17:58:44.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sixth Street, GIC, SK Telecom, La Caisse compete to buy stake in Bridge DC - report",
+      "url": "https://www.datacenterdynamics.com/en/news/sixth-street-gic-sk-telecom-la-caisse-compete-to-buy-stake-in-bridge-dc-report/",
+      "description": "APAC operator attracting attention as Bain looks to sell stake",
+      "published": "2026-07-29T16:00:25.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Axe Compute secures $1.5bn compute contract with unnamed customer",
+      "url": "https://www.datacenterdynamics.com/en/news/axe-compute-secures-15bn-compute-contract-with-unnamed-customer/",
+      "description": "Agreement will run for five years",
+      "published": "2026-07-29T15:30:31.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Rowan files for second building at data center campus in Temple, Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/rowan-files-for-second-building-at-data-center-campus-in-temple-texas/",
+      "description": "500,000 sq ft building due live next year",
+      "published": "2026-07-29T15:00:31.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "NTT Data signs 24MW wind PPA with Engie in UK, as part of broader partnership",
+      "url": "https://www.datacenterdynamics.com/en/news/ntt-data-signs-24mw-wind-ppa-with-engie-in-uk-as-part-of-broader-partnership/",
+      "description": "Also has working agreements in the Netherlands and Germany",
+      "published": "2026-07-29T15:00:30.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Brookfield, NextEra Launch $100B AI Campus at DOE’s Paducah Site",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/brookfield-nextera-launch-100b-ai-campus-at-doe-s-paducah-site",
+      "description": "The former uranium enrichment complex would host more than 1.2 GW of AI compute backed by dedicated natural gas and battery storage.",
+      "published": "2026-07-29T14:11:45.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Amazon Pushes Virginia to Let AI Data Centers Fund Their Own Grid Upgrades",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/amazon-pushes-virginia-to-let-ai-data-centers-fund-their-own-grid-upgrades",
+      "description": "Amazon urged Virginia regulators to allow hyperscalers to fund transmission via CIAC, igniting debate over who pays for AI-driven grid growth in PJM.",
+      "published": "2026-07-29T13:42:07.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: a chip talent battle, and deflating AI hype",
+      "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix   Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s ",
+      "published": "2026-07-29T12:10:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Nebraska Reins in Data Center Perks Amid Resource Scrutiny",
+      "url": "https://www.datacenterknowledge.com/regulations/nebraska-reins-in-data-center-perks-amid-resource-scrutiny",
+      "description": "The incentives era is giving way to infrastructure realities. Nebraska’s action highlights how power access and resource impacts now drive where, and whether, large campuses are built.",
+      "published": "2026-07-29T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The AI Hype Index: Unsexy AI",
+      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "description": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,",
+      "published": "2026-07-29T08:42:57.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "The Rackscale AI System Roadmaps That AMD Is Using To Chase Money",
+      "url": "https://www.nextplatform.com/compute/2026/07/29/the-rackscale-ai-system-roadmaps-that-amd-is-using-to-chase-money/5280098",
+      "description": "",
+      "published": "2026-07-29T01:01:41.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
@@ -23,53 +121,11 @@
       "published": "2026-07-28T16:31:23.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "European modular data center company Cyanis AI raises €250,000 in pre-seed financing",
-      "url": "https://www.datacenterdynamics.com/en/news/european-modular-data-center-company-cyanis-ai-raises-250000-in-pre-seed-financing/",
-      "description": "Planning initial deployment of 10MW",
-      "published": "2026-07-28T16:29:53.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Flexential acquires 110 acres outside Dallas, Texas, for 108MW data center campus",
-      "url": "https://www.datacenterdynamics.com/en/news/flexential-acquires-110-acres-outside-dallas-texas-for-108mw-data-center-campus/",
-      "description": "Company buys land in Talty, targets three-building campus",
-      "published": "2026-07-28T16:26:03.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Nvidia to invest $5bn in Safe Superintelligence, Sutskever firm to substantially increase GPU compute",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-to-invest-5bn-in-safe-superintelligence-sutskever-firm-to-substantially-increase-gpu-compute/",
-      "description": "Ilya's AI lab had been using Google TPUs",
-      "published": "2026-07-28T16:03:19.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Life and death on a tower",
-      "url": "https://www.datacenterdynamics.com/en/analysis/life-and-death-on-a-tower/",
-      "description": "Telecom tower climbers across the US are risking their lives to make always-on connectivity a reality",
-      "published": "2026-07-28T16:00:31.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "TSMC resumes production at Japanese fab following 7.1 magnitude earthquake",
-      "url": "https://www.datacenterdynamics.com/en/news/tsmc-resumes-production-at-japanese-fab-following-71-magnitude-earthquake/",
-      "description": "Chipmaker says all employees on site were evacuated and have been accounted for",
-      "published": "2026-07-28T15:52:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
       "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
       "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&#160; —Will Douglas Heaven, senior AI editor Reading OpenAI’s account",
       "published": "2026-07-28T12:10:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "OpenAI’s Project Camellia Was on Georgia Power’s Radar Months Before Its Debut",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/openai-s-project-camellia-was-on-georgia-power-s-radar-months-before-its-debut",
-      "description": "PSC filings show Georgia Power planning for a 3,200 MW commitment months before OpenAI unveiled its 3.2 GW AI campus.",
-      "published": "2026-07-28T11:16:13.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -79,60 +135,11 @@
       "published": "2026-07-28T09:18:57.000Z"
     },
     {
-      "source": "Data Center Knowledge",
-      "title": "What Is Phased Energization, and When Should Data Centers Adopt It?",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/what-is-phased-energization-and-when-should-data-centers-adopt-it-",
-      "description": "Phased energization helps data centers navigate power constraints by energizing facilities in stages, but it’s not without limitations.",
-      "published": "2026-07-28T09:05:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-      "description": "\n                        Microsoft says tools cost less than competing ones and outperform them, too.\n                    ",
-      "published": "2026-07-27T21:56:14.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "As AI Expands to Orbit, Can Ground-to-Space Links Keep Pace?",
-      "url": "https://www.datacenterknowledge.com/next-gen-data-centers/as-ai-expands-to-orbit-can-ground-to-space-links-keep-pace-",
-      "description": "With AI workloads spreading across terrestrial and orbital compute, the atmosphere is emerging as the key bottleneck for moving data between ground and space.",
-      "published": "2026-07-27T19:26:25.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. ",
-      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company",
-      "published": "2026-07-27T18:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "How lasers could help provide fuel for nuclear reactors",
-      "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
-      "description": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old ma",
-      "published": "2026-07-27T14:24:42.000Z"
-    },
-    {
-      "source": "Import AI",
-      "title": "Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI’s accidental AI hacker",
-      "url": "https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/",
-      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Epoch and METR release MirrorCode, a benchmark for seeing how well AI systems can do long-horizon programming tasks:…A",
-      "published": "2026-07-27T13:30:53.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
-      "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How lasers could help provide fuel for nuclear reactors&#160; Nuclear power provides about 9% of global electricity today, and that fraction could tic",
-      "published": "2026-07-27T12:10:00.000Z"
-    },
-    {
-      "source": "DataEngineeringWeekly",
-      "title": "Data Engineering Weekly #280",
-      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-280",
-      "description": "The Weekly Data Engineering Newsletter",
-      "published": "2026-07-27T03:37:19.000Z"
+      "source": "The Next Platform",
+      "title": "AI Hosts And Sandboxes Save Intel’s Datacenter CPU Cookies",
+      "url": "https://www.nextplatform.com/compute/2026/07/28/ai-hosts-and-sandboxes-save-intels-datacenter-cpu-cookies/5279338",
+      "description": "",
+      "published": "2026-07-28T03:49:26.000Z"
     }
   ]
 }

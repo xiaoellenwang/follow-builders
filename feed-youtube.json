@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-07-29T03:26:33.381Z",
+  "generatedAt": "2026-07-30T03:14:22.470Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "The most successful researchers and research leaders at Anthropic have this in common",
+      "url": "https://www.youtube.com/watch?v=9b37PAzW9bg",
+      "published": "2026-07-29T11:00:30.000Z",
+      "description": "The most successful researchers and research leaders at Anthropic have this in common"
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "You need frontier products to feel the magic of frontier models",
@@ -10,7 +17,7 @@
     },
     {
       "channel": "Lenny's Podcast",
-      "title": "Why the people building AI can’t tell you what’s next | Dianne Penn (Anthropic)",
+      "title": "Why AI is going vertical (again) | Dianne Penn (Anthropic)",
       "url": "https://www.youtube.com/watch?v=tivaWTTVRhY",
       "published": "2026-07-26T12:30:06.000Z",
       "description": "Dianne Penn is Head of Product for Anthropic’s AI Research and Labs teams. She joined in 2023 as Anthropic’s first technical product manager, when the entire product team was five engineers, and has since helped ship every model from Claude 2 through Fable, and helped incubate Claude Code, MCP, Skil"
