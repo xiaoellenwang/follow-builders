@@ -1,6 +1,90 @@
 {
-  "generatedAt": "2026-07-30T03:14:22.470Z",
+  "generatedAt": "2026-07-31T03:41:16.876Z",
   "articles": [
+    {
+      "source": "The Next Platform",
+      "title": "Just How Rosy Are Those AI Infrastructure Spending Forecasts?",
+      "url": "https://www.nextplatform.com/compute/2026/07/30/just-how-rosy-are-those-ai-infrastructure-spending-forecasts/5281473",
+      "description": "",
+      "published": "2026-07-30T22:02:46.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Montana’s plan to become an experimental medical hub just pushed forward",
+      "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
+      "description": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once ",
+      "published": "2026-07-30T17:10:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Virginia Report Finds Groundwater Running Dry for New Data Centers",
+      "url": "https://www.datacenterknowledge.com/data-center-site-selection/virginia-report-finds-groundwater-running-dry-for-new-data-centers",
+      "description": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
+      "published": "2026-07-30T16:20:55.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Connected Infra Group CEO Borghei eyes tower M&A opportunities amid AI boom",
+      "url": "https://www.datacenterdynamics.com/en/analysis/connected-infra-group-ceo-borghei-eyes-tower-ma-opportunities-amid-ai-boom/",
+      "description": "As spectrum auctions offer tower industry encouragement says Borghei",
+      "published": "2026-07-30T16:00:28.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "ChipAgents raises additional $60m in expanded Series A round to support AI chip design platform",
+      "url": "https://www.datacenterdynamics.com/en/news/chipagents-raises-additional-60m-in-expanded-series-a-round-to-support-ai-chip-design-platform/",
+      "description": "Startup claims more than 120 chip companies have already deployed its platform",
+      "published": "2026-07-30T15:25:35.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "New Jersey town sued for $300m by data center developer",
+      "url": "https://www.datacenterdynamics.com/en/news/new-jersey-town-sued-for-300m-by-data-center-developer/",
+      "description": "Says town unfairly rejected its proposal",
+      "published": "2026-07-30T15:25:25.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "CyrusOne names company stalwart John Hatem as new CEO",
+      "url": "https://www.datacenterdynamics.com/en/news/cyrusone-names-company-stalwart-john-hatem-as-new-ceo/",
+      "description": "Succeeds Eric Schwartz, who is stepping down after four years",
+      "published": "2026-07-30T15:09:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: Four common misconceptions about nickel-zinc battery technology",
+      "url": "https://www.datacenterdynamics.com/en/opinions/four-common-misconceptions-about-nickel-zinc-battery-technology/",
+      "description": "The choices organizations make today will influence not only performance and reliability, but also how the next generation of data centers is designed and operated.",
+      "published": "2026-07-30T15:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: tricking LLMs, and reviving geothermal plants",
+      "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack  It is impossible to make large language models fully secure against hacks because of a",
+      "published": "2026-07-30T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "description": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the saf",
+      "published": "2026-07-30T10:15:19.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Microsoft, Alphabet, Meta Pivot from Buy to Build in AI",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/hyperscalers-say-ai-race-has-entered-a-new-phase",
+      "description": "Earnings calls shift the AI race from spending promises to energized campuses, power, and networking. Deployment pace, not GPU supply, is now the hyperscalers’ competitive edge.",
+      "published": "2026-07-30T09:59:21.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Data Centers Under Fire: Do Facilities Need Counter-Drone Defenses?",
+      "url": "https://www.datacenterknowledge.com/physical-security/data-centers-under-fire-do-facilities-need-counter-drone-defenses-",
+      "description": "Alleged attacks on AWS facilities have prompted security experts to question whether traditional data center perimeter defenses are still fit for purpose.",
+      "published": "2026-07-30T08:55:00.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
@@ -16,46 +100,11 @@
       "published": "2026-07-29T20:18:00.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "ViaSat-3 F3 successfully deploys reflector and boom over Asia-Pacific, completing GEO trio",
-      "url": "https://www.datacenterdynamics.com/en/news/viasat-3-f3-successfully-deploys-reflector-and-boom-over-asia-pacific-completing-geo-trio/",
-      "description": "The storied ViaSat-3 constellation is finally complete, perhaps one of the last big GEO megaprojects of its kind",
-      "published": "2026-07-29T18:00:29.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "How an overlooked geothermal plant got a second chance",
       "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
       "description": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again",
       "published": "2026-07-29T17:58:44.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sixth Street, GIC, SK Telecom, La Caisse compete to buy stake in Bridge DC - report",
-      "url": "https://www.datacenterdynamics.com/en/news/sixth-street-gic-sk-telecom-la-caisse-compete-to-buy-stake-in-bridge-dc-report/",
-      "description": "APAC operator attracting attention as Bain looks to sell stake",
-      "published": "2026-07-29T16:00:25.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Axe Compute secures $1.5bn compute contract with unnamed customer",
-      "url": "https://www.datacenterdynamics.com/en/news/axe-compute-secures-15bn-compute-contract-with-unnamed-customer/",
-      "description": "Agreement will run for five years",
-      "published": "2026-07-29T15:30:31.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Rowan files for second building at data center campus in Temple, Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/rowan-files-for-second-building-at-data-center-campus-in-temple-texas/",
-      "description": "500,000 sq ft building due live next year",
-      "published": "2026-07-29T15:00:31.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "NTT Data signs 24MW wind PPA with Engie in UK, as part of broader partnership",
-      "url": "https://www.datacenterdynamics.com/en/news/ntt-data-signs-24mw-wind-ppa-with-engie-in-uk-as-part-of-broader-partnership/",
-      "description": "Also has working agreements in the Netherlands and Germany",
-      "published": "2026-07-29T15:00:30.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -79,20 +128,6 @@
       "published": "2026-07-29T12:10:00.000Z"
     },
     {
-      "source": "Data Center Knowledge",
-      "title": "Nebraska Reins in Data Center Perks Amid Resource Scrutiny",
-      "url": "https://www.datacenterknowledge.com/regulations/nebraska-reins-in-data-center-perks-amid-resource-scrutiny",
-      "description": "The incentives era is giving way to infrastructure realities. Nebraska’s action highlights how power access and resource impacts now drive where, and whether, large campuses are built.",
-      "published": "2026-07-29T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The AI Hype Index: Unsexy AI",
-      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-      "description": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,",
-      "published": "2026-07-29T08:42:57.000Z"
-    },
-    {
       "source": "The Next Platform",
       "title": "The Rackscale AI System Roadmaps That AMD Is Using To Chase Money",
       "url": "https://www.nextplatform.com/compute/2026/07/29/the-rackscale-ai-system-roadmaps-that-amd-is-using-to-chase-money/5280098",
@@ -105,41 +140,6 @@
       "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
       "description": "\n                        10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.\n                    ",
       "published": "2026-07-28T21:36:39.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Core Scientific Doubles AI Capacity to 1.1 GW in $14B AMD Deal",
-      "url": "https://www.datacenterknowledge.com/deals/core-scientific-doubles-ai-capacity-to-1-1-gw-in-14b-amd-deal",
-      "description": "A 15-year agreement adds 530 MW across five campuses, doubling the company’s AI footprint and securing long-term revenue.",
-      "published": "2026-07-28T18:31:32.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Galaxy’s 500-Acre Texas AI Campus Reflects New Grid Model",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/galaxy-s-500-acre-texas-ai-campus-reflects-new-grid-model",
-      "description": "The McGregor project pairs a 74 MW first phase with a privately funded substation and utility financial assurances, reflecting changing expectations for large AI power users.",
-      "published": "2026-07-28T16:31:23.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
-      "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&#160; —Will Douglas Heaven, senior AI editor Reading OpenAI’s account",
-      "published": "2026-07-28T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix ",
-      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-      "description": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips w",
-      "published": "2026-07-28T09:18:57.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "AI Hosts And Sandboxes Save Intel’s Datacenter CPU Cookies",
-      "url": "https://www.nextplatform.com/compute/2026/07/28/ai-hosts-and-sandboxes-save-intels-datacenter-cpu-cookies/5279338",
-      "description": "",
-      "published": "2026-07-28T03:49:26.000Z"
     }
   ]
 }
