@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-08-01T03:40:26.751Z",
+  "generatedAt": "2026-08-02T03:40:35.122Z",
   "jobs": [
+    {
+      "title": "Information Technology Consultant (AI Data Engineer (Cloudera to AWS Migration)",
+      "company": "PERSOL SINGAPORE PTE. LTD.",
+      "salary": "S$5,500 – S$8,250",
+      "type": "Contract",
+      "skills": [
+        "Spark SQL",
+        "Adobe Spark",
+        "Generative AI Application Development and Deployment"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/8649cd0041993b8c4980a6369d2478e6",
+      "posted": "2026-08-01T06:59:07.000Z"
+    },
+    {
+      "title": "Information Technology Consultant (AI Data Engineer (Cloudera to AWS Migration)",
+      "company": "PERSOL SINGAPORE PTE. LTD.",
+      "salary": "S$7,000 – S$10,000",
+      "type": "Contract",
+      "skills": [
+        "Spark SQL",
+        "Adobe Spark",
+        "Generative AI Application Development and Deployment"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/8b256710e0d811a44151064f5c1cb9b2",
+      "posted": "2026-08-01T06:48:29.000Z"
+    },
     {
       "title": "Principal Architect - Agentic AI",
       "company": "PERSOL SINGAPORE PTE. LTD.",
@@ -39,32 +65,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/c717b9e29eba0a652095466a785c74e0",
       "posted": "2026-07-31T11:39:24.000Z"
-    },
-    {
-      "title": "Full Stack Software Engineer (AI-Augmented Development)",
-      "company": "CORNERSTONE GLOBAL PARTNERS PTE. LTD.",
-      "salary": "S$10,000 – S$14,000",
-      "type": "Full Time",
-      "skills": [
-        "Code Quality",
-        "Ai",
-        "Design"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/58cad629edd084aea00880b9a7966652",
-      "posted": "2026-07-31T10:57:56.000Z"
-    },
-    {
-      "title": "AI Solutions Engineer",
-      "company": "INFOHOST PTE LTD",
-      "salary": "S$13,000 – S$15,000",
-      "type": "Full Time",
-      "skills": [
-        "Workflow Automation",
-        "Technical Interfaces",
-        "Client Service Oriented"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/717585c1be16622ee0819911c038a9bc",
-      "posted": "2026-07-31T08:52:00.000Z"
     },
     {
       "title": "AI Engineer, Supply Chain Data Analysis",
