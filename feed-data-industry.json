@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-02T03:40:35.122Z",
+  "generatedAt": "2026-08-03T03:42:57.436Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "Meta boosts AI data center capex, forecasts $130-145bn spend",
+      "url": "https://www.datacenterdynamics.com/en/news/meta-boosts-ai-data-center-capex-forecasts-130-145bn-spend/",
+      "description": "Shares drop as spending increases, and free cash flow falls",
+      "published": "2026-08-02T16:45:40.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "AI infrastructure is only as strong as its network",
+      "url": "https://www.datacenterdynamics.com/en/opinions/ai-infrastructure-is-only-as-strong-as-its-network/",
+      "description": "Reliable network connectivity is an AI enabler",
+      "published": "2026-08-02T13:00:31.000Z"
+    },
     {
       "source": "Data Center Dynamics",
       "title": "Sponsored: Tackling complexity in AI data centers: leveraging fully integrated solutions",
@@ -9,11 +23,25 @@
       "published": "2026-08-01T15:00:00.000Z"
     },
     {
+      "source": "The Next Platform",
+      "title": "IBM: Three Demonstrations Prove Quantum Advantage Has Been Reached",
+      "url": "https://www.nextplatform.com/compute/2026/07/31/ibm-three-demonstrations-prove-quantum-advantage-has-been-reached/5282091",
+      "description": "",
+      "published": "2026-07-31T22:48:36.000Z"
+    },
+    {
       "source": "Ars Technica Tech",
       "title": "Claude published malicious code to the Internet and attacked 3 real companies",
       "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
       "description": "\n                        Had the hacks used conventional methods, someone would likely go to prison. \n                    ",
       "published": "2026-07-31T20:39:14.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "AI Dominates The Microsoft Conversation, But Not The Company’s Business",
+      "url": "https://www.nextplatform.com/cloud/2026/07/31/ai-dominates-the-microsoft-conversation-but-not-the-companys-business/5281992",
+      "description": "",
+      "published": "2026-07-31T18:23:11.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -37,25 +65,11 @@
       "published": "2026-07-31T15:00:29.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Why ‘next wave’ data center markets are at the heart of Europe's fight for data sovereignty",
-      "url": "https://www.datacenterdynamics.com/en/opinions/why-next-wave-data-center-markets-are-at-the-heart-of-europes-fight-for-data-sovereignty/",
-      "description": "And why an over-reliance on FLAPD is not good for Europe's data center future",
-      "published": "2026-07-31T14:00:35.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "PJM Says AI Data Centers Must Bring Capacity to Earn Firm Service",
       "url": "https://www.datacenterknowledge.com/energy-power-supply/pjm-says-ai-data-centers-must-bring-capacity-to-earn-firm-service",
       "description": "PJM’s proposed reliability framework would require many future large loads to either secure their own generating capacity or accept service curtailments during resource shortages.",
       "published": "2026-07-31T13:58:20.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Musk confirms fourth SpaceXAI data center in Memphis, company starts removing 'illegal' gas turbines",
-      "url": "https://www.datacenterdynamics.com/en/news/musk-confirms-fourth-spacexai-data-center-in-memphis-company-starts-removing-illegal-gas-turbines/",
-      "description": "Macrohard gets Minihard",
-      "published": "2026-07-31T13:42:00.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -84,41 +98,6 @@
       "url": "https://www.datacenterknowledge.com/ai-data-centers/ai-drives-data-center-uncertainty-in-uptime-s-2026-survey",
       "description": "Uptime’s 2026 survey shows AI raising costs and density while narrowing management focus, as operators hedge with phased builds and struggle to forecast capacity.",
       "published": "2026-07-31T09:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
-      "url": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
-      "description": "\n                        Exploits can give persistent server access that survives credential rotation and disk re-imaging.\n                    ",
-      "published": "2026-07-30T20:57:22.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Montana’s plan to become an experimental medical hub just pushed forward",
-      "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
-      "description": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once ",
-      "published": "2026-07-30T17:10:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Virginia Report Finds Groundwater Running Dry for New Data Centers",
-      "url": "https://www.datacenterknowledge.com/data-center-site-selection/virginia-report-finds-groundwater-running-dry-for-new-data-centers",
-      "description": "No locations east of I-95 can support major new groundwater withdrawals under current Virginia permitting standards, officials say.",
-      "published": "2026-07-30T16:20:55.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: tricking LLMs, and reviving geothermal plants",
-      "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack  It is impossible to make large language models fully secure against hacks because of a",
-      "published": "2026-07-30T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-      "description": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the saf",
-      "published": "2026-07-30T10:15:19.000Z"
     }
   ]
 }

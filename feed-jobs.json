@@ -1,6 +1,97 @@
 {
-  "generatedAt": "2026-08-02T03:40:35.122Z",
+  "generatedAt": "2026-08-03T03:42:57.436Z",
   "jobs": [
+    {
+      "title": "AI Engineer",
+      "company": "WE-PLUS PTE. LTD.",
+      "salary": "S$6,000 – S$8,000",
+      "type": "Permanent",
+      "skills": [
+        "commercial environment",
+        "Architecture",
+        "Engineering Documentation"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/6c2157f89e1439380d1ed1febc8837f7",
+      "posted": "2026-08-03T02:33:38.000Z"
+    },
+    {
+      "title": "Product Engineer, AI",
+      "company": "MIAO WORLDS PTE. LTD.",
+      "salary": "S$6,000 – S$10,000",
+      "type": "Permanent",
+      "skills": [
+        "Perl",
+        "AI Agents",
+        "Product Design"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/cedacdc72c2115a970e19c0b9fcbf43a",
+      "posted": "2026-08-03T01:59:53.000Z"
+    },
+    {
+      "title": "Software Engineer, AI Agents",
+      "company": "MIAO WORLDS PTE. LTD.",
+      "salary": "S$6,000 – S$10,000",
+      "type": "Permanent",
+      "skills": [
+        "Leadership",
+        "Workflow",
+        "AI Agents"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/b2ad308d25044791970e119a5fba54d5",
+      "posted": "2026-08-03T01:58:16.000Z"
+    },
+    {
+      "title": "Founding Engineer, AI Agents",
+      "company": "MIAO WORLDS PTE. LTD.",
+      "salary": "S$6,000 – S$10,000",
+      "type": "Permanent",
+      "skills": [
+        "Leadership",
+        "AI Agents",
+        "Agents"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/5b269f9bb14334eb48b354cead910ba9",
+      "posted": "2026-08-03T01:55:29.000Z"
+    },
+    {
+      "title": "Machine Learning Engineer (ML) - Permanent Role",
+      "company": "TALENTSIS PTE. LTD.",
+      "salary": "S$5,500 – S$6,500",
+      "type": "Permanent",
+      "skills": [
+        "API Development",
+        "Liaising with cross functional teams",
+        "Collaborate With Engineers"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/366e3ed199bf3f711e19e0b05ba1a96d",
+      "posted": "2026-08-02T10:02:36.000Z"
+    },
+    {
+      "title": "Data Engineer (MDDI)",
+      "company": "VINOVA PTE. LTD.",
+      "salary": "S$9,100 – S$9,100",
+      "type": "Contract",
+      "skills": [
+        "Ai",
+        "Health Promotion",
+        "Liaising with project stakeholders"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/c101e7a9d214a79fe8c92dc34f197f58",
+      "posted": "2026-08-02T07:46:03.000Z"
+    },
+    {
+      "title": "Lead AI Engineer (Supply Chain AI & Machine Learning)",
+      "company": "STAFFKING PTE. LTD.",
+      "salary": "S$8,000 – S$9,500",
+      "type": "Permanent",
+      "skills": [
+        "Azure AI",
+        "Business Operational Planning",
+        "Model Driven Development"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/72b37f8488f6d24166b55601030ecd8a",
+      "posted": "2026-08-02T05:29:38.000Z"
+    },
     {
       "title": "Information Technology Consultant (AI Data Engineer (Cloudera to AWS Migration)",
       "company": "PERSOL SINGAPORE PTE. LTD.",
@@ -39,162 +130,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/55707dedbcd3a79a7b5f6d4e67db9ade",
       "posted": "2026-07-31T15:23:39.000Z"
-    },
-    {
-      "title": "Full Stack Developer - AI & E-Commerce architecture experience",
-      "company": "BILLIGENCE CONSULTANCY PTE. LTD.",
-      "salary": "S$5,500 – S$10,500",
-      "type": "Full Time",
-      "skills": [
-        "Git",
-        "Eclipse",
-        "Test-Driven Development"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/982b34d93f249f9d0dde49d240d7022f",
-      "posted": "2026-07-31T11:41:39.000Z"
-    },
-    {
-      "title": "Full Stack Developer - AI & E-commerce architecture experience",
-      "company": "BILLIGENCE ASIA PTE. LTD.",
-      "salary": "S$6,000 – S$10,500",
-      "type": "Full Time",
-      "skills": [
-        "Kubernetes",
-        "Pipelines",
-        "JavaScript"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/c717b9e29eba0a652095466a785c74e0",
-      "posted": "2026-07-31T11:39:24.000Z"
-    },
-    {
-      "title": "AI Engineer, Supply Chain Data Analysis",
-      "company": "PERSOL SINGAPORE PTE. LTD.",
-      "salary": "S$4,200 – S$6,000",
-      "type": "Contract",
-      "skills": [
-        "Supply Chain Analytics",
-        "Reporting Tools",
-        "Oracle"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/c1a149357bc53c27014949790bc2362d",
-      "posted": "2026-07-31T06:36:38.000Z"
-    },
-    {
-      "title": "Senior AI Engineer-Marine",
-      "company": "ST ENGINEERING MARINE LTD.",
-      "salary": "S$5,000 – S$8,500",
-      "type": "Permanent",
-      "skills": [
-        "Project Analysis",
-        "Ai",
-        "Design"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/16b012d8288c0239a6ec4b33025fcf5e",
-      "posted": "2026-07-31T05:20:00.000Z"
-    },
-    {
-      "title": "AI Engineer for Supply Chain Data Analysis",
-      "company": "PEOPLEBANK SINGAPORE PTE. LTD.",
-      "salary": "S$5,500 – S$5,500",
-      "type": "Contract",
-      "skills": [
-        "fleet policies",
-        "Machine Learning",
-        "Inventory Planning"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/c4456635a883e89fc637a54e4292079d",
-      "posted": "2026-07-31T05:03:46.000Z"
-    },
-    {
-      "title": "Research Fellow, LLM (School of Computing)",
-      "company": "NATIONAL UNIVERSITY OF SINGAPORE",
-      "salary": "S$6,000 – S$9,000",
-      "type": "Full Time",
-      "skills": [
-        "Pandas",
-        "Artificial Intelligence",
-        "project meetings"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/9445aa2ce067bd56a2a3aedbc213c1d3",
-      "posted": "2026-07-31T03:45:30.000Z"
-    },
-    {
-      "title": "Research Assistant, LLM (School of Computing)",
-      "company": "NATIONAL UNIVERSITY OF SINGAPORE",
-      "salary": "S$5,000 – S$8,000",
-      "type": "Full Time",
-      "skills": [
-        "Pandas",
-        "Artificial Intelligence",
-        "Computer Science"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/b0f526d17e14e63a9db0976ef2b556b1",
-      "posted": "2026-07-31T03:31:12.000Z"
-    },
-    {
-      "title": "Senior AI Engineer",
-      "company": "BES (SG) TECHNOLOGY PTE. LTD.",
-      "salary": "S$3,600 – S$5,600",
-      "type": "Full Time",
-      "skills": [
-        "API Development",
-        "Enterprise Integration Solution",
-        "implementing monitoring tools"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/6950d2c31bd3eba566644f07fcaa0b1f",
-      "posted": "2026-07-31T03:19:04.000Z"
-    },
-    {
-      "title": "AI Intern",
-      "company": "FRAGMENT WORKS PTE. LTD.",
-      "salary": "S$1,000 – S$2,000",
-      "type": "Temporary",
-      "skills": [
-        "TensorFlow",
-        "Machine Learning",
-        "Code Review"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/74f98e7d7f51c7a2c9f148d9da9ed1fd",
-      "posted": "2026-07-31T02:45:49.000Z"
-    },
-    {
-      "title": "Senior AI Engineer - Marine Applications",
-      "company": "ST ENGINEERING MARINE LTD.",
-      "salary": "S$5,000 – S$7,500",
-      "type": "Permanent",
-      "skills": [
-        "TensorFlow",
-        "Machine Learning",
-        "Scalability"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/8d00ccc981506d83ba261e1b698205ba",
-      "posted": "2026-07-31T02:02:07.000Z"
-    },
-    {
-      "title": "AI Solution Architect / AI Engineer",
-      "company": "ELLIOTT MOSS CONSULTING PTE. LTD.",
-      "salary": "S$12,300 – S$12,800",
-      "type": "Contract",
-      "skills": [
-        "TensorFlow",
-        "Development",
-        "Scalable Applications"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/3db96b092bcdb80db540bd7536d73e16",
-      "posted": "2026-07-30T16:59:54.000Z"
-    },
-    {
-      "title": "AI MLOps (Machine Learning Operations) Engineer",
-      "company": "WE MOVE MOUNTAINS PTE. LTD.",
-      "salary": "S$4,000 – S$9,000",
-      "type": "Full Time",
-      "skills": [
-        "Machine Learning",
-        "Ai",
-        "Automation Management in Product Development"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/449c6f16f8bc69bba2cebacbdc781238",
-      "posted": "2026-07-30T16:04:40.000Z"
     }
   ]
 }

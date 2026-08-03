@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-08-02T03:40:35.122Z",
+  "generatedAt": "2026-08-03T03:42:57.436Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)",
+      "url": "https://www.youtube.com/watch?v=ruvis-VWg2s",
+      "published": "2026-08-02T12:30:29.000Z",
+      "description": "Tom Verrilli is the chief product officer at Whatnot, a live shopping platform that’s become the fastest-growing U.S. marketplace business in history, with over $8 billion in GMV. Before joining Whatnot, Tom was CPO at Twitch and director of product growth at Twitter (during one of the most turbulen"
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "The most successful researchers and research leaders at Anthropic have this in common",
@@ -14,13 +21,6 @@
       "url": "https://www.youtube.com/watch?v=e_Su-bDcYSA",
       "published": "2026-07-28T13:00:26.000Z",
       "description": ""
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "Why AI is going vertical (again) | Dianne Penn (Anthropic)",
-      "url": "https://www.youtube.com/watch?v=tivaWTTVRhY",
-      "published": "2026-07-26T12:30:06.000Z",
-      "description": "Dianne Penn is Head of Product for Anthropic’s AI Research and Labs teams. She joined in 2023 as Anthropic’s first technical product manager, when the entire product team was five engineers, and has since helped ship every model from Claude 2 through Fable, and helped incubate Claude Code, MCP, Skil"
     }
   ]
 }
