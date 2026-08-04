@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-08-03T03:42:57.436Z",
+  "generatedAt": "2026-08-04T03:27:47.085Z",
   "articles": [
     {
-      "source": "Data Center Dynamics",
-      "title": "Meta boosts AI data center capex, forecasts $130-145bn spend",
-      "url": "https://www.datacenterdynamics.com/en/news/meta-boosts-ai-data-center-capex-forecasts-130-145bn-spend/",
-      "description": "Shares drop as spending increases, and free cash flow falls",
-      "published": "2026-08-02T16:45:40.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "AI infrastructure is only as strong as its network",
-      "url": "https://www.datacenterdynamics.com/en/opinions/ai-infrastructure-is-only-as-strong-as-its-network/",
-      "description": "Reliable network connectivity is an AI enabler",
-      "published": "2026-08-02T13:00:31.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: Tackling complexity in AI data centers: leveraging fully integrated solutions",
-      "url": "https://www.datacenterdynamics.com/en/opinions/tackling-complexity-in-ai-data-centers-leveraging-fully-integrated-solutions/",
-      "description": "Increasing densities, equipment varieties, and services have led to complexity challenges. What the market needs is integrated solutions from a provider that can support the AI wave at every step",
-      "published": "2026-08-01T15:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "IBM: Three Demonstrations Prove Quantum Advantage Has Been Reached",
-      "url": "https://www.nextplatform.com/compute/2026/07/31/ibm-three-demonstrations-prove-quantum-advantage-has-been-reached/5282091",
-      "description": "",
-      "published": "2026-07-31T22:48:36.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Claude published malicious code to the Internet and attacked 3 real companies",
-      "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
-      "description": "\n                        Had the hacks used conventional methods, someone would likely go to prison. \n                    ",
-      "published": "2026-07-31T20:39:14.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "AI Dominates The Microsoft Conversation, But Not The Company’s Business",
-      "url": "https://www.nextplatform.com/cloud/2026/07/31/ai-dominates-the-microsoft-conversation-but-not-the-companys-business/5281992",
-      "description": "",
-      "published": "2026-07-31T18:23:11.000Z"
+      "source": "Data Center Knowledge",
+      "title": "Texas Orders Statewide Audit of AI Data Center Projects",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/texas-orders-statewide-audit-of-ai-data-center-projects-in-ercot-queue",
+      "description": "The new directive signals tougher scrutiny of large-load interconnection as AI power demand accelerates.",
+      "published": "2026-08-03T22:42:10.000Z"
     },
     {
       "source": "Data Center Knowledge",
-      "title": "The Data Center’s Hidden Attack Surface: Why OT Security Can’t Wait",
-      "url": "https://www.datacenterknowledge.com/cybersecurity/untitled",
-      "description": "Data centers face growing risks from cyber-physical systems. Operational technology security is critical for preventing outages and ensuring operational resilience.",
-      "published": "2026-07-31T16:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "AWS reports fastest growth since 2021, Amazon annual capex to hit $220bn on AI memory costs",
-      "url": "https://www.datacenterdynamics.com/en/news/aws-reports-fastest-growth-since-2021-amazon-annual-capex-to-hit-220bn-on-ai-memory-costs/",
-      "description": "Cloud sales boom as company ramps up data center buildout",
-      "published": "2026-07-31T15:43:46.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: Beyond the rack: Mapping the four phases of 800VDC cooling adoption",
-      "url": "https://www.datacenterdynamics.com/en/opinions/beyond-the-rack-mapping-the-four-phases-of-800vdc-cooling-adoption/",
-      "description": "The question may not be whether cooling infrastructure can operate on 800VDC. It’s whether the supplier ecosystem can evolve quickly enough to support that future",
-      "published": "2026-07-31T15:00:29.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "PJM Says AI Data Centers Must Bring Capacity to Earn Firm Service",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/pjm-says-ai-data-centers-must-bring-capacity-to-earn-firm-service",
-      "description": "PJM’s proposed reliability framework would require many future large loads to either secure their own generating capacity or accept service curtailments during resource shortages.",
-      "published": "2026-07-31T13:58:20.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Amazon Lifts 2026 AI Capex to $220B, Still Capacity-Constrained",
-      "url": "https://www.datacenterknowledge.com/infrastructure/amazon-lifts-ai-infrastructure-spending-to-220b-as-demand-outpaces-capacity",
-      "description": "AWS posted its fastest growth in 18 quarters as Amazon raised AI infrastructure spending to $220 billion, citing memory costs and saying demand already stretches into 2028.",
-      "published": "2026-07-31T13:15:12.000Z"
+      "title": "Samsung Takes Floating Data Center Plans into Engineering Phase",
+      "url": "https://www.datacenterknowledge.com/next-gen-data-centers/samsung-takes-floating-data-center-plans-into-engineering-phase",
+      "description": "Samsung’s floating data centers mark a potential shift toward maritime solutions to meet the rising demands of AI infrastructure.",
+      "published": "2026-08-03T20:45:57.000Z"
     },
     {
       "source": "MIT Technology Review",
-      "title": "The Download: Montana’s new experimental drug rules",
-      "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward  As of this week in Montana, biotech companies whose drugs have been through ",
-      "published": "2026-07-31T12:16:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Montana’s new “right to try” law can’t come soon enough for some",
-      "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
-      "description": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old",
-      "published": "2026-07-31T09:00:00.000Z"
+      "title": "Trump’s AI protectionism has come for robotics",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s ",
+      "published": "2026-08-03T18:43:30.000Z"
     },
     {
       "source": "Data Center Knowledge",
-      "title": "AI Drives Data Center Uncertainty in Uptime’s 2026 Survey",
-      "url": "https://www.datacenterknowledge.com/ai-data-centers/ai-drives-data-center-uncertainty-in-uptime-s-2026-survey",
-      "description": "Uptime’s 2026 survey shows AI raising costs and density while narrowing management focus, as operators hedge with phased builds and struggle to forecast capacity.",
-      "published": "2026-07-31T09:00:00.000Z"
+      "title": "Building Data Center Infrastructure Requires Trust, Not Just Permits",
+      "url": "https://www.datacenterknowledge.com/data-center-site-selection/building-data-center-infrastructure-requires-trust-not-just-permits",
+      "description": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
+      "published": "2026-08-03T18:31:12.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Neocloud Kidz AI signs MoU with Limestone Networks for colocation agreement",
+      "url": "https://www.datacenterdynamics.com/en/news/neocloud-kidz-ai-signs-mou-with-limestone-networks-for-colocation-agreement/",
+      "description": "Kidz AI will lease 1.125MW of capacity from Limestone's data center in Dallas, Texas",
+      "published": "2026-08-03T16:10:29.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Indigenous IT firm eyes data center campus in Canada’s Northwest Territories",
+      "url": "https://www.datacenterdynamics.com/en/news/indigenous-it-firm-eyes-data-center-campus-in-canadas-northwest-territories/",
+      "description": "KatloTech pitches IceFox campus in Hay River and fiber route south to Alberta",
+      "published": "2026-08-03T16:00:30.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "UK government approves controversial 5.2MW Truman Brewery data center proposal",
+      "url": "https://www.datacenterdynamics.com/en/news/uk-government-approves-controversial-52mw-truman-brewery-data-center-proposal/",
+      "description": "A win for the Brewery's owner",
+      "published": "2026-08-03T15:46:25.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Yondr Group and Cerberus acquire 40 acres for data center campus in Manassas, Virginia",
+      "url": "https://www.datacenterdynamics.com/en/news/yondr-group-and-cerberus-acquire-40-acres-for-data-center-campus-in-manassas-virginia/",
+      "description": "Will develop a 72MW campus on the site",
+      "published": "2026-08-03T15:40:30.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Case Study: How Stantec achieved 119% improvement in MCF team knowledge",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/case-study-how-stantec-achieved-119-improvement-in-mcf-team-knowledge/",
+      "description": "Building mission-critical capability, at scale",
+      "published": "2026-08-03T15:34:00.000Z"
+    },
+    {
+      "source": "Import AI",
+      "title": "Import AI 467: Self-sustaining AI viruses; pacing AI progress; confusion about AI and creativity",
+      "url": "https://jack-clark.net/2026/08/03/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/",
+      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Self-sustaining and self-replicating AI viruses are here:…Open weight LLMs + a well-designed harness = a persistent, s",
+      "published": "2026-08-03T13:31:22.000Z"
+    },
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "Data Engineering Weekly #281",
+      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-281",
+      "description": "The Weekly Data Engineering Newsletter",
+      "published": "2026-08-03T12:34:40.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money ",
+      "published": "2026-08-03T12:08:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Cloud Region Migration: Optimize Costs, Latency, and Compliance",
+      "url": "https://www.datacenterknowledge.com/cloud/cloud-region-migration-optimize-costs-latency-and-compliance",
+      "description": "Cloud region migration helps businesses optimize costs, improve latency, and meet compliance needs. Learn how to plan and execute seamless transitions.",
+      "published": "2026-08-03T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage",
+      "published": "2026-08-03T08:30:05.000Z"
     }
   ]
 }

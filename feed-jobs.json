@@ -1,6 +1,149 @@
 {
-  "generatedAt": "2026-08-03T03:42:57.436Z",
+  "generatedAt": "2026-08-04T03:27:47.085Z",
   "jobs": [
+    {
+      "title": "Research Fellow (Deep Learning)",
+      "company": "TUM CREATE LIMITED",
+      "salary": "S$6,200 – S$8,200",
+      "type": "Contract",
+      "skills": [
+        "Proven track record of success",
+        "Physics",
+        "Signal Processing Algorithms"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/3654bfa94e64b4e74b0a315b3d8b4fa1",
+      "posted": "2026-08-04T03:15:07.000Z"
+    },
+    {
+      "title": "Senior/ Sales Engineer (Integrated Security, Access Control, AI)",
+      "company": "ASIS TECHNOLOGIES PTE LTD",
+      "salary": "S$4,000 – S$6,500",
+      "type": "Permanent",
+      "skills": [
+        "Security Architecture",
+        "Sales",
+        "IP CCTV"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/99461c3f185e6802b983acfb61c26439",
+      "posted": "2026-08-04T02:47:03.000Z"
+    },
+    {
+      "title": "Full Stack Developer (AI-Enabled)",
+      "company": "NCS PTE. LTD.",
+      "salary": "S$5,000 – S$8,000",
+      "type": "Contract",
+      "skills": [
+        "Git",
+        "JSON",
+        "3rd party integration"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/a3e3b5c19dd6926df1d86ff473941958",
+      "posted": "2026-08-04T02:27:06.000Z"
+    },
+    {
+      "title": "AI Investment Strategist",
+      "company": "INVESTMENT COMPANY OF THE PEOPLE'S REPUBLIC OF CHINA (SINGAPORE) PTE LTD",
+      "salary": "S$5,000 – S$10,000",
+      "type": "Permanent",
+      "skills": [
+        "Account Management",
+        "Investment Advisory",
+        "Due Diligence"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/bd1d153ba3f9170f12e355c69c405b4f",
+      "posted": "2026-08-04T01:08:07.000Z"
+    },
+    {
+      "title": "Lead AI Engineer – AI & Data (Banking Industry)",
+      "company": "ABEAM CONSULTING (SINGAPORE) PTE. LTD.",
+      "salary": "S$11,000 – S$16,000",
+      "type": "Contract",
+      "skills": [
+        "Azure AI",
+        "Generative Model",
+        "API Development"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/69f68161b9ce2e8a94a49d12ac1d2ad1",
+      "posted": "2026-08-03T09:57:34.000Z"
+    },
+    {
+      "title": "Agentic AI Consultant",
+      "company": "ABEAM CONSULTING (SINGAPORE) PTE. LTD.",
+      "salary": "S$5,000 – S$6,500",
+      "type": "Permanent",
+      "skills": [
+        "DDD",
+        "scientific discipline",
+        "Intelligent Automation"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/2139ae045b198f3052cf2fb40209c3e3",
+      "posted": "2026-08-03T09:43:00.000Z"
+    },
+    {
+      "title": "CTO | Head of Engineering | AI | Investment platform",
+      "company": "RANDSTAD PTE. LIMITED",
+      "salary": "S$10,000 – S$500,000",
+      "type": "Permanent",
+      "skills": [
+        "IT Operations Management",
+        "Code Review",
+        "Systems Architecture"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/9d77ed9e2ab1007a59f4a116423bfaae",
+      "posted": "2026-08-03T09:28:47.000Z"
+    },
+    {
+      "title": "AI & Data Science Consultant/Engineer (Japanese Speaking)",
+      "company": "ABEAM CONSULTING (SINGAPORE) PTE. LTD.",
+      "salary": "S$8,000 – S$12,000",
+      "type": "Contract",
+      "skills": [
+        "Machine Learning",
+        "Business Data Analysis",
+        "Retrieval-Augmented Generation (RAG)"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/9c627cb08c183121d29a0be8498c6a9e",
+      "posted": "2026-08-03T09:28:03.000Z"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "LYNEER CORP (SINGAPORE) PTE. LTD.",
+      "salary": "S$8,000 – S$11,000",
+      "type": "Contract",
+      "skills": [
+        "Multi-Agent Systems",
+        "Kubernetes",
+        "Data Pipeline"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/845d131c47c7e98fac170fdcd1ce3e37",
+      "posted": "2026-08-03T08:13:24.000Z"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "company": "MICHAEL PAGE (PERSONNEL) PTE. LTD.",
+      "salary": "S$8,000 – S$10,000",
+      "type": "Full Time",
+      "skills": [
+        "Data Warehousing Design",
+        "Analytics Support",
+        "Cloud Technologies"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/808771e3e73c1af7235dda61fa43cf84",
+      "posted": "2026-08-03T06:09:11.000Z"
+    },
+    {
+      "title": "Research Assistant (AI for Seismic Data Analysis)",
+      "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
+      "salary": "S$3,300 – S$6,600",
+      "type": "Contract",
+      "skills": [
+        "TensorFlow",
+        "Ai",
+        "Research Findings Communication"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/4d59ddad3868da598e74dc0a5f4f7c63",
+      "posted": "2026-08-03T05:51:40.000Z"
+    },
     {
       "title": "AI Engineer",
       "company": "WE-PLUS PTE. LTD.",
@@ -28,19 +171,6 @@
       "posted": "2026-08-03T01:59:53.000Z"
     },
     {
-      "title": "Software Engineer, AI Agents",
-      "company": "MIAO WORLDS PTE. LTD.",
-      "salary": "S$6,000 – S$10,000",
-      "type": "Permanent",
-      "skills": [
-        "Leadership",
-        "Workflow",
-        "AI Agents"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/b2ad308d25044791970e119a5fba54d5",
-      "posted": "2026-08-03T01:58:16.000Z"
-    },
-    {
       "title": "Founding Engineer, AI Agents",
       "company": "MIAO WORLDS PTE. LTD.",
       "salary": "S$6,000 – S$10,000",
@@ -65,71 +195,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/366e3ed199bf3f711e19e0b05ba1a96d",
       "posted": "2026-08-02T10:02:36.000Z"
-    },
-    {
-      "title": "Data Engineer (MDDI)",
-      "company": "VINOVA PTE. LTD.",
-      "salary": "S$9,100 – S$9,100",
-      "type": "Contract",
-      "skills": [
-        "Ai",
-        "Health Promotion",
-        "Liaising with project stakeholders"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/c101e7a9d214a79fe8c92dc34f197f58",
-      "posted": "2026-08-02T07:46:03.000Z"
-    },
-    {
-      "title": "Lead AI Engineer (Supply Chain AI & Machine Learning)",
-      "company": "STAFFKING PTE. LTD.",
-      "salary": "S$8,000 – S$9,500",
-      "type": "Permanent",
-      "skills": [
-        "Azure AI",
-        "Business Operational Planning",
-        "Model Driven Development"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/72b37f8488f6d24166b55601030ecd8a",
-      "posted": "2026-08-02T05:29:38.000Z"
-    },
-    {
-      "title": "Information Technology Consultant (AI Data Engineer (Cloudera to AWS Migration)",
-      "company": "PERSOL SINGAPORE PTE. LTD.",
-      "salary": "S$5,500 – S$8,250",
-      "type": "Contract",
-      "skills": [
-        "Spark SQL",
-        "Adobe Spark",
-        "Generative AI Application Development and Deployment"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/8649cd0041993b8c4980a6369d2478e6",
-      "posted": "2026-08-01T06:59:07.000Z"
-    },
-    {
-      "title": "Information Technology Consultant (AI Data Engineer (Cloudera to AWS Migration)",
-      "company": "PERSOL SINGAPORE PTE. LTD.",
-      "salary": "S$7,000 – S$10,000",
-      "type": "Contract",
-      "skills": [
-        "Spark SQL",
-        "Adobe Spark",
-        "Generative AI Application Development and Deployment"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/8b256710e0d811a44151064f5c1cb9b2",
-      "posted": "2026-08-01T06:48:29.000Z"
-    },
-    {
-      "title": "Principal Architect - Agentic AI",
-      "company": "PERSOL SINGAPORE PTE. LTD.",
-      "salary": "S$14,000 – S$20,000",
-      "type": "Permanent",
-      "skills": [
-        "Generative Model",
-        "Ai",
-        "Business Architecture"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/55707dedbcd3a79a7b5f6d4e67db9ade",
-      "posted": "2026-07-31T15:23:39.000Z"
     }
   ]
 }
