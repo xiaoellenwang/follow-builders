@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-08-04T03:27:47.085Z",
+  "generatedAt": "2026-08-05T03:22:24.337Z",
   "articles": [
+    {
+      "source": "Data Center Knowledge",
+      "title": "New Data Center Developments: August 2026",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/new-data-center-developments-august-2026",
+      "description": "We look at some of the latest data center developments announced over the past month.",
+      "published": "2026-08-04T18:42:46.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "IonQ and EPB to establish Quantum Communications Research Center in Chattanooga, Tennessee",
+      "url": "https://www.datacenterdynamics.com/en/news/ionq-and-epb-to-establish-quantum-communications-research-center-in-chattanooga-tennessee/",
+      "description": "Announcement comes a year after partners launched the EPB Quantum Center in the same city",
+      "published": "2026-08-04T16:30:28.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Rate of play: How US states are changing the rules around data centers and power",
+      "url": "https://www.datacenterdynamics.com/en/analysis/rate-of-play-how-us-states-are-changing-the-rules-around-data-centers-and-power/",
+      "description": "Data center growth is outstripping the regulations designed to control it. Lawmakers are fighting",
+      "published": "2026-08-04T16:00:32.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "CoreWeave plans to launch 360MW of data center capacity in Indonesia",
+      "url": "https://www.datacenterdynamics.com/en/news/coreweave-plans-to-launch-360mw-of-data-center-capacity-in-indonesia/",
+      "description": "Will be company's first data centers in Asia-Pacific region",
+      "published": "2026-08-04T16:00:31.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Three men caught stealing copper wire from data center construction site in Loudoun County, Virginia",
+      "url": "https://www.datacenterdynamics.com/en/news/three-men-caught-stealing-copper-wire-from-data-center-construction-site-in-loudoun-county-virginia/",
+      "description": "All charged with grand larceny",
+      "published": "2026-08-04T16:00:29.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "AI lab Moonshot leases 20,000 Nvidia GPUs from Alibaba Cloud - report",
+      "url": "https://www.datacenterdynamics.com/en/news/ai-lab-moonshot-leases-20000-nvidia-gpus-from-alibaba-cloud-report/",
+      "description": "Makes up a significant proportion of Moonshot's overall compute capacity for Kimi models",
+      "published": "2026-08-04T15:58:41.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+      "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics   —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;k",
+      "published": "2026-08-04T12:14:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Build an Autobahn for Zero-Day Defense with Strategic Gateways",
+      "url": "https://www.datacenterknowledge.com/cybersecurity/build-an-autobahn-for-zero-day-defense-with-strategic-gateways",
+      "description": "Organizations with well-designed, centralized gateway architectures can deploy defenses in hours, while those relying on ad hoc approaches must patch each application individually, often taking days or weeks.",
+      "published": "2026-08-04T09:00:00.000Z"
+    },
     {
       "source": "Data Center Knowledge",
       "title": "Texas Orders Statewide Audit of AI Data Center Projects",
@@ -19,7 +75,7 @@
       "source": "MIT Technology Review",
       "title": "Trump’s AI protectionism has come for robotics",
       "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s ",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. ",
       "published": "2026-08-03T18:43:30.000Z"
     },
     {
@@ -28,41 +84,6 @@
       "url": "https://www.datacenterknowledge.com/data-center-site-selection/building-data-center-infrastructure-requires-trust-not-just-permits",
       "description": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
       "published": "2026-08-03T18:31:12.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Neocloud Kidz AI signs MoU with Limestone Networks for colocation agreement",
-      "url": "https://www.datacenterdynamics.com/en/news/neocloud-kidz-ai-signs-mou-with-limestone-networks-for-colocation-agreement/",
-      "description": "Kidz AI will lease 1.125MW of capacity from Limestone's data center in Dallas, Texas",
-      "published": "2026-08-03T16:10:29.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Indigenous IT firm eyes data center campus in Canada’s Northwest Territories",
-      "url": "https://www.datacenterdynamics.com/en/news/indigenous-it-firm-eyes-data-center-campus-in-canadas-northwest-territories/",
-      "description": "KatloTech pitches IceFox campus in Hay River and fiber route south to Alberta",
-      "published": "2026-08-03T16:00:30.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "UK government approves controversial 5.2MW Truman Brewery data center proposal",
-      "url": "https://www.datacenterdynamics.com/en/news/uk-government-approves-controversial-52mw-truman-brewery-data-center-proposal/",
-      "description": "A win for the Brewery's owner",
-      "published": "2026-08-03T15:46:25.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Yondr Group and Cerberus acquire 40 acres for data center campus in Manassas, Virginia",
-      "url": "https://www.datacenterdynamics.com/en/news/yondr-group-and-cerberus-acquire-40-acres-for-data-center-campus-in-manassas-virginia/",
-      "description": "Will develop a 72MW campus on the site",
-      "published": "2026-08-03T15:40:30.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Case Study: How Stantec achieved 119% improvement in MCF team knowledge",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/case-study-how-stantec-achieved-119-improvement-in-mcf-team-knowledge/",
-      "description": "Building mission-critical capability, at scale",
-      "published": "2026-08-03T15:34:00.000Z"
     },
     {
       "source": "Import AI",
@@ -84,13 +105,6 @@
       "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
       "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money ",
       "published": "2026-08-03T12:08:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Cloud Region Migration: Optimize Costs, Latency, and Compliance",
-      "url": "https://www.datacenterknowledge.com/cloud/cloud-region-migration-optimize-costs-latency-and-compliance",
-      "description": "Cloud region migration helps businesses optimize costs, improve latency, and meet compliance needs. Learn how to plan and execute seamless transitions.",
-      "published": "2026-08-03T09:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
