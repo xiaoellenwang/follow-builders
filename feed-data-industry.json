@@ -1,6 +1,97 @@
 {
-  "generatedAt": "2026-08-05T03:22:24.337Z",
+  "generatedAt": "2026-08-06T03:25:48.233Z",
   "articles": [
+    {
+      "source": "Ars Technica Tech",
+      "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
+      "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
+      "description": "\n                        Baseboard management controllers from the world's biggest manufacturers are a security mess.\n                    ",
+      "published": "2026-08-05T22:35:20.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Power Bottlenecks Push Data Centers Beyond Traditional Hubs",
+      "url": "https://www.datacenterknowledge.com/data-center-site-selection/power-bottlenecks-push-data-centers-beyond-traditional-hubs",
+      "description": "As grid queues grow longer, regulatory hurdles and power constraints are reshaping the site selection playbook.",
+      "published": "2026-08-05T20:31:51.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Asturias government targets data center project in Salas, Spain",
+      "url": "https://www.datacenterdynamics.com/en/news/the-digital-valley-asturias-project-for-a-data-center-in-salas/",
+      "description": "Site will be operational by 2030, and up to 3,000 people will work on its construction, with an investment of €1.226bn",
+      "published": "2026-08-05T15:21:13.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "NSF plans $100m AI Infrastructure Hubs program to boost science R&D",
+      "url": "https://www.datacenterdynamics.com/en/news/national-science-foundation-announces-100m-ai-infrastructure-hubs-program-to-boost-science-rd/",
+      "description": "Initiative aims to address lack of AI infrastructure access in some parts of the US",
+      "published": "2026-08-05T15:21:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Europe Has Built Sovereign AI Infrastructure. It Didn’t Build the Ability to Govern It.",
+      "url": "https://www.datacenterknowledge.com/regulations/europe-has-built-sovereign-ai-infrastructure-it-didn-t-build-the-ability-to-govern-it-",
+      "description": "Converging EU and US regulations now demand demonstrated operational control and individual accountability over AI systems in production – not just compliant paperwork or infrastructure ownership.",
+      "published": "2026-08-05T15:15:13.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Blue Owl-backed Stack buys land in Culpeper County, Virginia",
+      "url": "https://www.datacenterdynamics.com/en/news/blue-owl-backed-stack-buys-land-in-culpeper-county-virginia/",
+      "description": "Company adds to existing Virginia landholdings",
+      "published": "2026-08-05T15:14:48.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: Powering the AI revolution: A grid to chip story",
+      "url": "https://www.datacenterdynamics.com/en/opinions/powering-the-ai-revolution-a-grid-to-chip-story/",
+      "description": "Building the infrastructure of tomorrow requires an entirely new approach that moves far away from bespoke, piecemeal solutions ",
+      "published": "2026-08-05T15:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Puzzle Corner",
+      "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
+      "description": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June ",
+      "published": "2026-08-05T14:56:29.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Duke Energy data center pipeline grows by 2.7GW since Q4 2025",
+      "url": "https://www.datacenterdynamics.com/en/news/duke-energy-data-center-pipeline-grows-by-27gw-since-q4-2025/",
+      "description": "Now has secured 7.6GW worth of electric service agreements with data center firms",
+      "published": "2026-08-05T14:21:35.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "AMD Catches The Agentic AI Wave And Will Ride It Up Masterfully",
+      "url": "https://www.nextplatform.com/compute/2026/08/05/amd-catches-the-agentic-ai-wave-and-will-ride-it-up-masterfully/5283468",
+      "description": "",
+      "published": "2026-08-05T13:59:09.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
+      "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer asteroids   At the end of August, NASA is set to launch the Nancy Grace Roman Space Tele",
+      "published": "2026-08-05T12:10:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "‘GPUs Suck’: Former Intel CEO Slams Data Center Hardware Limitations",
+      "url": "https://www.datacenterknowledge.com/data-center-chips/gpus-suck-former-intel-ceo-slams-data-center-hardware-limitations",
+      "description": "At Ai4, Pat Gelsinger says AI’s future hinges on boosting power efficiency, infrastructure, and economics – not simply deploying more GPUs.",
+      "published": "2026-08-05T09:05:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
+      "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+      "description": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of",
+      "published": "2026-08-05T08:06:40.000Z"
+    },
     {
       "source": "Data Center Knowledge",
       "title": "New Data Center Developments: August 2026",
@@ -9,43 +100,8 @@
       "published": "2026-08-04T18:42:46.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "IonQ and EPB to establish Quantum Communications Research Center in Chattanooga, Tennessee",
-      "url": "https://www.datacenterdynamics.com/en/news/ionq-and-epb-to-establish-quantum-communications-research-center-in-chattanooga-tennessee/",
-      "description": "Announcement comes a year after partners launched the EPB Quantum Center in the same city",
-      "published": "2026-08-04T16:30:28.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Rate of play: How US states are changing the rules around data centers and power",
-      "url": "https://www.datacenterdynamics.com/en/analysis/rate-of-play-how-us-states-are-changing-the-rules-around-data-centers-and-power/",
-      "description": "Data center growth is outstripping the regulations designed to control it. Lawmakers are fighting",
-      "published": "2026-08-04T16:00:32.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "CoreWeave plans to launch 360MW of data center capacity in Indonesia",
-      "url": "https://www.datacenterdynamics.com/en/news/coreweave-plans-to-launch-360mw-of-data-center-capacity-in-indonesia/",
-      "description": "Will be company's first data centers in Asia-Pacific region",
-      "published": "2026-08-04T16:00:31.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Three men caught stealing copper wire from data center construction site in Loudoun County, Virginia",
-      "url": "https://www.datacenterdynamics.com/en/news/three-men-caught-stealing-copper-wire-from-data-center-construction-site-in-loudoun-county-virginia/",
-      "description": "All charged with grand larceny",
-      "published": "2026-08-04T16:00:29.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "AI lab Moonshot leases 20,000 Nvidia GPUs from Alibaba Cloud - report",
-      "url": "https://www.datacenterdynamics.com/en/news/ai-lab-moonshot-leases-20000-nvidia-gpus-from-alibaba-cloud-report/",
-      "description": "Makes up a significant proportion of Moonshot's overall compute capacity for Kimi models",
-      "published": "2026-08-04T15:58:41.000Z"
-    },
-    {
       "source": "MIT Technology Review",
-      "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+      "title": "The Download: US robot restrictions and ICE’s DNA grab",
       "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
       "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics   —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;k",
       "published": "2026-08-04T12:14:00.000Z"
@@ -58,18 +114,11 @@
       "published": "2026-08-04T09:00:00.000Z"
     },
     {
-      "source": "Data Center Knowledge",
-      "title": "Texas Orders Statewide Audit of AI Data Center Projects",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/texas-orders-statewide-audit-of-ai-data-center-projects-in-ercot-queue",
-      "description": "The new directive signals tougher scrutiny of large-load interconnection as AI power demand accelerates.",
-      "published": "2026-08-03T22:42:10.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Samsung Takes Floating Data Center Plans into Engineering Phase",
-      "url": "https://www.datacenterknowledge.com/next-gen-data-centers/samsung-takes-floating-data-center-plans-into-engineering-phase",
-      "description": "Samsung’s floating data centers mark a potential shift toward maritime solutions to meet the rising demands of AI infrastructure.",
-      "published": "2026-08-03T20:45:57.000Z"
+      "source": "The Next Platform",
+      "title": "Why Shouldn’t Amazon Spinoff AWS And Annapurna Labs?",
+      "url": "https://www.nextplatform.com/cloud/2026/08/04/why-shouldnt-amazon-spinoff-aws-and-annapurna-labs/5282586",
+      "description": "",
+      "published": "2026-08-04T04:47:35.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -77,13 +126,6 @@
       "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
       "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. ",
       "published": "2026-08-03T18:43:30.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Building Data Center Infrastructure Requires Trust, Not Just Permits",
-      "url": "https://www.datacenterknowledge.com/data-center-site-selection/building-data-center-infrastructure-requires-trust-not-just-permits",
-      "description": "Data center protests signal a trust gap. Developers must engage communities early to align AI infrastructure with local needs, writes Roshan Shah.",
-      "published": "2026-08-03T18:31:12.000Z"
     },
     {
       "source": "Import AI",
@@ -98,20 +140,6 @@
       "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-281",
       "description": "The Weekly Data Engineering Newsletter",
       "published": "2026-08-03T12:34:40.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
-      "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money ",
-      "published": "2026-08-03T12:08:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Here’s why AI agents lie and cheat to reach their goals",
-      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage",
-      "published": "2026-08-03T08:30:05.000Z"
     }
   ]
 }
