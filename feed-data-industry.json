@@ -1,6 +1,90 @@
 {
-  "generatedAt": "2026-08-06T03:25:48.233Z",
+  "generatedAt": "2026-08-07T03:10:57.708Z",
   "articles": [
+    {
+      "source": "Data Center Knowledge",
+      "title": "Hinton, Fei-Fei Li, and Andrew Ng Clash Over AI Risks and Regulation at Ai4",
+      "url": "https://www.datacenterknowledge.com/regulations/hinton-fei-fei-li-and-andrew-ng-clash-over-ai-risks-jobs-and-regulation-at-ai4",
+      "description": "AI pioneers Geoffrey Hinton, Fei-Fei Li, and Andrew Ng sparred over jobs, regulation, and AI’s future as infrastructure spending continues to surge.",
+      "published": "2026-08-06T16:59:02.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Google Builds A New Gemini Model Team As AI Investments Accelerate",
+      "url": "https://www.nextplatform.com/cloud/2026/08/06/google-builds-a-new-gemini-model-team-as-ai-investments-accelerate/5284258",
+      "description": "",
+      "published": "2026-08-06T16:21:36.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "CoreWeave Enters APAC Data Center Race With Indonesia Expansion",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/coreweave-s-global-ai-infrastructure-push-reaches-asia-pacific",
+      "description": "As AI adoption accelerates across Southeast Asia, CoreWeave’s entry into Indonesia signals a strategic shift toward regional AI infrastructure and sovereign compute.",
+      "published": "2026-08-06T16:19:06.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Can you really make semiconductors in space?",
+      "url": "https://www.datacenterdynamics.com/en/analysis/can-you-really-make-semiconductors-in-space/",
+      "description": "Making chip materials in orbit is an alluring prospect, but there are many hurdles to overcome",
+      "published": "2026-08-06T16:00:35.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Partners Group to invest $1bn in AVK to help scale its microgrid offering for data center market",
+      "url": "https://www.datacenterdynamics.com/en/news/partners-group-to-invest-1bn-in-avk-to-help-scale-its-microgrid-offering-for-data-center-market/",
+      "description": "Takes a majority stake in the firm",
+      "published": "2026-08-06T15:51:34.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Hisdesat contracts Airbus & Thales Alenia Space on SpainSat NG III after NG II disaster",
+      "url": "https://www.datacenterdynamics.com/en/news/hisdesat-contracts-airbus-thales-alenia-space-on-spainsat-ng-iii-after-ng-ii-disaster/",
+      "description": "High-profile government-funded geostationary contract predates the 2027 launch of Airbus, Leonardo, and Thales space giant",
+      "published": "2026-08-06T15:25:17.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Your Platform Was Built For A Different Era, And AI Just Exposed It",
+      "url": "https://www.nextplatform.com/cloud/2026/08/06/your-platform-was-built-for-a-different-era-and-ai-just-exposed-it/5284205",
+      "description": "",
+      "published": "2026-08-06T15:10:12.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Officials in Washington city introduce data center moratorium to try and block 20MW project",
+      "url": "https://www.datacenterdynamics.com/en/news/officials-in-washington-city-introduce-data-center-moratorium-to-try-and-block-20mw-project/",
+      "description": "Unclear if moratorium will apply to Blue Fern's development, however",
+      "published": "2026-08-06T15:00:33.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: Data centers and the social license to build",
+      "url": "https://www.datacenterdynamics.com/en/opinions/data-centers-and-the-social-license-to-build/",
+      "description": "Community and social impact management is not simply a risk to be mitigated, but an opportunity to build the durable trust and maturity the sector will need",
+      "published": "2026-08-06T15:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
+      "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship model",
+      "published": "2026-08-06T12:10:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Do We Really Need Mega Next-Gen Data Center Campuses?",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/do-we-really-need-mega-next-gen-data-center-campuses-",
+      "description": "AI and cloud demand, siting flexibility, and power economics are pushing developers toward multi-building campuses measured in gigawatts.",
+      "published": "2026-08-06T09:00:00.000Z"
+    },
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "On Benchmarking",
+      "url": "https://www.dataengineeringweekly.com/p/on-benchmarking",
+      "description": "Why a throughput number is not an architecture decision.",
+      "published": "2026-08-06T05:07:53.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
@@ -16,20 +100,6 @@
       "published": "2026-08-05T20:31:51.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Asturias government targets data center project in Salas, Spain",
-      "url": "https://www.datacenterdynamics.com/en/news/the-digital-valley-asturias-project-for-a-data-center-in-salas/",
-      "description": "Site will be operational by 2030, and up to 3,000 people will work on its construction, with an investment of €1.226bn",
-      "published": "2026-08-05T15:21:13.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "NSF plans $100m AI Infrastructure Hubs program to boost science R&D",
-      "url": "https://www.datacenterdynamics.com/en/news/national-science-foundation-announces-100m-ai-infrastructure-hubs-program-to-boost-science-rd/",
-      "description": "Initiative aims to address lack of AI infrastructure access in some parts of the US",
-      "published": "2026-08-05T15:21:00.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "Europe Has Built Sovereign AI Infrastructure. It Didn’t Build the Ability to Govern It.",
       "url": "https://www.datacenterknowledge.com/regulations/europe-has-built-sovereign-ai-infrastructure-it-didn-t-build-the-ability-to-govern-it-",
@@ -37,32 +107,11 @@
       "published": "2026-08-05T15:15:13.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Blue Owl-backed Stack buys land in Culpeper County, Virginia",
-      "url": "https://www.datacenterdynamics.com/en/news/blue-owl-backed-stack-buys-land-in-culpeper-county-virginia/",
-      "description": "Company adds to existing Virginia landholdings",
-      "published": "2026-08-05T15:14:48.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: Powering the AI revolution: A grid to chip story",
-      "url": "https://www.datacenterdynamics.com/en/opinions/powering-the-ai-revolution-a-grid-to-chip-story/",
-      "description": "Building the infrastructure of tomorrow requires an entirely new approach that moves far away from bespoke, piecemeal solutions ",
-      "published": "2026-08-05T15:00:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "Puzzle Corner",
       "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
       "description": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June ",
       "published": "2026-08-05T14:56:29.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Duke Energy data center pipeline grows by 2.7GW since Q4 2025",
-      "url": "https://www.datacenterdynamics.com/en/news/duke-energy-data-center-pipeline-grows-by-27gw-since-q4-2025/",
-      "description": "Now has secured 7.6GW worth of electric service agreements with data center firms",
-      "published": "2026-08-05T14:21:35.000Z"
     },
     {
       "source": "The Next Platform",
@@ -79,13 +128,6 @@
       "published": "2026-08-05T12:10:00.000Z"
     },
     {
-      "source": "Data Center Knowledge",
-      "title": "‘GPUs Suck’: Former Intel CEO Slams Data Center Hardware Limitations",
-      "url": "https://www.datacenterknowledge.com/data-center-chips/gpus-suck-former-intel-ceo-slams-data-center-hardware-limitations",
-      "description": "At Ai4, Pat Gelsinger says AI’s future hinges on boosting power efficiency, infrastructure, and economics – not simply deploying more GPUs.",
-      "published": "2026-08-05T09:05:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
       "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
@@ -93,53 +135,11 @@
       "published": "2026-08-05T08:06:40.000Z"
     },
     {
-      "source": "Data Center Knowledge",
-      "title": "New Data Center Developments: August 2026",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/new-data-center-developments-august-2026",
-      "description": "We look at some of the latest data center developments announced over the past month.",
-      "published": "2026-08-04T18:42:46.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: US robot restrictions and ICE’s DNA grab",
       "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
       "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics   —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;k",
       "published": "2026-08-04T12:14:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Build an Autobahn for Zero-Day Defense with Strategic Gateways",
-      "url": "https://www.datacenterknowledge.com/cybersecurity/build-an-autobahn-for-zero-day-defense-with-strategic-gateways",
-      "description": "Organizations with well-designed, centralized gateway architectures can deploy defenses in hours, while those relying on ad hoc approaches must patch each application individually, often taking days or weeks.",
-      "published": "2026-08-04T09:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Why Shouldn’t Amazon Spinoff AWS And Annapurna Labs?",
-      "url": "https://www.nextplatform.com/cloud/2026/08/04/why-shouldnt-amazon-spinoff-aws-and-annapurna-labs/5282586",
-      "description": "",
-      "published": "2026-08-04T04:47:35.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Trump’s AI protectionism has come for robotics",
-      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. ",
-      "published": "2026-08-03T18:43:30.000Z"
-    },
-    {
-      "source": "Import AI",
-      "title": "Import AI 467: Self-sustaining AI viruses; pacing AI progress; confusion about AI and creativity",
-      "url": "https://jack-clark.net/2026/08/03/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/",
-      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Self-sustaining and self-replicating AI viruses are here:…Open weight LLMs + a well-designed harness = a persistent, s",
-      "published": "2026-08-03T13:31:22.000Z"
-    },
-    {
-      "source": "DataEngineeringWeekly",
-      "title": "Data Engineering Weekly #281",
-      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-281",
-      "description": "The Weekly Data Engineering Newsletter",
-      "published": "2026-08-03T12:34:40.000Z"
     }
   ]
 }

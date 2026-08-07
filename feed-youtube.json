@@ -1,4 +1,61 @@
 {
-  "generatedAt": "2026-08-06T03:25:48.233Z",
-  "videos": []
+  "generatedAt": "2026-08-07T03:10:57.708Z",
+  "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Why every social app should be obsessed with teenagers",
+      "url": "https://www.youtube.com/watch?v=kFf3OZtF8n8",
+      "published": "2026-08-06T20:28:33.000Z",
+      "description": "If you're building a consumer social product, Nikita Bier (ex-head of product at X) has one thing to check first: is your user's social graph still growing?"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Founders spend months hunting for ideas",
+      "url": "https://www.youtube.com/watch?v=Meq04ZvZKdc",
+      "published": "2026-08-06T12:13:00.000Z",
+      "description": "Founders spend months hunting for ideas. \n\nNikita Bier (ex-head of product at X) on latent demand and the strongest signal he's ever seen."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Why Instagram Didn't Collapse After Meta's Acquisition | Adam Mosseri (Head of Instagram at Meta)",
+      "url": "https://www.youtube.com/watch?v=mI3LaT0Qlkg",
+      "published": "2026-08-05T21:24:53.000Z",
+      "description": "Why Instagram Didn't Collapse After Meta's Acquisition | Adam Mosseri (Head of Instagram at Meta)"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Humans will keep inventing new reasons why we must stay in the loop with agents",
+      "url": "https://www.youtube.com/watch?v=l32qe0MJGak",
+      "published": "2026-08-05T13:03:51.000Z",
+      "description": "Humans will keep inventing new reasons why we must stay in the loop with agents | Max Schoening (Head of Product at Notion)"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Do teams actually need PMs?",
+      "url": "https://www.youtube.com/watch?v=2aw5xDw-jtY",
+      "published": "2026-08-05T11:00:31.000Z",
+      "description": "Product management is a trade, not a qualification—a muscle built by reps—and every PM hired by default takes those reps away from engineers and designers, “infantilizing” people who are perfectly capable of good decisions but never had the opportunity to make them."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Why so many VPs of product are quietly missing life as an IC",
+      "url": "https://www.youtube.com/watch?v=NZtlNvHR_Sg",
+      "published": "2026-08-04T11:30:10.000Z",
+      "description": "Becoming a VP, sitting in meetings all day sounds like the dream. Until you actually get there.\n\nTom Verrilli (CPO of Whatnot) on why so many VPs of product are quietly missing life as an IC."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Product managers exist because of scale. They are by no means a neccessity.",
+      "url": "https://www.youtube.com/watch?v=gvGFZOkzlUE",
+      "published": "2026-08-03T14:19:22.000Z",
+      "description": "Product managers exist because of scale. They are by no means a necessity.\n\nAfter leading product at Twitch and Twitter, Tom Verrilli (CPO of Whatnot) is rethinking why the role exists at all."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)",
+      "url": "https://www.youtube.com/watch?v=ruvis-VWg2s",
+      "published": "2026-08-02T12:30:29.000Z",
+      "description": "Tom Verrilli is the chief product officer at Whatnot, a live shopping platform that’s become the fastest-growing U.S. marketplace business in history, with over $8 billion in GMV. Before joining Whatnot, Tom was CPO at Twitch and director of product growth at Twitter (during one of the most turbulen"
+    }
+  ]
 }
