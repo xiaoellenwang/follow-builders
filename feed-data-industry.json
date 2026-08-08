@@ -1,6 +1,90 @@
 {
-  "generatedAt": "2026-08-07T03:10:57.708Z",
+  "generatedAt": "2026-08-08T02:08:23.332Z",
   "articles": [
+    {
+      "source": "The Next Platform",
+      "title": "With Taalas, AMD Can Bake AI Inference Directly Into Its Chippery",
+      "url": "https://www.nextplatform.com/compute/2026/08/07/with-taalas-amd-can-bake-ai-inference-directly-into-its-chippery/5285060",
+      "description": "",
+      "published": "2026-08-07T19:22:18.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Why IPv6 Is the Non-Negotiable Foundation for AI-Agentic Systems",
+      "url": "https://www.datacenterknowledge.com/networking/untitled",
+      "description": "IPv6 is the essential foundation for AI, edge computing, and next-gen networks, addressing IPv4’s limitations and strategic risks.",
+      "published": "2026-08-07T19:03:15.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Arm Chips May Get Their Own Virtual RAN Boost",
+      "url": "https://www.datacenterknowledge.com/networking/arm-chips-may-get-their-own-virtual-ran-boost",
+      "description": "With the help of Kenyi, a startup founded by a Qualcomm exec, Arm might finally be able to provide a much-desired rival to Intel in virtual RAN.",
+      "published": "2026-08-07T18:27:03.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "D-Wave Intros Two-Qubit, Error Correcting Gate For Its Dual-Rail Quantum Architecture",
+      "url": "https://www.nextplatform.com/compute/2026/08/07/d-wave-intros-two-qubit-error-correcting-gate-for-its-dual-rail-quantum-architecture/5285007",
+      "description": "",
+      "published": "2026-08-07T17:13:29.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Bridge DC launches prefabricated data center power module",
+      "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
+      "description": "Container contains transformers, power distribution, UPS, and cooling infrastructure",
+      "published": "2026-08-07T17:00:55.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
+      "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
+      "description": "Data center sales of $733 million",
+      "published": "2026-08-07T17:00:40.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Former employees sue Prime Data Centers for $400m, claim compensation fraud",
+      "url": "https://www.datacenterdynamics.com/en/news/former-employees-sue-prime-data-centers-for-400m-claim-compensation-fraud/",
+      "description": "Allege scheme to reduce equity",
+      "published": "2026-08-07T16:44:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "DCD named 'Best B2B Website' at the TABPI 2026 awards",
+      "url": "https://www.datacenterdynamics.com/en/news/dcd-named-best-b2b-website-in-tabpi-2026-awards/",
+      "description": "Also has the best audience",
+      "published": "2026-08-07T16:40:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Trump signs EO imposing 15% tariff on chip and solar panel material polysilicon",
+      "url": "https://www.datacenterdynamics.com/en/news/trump-signs-eo-imposing-15-tariff-on-chip-and-solar-panel-material-polysilicon/",
+      "description": "Comes into effect on December 6",
+      "published": "2026-08-07T15:52:23.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spre",
+      "published": "2026-08-07T14:20:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+      "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+      "description": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.&#160; For months, Elon Musk’s Department of Government Effic",
+      "published": "2026-08-07T14:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Do Data Centers Really Drive Up Local Temperatures?",
+      "url": "https://www.datacenterknowledge.com/sustainability/do-data-centers-really-drive-up-local-temperatures",
+      "description": "Do data centers raise local temperatures? Explore their impact, causes of heat islands, and solutions to minimize environmental effects.",
+      "published": "2026-08-07T09:00:00.000Z"
+    },
     {
       "source": "Data Center Knowledge",
       "title": "Hinton, Fei-Fei Li, and Andrew Ng Clash Over AI Risks and Regulation at Ai4",
@@ -23,27 +107,6 @@
       "published": "2026-08-06T16:19:06.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Can you really make semiconductors in space?",
-      "url": "https://www.datacenterdynamics.com/en/analysis/can-you-really-make-semiconductors-in-space/",
-      "description": "Making chip materials in orbit is an alluring prospect, but there are many hurdles to overcome",
-      "published": "2026-08-06T16:00:35.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Partners Group to invest $1bn in AVK to help scale its microgrid offering for data center market",
-      "url": "https://www.datacenterdynamics.com/en/news/partners-group-to-invest-1bn-in-avk-to-help-scale-its-microgrid-offering-for-data-center-market/",
-      "description": "Takes a majority stake in the firm",
-      "published": "2026-08-06T15:51:34.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Hisdesat contracts Airbus & Thales Alenia Space on SpainSat NG III after NG II disaster",
-      "url": "https://www.datacenterdynamics.com/en/news/hisdesat-contracts-airbus-thales-alenia-space-on-spainsat-ng-iii-after-ng-ii-disaster/",
-      "description": "High-profile government-funded geostationary contract predates the 2027 launch of Airbus, Leonardo, and Thales space giant",
-      "published": "2026-08-06T15:25:17.000Z"
-    },
-    {
       "source": "The Next Platform",
       "title": "Your Platform Was Built For A Different Era, And AI Just Exposed It",
       "url": "https://www.nextplatform.com/cloud/2026/08/06/your-platform-was-built-for-a-different-era-and-ai-just-exposed-it/5284205",
@@ -51,32 +114,11 @@
       "published": "2026-08-06T15:10:12.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Officials in Washington city introduce data center moratorium to try and block 20MW project",
-      "url": "https://www.datacenterdynamics.com/en/news/officials-in-washington-city-introduce-data-center-moratorium-to-try-and-block-20mw-project/",
-      "description": "Unclear if moratorium will apply to Blue Fern's development, however",
-      "published": "2026-08-06T15:00:33.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: Data centers and the social license to build",
-      "url": "https://www.datacenterdynamics.com/en/opinions/data-centers-and-the-social-license-to-build/",
-      "description": "Community and social impact management is not simply a risk to be mitigated, but an opportunity to build the durable trust and maturity the sector will need",
-      "published": "2026-08-06T15:00:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
       "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
       "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship model",
       "published": "2026-08-06T12:10:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Do We Really Need Mega Next-Gen Data Center Campuses?",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/do-we-really-need-mega-next-gen-data-center-campuses-",
-      "description": "AI and cloud demand, siting flexibility, and power economics are pushing developers toward multi-building campuses measured in gigawatts.",
-      "published": "2026-08-06T09:00:00.000Z"
     },
     {
       "source": "DataEngineeringWeekly",
@@ -93,53 +135,11 @@
       "published": "2026-08-05T22:35:20.000Z"
     },
     {
-      "source": "Data Center Knowledge",
-      "title": "Power Bottlenecks Push Data Centers Beyond Traditional Hubs",
-      "url": "https://www.datacenterknowledge.com/data-center-site-selection/power-bottlenecks-push-data-centers-beyond-traditional-hubs",
-      "description": "As grid queues grow longer, regulatory hurdles and power constraints are reshaping the site selection playbook.",
-      "published": "2026-08-05T20:31:51.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Europe Has Built Sovereign AI Infrastructure. It Didn’t Build the Ability to Govern It.",
-      "url": "https://www.datacenterknowledge.com/regulations/europe-has-built-sovereign-ai-infrastructure-it-didn-t-build-the-ability-to-govern-it-",
-      "description": "Converging EU and US regulations now demand demonstrated operational control and individual accountability over AI systems in production – not just compliant paperwork or infrastructure ownership.",
-      "published": "2026-08-05T15:15:13.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "Puzzle Corner",
       "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
       "description": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June ",
       "published": "2026-08-05T14:56:29.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "AMD Catches The Agentic AI Wave And Will Ride It Up Masterfully",
-      "url": "https://www.nextplatform.com/compute/2026/08/05/amd-catches-the-agentic-ai-wave-and-will-ride-it-up-masterfully/5283468",
-      "description": "",
-      "published": "2026-08-05T13:59:09.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
-      "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer asteroids   At the end of August, NASA is set to launch the Nancy Grace Roman Space Tele",
-      "published": "2026-08-05T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
-      "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
-      "description": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of",
-      "published": "2026-08-05T08:06:40.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: US robot restrictions and ICE’s DNA grab",
-      "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics   —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;k",
-      "published": "2026-08-04T12:14:00.000Z"
     }
   ]
 }

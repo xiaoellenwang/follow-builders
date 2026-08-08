@@ -1,18 +1,187 @@
 {
-  "generatedAt": "2026-08-07T03:10:57.708Z",
+  "generatedAt": "2026-08-08T02:08:23.332Z",
   "jobs": [
     {
-      "title": "Solutions Architect(Enterprise AI)",
-      "company": "CLOUDFOX PTE. LTD.",
-      "salary": "S$8,500 – S$12,000",
+      "title": "TECHNICAL MANAGER-- GPU CLOUD & AI INFRASTRUCTURE",
+      "company": "ZY FUTURE INTERNATIONAL PTE. LTD.",
+      "salary": "S$15,000 – S$20,000",
       "type": "Full Time",
       "skills": [
-        "Analysis of Client Requirements",
-        "Cloud Technologies",
+        "Datacenter Virtualization",
+        "Certifications",
+        "Microsoft Cluster"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/25e0f3668954eae19d6c4bb338d9bef3",
+      "posted": "2026-08-08T01:44:40.000Z"
+    },
+    {
+      "title": "Full‑Stack Applied AI Engineer (Agentic AI)",
+      "company": "FLINTEX CONSULTING PTE. LTD.",
+      "salary": "S$7,500 – S$8,500",
+      "type": "Contract",
+      "skills": [
+        "Azure AI",
+        "TensorFlow",
+        "Ai"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/9a95efcf26c84d1ff9db74ec3a234744",
+      "posted": "2026-08-07T10:52:15.000Z"
+    },
+    {
+      "title": "AI Senior Solution Specialist",
+      "company": "MARSH (SINGAPORE) PTE. LTD.",
+      "salary": "S$9,000 – S$13,000",
+      "type": "Full Time",
+      "skills": [
+        "Enterprise Software Industry",
+        "Scala",
+        "AI Governance"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/28a56f53e215ca022f9bdd727c21bd39",
+      "posted": "2026-08-07T10:00:23.000Z"
+    },
+    {
+      "title": "(Staff/ Sr. Staff) Machine Learning Engineer",
+      "company": "OMNIVISION TECHNOLOGIES SINGAPORE PTE. LTD.",
+      "salary": "S$9,000 – S$15,000",
+      "type": "Full Time",
+      "skills": [
+        "Computer Engineering",
+        "Compiler",
+        "Android NDK"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/6b7aa5b7673f53fb13caa4a7bfc72a34",
+      "posted": "2026-08-07T08:40:43.000Z"
+    },
+    {
+      "title": "Data Scientist (AI Applications)",
+      "company": "CAPITALMASTER PTE. LTD.",
+      "salary": "S$5,000 – S$7,000",
+      "type": "Full Time",
+      "skills": [
+        "Data Quality Checks",
+        "Machine Learning",
+        "Dashboards"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/bb49c0531263ba54d6ae3be3ebc508cd",
+      "posted": "2026-08-07T08:39:43.000Z"
+    },
+    {
+      "title": "Data Engineer (AWS)",
+      "company": "TALENTVIS SINGAPORE PTE. LTD.",
+      "salary": "S$6,500 – S$8,300",
+      "type": "Contract",
+      "skills": [
+        "Teamwork",
+        "Scala",
+        "Data Pipeline"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/5f3042de18291fa6659e24367aba5e56",
+      "posted": "2026-08-07T08:17:48.000Z"
+    },
+    {
+      "title": "Senior Machine Learning Engineer - Perception",
+      "company": "MOTIONAL SINGAPORE PTE. LIMITED",
+      "salary": "S$9,000 – S$16,000",
+      "type": "Permanent",
+      "skills": [
+        "Sensor Fusion",
+        "Deep Learning",
+        "TensorFlow"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/7cd24a8e7b53397fc1178417f7529a96",
+      "posted": "2026-08-07T08:07:51.000Z"
+    },
+    {
+      "title": "AWS Data Engineer",
+      "company": "ITCAN PTE. LIMITED",
+      "salary": "S$6,000 – S$10,000",
+      "type": "Full Time",
+      "skills": [
+        "Data Storage",
+        "Stream Processing",
+        "AWS"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/66150203f8e33ed975e4362f891184f1",
+      "posted": "2026-08-07T07:40:07.000Z"
+    },
+    {
+      "title": "Lawyer, Legal AI & Innovation",
+      "company": "MICHAEL PAGE INTERNATIONAL PTE LTD",
+      "salary": "S$15,000 – S$16,667",
+      "type": "Full Time",
+      "skills": [
+        "Ensuring Client Satisfaction",
+        "Partnership Sales",
+        "Pre-Sales Support"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/578b858926630bb2c7fa5238d56abef6",
+      "posted": "2026-08-07T07:31:47.000Z"
+    },
+    {
+      "title": "AI Engineer (LLM) (2 years contract)",
+      "company": "MICHAEL PAGE INTERNATIONAL PTE LTD",
+      "salary": "S$12,000 – S$15,000",
+      "type": "Temporary",
+      "skills": [
+        "TensorFlow",
+        "Ai",
         "Workflow Automation"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/cd3cb486606a03a4496b3a16646e452f",
-      "posted": "2026-08-07T03:08:48.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/7285df342b3f34a5575b6d01bb20a4f3",
+      "posted": "2026-08-07T07:28:58.000Z"
+    },
+    {
+      "title": "Data Scientist - AI-Enablement (Public Sector)",
+      "company": "WEBSPARKS PTE. LTD.",
+      "salary": "S$7,000 – S$10,000",
+      "type": "Contract",
+      "skills": [
+        "Information Retrieval",
+        "Machine Learning",
+        "Search"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/c63941cc094370c69629eb7ec0522882",
+      "posted": "2026-08-07T06:30:44.000Z"
+    },
+    {
+      "title": "Backend Engineer, AI",
+      "company": "TECHKNOWLEDGEY PTE. LTD.",
+      "salary": "S$8,000 – S$12,000",
+      "type": "Permanent",
+      "skills": [
+        "Multi-Agent Systems",
+        "systems reliability",
+        "Web Caching"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/9817949fab7756230b00637114575a5f",
+      "posted": "2026-08-07T06:21:05.000Z"
+    },
+    {
+      "title": "Data Engineer",
+      "company": "MICHAEL PAGE (PERSONNEL) PTE. LTD.",
+      "salary": "S$5,500 – S$6,500",
+      "type": "Full Time",
+      "skills": [
+        "Application Insights",
+        "Liaising with cross functional teams",
+        "Analytics Support"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/3586b74adecd7fbaf64d43a21298651d",
+      "posted": "2026-08-07T05:56:26.000Z"
+    },
+    {
+      "title": "Senior Applied AI Engineer",
+      "company": "CLOUDFOX PTE. LTD.",
+      "salary": "S$8,500 – S$14,500",
+      "type": "Full Time",
+      "skills": [
+        "API Development",
+        "Applications Development Management",
+        "Retrieval-Augmented Generation (RAG)"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/08bd45e0655a21cae71cbe54aeb9ed95",
+      "posted": "2026-08-07T05:28:03.000Z"
     },
     {
       "title": "AI Evaluation Engineer",
@@ -26,175 +195,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/ecc010a3ea2a2982959e0a198ae29c38",
       "posted": "2026-08-07T03:04:45.000Z"
-    },
-    {
-      "title": "AI Engineer",
-      "company": "RECRUIT EXPRESS PTE LTD",
-      "salary": "S$3,800 – S$7,600",
-      "type": "Contract",
-      "skills": [
-        "Code Generation",
-        "Ai",
-        "Retrieval-Augmented Generation (RAG)"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/3a54655946f913964729c44f102626e6",
-      "posted": "2026-08-07T02:55:07.000Z"
-    },
-    {
-      "title": "DevOps Engineer (AI Platform)DevOps Engineer",
-      "company": "GOLDTECH RESOURCES PTE LTD",
-      "salary": "S$6,500 – S$8,500",
-      "type": "Contract",
-      "skills": [
-        "Design",
-        "Terraform",
-        "Computer Engineering"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/4cc86f67eecb2fdb45ee0ed2dcc0336f",
-      "posted": "2026-08-07T02:47:01.000Z"
-    },
-    {
-      "title": "AI Engineer",
-      "company": "ARGYLL SCOTT CONSULTING PTE. LTD.",
-      "salary": "S$7,000 – S$13,000",
-      "type": "Contract",
-      "skills": [
-        "Ai",
-        "Retrieval-Augmented Generation (RAG)",
-        "Design"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/fae4895c781eb63fc85e1f2f7964f82a",
-      "posted": "2026-08-07T02:27:46.000Z"
-    },
-    {
-      "title": "AI Solution Analyst",
-      "company": "DUOTECH PTE. LTD.",
-      "salary": "S$3,500 – S$6,200",
-      "type": "Permanent",
-      "skills": [
-        "Ai",
-        "Use cases",
-        "AI Ethics"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/e352a77ce6b3c31cb54a318df45f7aaf",
-      "posted": "2026-08-07T02:08:29.000Z"
-    },
-    {
-      "title": "Software Engineer (AI Systems), Centralised Skills Assessment and Validation Initiative (CSAVI)",
-      "company": "SINGAPORE INSTITUTE OF TECHNOLOGY",
-      "salary": "S$4,200 – S$6,000",
-      "type": "Contract",
-      "skills": [
-        "Django web framework",
-        "AWS",
-        "REST APIs development"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/5ff78ff22961a2622c9882b701769624",
-      "posted": "2026-08-07T02:06:28.000Z"
-    },
-    {
-      "title": "AWS Data Engineer - KT",
-      "company": "DCI CONSULTANTS PRIVATE LIMITED",
-      "salary": "S$5,000 – S$8,000",
-      "type": "Contract",
-      "skills": [
-        "data uploads",
-        "Provides Support",
-        "Amazon S3"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/56643d19243a56cedce0595c37479483",
-      "posted": "2026-08-07T02:06:23.000Z"
-    },
-    {
-      "title": "Full Stack AI Engineer (Generative AI) — Singapore",
-      "company": "BEATHCHAPMAN (PTE. LTD.)",
-      "salary": "S$13,000 – S$13,000",
-      "type": "Permanent",
-      "skills": [
-        "Azure AI",
-        "Foundations",
-        "Enterprise IT Infrastructure"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/11f7a4a63e2fd5a4d31bb60f9a6305f6",
-      "posted": "2026-08-07T01:02:51.000Z"
-    },
-    {
-      "title": "Data Scientist - AI & ML",
-      "company": "RAPSYS TECHNOLOGIES PTE. LTD.",
-      "salary": "S$5,000 – S$7,000",
-      "type": "Contract",
-      "skills": [
-        "Tableau",
-        "TensorFlow",
-        "Machine Learning"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/0b43c57f6c2e78d941b1412b0541ba75",
-      "posted": "2026-08-06T13:56:31.000Z"
-    },
-    {
-      "title": "Data Scientist-in Python, Nifi, Airflow, SQL,pandas, numpy, scikit-learn, TensorFlow, PyTorch,MLOps ,AWS,Databricks",
-      "company": "RAPSYS TECHNOLOGIES PTE. LTD.",
-      "salary": "S$7,500 – S$8,500",
-      "type": "Contract",
-      "skills": [
-        "Snowflake Cloud Data Warehouse",
-        "TensorFlow",
-        "Ai"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/251aa09ec6ce6dec7a4fbf75e57bd2f4",
-      "posted": "2026-08-06T13:28:09.000Z"
-    },
-    {
-      "title": "AI Engineer",
-      "company": "MERIDIAN & SATURN CAPITAL PTE. LTD.",
-      "salary": "S$5,000 – S$10,000",
-      "type": "Full Time",
-      "skills": [
-        "TensorFlow",
-        "Machine Learning",
-        "Derivatives"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/abd9ebfb0a72b3009ad37fad8c762908",
-      "posted": "2026-08-06T08:24:31.000Z"
-    },
-    {
-      "title": "AI Engineer",
-      "company": "KRYJAS PRIVATE LIMITED",
-      "salary": "S$6,000 – S$8,500",
-      "type": "Contract",
-      "skills": [
-        "Chatbot",
-        "Liaising with cross functional teams",
-        "Vector Search"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/dada95dae1ced9bf670cacfe9bfc30d4",
-      "posted": "2026-08-06T06:37:28.000Z"
-    },
-    {
-      "title": "Artificial Intelligence (AI) Engineer (Computer Vision)",
-      "company": "PC PARTNER TECHNOLOGY PTE. LIMITED",
-      "salary": "S$5,000 – S$7,000",
-      "type": "Full Time",
-      "skills": [
-        "TensorFlow",
-        "Machine Learning",
-        "Hardware"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/cf90cb0931784296eb79467eea1d1f0d",
-      "posted": "2026-08-06T06:27:12.000Z"
-    },
-    {
-      "title": "Data Scientist Intern (AI & Automation)",
-      "company": "ESGPEDIA PTE. LTD.",
-      "salary": "S$1,200 – S$1,500",
-      "type": "Internship/Attachment",
-      "skills": [
-        "Machine Learning",
-        "Technical Analysis",
-        "Data Analysis"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/397782a36e13f0345d32f9ecc8e4301f",
-      "posted": "2026-08-06T05:06:18.000Z"
     }
   ]
 }
