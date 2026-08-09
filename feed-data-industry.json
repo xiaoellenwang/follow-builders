@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-08-08T02:08:23.332Z",
+  "generatedAt": "2026-08-09T02:20:20.605Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: How high-performance coatings accelerate AI data center construction",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/how-high-performance-coatings-accelerate-ai-data-center-construction/",
+      "description": "As modular construction accelerates, coatings are helping improve speed, reliability, safety, and sustainability across the data center lifecycle",
+      "published": "2026-08-08T07:00:00.000Z"
+    },
     {
       "source": "The Next Platform",
       "title": "With Taalas, AMD Can Bake AI Inference Directly Into Its Chippery",
@@ -56,13 +63,6 @@
       "url": "https://www.datacenterdynamics.com/en/news/dcd-named-best-b2b-website-in-tabpi-2026-awards/",
       "description": "Also has the best audience",
       "published": "2026-08-07T16:40:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Trump signs EO imposing 15% tariff on chip and solar panel material polysilicon",
-      "url": "https://www.datacenterdynamics.com/en/news/trump-signs-eo-imposing-15-tariff-on-chip-and-solar-panel-material-polysilicon/",
-      "description": "Comes into effect on December 6",
-      "published": "2026-08-07T15:52:23.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -126,20 +126,6 @@
       "url": "https://www.dataengineeringweekly.com/p/on-benchmarking",
       "description": "Why a throughput number is not an architecture decision.",
       "published": "2026-08-06T05:07:53.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
-      "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
-      "description": "\n                        Baseboard management controllers from the world's biggest manufacturers are a security mess.\n                    ",
-      "published": "2026-08-05T22:35:20.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Puzzle Corner",
-      "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
-      "description": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June ",
-      "published": "2026-08-05T14:56:29.000Z"
     }
   ]
 }

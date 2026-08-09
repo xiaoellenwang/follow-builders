@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-08-08T02:08:23.332Z",
+  "generatedAt": "2026-08-09T02:20:20.605Z",
   "jobs": [
+    {
+      "title": "Senior Full Stack Engineer – AI-Assisted Development",
+      "company": "CMC-APAC PRIVATE LIMITED",
+      "salary": "S$6,000 – S$7,000",
+      "type": "Full Time",
+      "skills": [
+        "Liaising with cross functional teams",
+        "Git",
+        "Design"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/fd1fea6c17df67a5ad9fa22b917b7e5d",
+      "posted": "2026-08-08T12:19:27.000Z"
+    },
     {
       "title": "TECHNICAL MANAGER-- GPU CLOUD & AI INFRASTRUCTURE",
       "company": "ZY FUTURE INTERNATIONAL PTE. LTD.",
@@ -156,19 +169,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/9817949fab7756230b00637114575a5f",
       "posted": "2026-08-07T06:21:05.000Z"
-    },
-    {
-      "title": "Data Engineer",
-      "company": "MICHAEL PAGE (PERSONNEL) PTE. LTD.",
-      "salary": "S$5,500 – S$6,500",
-      "type": "Full Time",
-      "skills": [
-        "Application Insights",
-        "Liaising with cross functional teams",
-        "Analytics Support"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/3586b74adecd7fbaf64d43a21298651d",
-      "posted": "2026-08-07T05:56:26.000Z"
     },
     {
       "title": "Senior Applied AI Engineer",
