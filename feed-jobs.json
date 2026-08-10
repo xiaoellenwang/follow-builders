@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-08-09T02:20:20.605Z",
+  "generatedAt": "2026-08-10T02:25:24.210Z",
   "jobs": [
+    {
+      "title": "AI Solutions Engineer (Enterprise Clients - HK & SG)",
+      "company": "EV SEARCH PTE. LTD.",
+      "salary": "S$20,000 – S$30,000",
+      "type": "Permanent",
+      "skills": [
+        "Workflow Automation",
+        "Agents",
+        "Foundation Design"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/298fd9163909036b739ab625a88f53ec",
+      "posted": "2026-08-09T08:06:38.000Z"
+    },
+    {
+      "title": "AI & Automation Specialist (Audit Firm/Platform Engineer) | S$5,000 basic + bonus",
+      "company": "RECRUIT NOW SINGAPORE PTE. LTD.",
+      "salary": "S$4,500 – S$5,500",
+      "type": "Permanent",
+      "skills": [
+        "Ai",
+        "Management Supervision",
+        "AI Agents"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/2f6972c745d25c6090edd1983ed05a73",
+      "posted": "2026-08-09T05:52:48.000Z"
+    },
     {
       "title": "Senior Full Stack Engineer – AI-Assisted Development",
       "company": "CMC-APAC PRIVATE LIMITED",
@@ -169,32 +195,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/9817949fab7756230b00637114575a5f",
       "posted": "2026-08-07T06:21:05.000Z"
-    },
-    {
-      "title": "Senior Applied AI Engineer",
-      "company": "CLOUDFOX PTE. LTD.",
-      "salary": "S$8,500 – S$14,500",
-      "type": "Full Time",
-      "skills": [
-        "API Development",
-        "Applications Development Management",
-        "Retrieval-Augmented Generation (RAG)"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/08bd45e0655a21cae71cbe54aeb9ed95",
-      "posted": "2026-08-07T05:28:03.000Z"
-    },
-    {
-      "title": "AI Evaluation Engineer",
-      "company": "ALLEGIS GROUP SINGAPORE PRIVATE LIMITED",
-      "salary": "S$6,000 – S$12,000",
-      "type": "Contract",
-      "skills": [
-        "Logical Reasoning",
-        "Representation Learning",
-        "Strategy Development"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/ecc010a3ea2a2982959e0a198ae29c38",
-      "posted": "2026-08-07T03:04:45.000Z"
     }
   ]
 }

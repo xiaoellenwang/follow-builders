@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-09T02:20:20.605Z",
+  "generatedAt": "2026-08-10T02:25:24.210Z",
   "articles": [
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "Data Engineering Weekly #282",
+      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-282",
+      "description": "The Weekly Data Engineering Newsletter",
+      "published": "2026-08-10T01:21:26.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Community benefit agreements are essential to data center success",
+      "url": "https://www.datacenterdynamics.com/en/opinions/community-benefit-agreements-are-essential-to-data-center-success/",
+      "description": "The roadmap to being a good neighbor",
+      "published": "2026-08-09T13:00:24.000Z"
+    },
     {
       "source": "Data Center Dynamics",
       "title": "Sponsored: How high-performance coatings accelerate AI data center construction",
@@ -58,13 +72,6 @@
       "published": "2026-08-07T16:44:00.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "DCD named 'Best B2B Website' at the TABPI 2026 awards",
-      "url": "https://www.datacenterdynamics.com/en/news/dcd-named-best-b2b-website-in-tabpi-2026-awards/",
-      "description": "Also has the best audience",
-      "published": "2026-08-07T16:40:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
       "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
@@ -84,48 +91,6 @@
       "url": "https://www.datacenterknowledge.com/sustainability/do-data-centers-really-drive-up-local-temperatures",
       "description": "Do data centers raise local temperatures? Explore their impact, causes of heat islands, and solutions to minimize environmental effects.",
       "published": "2026-08-07T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Hinton, Fei-Fei Li, and Andrew Ng Clash Over AI Risks and Regulation at Ai4",
-      "url": "https://www.datacenterknowledge.com/regulations/hinton-fei-fei-li-and-andrew-ng-clash-over-ai-risks-jobs-and-regulation-at-ai4",
-      "description": "AI pioneers Geoffrey Hinton, Fei-Fei Li, and Andrew Ng sparred over jobs, regulation, and AI’s future as infrastructure spending continues to surge.",
-      "published": "2026-08-06T16:59:02.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Google Builds A New Gemini Model Team As AI Investments Accelerate",
-      "url": "https://www.nextplatform.com/cloud/2026/08/06/google-builds-a-new-gemini-model-team-as-ai-investments-accelerate/5284258",
-      "description": "",
-      "published": "2026-08-06T16:21:36.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "CoreWeave Enters APAC Data Center Race With Indonesia Expansion",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/coreweave-s-global-ai-infrastructure-push-reaches-asia-pacific",
-      "description": "As AI adoption accelerates across Southeast Asia, CoreWeave’s entry into Indonesia signals a strategic shift toward regional AI infrastructure and sovereign compute.",
-      "published": "2026-08-06T16:19:06.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Your Platform Was Built For A Different Era, And AI Just Exposed It",
-      "url": "https://www.nextplatform.com/cloud/2026/08/06/your-platform-was-built-for-a-different-era-and-ai-just-exposed-it/5284205",
-      "description": "",
-      "published": "2026-08-06T15:10:12.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
-      "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship model",
-      "published": "2026-08-06T12:10:00.000Z"
-    },
-    {
-      "source": "DataEngineeringWeekly",
-      "title": "On Benchmarking",
-      "url": "https://www.dataengineeringweekly.com/p/on-benchmarking",
-      "description": "Why a throughput number is not an architecture decision.",
-      "published": "2026-08-06T05:07:53.000Z"
     }
   ]
 }
