@@ -1,96 +1,103 @@
 {
-  "generatedAt": "2026-08-10T02:25:24.210Z",
+  "generatedAt": "2026-08-11T02:18:51.715Z",
   "articles": [
+    {
+      "source": "Data Center Knowledge",
+      "title": "Why Data Center Development Is Facing a Legal Reckoning",
+      "url": "https://www.datacenterknowledge.com/regulations/why-data-center-development-is-facing-a-legal-reckoning",
+      "description": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
+      "published": "2026-08-10T22:13:31.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "AI professors are negotiating the new realities of academic research",
+      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising",
+      "published": "2026-08-10T20:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Hyundai Heavy Industries signs 1GW natural gas engine supply deal with unnamed US data center developer",
+      "url": "https://www.datacenterdynamics.com/en/news/hyundai-heavy-industries-signs-1gw-natural-gas-engine-supply-deal-with-unnamed-us-data-center-developer/",
+      "description": "Worth a reported $675.6m",
+      "published": "2026-08-10T16:40:24.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Data center opens on tribal lands in California to support fiber network",
+      "url": "https://www.datacenterdynamics.com/en/news/data-center-opens-on-tribal-lands-in-california-to-support-fiber-network/",
+      "description": "Hoopa Valley people launch new facility",
+      "published": "2026-08-10T16:30:27.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Alabama city considers data center moratorium, could kill Edged project",
+      "url": "https://www.datacenterdynamics.com/en/news/alabama-city-considers-data-center-moratorium-could-kill-edged-project/",
+      "description": "Edged aiming to build 8MW facility at site of former 911 data center in Prichard",
+      "published": "2026-08-10T16:20:26.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Energy Vault signs 1.25GW power supply deal with Texas data center developer",
+      "url": "https://www.datacenterdynamics.com/en/news/energy-vault-signs-125gw-power-supply-deal-with-texas-data-center-developer/",
+      "description": "Largest deal to date for the energy storage firm",
+      "published": "2026-08-10T16:10:21.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Array Digital Infrastructure reports 95% increase in site rental revenue, remains patient with C-band spectrum holdings",
+      "url": "https://www.datacenterdynamics.com/en/news/array-digital-infrastructure-reports-95-increase-in-site-rental-revenue-remains-patient-with-c-band-spectrum-holdings/",
+      "description": "A sale of its C-band spectrum won't come straight away",
+      "published": "2026-08-10T15:50:29.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "As AI Networks Scale In Three Directions, So Does Arista",
+      "url": "https://www.nextplatform.com/connect/2026/08/10/as-ai-networks-scale-in-three-directions-so-does-arista/5285500",
+      "description": "",
+      "published": "2026-08-10T14:11:32.000Z"
+    },
+    {
+      "source": "Import AI",
+      "title": "Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing",
+      "url": "https://jack-clark.net/2026/08/10/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/",
+      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Want to be able to deal with RSI? Here are 23 actionable policy ideas:…IFP serves up some “low-regret” policy recommen",
+      "published": "2026-08-10T12:32:20.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
+      "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who lea",
+      "published": "2026-08-10T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "AI for science needs reasoning, not just data",
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "description": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. Wi",
+      "published": "2026-08-10T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "These startups are chasing the next big thing in LLMs",
+      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "description": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they des",
+      "published": "2026-08-10T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Ofgem Fee Aims to Clear Grid Queue – Who Benefits?",
+      "url": "https://www.datacenterknowledge.com/regulations/ofgem-fee-aims-to-clear-grid-queue-who-benefits-",
+      "description": "The policy shifts grid access from chronological priority to proof of viability, potentially forcing smaller developers to pursue alternative strategies.",
+      "published": "2026-08-10T09:00:00.000Z"
+    },
     {
       "source": "DataEngineeringWeekly",
       "title": "Data Engineering Weekly #282",
       "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-282",
       "description": "The Weekly Data Engineering Newsletter",
       "published": "2026-08-10T01:21:26.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Community benefit agreements are essential to data center success",
-      "url": "https://www.datacenterdynamics.com/en/opinions/community-benefit-agreements-are-essential-to-data-center-success/",
-      "description": "The roadmap to being a good neighbor",
-      "published": "2026-08-09T13:00:24.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: How high-performance coatings accelerate AI data center construction",
-      "url": "https://www.datacenterdynamics.com/en/marketwatch/how-high-performance-coatings-accelerate-ai-data-center-construction/",
-      "description": "As modular construction accelerates, coatings are helping improve speed, reliability, safety, and sustainability across the data center lifecycle",
-      "published": "2026-08-08T07:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "With Taalas, AMD Can Bake AI Inference Directly Into Its Chippery",
-      "url": "https://www.nextplatform.com/compute/2026/08/07/with-taalas-amd-can-bake-ai-inference-directly-into-its-chippery/5285060",
-      "description": "",
-      "published": "2026-08-07T19:22:18.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Why IPv6 Is the Non-Negotiable Foundation for AI-Agentic Systems",
-      "url": "https://www.datacenterknowledge.com/networking/untitled",
-      "description": "IPv6 is the essential foundation for AI, edge computing, and next-gen networks, addressing IPv4’s limitations and strategic risks.",
-      "published": "2026-08-07T19:03:15.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Arm Chips May Get Their Own Virtual RAN Boost",
-      "url": "https://www.datacenterknowledge.com/networking/arm-chips-may-get-their-own-virtual-ran-boost",
-      "description": "With the help of Kenyi, a startup founded by a Qualcomm exec, Arm might finally be able to provide a much-desired rival to Intel in virtual RAN.",
-      "published": "2026-08-07T18:27:03.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "D-Wave Intros Two-Qubit, Error Correcting Gate For Its Dual-Rail Quantum Architecture",
-      "url": "https://www.nextplatform.com/compute/2026/08/07/d-wave-intros-two-qubit-error-correcting-gate-for-its-dual-rail-quantum-architecture/5285007",
-      "description": "",
-      "published": "2026-08-07T17:13:29.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Bridge DC launches prefabricated data center power module",
-      "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
-      "description": "Container contains transformers, power distribution, UPS, and cooling infrastructure",
-      "published": "2026-08-07T17:00:55.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
-      "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-      "description": "Data center sales of $733 million",
-      "published": "2026-08-07T17:00:40.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Former employees sue Prime Data Centers for $400m, claim compensation fraud",
-      "url": "https://www.datacenterdynamics.com/en/news/former-employees-sue-prime-data-centers-for-400m-claim-compensation-fraud/",
-      "description": "Allege scheme to reduce equity",
-      "published": "2026-08-07T16:44:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spre",
-      "published": "2026-08-07T14:20:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-      "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
-      "description": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.&#160; For months, Elon Musk’s Department of Government Effic",
-      "published": "2026-08-07T14:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Do Data Centers Really Drive Up Local Temperatures?",
-      "url": "https://www.datacenterknowledge.com/sustainability/do-data-centers-really-drive-up-local-temperatures",
-      "description": "Do data centers raise local temperatures? Explore their impact, causes of heat islands, and solutions to minimize environmental effects.",
-      "published": "2026-08-07T09:00:00.000Z"
     }
   ]
 }
