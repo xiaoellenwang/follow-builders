@@ -1,6 +1,97 @@
 {
-  "generatedAt": "2026-08-11T02:18:51.715Z",
+  "generatedAt": "2026-08-12T02:33:40.743Z",
   "articles": [
+    {
+      "source": "Ars Technica Tech",
+      "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+      "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+      "description": "\n                        FBI Atlanta confirms it's looking into the incident, no arrests made.\n                    ",
+      "published": "2026-08-12T00:08:40.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Chrome adopts what may be the best protection yet against account takeovers",
+      "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+      "description": "\n                        Device-bound session credentials thwart an increasingly common form of account takeover.\n                    ",
+      "published": "2026-08-11T20:59:52.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "AWS Data Center Withdrawal Signals Growing Political, Community Challenges",
+      "url": "https://www.datacenterknowledge.com/data-center-site-selection/aws-data-center-withdrawal-signals-growing-political-community-challenges",
+      "description": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
+      "published": "2026-08-11T18:34:58.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "How the “censorship-industrial complex” is changing the Internet and US policy",
+      "url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
+      "description": "I first heard the term “censorship-industrial complex” on April 15, 2025.&#160; That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing imminent shutdown—the ne",
+      "published": "2026-08-11T17:58:57.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Arista smashes revenue records with $3bn+; CEO bullish on supply chain overhaul",
+      "url": "https://www.datacenterdynamics.com/en/news/arista-smashes-revenue-records-with-3bn-ceo-bullish-on-supply-chain-overhaul/",
+      "description": "Multi-year purchase commitments triple as Arista tightens supply to push further into non-Nvidia accelerator networking",
+      "published": "2026-08-11T16:30:28.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Nvidia AI interconnect darling Point2 bags $136m funding from Arm, others",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-ai-interconnect-darling-point2-bags-136m-funding-from-arm-others/",
+      "description": "Data center interconnect disruptor Point2 Technology celebrates Series B success",
+      "published": "2026-08-11T16:16:12.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Iraq's CMC pushes to shut down Korek Telecom's mobile network",
+      "url": "https://www.datacenterdynamics.com/en/news/iraqs-cmc-pushes-to-shut-down-korek-telecoms-mobile-network/",
+      "description": "Korek hits back, says the CMC doesn't have the authority do so",
+      "published": "2026-08-11T16:10:39.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "AI data center developer 5C secures half a billion dollars in new financing",
+      "url": "https://www.datacenterdynamics.com/en/news/ai-data-center-developer-5c-secures-half-a-billion-dollars-in-new-financing/",
+      "description": "Funds will be used to develop existing project pipeline",
+      "published": "2026-08-11T15:44:08.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Australia’s CDC mulls new data center in New Zealand",
+      "url": "https://www.datacenterdynamics.com/en/news/australias-cdc-mulls-new-data-center-in-new-zealand/",
+      "description": "Partners with Contact Energy on the potential project",
+      "published": "2026-08-11T15:40:03.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "SpaceX Plans to Power $16.8B Terafab Without the Grid",
+      "url": "https://www.datacenterknowledge.com/infrastructure/spacex-plans-to-power-16-8b-terafab-without-the-grid",
+      "description": "SpaceX plans to power its massive Texas chip campus with onsite generation and batteries rather than the grid, according to a signed county agreement.",
+      "published": "2026-08-11T12:18:22.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+      "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks h",
+      "published": "2026-08-11T12:10:00.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
+      "url": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
+      "description": "\n                        Why passkey apps treat Windows differently than other operating systems. \n                    ",
+      "published": "2026-08-11T11:30:08.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Will Edge AI Make AI Data Centers Less Relevant?",
+      "url": "https://www.datacenterknowledge.com/edge-data-centers/will-edge-ai-make-ai-data-centers-less-relevant-",
+      "description": "While edge AI spending is growing rapidly, practical considerations like economies of scale, physical security, and operational efficiency ensure that AI data centers remain critical infrastructure.",
+      "published": "2026-08-11T09:00:00.000Z"
+    },
     {
       "source": "Data Center Knowledge",
       "title": "Why Data Center Development Is Facing a Legal Reckoning",
@@ -14,48 +105,6 @@
       "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
       "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising",
       "published": "2026-08-10T20:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Hyundai Heavy Industries signs 1GW natural gas engine supply deal with unnamed US data center developer",
-      "url": "https://www.datacenterdynamics.com/en/news/hyundai-heavy-industries-signs-1gw-natural-gas-engine-supply-deal-with-unnamed-us-data-center-developer/",
-      "description": "Worth a reported $675.6m",
-      "published": "2026-08-10T16:40:24.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Data center opens on tribal lands in California to support fiber network",
-      "url": "https://www.datacenterdynamics.com/en/news/data-center-opens-on-tribal-lands-in-california-to-support-fiber-network/",
-      "description": "Hoopa Valley people launch new facility",
-      "published": "2026-08-10T16:30:27.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Alabama city considers data center moratorium, could kill Edged project",
-      "url": "https://www.datacenterdynamics.com/en/news/alabama-city-considers-data-center-moratorium-could-kill-edged-project/",
-      "description": "Edged aiming to build 8MW facility at site of former 911 data center in Prichard",
-      "published": "2026-08-10T16:20:26.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Energy Vault signs 1.25GW power supply deal with Texas data center developer",
-      "url": "https://www.datacenterdynamics.com/en/news/energy-vault-signs-125gw-power-supply-deal-with-texas-data-center-developer/",
-      "description": "Largest deal to date for the energy storage firm",
-      "published": "2026-08-10T16:10:21.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Array Digital Infrastructure reports 95% increase in site rental revenue, remains patient with C-band spectrum holdings",
-      "url": "https://www.datacenterdynamics.com/en/news/array-digital-infrastructure-reports-95-increase-in-site-rental-revenue-remains-patient-with-c-band-spectrum-holdings/",
-      "description": "A sale of its C-band spectrum won't come straight away",
-      "published": "2026-08-10T15:50:29.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "As AI Networks Scale In Three Directions, So Does Arista",
-      "url": "https://www.nextplatform.com/connect/2026/08/10/as-ai-networks-scale-in-three-directions-so-does-arista/5285500",
-      "description": "",
-      "published": "2026-08-10T14:11:32.000Z"
     },
     {
       "source": "Import AI",
@@ -76,13 +125,6 @@
       "title": "AI for science needs reasoning, not just data",
       "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
       "description": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. Wi",
-      "published": "2026-08-10T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "These startups are chasing the next big thing in LLMs",
-      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-      "description": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they des",
       "published": "2026-08-10T09:00:00.000Z"
     },
     {
