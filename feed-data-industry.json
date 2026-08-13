@@ -1,6 +1,90 @@
 {
-  "generatedAt": "2026-08-12T02:33:40.743Z",
+  "generatedAt": "2026-08-13T02:35:15.705Z",
   "articles": [
+    {
+      "source": "Ars Technica Tech",
+      "title": "Terabytes of credentials leaked in massive supply-chain attack",
+      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+      "description": "\n                        The data was scraped and exfiltrated from 2,500 users of a compromised AI package.\n                    ",
+      "published": "2026-08-12T21:43:21.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Scientists just created female clones of male mice",
+      "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+      "description": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.&#160; “No one has done this before,” says Monika Ward, a reproductive biologist",
+      "published": "2026-08-12T18:59:48.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Telkom Indonesia finalizes spin-off of $4.8bn InfraCo",
+      "url": "https://www.datacenterdynamics.com/en/news/telkom-indonesia-finalizes-spin-off-of-48bn-infraco/",
+      "description": "Company completes transfer of network infrastructure assets to InfraNexia",
+      "published": "2026-08-12T17:30:32.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Google launches $6m R&D intiative for carbon removal, superpollutant abatement",
+      "url": "https://www.datacenterdynamics.com/en/news/google-launches-6m-rd-intiative-for-carbon-removal-superpollutant-abatement/",
+      "description": "Will offer funding to a range of carbon removal technologies",
+      "published": "2026-08-12T17:04:52.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Scaling AI agents with trustworthy data",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "description": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges o",
+      "published": "2026-08-12T16:51:57.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Former LBNL supercomputing facility in Oakland, California, targeted for 20MW data center",
+      "url": "https://www.datacenterdynamics.com/en/news/former-lbnl-supercomputing-facility-in-oakland-california-targeted-for-20mw-data-center/",
+      "description": "Behring looks to turn vacant site back into live data center",
+      "published": "2026-08-12T16:00:31.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Landmark Dividend acquires data center in Jacksonville, Florida, for $8.1m",
+      "url": "https://www.datacenterdynamics.com/en/news/landmark-dividend-acquires-data-center-in-jacksonville-florida-for-81m/",
+      "description": "Leased by telecoms provider T-Mobile",
+      "published": "2026-08-12T15:42:32.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Raid by authorities sees illegal migrant workers arrested at under-construction data center site in Rayong, Thailand",
+      "url": "https://www.datacenterdynamics.com/en/news/raid-by-authorities-sees-illegal-migrant-workers-arrested-at-under-construction-data-center-site-in-rayong-thailand/",
+      "description": "24 illegal workers arrested at the site in the Ban Chang District",
+      "published": "2026-08-12T15:33:49.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "3.8 GW Load Drop Prompts Potential PJM Data Center Rules",
+      "url": "https://www.datacenterknowledge.com/regulations/3-8-gw-load-drop-prompts-potential-pjm-rules",
+      "description": "PJM is weighing ride-through rules for data centers after nearly 3,800 MW of Northern Virginia load transferred to onsite generation during the grid event.",
+      "published": "2026-08-12T13:58:04.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
+      "url": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How we picked 35 of the world’s top young scientists and engineers On September 8, MIT Technology Review will reveal its 2026 list of Innovators Under",
+      "published": "2026-08-12T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "How we picked 35 of the world’s top young scientists and engineers",
+      "url": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
+      "description": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems.&#160; By finding the top young innovators global",
+      "published": "2026-08-12T09:08:40.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Praetorian’s Virginia Megasite Could Accommodate Data Center Development",
+      "url": "https://www.datacenterknowledge.com/data-center-site-selection/praetorian-s-virginia-megasite-could-accommodate-data-center-development",
+      "description": "Chesapeake officials say existing rules allow data centers, while power discussions with Dominion have focused on prospective industrial users.",
+      "published": "2026-08-12T09:05:00.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
@@ -24,45 +108,10 @@
     },
     {
       "source": "MIT Technology Review",
-      "title": "How the “censorship-industrial complex” is changing the Internet and US policy",
+      "title": "How the “censorship-industrial complex” is changing the internet and US policy",
       "url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
       "description": "I first heard the term “censorship-industrial complex” on April 15, 2025.&#160; That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing imminent shutdown—the ne",
       "published": "2026-08-11T17:58:57.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Arista smashes revenue records with $3bn+; CEO bullish on supply chain overhaul",
-      "url": "https://www.datacenterdynamics.com/en/news/arista-smashes-revenue-records-with-3bn-ceo-bullish-on-supply-chain-overhaul/",
-      "description": "Multi-year purchase commitments triple as Arista tightens supply to push further into non-Nvidia accelerator networking",
-      "published": "2026-08-11T16:30:28.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Nvidia AI interconnect darling Point2 bags $136m funding from Arm, others",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-ai-interconnect-darling-point2-bags-136m-funding-from-arm-others/",
-      "description": "Data center interconnect disruptor Point2 Technology celebrates Series B success",
-      "published": "2026-08-11T16:16:12.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Iraq's CMC pushes to shut down Korek Telecom's mobile network",
-      "url": "https://www.datacenterdynamics.com/en/news/iraqs-cmc-pushes-to-shut-down-korek-telecoms-mobile-network/",
-      "description": "Korek hits back, says the CMC doesn't have the authority do so",
-      "published": "2026-08-11T16:10:39.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "AI data center developer 5C secures half a billion dollars in new financing",
-      "url": "https://www.datacenterdynamics.com/en/news/ai-data-center-developer-5c-secures-half-a-billion-dollars-in-new-financing/",
-      "description": "Funds will be used to develop existing project pipeline",
-      "published": "2026-08-11T15:44:08.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Australia’s CDC mulls new data center in New Zealand",
-      "url": "https://www.datacenterdynamics.com/en/news/australias-cdc-mulls-new-data-center-in-new-zealand/",
-      "description": "Partners with Contact Energy on the potential project",
-      "published": "2026-08-11T15:40:03.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -70,13 +119,6 @@
       "url": "https://www.datacenterknowledge.com/infrastructure/spacex-plans-to-power-16-8b-terafab-without-the-grid",
       "description": "SpaceX plans to power its massive Texas chip campus with onsite generation and batteries rather than the grid, according to a signed county agreement.",
       "published": "2026-08-11T12:18:22.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
-      "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks h",
-      "published": "2026-08-11T12:10:00.000Z"
     },
     {
       "source": "Ars Technica Tech",
@@ -93,53 +135,11 @@
       "published": "2026-08-11T09:00:00.000Z"
     },
     {
-      "source": "Data Center Knowledge",
-      "title": "Why Data Center Development Is Facing a Legal Reckoning",
-      "url": "https://www.datacenterknowledge.com/regulations/why-data-center-development-is-facing-a-legal-reckoning",
-      "description": "As anti-data center opposition grows, developers must prepare for litigation to combat misinformation and protect projects, writes Heath Cheek.",
-      "published": "2026-08-10T22:13:31.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "AI professors are negotiating the new realities of academic research",
-      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising",
-      "published": "2026-08-10T20:00:00.000Z"
-    },
-    {
       "source": "Import AI",
       "title": "Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing",
       "url": "https://jack-clark.net/2026/08/10/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/",
       "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Want to be able to deal with RSI? Here are 23 actionable policy ideas:…IFP serves up some “low-regret” policy recommen",
       "published": "2026-08-10T12:32:20.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
-      "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who lea",
-      "published": "2026-08-10T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "AI for science needs reasoning, not just data",
-      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "description": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. Wi",
-      "published": "2026-08-10T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Ofgem Fee Aims to Clear Grid Queue – Who Benefits?",
-      "url": "https://www.datacenterknowledge.com/regulations/ofgem-fee-aims-to-clear-grid-queue-who-benefits-",
-      "description": "The policy shifts grid access from chronological priority to proof of viability, potentially forcing smaller developers to pursue alternative strategies.",
-      "published": "2026-08-10T09:00:00.000Z"
-    },
-    {
-      "source": "DataEngineeringWeekly",
-      "title": "Data Engineering Weekly #282",
-      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-282",
-      "description": "The Weekly Data Engineering Newsletter",
-      "published": "2026-08-10T01:21:26.000Z"
     }
   ]
 }

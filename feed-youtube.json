@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-12T02:33:40.743Z",
+  "generatedAt": "2026-08-13T02:35:15.705Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Why Airbnb doesn't have a CPO | Brian Chesky (CEO of Airbnb)",
+      "url": "https://www.youtube.com/watch?v=EcxCWFP1xFI",
+      "published": "2026-08-12T21:26:25.000Z",
+      "description": "The CEO should be the chief product officer.\n\nBrian Chesky (CEO of Airbnb) on why founders shouldn't delegate the one thing they're best at."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Stop treating marketing like the waiters and engineering like the chefs",
+      "url": "https://www.youtube.com/watch?v=Zw3TDb0JRTo",
+      "published": "2026-08-12T14:30:16.000Z",
+      "description": "Your best marketers should sit next to your engineers, not behind them.\n\nBrian Chesky (CEO of Airbnb) on the one heuristic he uses to judge how healthy a company really is."
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "Recruiting top talent isn't one pitch",
@@ -70,27 +84,6 @@
       "url": "https://www.youtube.com/watch?v=Meq04ZvZKdc",
       "published": "2026-08-06T12:13:00.000Z",
       "description": "Founders spend months hunting for ideas. \n\nNikita Bier (ex-head of product at X) on latent demand and the strongest signal he's ever seen."
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "Why Instagram Didn't Collapse After Meta's Acquisition | Adam Mosseri (Head of Instagram at Meta)",
-      "url": "https://www.youtube.com/watch?v=mI3LaT0Qlkg",
-      "published": "2026-08-05T21:24:53.000Z",
-      "description": "Why Instagram Didn't Collapse After Meta's Acquisition | Adam Mosseri (Head of Instagram at Meta)"
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "Humans will keep inventing new reasons why we must stay in the loop with agents",
-      "url": "https://www.youtube.com/watch?v=l32qe0MJGak",
-      "published": "2026-08-05T13:03:51.000Z",
-      "description": "Humans will keep inventing new reasons why we must stay in the loop with agents | Max Schoening (Head of Product at Notion)"
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "Do teams actually need PMs?",
-      "url": "https://www.youtube.com/watch?v=2aw5xDw-jtY",
-      "published": "2026-08-05T11:00:31.000Z",
-      "description": "Product management is a trade, not a qualification—a muscle built by reps—and every PM hired by default takes those reps away from engineers and designers, “infantilizing” people who are perfectly capable of good decisions but never had the opportunity to make them."
     }
   ]
 }

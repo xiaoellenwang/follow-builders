@@ -1,18 +1,148 @@
 {
-  "generatedAt": "2026-08-12T02:33:40.743Z",
+  "generatedAt": "2026-08-13T02:35:15.705Z",
   "jobs": [
     {
-      "title": "Engineer, AI",
-      "company": "ST ENGINEERING LAND MRO & SERVICES PTE. LTD.",
-      "salary": "S$4,400 – S$5,400",
+      "title": "Data Engineer - 12 months agency contract",
+      "company": "PERSOL SINGAPORE PTE. LTD.",
+      "salary": "S$8,000 – S$10,500",
+      "type": "Contract",
+      "skills": [
+        "Design certification",
+        "Computer Engineering",
+        "Cloud Storage"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/24bd3c28c04efa6b9805fc7b247f92b1",
+      "posted": "2026-08-13T02:09:45.000Z"
+    },
+    {
+      "title": "AI Engineer (DLP)",
+      "company": "EVERSAFE ACADEMY PTE. LTD.",
+      "salary": "S$6,000 – S$8,000",
+      "type": "Full Time",
+      "skills": [
+        "TensorFlow",
+        "Machine Learning",
+        "Apache Spark"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/4ac8a37d30d0c8936df4cb929ea90220",
+      "posted": "2026-08-13T00:25:15.000Z"
+    },
+    {
+      "title": "Lead AI Engineer, AI Products",
+      "company": "CODEX SOLUTIONS PTE. LTD.",
+      "salary": "S$8,000 – S$12,000",
       "type": "Permanent",
       "skills": [
-        "Automation Technology",
-        "Automation Systems",
-        "Product Support"
+        "Model Serving",
+        "Generative AI Application Development and Deployment",
+        "Computer Engineering"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/b7b224ad1b83fd97040e82cbb55beb01",
-      "posted": "2026-08-12T02:29:47.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/4b36b33600f8084cef2870ff5bd09f22",
+      "posted": "2026-08-12T16:25:31.000Z"
+    },
+    {
+      "title": "AI Computing Architecture Researcher",
+      "company": "PERSOL SINGAPORE PTE. LTD.",
+      "salary": "S$7,000 – S$12,000",
+      "type": "Contract",
+      "skills": [
+        "Distributed Computing Environment",
+        "Developing hardware and software",
+        "Compression"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/a4cf3d6e5f4534f1c726520e28a81299",
+      "posted": "2026-08-12T10:54:52.000Z"
+    },
+    {
+      "title": "Advanced Engineer (High-Efficiency AI Computing)",
+      "company": "PERSOL SINGAPORE PTE. LTD.",
+      "salary": "S$8,000 – S$15,000",
+      "type": "Contract",
+      "skills": [
+        "Developing hardware and software",
+        "Impact Evaluation",
+        "HPC"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/3082c2cec023e7ace6d60fe0671123f1",
+      "posted": "2026-08-12T10:48:00.000Z"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "CGG SERVICES (SINGAPORE) PTE. LTD.",
+      "salary": "S$5,500 – S$8,500",
+      "type": "Permanent",
+      "skills": [
+        "TensorFlow",
+        "Machine Learning",
+        "Mathematics"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/650cb21c1d76416633d5d4d04d997f21",
+      "posted": "2026-08-12T10:34:03.000Z"
+    },
+    {
+      "title": "Senior Machine Learning Engineer",
+      "company": "CGG SERVICES (SINGAPORE) PTE. LTD.",
+      "salary": "S$8,500 – S$14,000",
+      "type": "Permanent",
+      "skills": [
+        "TensorFlow",
+        "Machine Learning",
+        "Leadership"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/770f64d0991d10d40b85360eb9e4e83b",
+      "posted": "2026-08-12T10:28:24.000Z"
+    },
+    {
+      "title": "Senior Applied AI Software Engineer",
+      "company": "INC HR SOLUTIONS PTE. LTD.",
+      "salary": "S$15,000 – S$30,000",
+      "type": "Full Time",
+      "skills": [
+        "Data Warehousing Design",
+        "Risk perception",
+        "Architectural Patterns"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/f1209f98fed74de0d810390089503bb9",
+      "posted": "2026-08-12T09:17:36.000Z"
+    },
+    {
+      "title": "Advertising AI Algorithm Engineer",
+      "company": "PERSOL SINGAPORE PTE. LTD.",
+      "salary": "S$7,000 – S$13,000",
+      "type": "Contract",
+      "skills": [
+        "develop strategic recommendations",
+        "Quality Management",
+        "Data Structures"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/7b0fccaaea3bb82641bedbcdff1a15e2",
+      "posted": "2026-08-12T07:09:13.000Z"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "PERSOL SINGAPORE PTE. LTD.",
+      "salary": "S$5,000 – S$9,000",
+      "type": "Contract",
+      "skills": [
+        "Machine Learning",
+        "Search",
+        "Idea Generation"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/835a931edaecf13922ae8ef19eee8b20",
+      "posted": "2026-08-12T06:49:04.000Z"
+    },
+    {
+      "title": "AI ENGINEER",
+      "company": "BEYONDSOFT CONSULTING (SINGAPORE) PTE. LTD.",
+      "salary": "S$8,000 – S$14,000",
+      "type": "Full Time",
+      "skills": [
+        "TensorFlow",
+        "Liaising with cross functional teams",
+        "Ai"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/2cc95710c78cea33c06eaa7582000461",
+      "posted": "2026-08-12T06:37:34.000Z"
     },
     {
       "title": "Senior Prompt Engineer (AI-Driven Developer) (JD#11260)",
@@ -28,19 +158,6 @@
       "posted": "2026-08-12T02:23:15.000Z"
     },
     {
-      "title": "Data Engineer (AI Native, Pretrain Algorithm, data pipeline, production)",
-      "company": "DADACONSULTANTS PTE. LTD.",
-      "salary": "S$8,000 – S$15,000",
-      "type": "Permanent",
-      "skills": [
-        "Distributed Processing",
-        "Training Set",
-        "Scalability"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/5deb187dfa5af39dc3a7b03b50264d86",
-      "posted": "2026-08-11T13:40:47.000Z"
-    },
-    {
       "title": "Associate - Full Stack Data Engineer - Group Technology",
       "company": "NOMURA SINGAPORE LIMITED",
       "salary": "S$7,500 – S$14,000",
@@ -52,19 +169,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/b7c8149d5c89044188865b6cc19fea0b",
       "posted": "2026-08-11T09:54:12.000Z"
-    },
-    {
-      "title": "AI Engineer (Remote - Singapore Office)",
-      "company": "DEEPSKY TECH PTE. LTD.",
-      "salary": "S$4,500 – S$6,000",
-      "type": "Full Time",
-      "skills": [
-        "AutoGen",
-        "Kubernetes",
-        "Database Systems"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/4f4b3c6b596140cbaac3a0b95efbf6c5",
-      "posted": "2026-08-11T08:51:28.000Z"
     },
     {
       "title": "AI Engineer",
@@ -91,110 +195,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/89d6dc3127db3de7366a709af18a8ac9",
       "posted": "2026-08-11T07:54:52.000Z"
-    },
-    {
-      "title": "AI Data Architect",
-      "company": "SCIENTEC CONSULTING PTE. LTD.",
-      "salary": "S$7,500 – S$12,000",
-      "type": "Permanent",
-      "skills": [
-        "System Health Checks",
-        "Cloudwatch",
-        "Paradigm"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/e6cd4fac051e20fe7fb43d8f70aff676",
-      "posted": "2026-08-11T07:47:15.000Z"
-    },
-    {
-      "title": "AI Solutions Architect - Presales",
-      "company": "BEATHCHAPMAN (PTE. LTD.)",
-      "salary": "S$22,000 – S$25,000",
-      "type": "Permanent",
-      "skills": [
-        "Azure AI",
-        "Assess Infrastructure",
-        "technical specifications"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/8385a14311e8b95c12213f3b56186665",
-      "posted": "2026-08-11T07:17:07.000Z"
-    },
-    {
-      "title": "Research Engineer I(AI/Computer Science/FinTech)",
-      "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
-      "salary": "S$3,300 – S$6,600",
-      "type": "Contract",
-      "skills": [
-        "Machine Learning",
-        "Derivatives",
-        "Pipelines"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/01e82b878d74ffe7884d77b5e0cccf2b",
-      "posted": "2026-08-11T07:10:19.000Z"
-    },
-    {
-      "title": "Research Fellow (Artificial Intelligence for Life Sciences Applications)",
-      "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
-      "salary": "S$3,300 – S$6,600",
-      "type": "Contract",
-      "skills": [
-        "TensorFlow",
-        "Machine Learning",
-        "Aquaculture"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/46299a6884262dbcb232c42a25a2ee42",
-      "posted": "2026-08-11T07:00:42.000Z"
-    },
-    {
-      "title": "Machine Learning Engineer",
-      "company": "KEYSIGHT TECHNOLOGIES SINGAPORE (SALES) PTE. LTD.",
-      "salary": "S$7,500 – S$9,600",
-      "type": "Permanent",
-      "skills": [
-        "Expert Systems",
-        "Git",
-        "Validation"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/f374dcfac83967414d18b6b1ba3596c1",
-      "posted": "2026-08-11T06:58:14.000Z"
-    },
-    {
-      "title": "Applied AI Engineer (Agentic AI & ML)",
-      "company": "FLINTEX CONSULTING PTE. LTD.",
-      "salary": "S$6,000 – S$8,500",
-      "type": "Contract",
-      "skills": [
-        "Utility Industry",
-        "Security",
-        "Learning Platform"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/7102976e8a9d576cd9bf3f92f47aada0",
-      "posted": "2026-08-11T06:57:27.000Z"
-    },
-    {
-      "title": "26983560 Finance Operations Analytics Architect (Agentic AI Expertise) Technology",
-      "company": "CITIBANK N.A.",
-      "salary": "S$8,500 – S$11,500",
-      "type": "Full Time",
-      "skills": [
-        "real-time applications",
-        "Dashboards",
-        "Microsoft Azure"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/5fd08a132a38071e4c00855b890a9d72",
-      "posted": "2026-08-11T06:44:40.000Z"
-    },
-    {
-      "title": "Senior AI Engineer",
-      "company": "SIMPLIFYNEXT PTE. LTD.",
-      "salary": "S$13,500 – S$20,000",
-      "type": "Permanent",
-      "skills": [
-        "TensorFlow",
-        "Machine Learning",
-        "Git"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/27e488575ff934b58aec12653f0ffd4d",
-      "posted": "2026-08-11T06:17:42.000Z"
     }
   ]
 }
