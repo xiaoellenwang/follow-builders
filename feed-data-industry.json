@@ -1,6 +1,118 @@
 {
-  "generatedAt": "2026-08-13T02:35:15.705Z",
+  "generatedAt": "2026-08-14T02:33:41.799Z",
   "articles": [
+    {
+      "source": "Data Center Knowledge",
+      "title": "Nvidia’s $500B AI Infrastructure Bet Raises Power Stakes",
+      "url": "https://www.datacenterknowledge.com/investing/nvidia-s-500b-ai-infrastructure-bet-raises-power-stakes",
+      "description": "Nvidia’s $500B financing push could change how operators fund AI infrastructure, while power and interconnection remain critical constraints on deployment.",
+      "published": "2026-08-13T21:09:14.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+      "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+      "description": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US po",
+      "published": "2026-08-13T21:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Lightmatter launches 19-company strong initiative to standardize silicon photonics-ready infrastructure",
+      "url": "https://www.datacenterdynamics.com/en/news/lightmatter-launches-19-company-strong-initiative-to-standardize-silicon-photonics-ready-infrastructure/",
+      "description": "Company has also published a 300-page whitepaper to support the project",
+      "published": "2026-08-13T20:00:38.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
+      "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+      "description": "\n                        Trump memo is first time gov't has authorized private sector to perform cyberattacks.\n                    ",
+      "published": "2026-08-13T19:38:58.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Building a practical path to post-quantum cryptography",
+      "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+      "description": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a m",
+      "published": "2026-08-13T18:11:42.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "RWE nears completion on two data center deals",
+      "url": "https://www.datacenterdynamics.com/en/news/rwe-nears-completion-on-two-data-center-deals/",
+      "description": "Plans total net investments of €42 billion from 2026 to 2031 to meet skyrocketing demand",
+      "published": "2026-08-13T16:50:27.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "The War Between Open Source, Open Weight, And Closed AI Models",
+      "url": "https://www.nextplatform.com/ai/2026/08/13/the-war-between-open-source-open-weight-and-closed-ai-models/5287504",
+      "description": "",
+      "published": "2026-08-13T16:41:57.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Crusoe-backed transformer manufacturer Heron Power selects Morgan Hill, California, as site of first large-scale factory",
+      "url": "https://www.datacenterdynamics.com/en/news/crusoe-backed-transformer-manufacturer-heron-power-selects-morgan-hill-california-as-site-of-first-large-scale-factory/",
+      "description": "Expected to manufacture 10,000 Heron Links every year",
+      "published": "2026-08-13T16:30:41.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Nebius to lease data center capacity from Vantage in Newport, Wales",
+      "url": "https://www.datacenterdynamics.com/en/news/nebius-to-lease-data-center-capacity-from-vantage-in-newport-wales/",
+      "description": "AI cloud firm to deploy Nvidia GPUs at CLW1 site",
+      "published": "2026-08-13T16:20:31.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Vantage, CyrusOne, and DayOne all plan IPOs with potential record breaking valuations",
+      "url": "https://www.datacenterdynamics.com/en/news/vantage-cyrusone-and-dayone-all-plan-ipos-with-potential-record-breaking-valuations/",
+      "description": "Vantage and CyrusOne are targeting 2027, while DayOne could go public next quarter",
+      "published": "2026-08-13T16:10:17.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "description": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly ",
+      "published": "2026-08-13T13:41:10.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
+      "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens",
+      "published": "2026-08-13T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "What’s behind this summer’s heat, and why 2027 could be worse",
+      "url": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
+      "description": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July. South Korea saw its highest-ever recorded temperature.   The heat isn’t over ye",
+      "published": "2026-08-13T10:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "The Critical Minerals Crisis: AI Data Centers Face Supply Chain Strain",
+      "url": "https://www.datacenterknowledge.com/supply-chain/the-critical-minerals-crisis-ai-data-centers-face-supply-chain-strain",
+      "description": "The AI data center boom relies on copper, lithium, and rare earths, but ongoing supply chain pressures are testing whether producers can keep up.",
+      "published": "2026-08-13T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Zayo, Nvidia Target Fiber Capacity as AI Infrastructure Spreads",
+      "url": "https://www.datacenterknowledge.com/networking/zayo-nvidia-target-fiber-capacity-as-ai-infrastructure-spreads",
+      "description": "AI data center construction is creating new demand for dedicated connectivity, while optical equipment constraints could limit expansion of existing routes.",
+      "published": "2026-08-13T07:15:00.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "The GenAI Boom Will Lift Supermicro, But It Will Lift Others, Too",
+      "url": "https://www.nextplatform.com/compute/2026/08/13/the-genai-boom-will-lift-supermicro-but-it-will-lift-others-too/5287161",
+      "description": "",
+      "published": "2026-08-13T02:51:12.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "Terabytes of credentials leaked in massive supply-chain attack",
@@ -9,74 +121,11 @@
       "published": "2026-08-12T21:43:21.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "Scientists just created female clones of male mice",
-      "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
-      "description": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.&#160; “No one has done this before,” says Monika Ward, a reproductive biologist",
-      "published": "2026-08-12T18:59:48.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Telkom Indonesia finalizes spin-off of $4.8bn InfraCo",
-      "url": "https://www.datacenterdynamics.com/en/news/telkom-indonesia-finalizes-spin-off-of-48bn-infraco/",
-      "description": "Company completes transfer of network infrastructure assets to InfraNexia",
-      "published": "2026-08-12T17:30:32.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Google launches $6m R&D intiative for carbon removal, superpollutant abatement",
-      "url": "https://www.datacenterdynamics.com/en/news/google-launches-6m-rd-intiative-for-carbon-removal-superpollutant-abatement/",
-      "description": "Will offer funding to a range of carbon removal technologies",
-      "published": "2026-08-12T17:04:52.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Scaling AI agents with trustworthy data",
-      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "description": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges o",
-      "published": "2026-08-12T16:51:57.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Former LBNL supercomputing facility in Oakland, California, targeted for 20MW data center",
-      "url": "https://www.datacenterdynamics.com/en/news/former-lbnl-supercomputing-facility-in-oakland-california-targeted-for-20mw-data-center/",
-      "description": "Behring looks to turn vacant site back into live data center",
-      "published": "2026-08-12T16:00:31.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Landmark Dividend acquires data center in Jacksonville, Florida, for $8.1m",
-      "url": "https://www.datacenterdynamics.com/en/news/landmark-dividend-acquires-data-center-in-jacksonville-florida-for-81m/",
-      "description": "Leased by telecoms provider T-Mobile",
-      "published": "2026-08-12T15:42:32.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Raid by authorities sees illegal migrant workers arrested at under-construction data center site in Rayong, Thailand",
-      "url": "https://www.datacenterdynamics.com/en/news/raid-by-authorities-sees-illegal-migrant-workers-arrested-at-under-construction-data-center-site-in-rayong-thailand/",
-      "description": "24 illegal workers arrested at the site in the Ban Chang District",
-      "published": "2026-08-12T15:33:49.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "3.8 GW Load Drop Prompts Potential PJM Data Center Rules",
       "url": "https://www.datacenterknowledge.com/regulations/3-8-gw-load-drop-prompts-potential-pjm-rules",
       "description": "PJM is weighing ride-through rules for data centers after nearly 3,800 MW of Northern Virginia load transferred to onsite generation during the grid event.",
       "published": "2026-08-12T13:58:04.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
-      "url": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How we picked 35 of the world’s top young scientists and engineers On September 8, MIT Technology Review will reveal its 2026 list of Innovators Under",
-      "published": "2026-08-12T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "How we picked 35 of the world’s top young scientists and engineers",
-      "url": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
-      "description": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems.&#160; By finding the top young innovators global",
-      "published": "2026-08-12T09:08:40.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -91,55 +140,6 @@
       "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
       "description": "\n                        FBI Atlanta confirms it's looking into the incident, no arrests made.\n                    ",
       "published": "2026-08-12T00:08:40.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Chrome adopts what may be the best protection yet against account takeovers",
-      "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
-      "description": "\n                        Device-bound session credentials thwart an increasingly common form of account takeover.\n                    ",
-      "published": "2026-08-11T20:59:52.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "AWS Data Center Withdrawal Signals Growing Political, Community Challenges",
-      "url": "https://www.datacenterknowledge.com/data-center-site-selection/aws-data-center-withdrawal-signals-growing-political-community-challenges",
-      "description": "AWS cites infrastructure priorities for its Maryland data center rollback, but the decision also highlights the growing influence of community and political resistance.",
-      "published": "2026-08-11T18:34:58.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "How the “censorship-industrial complex” is changing the internet and US policy",
-      "url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
-      "description": "I first heard the term “censorship-industrial complex” on April 15, 2025.&#160; That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing imminent shutdown—the ne",
-      "published": "2026-08-11T17:58:57.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "SpaceX Plans to Power $16.8B Terafab Without the Grid",
-      "url": "https://www.datacenterknowledge.com/infrastructure/spacex-plans-to-power-16-8b-terafab-without-the-grid",
-      "description": "SpaceX plans to power its massive Texas chip campus with onsite generation and batteries rather than the grid, according to a signed county agreement.",
-      "published": "2026-08-11T12:18:22.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
-      "url": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
-      "description": "\n                        Why passkey apps treat Windows differently than other operating systems. \n                    ",
-      "published": "2026-08-11T11:30:08.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Will Edge AI Make AI Data Centers Less Relevant?",
-      "url": "https://www.datacenterknowledge.com/edge-data-centers/will-edge-ai-make-ai-data-centers-less-relevant-",
-      "description": "While edge AI spending is growing rapidly, practical considerations like economies of scale, physical security, and operational efficiency ensure that AI data centers remain critical infrastructure.",
-      "published": "2026-08-11T09:00:00.000Z"
-    },
-    {
-      "source": "Import AI",
-      "title": "Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing",
-      "url": "https://jack-clark.net/2026/08/10/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/",
-      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Want to be able to deal with RSI? Here are 23 actionable policy ideas:…IFP serves up some “low-regret” policy recommen",
-      "published": "2026-08-10T12:32:20.000Z"
     }
   ]
 }

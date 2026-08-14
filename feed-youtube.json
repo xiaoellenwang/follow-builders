@@ -1,6 +1,27 @@
 {
-  "generatedAt": "2026-08-13T02:35:15.705Z",
+  "generatedAt": "2026-08-14T02:33:41.799Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "\"If you build a great product and no one knows about it, did you even build a product?\"",
+      "url": "https://www.youtube.com/watch?v=oBKLB45mM5A",
+      "published": "2026-08-13T21:30:13.000Z",
+      "description": "You can't be a product expert without also being a market expert.\n\nBrian Chesky (CEO of Airbnb) on why product and marketing can't be separated."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "What the CEO of Airbnb wants every founder to know about micromanagement",
+      "url": "https://www.youtube.com/watch?v=j4inAdtFheg",
+      "published": "2026-08-13T11:11:18.000Z",
+      "description": "Airbnb's CEO: \"There's a difference between micromanagement, which is telling people exactly what to do, and being in the details.\"\n\nBrian Chesky on why every founder should be in the details."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Why the traditional recruiting model builds mediocre teams",
+      "url": "https://www.youtube.com/watch?v=bCVLdW3XudA",
+      "published": "2026-08-13T11:00:20.000Z",
+      "description": "Adam Ward (Head of Talent, Cursor) explains how traditional recruiting methods leave you selecting candidates from a suboptimal pool."
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "Why Airbnb doesn't have a CPO | Brian Chesky (CEO of Airbnb)",
@@ -70,20 +91,6 @@
       "url": "https://www.youtube.com/watch?v=fTzwPEIBnNI",
       "published": "2026-08-07T13:29:34.000Z",
       "description": "\"Hire great people and get out of their way\" is bad advice.\n\nTom Verrilli (CPO of Whatnot) on why the best leaders never actually get out of the way, instead sit with them."
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "Why every social app should be obsessed with teenagers",
-      "url": "https://www.youtube.com/watch?v=kFf3OZtF8n8",
-      "published": "2026-08-06T20:28:33.000Z",
-      "description": "If you're building a consumer social product, Nikita Bier (ex-head of product at X) has one thing to check first: is your user's social graph still growing?"
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "Founders spend months hunting for ideas",
-      "url": "https://www.youtube.com/watch?v=Meq04ZvZKdc",
-      "published": "2026-08-06T12:13:00.000Z",
-      "description": "Founders spend months hunting for ideas. \n\nNikita Bier (ex-head of product at X) on latent demand and the strongest signal he's ever seen."
     }
   ]
 }
