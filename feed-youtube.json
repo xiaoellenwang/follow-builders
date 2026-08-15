@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-08-14T02:33:41.799Z",
+  "generatedAt": "2026-08-15T01:42:30.952Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Why companies need to change how they think about hiring",
+      "url": "https://www.youtube.com/watch?v=wM63YhjdQ9c",
+      "published": "2026-08-14T11:00:11.000Z",
+      "description": "Adam Ward (Head of Talent, Cursor) on why you need to treat every hire like an executive search - starting with rigorous scoping"
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "\"If you build a great product and no one knows about it, did you even build a product?\"",
@@ -84,13 +91,6 @@
       "url": "https://www.youtube.com/watch?v=zsn4aRjeLzo",
       "published": "2026-08-08T10:30:30.000Z",
       "description": "PMs don't have to be political operators. They have to be agents of change.\n\nTom Verrilli (CPO of Whatnot) on the PM profile that's trending down."
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "Whatnot's CPO: \"Hire great people and get out of their way\" is overrated. | Tom Verrilli",
-      "url": "https://www.youtube.com/watch?v=fTzwPEIBnNI",
-      "published": "2026-08-07T13:29:34.000Z",
-      "description": "\"Hire great people and get out of their way\" is bad advice.\n\nTom Verrilli (CPO of Whatnot) on why the best leaders never actually get out of the way, instead sit with them."
     }
   ]
 }

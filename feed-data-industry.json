@@ -1,6 +1,125 @@
 {
-  "generatedAt": "2026-08-14T02:33:41.799Z",
+  "generatedAt": "2026-08-15T01:42:30.952Z",
   "articles": [
+    {
+      "source": "Ars Technica Tech",
+      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+      "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+      "description": "\n                        Screen-sharing bug lets remote hackers log in without a password.\n                    ",
+      "published": "2026-08-14T18:32:14.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Land Banking Explained: A Novel Strategy for Data Center Expansion",
+      "url": "https://www.datacenterknowledge.com/data-center-site-selection/land-banking-explained-a-novel-strategy-for-data-center-expansion",
+      "description": "Data center land banking reshapes industry growth by securing land for future expansion as demand surges and site selection challenges intensify.",
+      "published": "2026-08-14T17:46:14.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+      "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+      "description": "\n                        \"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars. \n                    ",
+      "published": "2026-08-14T17:03:54.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "The Neoclouds Build Cash Hoards Faster Than Revenues",
+      "url": "https://www.nextplatform.com/cloud/2026/08/14/the-neoclouds-build-cash-hoards-faster-than-revenues/5288040",
+      "description": "",
+      "published": "2026-08-14T16:47:12.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "The Vanishing Value of VMware: A Wake-Up Call",
+      "url": "https://www.datacenterknowledge.com/cloud/the-vanishing-value-of-vmware-a-wake-up-call",
+      "description": "The VMware-Broadcom situation illustrates a critical lesson: avoid over-dependence on any one platform by continuously evaluating workload placement, costs, and risks.",
+      "published": "2026-08-14T16:10:39.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Data center planned for suburb in Warsaw, Poland, sparks protests",
+      "url": "https://www.datacenterdynamics.com/en/news/data-center-planned-for-suburb-in-warsaw-poland-sparks-protests/",
+      "description": "Residents fear the facility on the border of towns of Piaseczno and Józefosław will spark water shortages",
+      "published": "2026-08-14T16:00:34.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Malaysia to launch palm oil-based immersion cooling fluid for data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/malaysia-to-launch-palm-oil-based-immersion-cooling-fluid-for-data-centers/",
+      "description": "Good for water bills, bad for orangutans?",
+      "published": "2026-08-14T15:45:35.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Repairs to telecoms infrastructure in earthquake-affected areas of Colombia 80% complete",
+      "url": "https://www.datacenterdynamics.com/en/news/repairs-to-telecommunications-infrastructure-in-earthquake-affected-areas-in-colombia-reach-80-claro-and-tigo-affected/",
+      "description": "Network outages have followed the earthquake on August 10",
+      "published": "2026-08-14T15:43:35.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Eutelsat releases 2025-26 financial results, with 69.5% increase in LEO revenues YoY",
+      "url": "https://www.datacenterdynamics.com/en/news/eutelsat-releases-2025-26-financial-results-with-695-increase-in-leo-revenues-yoy/",
+      "description": "Legacy European satellite operator continues navigating GEO &amp; broadcast decline through LEO market, IRIS² leadership",
+      "published": "2026-08-14T15:20:36.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Data center spanning up to 50,000 sqm gets approval for construction in west London, the UK",
+      "url": "https://www.datacenterdynamics.com/en/news/data-center-spanning-up-to-50000-sqm-gets-approval-for-construction-in-west-london-the-uk/",
+      "description": "Will use 64MW of electricity and provide 48MW of IT load, according to planning documents",
+      "published": "2026-08-14T15:04:12.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "description": "\n                        US groups release cheaper models after new challenges to their trillion-dollar ambitions.\n                    ",
+      "published": "2026-08-14T14:27:14.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Galaxy Bets Its Data Center Edge on Power, Not ‘Bragawatts’",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/galaxy-bets-its-data-center-edge-on-power-not-bragawatts-",
+      "description": "The company’s strategy emphasizes that “bragawatts” aren’t all equal: a megawatt at the end of a weak radial line has far less value than one supported by redundant, resilient transmission systems.",
+      "published": "2026-08-14T12:38:54.000Z"
+    },
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "What an Ontology for AI Agents Actually Needs",
+      "url": "https://www.dataengineeringweekly.com/p/an-ontology-for-ai-agents-is-a-system",
+      "description": "How to think about the semantic system that makes an agent coherent, governable, and useful.",
+      "published": "2026-08-14T12:38:18.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+      "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwid",
+      "published": "2026-08-14T12:17:21.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "This scientist is helping build a missing map of childhood",
+      "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+      "description": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged,",
+      "published": "2026-08-14T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Job titles of the future: Space travel agent",
+      "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+      "description": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an N",
+      "published": "2026-08-14T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Cloning could be used to save species—or make human “organ sacks”",
+      "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+      "description": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male mice. That’s right: female animals that are genetically identical to males, excep",
+      "published": "2026-08-14T09:00:00.000Z"
+    },
     {
       "source": "Data Center Knowledge",
       "title": "Nvidia’s $500B AI Infrastructure Bet Raises Power Stakes",
@@ -16,130 +135,11 @@
       "published": "2026-08-13T21:00:00.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Lightmatter launches 19-company strong initiative to standardize silicon photonics-ready infrastructure",
-      "url": "https://www.datacenterdynamics.com/en/news/lightmatter-launches-19-company-strong-initiative-to-standardize-silicon-photonics-ready-infrastructure/",
-      "description": "Company has also published a 300-page whitepaper to support the project",
-      "published": "2026-08-13T20:00:38.000Z"
-    },
-    {
       "source": "Ars Technica Tech",
       "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
       "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
       "description": "\n                        Trump memo is first time gov't has authorized private sector to perform cyberattacks.\n                    ",
       "published": "2026-08-13T19:38:58.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Building a practical path to post-quantum cryptography",
-      "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
-      "description": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a m",
-      "published": "2026-08-13T18:11:42.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "RWE nears completion on two data center deals",
-      "url": "https://www.datacenterdynamics.com/en/news/rwe-nears-completion-on-two-data-center-deals/",
-      "description": "Plans total net investments of €42 billion from 2026 to 2031 to meet skyrocketing demand",
-      "published": "2026-08-13T16:50:27.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "The War Between Open Source, Open Weight, And Closed AI Models",
-      "url": "https://www.nextplatform.com/ai/2026/08/13/the-war-between-open-source-open-weight-and-closed-ai-models/5287504",
-      "description": "",
-      "published": "2026-08-13T16:41:57.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Crusoe-backed transformer manufacturer Heron Power selects Morgan Hill, California, as site of first large-scale factory",
-      "url": "https://www.datacenterdynamics.com/en/news/crusoe-backed-transformer-manufacturer-heron-power-selects-morgan-hill-california-as-site-of-first-large-scale-factory/",
-      "description": "Expected to manufacture 10,000 Heron Links every year",
-      "published": "2026-08-13T16:30:41.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Nebius to lease data center capacity from Vantage in Newport, Wales",
-      "url": "https://www.datacenterdynamics.com/en/news/nebius-to-lease-data-center-capacity-from-vantage-in-newport-wales/",
-      "description": "AI cloud firm to deploy Nvidia GPUs at CLW1 site",
-      "published": "2026-08-13T16:20:31.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Vantage, CyrusOne, and DayOne all plan IPOs with potential record breaking valuations",
-      "url": "https://www.datacenterdynamics.com/en/news/vantage-cyrusone-and-dayone-all-plan-ipos-with-potential-record-breaking-valuations/",
-      "description": "Vantage and CyrusOne are targeting 2027, while DayOne could go public next quarter",
-      "published": "2026-08-13T16:10:17.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "description": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly ",
-      "published": "2026-08-13T13:41:10.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
-      "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens",
-      "published": "2026-08-13T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "What’s behind this summer’s heat, and why 2027 could be worse",
-      "url": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
-      "description": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July. South Korea saw its highest-ever recorded temperature.   The heat isn’t over ye",
-      "published": "2026-08-13T10:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "The Critical Minerals Crisis: AI Data Centers Face Supply Chain Strain",
-      "url": "https://www.datacenterknowledge.com/supply-chain/the-critical-minerals-crisis-ai-data-centers-face-supply-chain-strain",
-      "description": "The AI data center boom relies on copper, lithium, and rare earths, but ongoing supply chain pressures are testing whether producers can keep up.",
-      "published": "2026-08-13T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Zayo, Nvidia Target Fiber Capacity as AI Infrastructure Spreads",
-      "url": "https://www.datacenterknowledge.com/networking/zayo-nvidia-target-fiber-capacity-as-ai-infrastructure-spreads",
-      "description": "AI data center construction is creating new demand for dedicated connectivity, while optical equipment constraints could limit expansion of existing routes.",
-      "published": "2026-08-13T07:15:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "The GenAI Boom Will Lift Supermicro, But It Will Lift Others, Too",
-      "url": "https://www.nextplatform.com/compute/2026/08/13/the-genai-boom-will-lift-supermicro-but-it-will-lift-others-too/5287161",
-      "description": "",
-      "published": "2026-08-13T02:51:12.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Terabytes of credentials leaked in massive supply-chain attack",
-      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-      "description": "\n                        The data was scraped and exfiltrated from 2,500 users of a compromised AI package.\n                    ",
-      "published": "2026-08-12T21:43:21.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "3.8 GW Load Drop Prompts Potential PJM Data Center Rules",
-      "url": "https://www.datacenterknowledge.com/regulations/3-8-gw-load-drop-prompts-potential-pjm-rules",
-      "description": "PJM is weighing ride-through rules for data centers after nearly 3,800 MW of Northern Virginia load transferred to onsite generation during the grid event.",
-      "published": "2026-08-12T13:58:04.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Praetorian’s Virginia Megasite Could Accommodate Data Center Development",
-      "url": "https://www.datacenterknowledge.com/data-center-site-selection/praetorian-s-virginia-megasite-could-accommodate-data-center-development",
-      "description": "Chesapeake officials say existing rules allow data centers, while power discussions with Dominion have focused on prospective industrial users.",
-      "published": "2026-08-12T09:05:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
-      "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
-      "description": "\n                        FBI Atlanta confirms it's looking into the incident, no arrests made.\n                    ",
-      "published": "2026-08-12T00:08:40.000Z"
     }
   ]
 }
