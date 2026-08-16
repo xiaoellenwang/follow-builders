@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-08-15T01:42:30.952Z",
+  "generatedAt": "2026-08-16T01:50:00.881Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "How Lovable hit $10M ARR in just 2 months",
+      "url": "https://www.youtube.com/watch?v=7xpnbPFs7n8",
+      "published": "2026-08-15T21:30:14.000Z",
+      "description": "Lovable just raised $400M in Series C funding. It started with 15 people and $10M ARR in two months. \n\nAnton Osika (co-founder of Lovable) on how it all began."
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "Why companies need to change how they think about hiring",
@@ -84,13 +91,6 @@
       "url": "https://www.youtube.com/watch?v=zegYJ6dhIg4",
       "published": "2026-08-09T12:30:32.000Z",
       "description": "Adam Ward is the Head of Talent at Cursor, one of the fastest-growing developer tools in history. Before joining Cursor, he founded Growth by Design, an independent recruiting and talent strategy firm that helped build teams at the most ambitious AI and technology companies in the world. Adam has sp"
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "What's trending down for PMs: driving alignment",
-      "url": "https://www.youtube.com/watch?v=zsn4aRjeLzo",
-      "published": "2026-08-08T10:30:30.000Z",
-      "description": "PMs don't have to be political operators. They have to be agents of change.\n\nTom Verrilli (CPO of Whatnot) on the PM profile that's trending down."
     }
   ]
 }

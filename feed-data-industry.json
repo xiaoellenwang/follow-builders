@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-15T01:42:30.952Z",
+  "generatedAt": "2026-08-16T01:50:00.881Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: Power on the critical path: why the IPP is moving to the center of data center development",
+      "url": "https://www.datacenterdynamics.com/en/opinions/power-on-the-critical-path-why-the-ipp-is-moving-to-the-center-of-data-center-development/",
+      "description": "The next decade of digital infrastructure will be shaped by how quickly power can reach the right place, at the right time, at an acceptable cost",
+      "published": "2026-08-15T15:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Are orbital AI data centers the next frontier for compute infrastructure?",
+      "url": "https://www.datacenterdynamics.com/en/opinions/are-orbital-ai-data-centers-the-next-frontier-for-compute-infrastructure/",
+      "description": "Data centers in space shift from concept to early operational demonstrations",
+      "published": "2026-08-15T13:00:33.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
@@ -56,20 +70,6 @@
       "url": "https://www.datacenterdynamics.com/en/news/repairs-to-telecommunications-infrastructure-in-earthquake-affected-areas-in-colombia-reach-80-claro-and-tigo-affected/",
       "description": "Network outages have followed the earthquake on August 10",
       "published": "2026-08-14T15:43:35.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Eutelsat releases 2025-26 financial results, with 69.5% increase in LEO revenues YoY",
-      "url": "https://www.datacenterdynamics.com/en/news/eutelsat-releases-2025-26-financial-results-with-695-increase-in-leo-revenues-yoy/",
-      "description": "Legacy European satellite operator continues navigating GEO &amp; broadcast decline through LEO market, IRIS² leadership",
-      "published": "2026-08-14T15:20:36.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Data center spanning up to 50,000 sqm gets approval for construction in west London, the UK",
-      "url": "https://www.datacenterdynamics.com/en/news/data-center-spanning-up-to-50000-sqm-gets-approval-for-construction-in-west-london-the-uk/",
-      "description": "Will use 64MW of electricity and provide 48MW of IT load, according to planning documents",
-      "published": "2026-08-14T15:04:12.000Z"
     },
     {
       "source": "Ars Technica Tech",
