@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-16T01:50:00.881Z",
+  "generatedAt": "2026-08-17T01:47:51.857Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber",
+      "url": "https://www.youtube.com/watch?v=BV0hy6NET-U",
+      "published": "2026-08-16T12:30:26.000Z",
+      "description": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber\n\nIan Silber is the head of product design at OpenAI, where he has led the design of ChatGPT, Codex, and all of OpenAI’s product experience for the past three years. Before OpenAI, he was at Artifact, the AI-power"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Anthropic's co-founder on using Claude effectively",
+      "url": "https://www.youtube.com/watch?v=kaFiNLiIPpQ",
+      "published": "2026-08-16T11:05:39.000Z",
+      "description": "Is anyone's job actually safe from AI? Anthropic's own co-founder doesn't think so.\n\nBenjamin Mann on job replacement, plus one habit that upgrades how you use Claude Code."
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "How Lovable hit $10M ARR in just 2 months",
@@ -84,13 +98,6 @@
       "url": "https://www.youtube.com/watch?v=PqPMq5lfOz4",
       "published": "2026-08-10T10:30:23.000Z",
       "description": "Only 20% of people reply to recruiting outreach. That 20% isn't necessarily the top 20%. \n\nAdam Ward (Head of Talent at Cursor) on the “funnel of doom,” and how to fix your hiring process."
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor",
-      "url": "https://www.youtube.com/watch?v=zegYJ6dhIg4",
-      "published": "2026-08-09T12:30:32.000Z",
-      "description": "Adam Ward is the Head of Talent at Cursor, one of the fastest-growing developer tools in history. Before joining Cursor, he founded Growth by Design, an independent recruiting and talent strategy firm that helped build teams at the most ambitious AI and technology companies in the world. Adam has sp"
     }
   ]
 }

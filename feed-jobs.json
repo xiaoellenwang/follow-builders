@@ -1,6 +1,149 @@
 {
-  "generatedAt": "2026-08-16T01:50:00.881Z",
+  "generatedAt": "2026-08-17T01:47:51.857Z",
   "jobs": [
+    {
+      "title": "AI Growth & B2B Sales Manager",
+      "company": "ALFON INTERNATIONAL PTE. LTD.",
+      "salary": "S$4,500 – S$6,800",
+      "type": "Full Time",
+      "skills": [
+        "Develop Sales Pipeline",
+        "Ai",
+        "Customer Research"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/350a5e1f59160f59e7e94c6ffa6224e5",
+      "posted": "2026-08-17T01:47:29.000Z"
+    },
+    {
+      "title": "Quant Researcher #77900",
+      "company": "ANRADUS PTE. LTD.",
+      "salary": "S$6,000 – S$8,500",
+      "type": "Permanent",
+      "skills": [
+        "Machine Learning",
+        "Algorithm Analysis",
+        "Scalability"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/9415534e1f25182ec909a0bb30652616",
+      "posted": "2026-08-16T18:55:30.000Z"
+    },
+    {
+      "title": "Backend Software Engineer | AI | Golang",
+      "company": "RANDSTAD PTE. LIMITED",
+      "salary": "S$10,000 – S$15,000",
+      "type": "Full Time",
+      "skills": [
+        "Code Quality",
+        "systems reliability",
+        "Multithreading"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/d91f452c2dfd136607207fa01fb4523c",
+      "posted": "2026-08-16T13:30:08.000Z"
+    },
+    {
+      "title": "Lead AI Engineer | Healthcare Solutions | GenAI and LLM",
+      "company": "RANDSTAD PTE. LIMITED",
+      "salary": "S$12,000 – S$15,000",
+      "type": "Full Time",
+      "skills": [
+        "TensorFlow",
+        "Multi-Agent Systems",
+        "Ai"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/01fbb4b53091775e2bb0147c5719793a",
+      "posted": "2026-08-16T13:11:17.000Z"
+    },
+    {
+      "title": "Senior AI Engineer, Data Analytics Assurance",
+      "company": "ERNST & YOUNG LLP",
+      "salary": "S$5,000 – S$7,500",
+      "type": "Full Time",
+      "skills": [
+        "New Market Development",
+        "Liaising with cross functional teams",
+        "Workflow Automation"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/059b7e372d29500a4f8d8c3af17045e5",
+      "posted": "2026-08-16T10:23:31.000Z"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "HCL SINGAPORE PTE. LTD.",
+      "salary": "S$6,000 – S$8,500",
+      "type": "Full Time",
+      "skills": [
+        "Machine Learning",
+        "Business Optimization",
+        "AI Agents"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/dc23a3043bcb3409f8e3dac8d8704ef7",
+      "posted": "2026-08-16T09:20:53.000Z"
+    },
+    {
+      "title": "Technical Business Analyst – Cloud & AI",
+      "company": "XTREMAX PTE. LTD.",
+      "salary": "S$8,500 – S$11,500",
+      "type": "Full Time",
+      "skills": [
+        "Digital Integration",
+        "Collaborate With Engineers",
+        "Use cases"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/5d1d661622eecfa063f18d6eab8569d3",
+      "posted": "2026-08-16T08:28:20.000Z"
+    },
+    {
+      "title": "EQUIPMENT RESOURCE PLANNING EXECUTIVE (AI-DRIVEN HEALTHCARE) – up to S$5,000 per month",
+      "company": "SGP HEALTHCARE INVESTMENTS PTE. LTD.",
+      "salary": "S$4,000 – S$6,000",
+      "type": "Full Time",
+      "skills": [
+        "Cost Tracking",
+        "Ai",
+        "Asset Management"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/e4fe22b422b90865e6b702baf60e7d0f",
+      "posted": "2026-08-16T06:04:57.000Z"
+    },
+    {
+      "title": "EQUIPMENT RESOURCE PLANNING EXECUTIVE (AI-DRIVEN HEALTHCARE) – up to S$5,000 per month",
+      "company": "SKINNE AESTHETICS PTE. LTD.",
+      "salary": "S$3,500 – S$6,000",
+      "type": "Full Time",
+      "skills": [
+        "Ai",
+        "Ethical Conduct and Professional Integrity",
+        "Leadership"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/d603442a6509d4b889a8b12ea32265be",
+      "posted": "2026-08-16T05:58:06.000Z"
+    },
+    {
+      "title": "Equipment Resource Planning Executive (AI-Driven Healthcare) – up to $5000pm",
+      "company": "CLEARSK HEALTHCARE PTE. LTD.",
+      "salary": "S$4,000 – S$6,000",
+      "type": "Full Time",
+      "skills": [
+        "Ai",
+        "Ethical Conduct and Professional Integrity",
+        "Leadership"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/be59e0cc340413692c1e84c5a91088dc",
+      "posted": "2026-08-16T05:52:06.000Z"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "NEWBRIDGE ALLIANCE PTE. LTD.",
+      "salary": "S$5,000 – S$10,000",
+      "type": "Full Time",
+      "skills": [
+        "AutoGen",
+        "Depth Interviews",
+        "Workflow Automation"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/1074d2345654500f7f5c63ab1fd10e83",
+      "posted": "2026-08-16T01:56:13.000Z"
+    },
     {
       "title": "Field Application Engineer (Edge AI & Microcontroller)",
       "company": "STAFFKING PTE. LTD.",
@@ -41,19 +184,6 @@
       "posted": "2026-08-15T07:17:30.000Z"
     },
     {
-      "title": "AI Product Manager",
-      "company": "X STAR TECHNOLOGY PTE. LTD.",
-      "salary": "S$4,000 – S$10,000",
-      "type": "Permanent",
-      "skills": [
-        "Liaising with cross functional teams",
-        "Business Data Analysis",
-        "Sales and Marketing"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/4e64663f37ebf3aff4ff26114b8316c2",
-      "posted": "2026-08-15T06:07:01.000Z"
-    },
-    {
       "title": "Principal Machine Learning Scientist",
       "company": "NEWBRIDGE ALLIANCE PTE. LTD.",
       "salary": "S$12,000 – S$16,000",
@@ -65,136 +195,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/5ae7d9c6fea6780a476428f5e3dd26b7",
       "posted": "2026-08-15T04:06:31.000Z"
-    },
-    {
-      "title": "AI Engineer/Senior Developer (LLM) - ARTIFICIAL INTELLIGENCE",
-      "company": "PERSONNEL LINK JOBHUB PTE. LTD.",
-      "salary": "S$6,000 – S$9,000",
-      "type": "Permanent",
-      "skills": [
-        "TensorFlow",
-        "Ai",
-        "Automation Management in Product Development"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/22a4bb4bd22cc0110586f9cb9333ccbd",
-      "posted": "2026-08-14T15:41:50.000Z"
-    },
-    {
-      "title": "Project Manager - MLOps",
-      "company": "PERSOL SINGAPORE PTE. LTD.",
-      "salary": "S$8,000 – S$12,000",
-      "type": "Permanent",
-      "skills": [
-        "Liaising with cross functional teams",
-        "Certifications",
-        "Leadership"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/9c451c4c746a7cd6ec2c0495ed41d39c",
-      "posted": "2026-08-14T14:31:55.000Z"
-    },
-    {
-      "title": "Senior AI Full Stack Engineer",
-      "company": "SURBANA JURONG CONSULTANTS PTE. LTD.",
-      "salary": "S$7,000 – S$13,000",
-      "type": "Full Time",
-      "skills": [
-        "Document Management",
-        "Retrieval-Augmented Generation (RAG)",
-        "Collaborate With Engineers"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/fc208ec7a6ad5604dbda7fc7321fa162",
-      "posted": "2026-08-14T13:38:02.000Z"
-    },
-    {
-      "title": "AI Full Stack Engineer",
-      "company": "SURBANA JURONG CONSULTANTS PTE. LTD.",
-      "salary": "S$4,500 – S$7,000",
-      "type": "Full Time",
-      "skills": [
-        "Document Management",
-        "Retrieval-Augmented Generation (RAG)",
-        "Collaborate With Engineers"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/694518f9135edd4a23c6da921a7ef5ac",
-      "posted": "2026-08-14T13:35:48.000Z"
-    },
-    {
-      "title": "Senior AI Engineer",
-      "company": "IAPPS HEALTH GROUP PTE. LTD.",
-      "salary": "S$8,000 – S$12,000",
-      "type": "Contract",
-      "skills": [
-        "Machine Learning",
-        "Cloud Administration",
-        "Architecture"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/a71546d7223b3b7e0d196739e220f485",
-      "posted": "2026-08-14T13:12:25.000Z"
-    },
-    {
-      "title": "Senior Manager, Data & Artificial Intelligence Integration",
-      "company": "MINDSG LTD.",
-      "salary": "S$8,200 – S$9,600",
-      "type": "Full Time",
-      "skills": [
-        "Negotiation",
-        "Communication",
-        "Human Resource Systems Management"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/8cf59921b52ec3573fc2dbcd06ff0177",
-      "posted": "2026-08-14T11:06:42.000Z"
-    },
-    {
-      "title": "Backend Engineer – AI Solutions",
-      "company": "CMC-APAC PRIVATE LIMITED",
-      "salary": "S$5,000 – S$6,500",
-      "type": "Full Time",
-      "skills": [
-        "Data Protection",
-        "AI Governance",
-        "AWS"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/534eba1933e9e120256fb38f28898cfb",
-      "posted": "2026-08-14T10:15:06.000Z"
-    },
-    {
-      "title": "AI Engineer",
-      "company": "REALTEK SINGAPORE PRIVATE LIMITED",
-      "salary": "S$8,000 – S$12,000",
-      "type": "Permanent",
-      "skills": [
-        "energy consumption",
-        "Model Driven Development",
-        "AI Agents"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/9b59412fe96adb5dd594ba8e0bf2e406",
-      "posted": "2026-08-14T09:40:28.000Z"
-    },
-    {
-      "title": "AI Analyst Intern",
-      "company": "ONE TECH STOP PTE. LTD.",
-      "salary": "S$1,000 – S$1,200",
-      "type": "Internship/Attachment",
-      "skills": [
-        "Market Research",
-        "TensorFlow",
-        "Communication"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/aa621b8d70493dbef2b179fa9b2dcdc7",
-      "posted": "2026-08-14T09:17:38.000Z"
-    },
-    {
-      "title": "AI Engineer Intern",
-      "company": "ONE TECH STOP PTE. LTD.",
-      "salary": "S$1,000 – S$1,200",
-      "type": "Internship/Attachment",
-      "skills": [
-        "Data Analysis",
-        "Natural Language Processing",
-        "Google Cloud Platform"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/370bdcb6a350561deca2b56a06209deb",
-      "posted": "2026-08-14T09:17:05.000Z"
     }
   ]
 }

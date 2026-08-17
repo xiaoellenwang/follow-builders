@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-16T01:50:00.881Z",
+  "generatedAt": "2026-08-17T01:47:51.857Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "When a grid signal becomes a production change",
+      "url": "https://www.datacenterdynamics.com/en/opinions/when-a-grid-signal-becomes-a-production-change/",
+      "description": "Grid flexibility depends on who can change a live system, when they can do it, and how the site recovers.",
+      "published": "2026-08-16T14:00:31.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "When AI hoards flash: the storage playbook that protects budget and performance in turbulent times",
+      "url": "https://www.datacenterdynamics.com/en/opinions/when-ai-hoards-flash-the-storage-playbook-that-protects-budget-and-performance-in-turbulent-times/",
+      "description": "Storage for the future",
+      "published": "2026-08-16T10:00:33.000Z"
+    },
     {
       "source": "Data Center Dynamics",
       "title": "Sponsored: Power on the critical path: why the IPP is moving to the center of data center development",
@@ -58,20 +72,6 @@
       "published": "2026-08-14T16:00:34.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Malaysia to launch palm oil-based immersion cooling fluid for data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/malaysia-to-launch-palm-oil-based-immersion-cooling-fluid-for-data-centers/",
-      "description": "Good for water bills, bad for orangutans?",
-      "published": "2026-08-14T15:45:35.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Repairs to telecoms infrastructure in earthquake-affected areas of Colombia 80% complete",
-      "url": "https://www.datacenterdynamics.com/en/news/repairs-to-telecommunications-infrastructure-in-earthquake-affected-areas-in-colombia-reach-80-claro-and-tigo-affected/",
-      "description": "Network outages have followed the earthquake on August 10",
-      "published": "2026-08-14T15:43:35.000Z"
-    },
-    {
       "source": "Ars Technica Tech",
       "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
       "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
@@ -119,27 +119,6 @@
       "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
       "description": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male mice. That’s right: female animals that are genetically identical to males, excep",
       "published": "2026-08-14T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Nvidia’s $500B AI Infrastructure Bet Raises Power Stakes",
-      "url": "https://www.datacenterknowledge.com/investing/nvidia-s-500b-ai-infrastructure-bet-raises-power-stakes",
-      "description": "Nvidia’s $500B financing push could change how operators fund AI infrastructure, while power and interconnection remain critical constraints on deployment.",
-      "published": "2026-08-13T21:09:14.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
-      "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
-      "description": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US po",
-      "published": "2026-08-13T21:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
-      "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
-      "description": "\n                        Trump memo is first time gov't has authorized private sector to perform cyberattacks.\n                    ",
-      "published": "2026-08-13T19:38:58.000Z"
     }
   ]
 }
