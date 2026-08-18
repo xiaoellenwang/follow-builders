@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-08-17T01:47:51.857Z",
+  "generatedAt": "2026-08-18T01:43:01.729Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "8 people left OpenAI to start Anthropic",
+      "url": "https://www.youtube.com/watch?v=lozILdmdZyQ",
+      "published": "2026-08-17T11:22:11.000Z",
+      "description": "Anthropic co-founder on leaving OpenAI: \"Safety wasn't the top priority there.\"\n\nBenjamin Mann on why he wanted a lab that could push the frontier and still put safety first."
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber",
@@ -91,13 +98,6 @@
       "url": "https://www.youtube.com/watch?v=INfC8vdtwTw",
       "published": "2026-08-11T10:30:22.000Z",
       "description": "How to get better referrals: stop asking who's talented. Start asking who's talented at exactly what you need.\n\nAdam Ward (Head of Talent at Cursor) on sourcing top candidates the right way."
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "\"Remainder hiring is the output of the funnel of doom.\"",
-      "url": "https://www.youtube.com/watch?v=PqPMq5lfOz4",
-      "published": "2026-08-10T10:30:23.000Z",
-      "description": "Only 20% of people reply to recruiting outreach. That 20% isn't necessarily the top 20%. \n\nAdam Ward (Head of Talent at Cursor) on the “funnel of doom,” and how to fix your hiring process."
     }
   ]
 }
