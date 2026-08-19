@@ -1,6 +1,104 @@
 {
-  "generatedAt": "2026-08-18T01:43:01.729Z",
+  "generatedAt": "2026-08-19T01:44:55.548Z",
   "articles": [
+    {
+      "source": "The Next Platform",
+      "title": "Quantum Startup Qarakal Takes Lessons From Classical Systems With Pangaea Architecture",
+      "url": "https://www.nextplatform.com/compute/2026/08/18/quantum-startup-qarakal-takes-lessons-from-classical-systems-with-pangaea-architecture/5289266",
+      "description": "",
+      "published": "2026-08-18T21:13:45.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Tencent Cloud plans cloud region in Malaysia",
+      "url": "https://www.datacenterdynamics.com/en/news/tencent-cloud-plans-cloud-region-in-malaysia/",
+      "description": "Will offer three availability zones",
+      "published": "2026-08-18T16:50:20.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Application filed for data center campus near QTS' site in Northumberland, UK",
+      "url": "https://www.datacenterdynamics.com/en/news/application-filed-for-data-center-campus-near-qts-site-in-northumberland-uk/",
+      "description": "UK family office plans campus in Cambois on former GSK manufacturing site",
+      "published": "2026-08-18T16:30:25.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "ABB launches ultracapacitor storage system to meet Ireland's grid code for data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/abb-launches-ultracapacitor-storage-system-to-meet-irelands-grid-code-for-data-centers/",
+      "description": "Will combine its ultracapacitor energy storage system with grid-forming power conversion",
+      "published": "2026-08-18T16:20:21.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Globalinx buys land in Virginia Beach to expand CLS campus",
+      "url": "https://www.datacenterdynamics.com/en/news/globalinx-buys-land-in-virginia-beach-to-expand-cls-campus/",
+      "description": "As Virginia Beach officials look to bring in data center moratorium",
+      "published": "2026-08-18T16:19:36.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Nigerian gov't prepares to deploy 3,700 cell towers from October",
+      "url": "https://www.datacenterdynamics.com/en/news/nigerian-govt-prepares-to-deploy-3700-cell-towers-from-october/",
+      "description": "Aims to improve connectivity for more than 20 million Nigerians",
+      "published": "2026-08-18T16:01:51.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Data Center Hardware Highlights: August 2026",
+      "url": "https://www.datacenterknowledge.com/data-center-hardware/data-center-hardware-highlights-august-2026",
+      "description": "The latest in data center infrastructure – from power and minerals to networking, CPUs, and rack-scale AI systems – shows the stack shifting toward energy, interconnects, and end-to-end efficiency.",
+      "published": "2026-08-18T14:52:54.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+      "description": "\n                        Secret parameter allowed hackers to steal passwords when a target clicked on a link.\n                    ",
+      "published": "2026-08-18T13:00:04.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "For High-Density AI, Available Data Center Space May Not Be Usable",
+      "url": "https://www.datacenterknowledge.com/cooling/for-high-density-ai-available-data-center-space-may-not-be-usable",
+      "description": "North American vacancy remains at 1%, but JLL says only a very small share of that capacity can support high-density AI deployments.",
+      "published": "2026-08-18T13:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: how people really use AI, and Flock’s design choices",
+      "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their prod",
+      "published": "2026-08-18T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "We still don’t know how people are really using AI",
+      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "description": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candida",
+      "published": "2026-08-18T10:06:43.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The role of the astronaut is in flux",
+      "url": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
+      "description": "When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 by some 4,000 miles.&#160; While no space mission can live up to the historic tou",
+      "published": "2026-08-18T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "AI’s recursive self-improvement might not come so quickly after all",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "description": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers c",
+      "published": "2026-08-18T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Home-Based GPU Networks: Viable Supplements to AI Data Centers?",
+      "url": "https://www.datacenterknowledge.com/edge-data-centers/home-based-gpu-networks-viable-supplements-to-ai-data-centers-",
+      "description": "Distributed computing is getting a new spin. A growing crop of pilots is paying homeowners to host GPU capacity via wall-mounted appliances. Can residential nodes deliver the speed, reliability, security, and scale?",
+      "published": "2026-08-18T09:00:00.000Z"
+    },
     {
       "source": "The Next Platform",
       "title": "Cisco Can Finally Sell Lots Of Supercomputers And Their Networks",
@@ -12,29 +110,8 @@
       "source": "MIT Technology Review",
       "title": "What Flock’s defenders are missing",
       "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thur",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last",
       "published": "2026-08-17T19:16:09.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Blue Origin starts buildout of Quartz ground station network with partner RBC Signals",
-      "url": "https://www.datacenterdynamics.com/en/news/blue-origin-starts-buildout-of-quartz-ground-station-network-with-partner-rbc-signals/",
-      "description": "Rollout of mission-critical Quartz offering appears to cover unaddressed market share across government and defense",
-      "published": "2026-08-17T16:30:25.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "EchoStar's Charlie Ergen to acquire controlling stake in MVNO MobileX - report",
-      "url": "https://www.datacenterdynamics.com/en/news/echostars-charlie-ergen-to-acquire-controlling-stake-in-mvno-mobilex-report/",
-      "description": "What does this mean for Boost Mobile and MobileX?",
-      "published": "2026-08-17T16:10:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "WhiteFiber acquires two sites in North Carolina, plans data center developments",
-      "url": "https://www.datacenterdynamics.com/en/news/whitefiber-acquires-two-sites-in-north-carolina-plans-data-center-developments/",
-      "description": "Bit Digital-backed firm buys more industrial assets from Unifi",
-      "published": "2026-08-17T16:07:27.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -42,20 +119,6 @@
       "url": "https://www.datacenterknowledge.com/energy-power-supply/amazon-explores-grid-connection-for-8-000-acre-ai-campus",
       "description": "The project combines a planned private energy generation complex with an AI data center and has drawn national scrutiny over its potential emissions.",
       "published": "2026-08-17T16:02:20.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Enterprise quantum spend surpassed combined academic and gov’t investments in 2025, Boston Consulting Group reports",
-      "url": "https://www.datacenterdynamics.com/en/news/enterprise-quantum-spend-surpassed-combined-academic-and-govt-investments-in-2025-boston-consulting-group-reports/",
-      "description": "Findings based on responses from more than 200 companies",
-      "published": "2026-08-17T16:00:42.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "TV station sues data center firm over fears it could lose access to 70 years of archive footage",
-      "url": "https://www.datacenterdynamics.com/en/news/tv-station-sues-data-center-firm-over-fears-it-could-lose-access-to-70-years-of-archive-footage/",
-      "description": "Iron Mountain dragged into dispute between broadcaster and its cloud provider",
-      "published": "2026-08-17T15:52:00.000Z"
     },
     {
       "source": "Ars Technica Tech",
@@ -77,48 +140,6 @@
       "url": "https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/",
       "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now DiG-bench shows that Fable displays some creative intuition:…The new frontier for analyzing AI systems is understandin",
       "published": "2026-08-17T13:05:36.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: dead robot friends and the “censorship-industrial complex”",
-      "url": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six years l",
-      "published": "2026-08-17T12:10:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "APAC Data Center Pipeline Surges as AI Pre-Leasing Tightens Supply",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/apac-data-center-pipeline-surges-as-ai-pre-leasing-tightens-supply",
-      "description": "Driven by surging investment in AI and cloud infrastructure, Asia-Pacific’s data center pipeline reached a record-breaking 26.5 GW in H1 2026.",
-      "published": "2026-08-17T12:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "PJM’s New Deal for Data Centers: Bring Power or Face Cuts",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/pjm-s-new-deal-for-data-centers-bring-power-or-face-cuts",
-      "description": "PJM would let major new loads enter service before equivalent capacity is available, but unsupported demand could face earlier emergency curtailment.",
-      "published": "2026-08-17T11:04:25.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "How much hydrogen awaits us underground?",
-      "url": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
-      "description": "In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America. There her team of geochemists found water that had been confined underground for more than a billion years. This ancient brine t",
-      "published": "2026-08-17T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "What happens when a kid’s robot best friend dies?",
-      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-      "description": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other",
-      "published": "2026-08-17T09:00:00.000Z"
-    },
-    {
-      "source": "DataEngineeringWeekly",
-      "title": "Data Engineering Weekly #283",
-      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-283",
-      "description": "The Weekly Data Engineering Newsletter",
-      "published": "2026-08-17T02:59:40.000Z"
     }
   ]
 }
