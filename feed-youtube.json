@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-08-19T01:44:55.548Z",
+  "generatedAt": "2026-08-20T01:43:24.786Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "\"Nobody should feel behind right now\"",
+      "url": "https://www.youtube.com/watch?v=5FMPkR8paP4",
+      "published": "2026-08-19T14:00:11.000Z",
+      "description": "Ian Silber (Head of Product Design at OpenAI) explains how, if you're using AI already, you're earlier than you think."
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "Even the Finance Guy Codes at Anthropic",
@@ -31,7 +38,7 @@
     },
     {
       "channel": "Lenny's Podcast",
-      "title": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber",
+      "title": "Chatbots are not the final interface: OpenAI’s Head of Design on what’s next | Ian Silber",
       "url": "https://www.youtube.com/watch?v=BV0hy6NET-U",
       "published": "2026-08-16T12:30:26.000Z",
       "description": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber\n\nIan Silber is the head of product design at OpenAI, where he has led the design of ChatGPT, Codex, and all of OpenAI’s product experience for the past three years. Before OpenAI, he was at Artifact, the AI-power"
@@ -77,20 +84,6 @@
       "url": "https://www.youtube.com/watch?v=bCVLdW3XudA",
       "published": "2026-08-13T11:00:20.000Z",
       "description": "Adam Ward (Head of Talent, Cursor) explains how traditional recruiting methods leave you selecting candidates from a suboptimal pool."
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "Why Airbnb doesn't have a CPO | Brian Chesky (CEO of Airbnb)",
-      "url": "https://www.youtube.com/watch?v=EcxCWFP1xFI",
-      "published": "2026-08-12T21:26:25.000Z",
-      "description": "The CEO should be the chief product officer.\n\nBrian Chesky (CEO of Airbnb) on why founders shouldn't delegate the one thing they're best at."
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "Stop treating marketing like the waiters and engineering like the chefs",
-      "url": "https://www.youtube.com/watch?v=Zw3TDb0JRTo",
-      "published": "2026-08-12T14:30:16.000Z",
-      "description": "Your best marketers should sit next to your engineers, not behind them.\n\nBrian Chesky (CEO of Airbnb) on the one heuristic he uses to judge how healthy a company really is."
     }
   ]
 }

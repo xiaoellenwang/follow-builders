@@ -1,47 +1,103 @@
 {
-  "generatedAt": "2026-08-19T01:44:55.548Z",
+  "generatedAt": "2026-08-20T01:43:24.786Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "Plans for potential data center in Modesto, California, spark public outcry",
+      "url": "https://www.datacenterdynamics.com/en/news/plans-for-potential-data-center-in-modesto-california-spark-public-outcry/",
+      "description": "NorthPoint rumored to be developer of 45-acre old chemical plant site",
+      "published": "2026-08-19T16:30:36.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "FBI puts out call for AI hardware procurement contracts",
+      "url": "https://www.datacenterdynamics.com/en/news/fbi-puts-out-call-for-ai-hardware-procurement-contracts/",
+      "description": "Department seeks up to $88m in AI hardware",
+      "published": "2026-08-19T16:20:32.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Ukraine says Nvidia Jetson gear found in Russian S-71M missile",
+      "url": "https://www.datacenterdynamics.com/en/news/ukraine-says-nvidia-jetson-gear-found-in-russian-s-71m-missile/",
+      "description": "Calls for stronger sanctions to stop tech reaching Russia",
+      "published": "2026-08-19T16:16:21.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Relativity Networks completes $22m raise, as hollow-core fiber provider secures $40m hyperscaler contract",
+      "url": "https://www.datacenterdynamics.com/en/news/relativity-networks-completes-22m-raise-as-hollow-core-fiber-provider-secures-40m-hyperscaler-contract/",
+      "description": "Follows the company's recent manufacturing milestone with Prysmian",
+      "published": "2026-08-19T16:08:58.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Google reveals it is behind 506-acre Project Clydesdale data center in Oklahoma",
+      "url": "https://www.datacenterdynamics.com/en/news/google-reveals-it-is-behind-506-acre-project-clydesdale-data-center-in-oklahoma/",
+      "description": "Project will be located in Owasso",
+      "published": "2026-08-19T16:04:47.000Z"
+    },
+    {
+      "source": "VentureBeat AI",
+      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "description": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for",
+      "published": "2026-08-19T14:18:12.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "IBM Pushes System Design To Reach Ultra-Cold Temperatures For Quantum",
+      "url": "https://www.nextplatform.com/compute/2026/08/19/ibm-pushes-system-design-to-reach-ultra-cold-temperatures-for-quantum/5289699",
+      "description": "",
+      "published": "2026-08-19T14:16:38.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "House Bill Would Put Federal Electricity Tax on Data Centers",
+      "url": "https://www.datacenterknowledge.com/regulations/house-bill-would-put-federal-electricity-tax-on-data-centers",
+      "description": "H.R. 10102 would tax data center electricity at 1 cent per kWh, raising an estimated $1.76 billion annually for housing, conservation, and infrastructure.",
+      "published": "2026-08-19T14:03:01.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Nvidia Backs OpenAI’s Ohio Data Center Buildout With $105B Guarantee",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/nvidia-backs-openai-s-ohio-data-center-buildout-with-105b-guarantee",
+      "description": "The chipmaker is tying its financial support to long-lived infrastructure and the residual value of the hardware that will operate within it.",
+      "published": "2026-08-19T13:44:35.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
+      "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now is that AI will soon improve itself, w",
+      "published": "2026-08-19T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Child-monitoring apps might need a reboot",
+      "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+      "description": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. O",
+      "published": "2026-08-19T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Can Large-Load Flexibility Ease Data Center Energy Concerns?",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/can-large-load-flexibility-ease-data-center-energy-concerns",
+      "description": "Can data centers stabilize energy grids rather than strain them? Large-load flexibility could be the key to reducing blackouts and costs.",
+      "published": "2026-08-19T09:00:00.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Cerebras Overclocks WSE-3 Waferscale Engine To Boost Inference Oomph In “Nexus” CS-4",
+      "url": "https://www.nextplatform.com/compute/2026/08/19/cerebras-overclocks-wse-3-waferscale-engine-to-boost-inference-oomph-in-nexus-cs-4/5289400",
+      "description": "",
+      "published": "2026-08-19T04:39:18.000Z"
+    },
     {
       "source": "The Next Platform",
       "title": "Quantum Startup Qarakal Takes Lessons From Classical Systems With Pangaea Architecture",
       "url": "https://www.nextplatform.com/compute/2026/08/18/quantum-startup-qarakal-takes-lessons-from-classical-systems-with-pangaea-architecture/5289266",
       "description": "",
       "published": "2026-08-18T21:13:45.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Tencent Cloud plans cloud region in Malaysia",
-      "url": "https://www.datacenterdynamics.com/en/news/tencent-cloud-plans-cloud-region-in-malaysia/",
-      "description": "Will offer three availability zones",
-      "published": "2026-08-18T16:50:20.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Application filed for data center campus near QTS' site in Northumberland, UK",
-      "url": "https://www.datacenterdynamics.com/en/news/application-filed-for-data-center-campus-near-qts-site-in-northumberland-uk/",
-      "description": "UK family office plans campus in Cambois on former GSK manufacturing site",
-      "published": "2026-08-18T16:30:25.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "ABB launches ultracapacitor storage system to meet Ireland's grid code for data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/abb-launches-ultracapacitor-storage-system-to-meet-irelands-grid-code-for-data-centers/",
-      "description": "Will combine its ultracapacitor energy storage system with grid-forming power conversion",
-      "published": "2026-08-18T16:20:21.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Globalinx buys land in Virginia Beach to expand CLS campus",
-      "url": "https://www.datacenterdynamics.com/en/news/globalinx-buys-land-in-virginia-beach-to-expand-cls-campus/",
-      "description": "As Virginia Beach officials look to bring in data center moratorium",
-      "published": "2026-08-18T16:19:36.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Nigerian gov't prepares to deploy 3,700 cell towers from October",
-      "url": "https://www.datacenterdynamics.com/en/news/nigerian-govt-prepares-to-deploy-3700-cell-towers-from-october/",
-      "description": "Aims to improve connectivity for more than 20 million Nigerians",
-      "published": "2026-08-18T16:01:51.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -84,62 +140,6 @@
       "url": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
       "description": "When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 by some 4,000 miles.&#160; While no space mission can live up to the historic tou",
       "published": "2026-08-18T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "AI’s recursive self-improvement might not come so quickly after all",
-      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-      "description": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers c",
-      "published": "2026-08-18T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Home-Based GPU Networks: Viable Supplements to AI Data Centers?",
-      "url": "https://www.datacenterknowledge.com/edge-data-centers/home-based-gpu-networks-viable-supplements-to-ai-data-centers-",
-      "description": "Distributed computing is getting a new spin. A growing crop of pilots is paying homeowners to host GPU capacity via wall-mounted appliances. Can residential nodes deliver the speed, reliability, security, and scale?",
-      "published": "2026-08-18T09:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Cisco Can Finally Sell Lots Of Supercomputers And Their Networks",
-      "url": "https://www.nextplatform.com/connect/2026/08/17/cisco-can-finally-sell-lots-of-supercomputers-and-their-networks/5288804",
-      "description": "",
-      "published": "2026-08-17T21:02:39.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "What Flock’s defenders are missing",
-      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last",
-      "published": "2026-08-17T19:16:09.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Amazon Explores Grid Connection for 8,000-Acre AI Campus",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/amazon-explores-grid-connection-for-8-000-acre-ai-campus",
-      "description": "The project combines a planned private energy generation complex with an AI data center and has drawn national scrutiny over its potential emissions.",
-      "published": "2026-08-17T16:02:20.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Nvidia discloses $21B stake in SpaceX",
-      "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
-      "description": "\n                        Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.\n                    ",
-      "published": "2026-08-17T14:22:54.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Sunrun, Voltus Bring Home Batteries Into AI Capacity Push",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/sunrun-voltus-bring-home-batteries-into-ai-capacity-push",
-      "description": "Sunrun’s Voltus deal adds residential batteries to the capacity options available to AI hyperscalers, but distributed resources cannot solve every physical grid constraint.",
-      "published": "2026-08-17T13:52:26.000Z"
-    },
-    {
-      "source": "Import AI",
-      "title": "Import AI 469: Science AI; RSI simulator; and Zuck’s technological pessimism",
-      "url": "https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/",
-      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now DiG-bench shows that Fable displays some creative intuition:…The new frontier for analyzing AI systems is understandin",
-      "published": "2026-08-17T13:05:36.000Z"
     }
   ]
 }
