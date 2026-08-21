@@ -1,6 +1,27 @@
 {
-  "generatedAt": "2026-08-20T01:43:24.786Z",
+  "generatedAt": "2026-08-21T01:49:17.350Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "What Great Product Design Looks Like",
+      "url": "https://www.youtube.com/watch?v=35dHPoBlr7Y",
+      "published": "2026-08-20T22:30:21.000Z",
+      "description": "There's no training data for the next great product idea.\n\nIan Silber (Head of Design at OpenAI) on why human designers still have the edge over AI."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "The One Trait that Matters Most in the AI Age",
+      "url": "https://www.youtube.com/watch?v=sVJnaZBXdEw",
+      "published": "2026-08-20T16:23:52.000Z",
+      "description": "\"I don't think agency is very evenly distributed in the world.\"\n\nMax Schoening (Head of Product at Notion) on why agency, not skill, decides who does well from here."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Why This is the Best Time to be a Designer",
+      "url": "https://www.youtube.com/watch?v=9vxmGSdcdR4",
+      "published": "2026-08-20T01:54:17.000Z",
+      "description": "Some founders are now hiring two designers for every one engineer.\n\nIan Silber (Head of Design at OpenAI) on why that ratio is starting to flip."
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "\"Nobody should feel behind right now\"",
@@ -24,10 +45,10 @@
     },
     {
       "channel": "Lenny's Podcast",
-      "title": "What Great Product Design Looks Like",
+      "title": "What's Driving ChatGPT's UI Changes",
       "url": "https://www.youtube.com/watch?v=GN2FQ-4Tk8o",
       "published": "2026-08-18T10:59:24.000Z",
-      "description": "There's no training data for the next great product idea.\n\nIan Silber (Head of Design at OpenAI) on why human designers still have the edge over AI."
+      "description": "Instead of making you type everything out, ChatGPT now just asks.\n\nIan Silber (Head of Design at OpenAI) on how OpenAI's design team keeps evolving the interface."
     },
     {
       "channel": "Lenny's Podcast",
@@ -63,27 +84,6 @@
       "url": "https://www.youtube.com/watch?v=wM63YhjdQ9c",
       "published": "2026-08-14T11:00:11.000Z",
       "description": "Adam Ward (Head of Talent, Cursor) on why you need to treat every hire like an executive search - starting with rigorous scoping"
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "\"If you build a great product and no one knows about it, did you even build a product?\"",
-      "url": "https://www.youtube.com/watch?v=oBKLB45mM5A",
-      "published": "2026-08-13T21:30:13.000Z",
-      "description": "You can't be a product expert without also being a market expert.\n\nBrian Chesky (CEO of Airbnb) on why product and marketing can't be separated."
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "What the CEO of Airbnb wants every founder to know about micromanagement",
-      "url": "https://www.youtube.com/watch?v=j4inAdtFheg",
-      "published": "2026-08-13T11:11:18.000Z",
-      "description": "Airbnb's CEO: \"There's a difference between micromanagement, which is telling people exactly what to do, and being in the details.\"\n\nBrian Chesky on why every founder should be in the details."
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "Why the traditional recruiting model builds mediocre teams",
-      "url": "https://www.youtube.com/watch?v=bCVLdW3XudA",
-      "published": "2026-08-13T11:00:20.000Z",
-      "description": "Adam Ward (Head of Talent, Cursor) explains how traditional recruiting methods leave you selecting candidates from a suboptimal pool."
     }
   ]
 }

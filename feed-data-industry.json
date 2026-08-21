@@ -1,40 +1,96 @@
 {
-  "generatedAt": "2026-08-20T01:43:24.786Z",
+  "generatedAt": "2026-08-21T01:49:17.350Z",
   "articles": [
     {
       "source": "Data Center Dynamics",
-      "title": "Plans for potential data center in Modesto, California, spark public outcry",
-      "url": "https://www.datacenterdynamics.com/en/news/plans-for-potential-data-center-in-modesto-california-spark-public-outcry/",
-      "description": "NorthPoint rumored to be developer of 45-acre old chemical plant site",
-      "published": "2026-08-19T16:30:36.000Z"
+      "title": "The Edge of tomorrow",
+      "url": "https://www.datacenterdynamics.com/en/analysis/the-edge-of-tomorrow/",
+      "description": "Axelera AI founder Fabrizio del Maffeo wants to bring Edge AI hardware to the world",
+      "published": "2026-08-20T18:38:39.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Debates over AI consciousness are a trap",
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "description": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” ",
+      "published": "2026-08-20T15:42:39.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "FBI puts out call for AI hardware procurement contracts",
-      "url": "https://www.datacenterdynamics.com/en/news/fbi-puts-out-call-for-ai-hardware-procurement-contracts/",
-      "description": "Department seeks up to $88m in AI hardware",
-      "published": "2026-08-19T16:20:32.000Z"
+      "title": "Data center launched by BBT Group at hospital in Bad Mergentheim, Germany",
+      "url": "https://www.datacenterdynamics.com/en/news/data-center-launched-by-bbt-group-at-hospital-in-bad-mergentheim-germany/",
+      "description": "The 78kW facility at Caritas Hospital will support digital services at several hospitals run by the operator in Baden-Württemberg",
+      "published": "2026-08-20T15:00:35.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Ukraine says Nvidia Jetson gear found in Russian S-71M missile",
-      "url": "https://www.datacenterdynamics.com/en/news/ukraine-says-nvidia-jetson-gear-found-in-russian-s-71m-missile/",
-      "description": "Calls for stronger sanctions to stop tech reaching Russia",
-      "published": "2026-08-19T16:16:21.000Z"
+      "title": "Sponsored: Why third-party sustainability certification matters for the future of data centers",
+      "url": "https://www.datacenterdynamics.com/en/opinions/why-third-party-sustainability-certification-matters-for-the-future-of-data-centers/",
+      "description": "The most successful data center developers will not be those making the boldest sustainability claims. They will be the ones willing to have those claims independently measured, tested, and verified",
+      "published": "2026-08-20T15:00:00.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Relativity Networks completes $22m raise, as hollow-core fiber provider secures $40m hyperscaler contract",
-      "url": "https://www.datacenterdynamics.com/en/news/relativity-networks-completes-22m-raise-as-hollow-core-fiber-provider-secures-40m-hyperscaler-contract/",
-      "description": "Follows the company's recent manufacturing milestone with Prysmian",
-      "published": "2026-08-19T16:08:58.000Z"
+      "title": "Zayo expands Corning partnership to secure long-term fiber supply for AI expansion",
+      "url": "https://www.datacenterdynamics.com/en/news/zayo-expands-corning-partnership-to-secure-long-term-fiber-supply-for-ai-expansion/",
+      "description": "As company works toward 15,000 new route miles target by 2030",
+      "published": "2026-08-20T14:59:34.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Google reveals it is behind 506-acre Project Clydesdale data center in Oklahoma",
-      "url": "https://www.datacenterdynamics.com/en/news/google-reveals-it-is-behind-506-acre-project-clydesdale-data-center-in-oklahoma/",
-      "description": "Project will be located in Owasso",
-      "published": "2026-08-19T16:04:47.000Z"
+      "title": "Hudson River Trading taps CoreWeave for research platform",
+      "url": "https://www.datacenterdynamics.com/en/news/hudson-river-trading-taps-coreweave-for-research-platform/",
+      "description": "CoreWeave secures another quant trading firm",
+      "published": "2026-08-20T14:55:07.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Micron Puts $10B Behind US AI Memory Research",
+      "url": "https://www.datacenterknowledge.com/data-center-chips/micron-puts-10b-behind-us-ai-memory-research",
+      "description": "The new Idaho research hub will target memory, compute, and packaging as AI systems push existing technologies.",
+      "published": "2026-08-20T14:11:06.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+      "description": "\n                        Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.\n                    ",
+      "published": "2026-08-20T13:00:35.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
+      "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the back of a c",
+      "published": "2026-08-20T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The next big thing in hydrogen could be underground",
+      "url": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
+      "description": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a climate solution because when burned, it produces wa",
+      "published": "2026-08-20T10:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Unlocking hidden revenue streams with market models",
+      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+      "description": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, seaso",
+      "published": "2026-08-20T09:47:22.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Support networks aim to help kids through the polycrisis",
+      "url": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
+      "description": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just six years old but was about to be hit by an adult-size realization. “They were ",
+      "published": "2026-08-20T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "AI Data Center Networking: Scaling Up, Out, and Across with 102.4T Ethernet",
+      "url": "https://www.datacenterknowledge.com/networking/ai-data-center-networking-scaling-up-out-and-across-with-102-4t-ethernet",
+      "description": "As AI clusters scale and network silicon becomes the bottleneck, next-generation switching architecture targets latency and multi-site connectivity.",
+      "published": "2026-08-20T09:00:00.000Z"
     },
     {
       "source": "VentureBeat AI",
@@ -65,20 +121,6 @@
       "published": "2026-08-19T13:44:35.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
-      "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now is that AI will soon improve itself, w",
-      "published": "2026-08-19T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Child-monitoring apps might need a reboot",
-      "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
-      "description": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. O",
-      "published": "2026-08-19T09:00:00.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "Can Large-Load Flexibility Ease Data Center Energy Concerns?",
       "url": "https://www.datacenterknowledge.com/energy-power-supply/can-large-load-flexibility-ease-data-center-energy-concerns",
@@ -98,48 +140,6 @@
       "url": "https://www.nextplatform.com/compute/2026/08/18/quantum-startup-qarakal-takes-lessons-from-classical-systems-with-pangaea-architecture/5289266",
       "description": "",
       "published": "2026-08-18T21:13:45.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Data Center Hardware Highlights: August 2026",
-      "url": "https://www.datacenterknowledge.com/data-center-hardware/data-center-hardware-highlights-august-2026",
-      "description": "The latest in data center infrastructure – from power and minerals to networking, CPUs, and rack-scale AI systems – shows the stack shifting toward energy, interconnects, and end-to-end efficiency.",
-      "published": "2026-08-18T14:52:54.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-      "description": "\n                        Secret parameter allowed hackers to steal passwords when a target clicked on a link.\n                    ",
-      "published": "2026-08-18T13:00:04.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "For High-Density AI, Available Data Center Space May Not Be Usable",
-      "url": "https://www.datacenterknowledge.com/cooling/for-high-density-ai-available-data-center-space-may-not-be-usable",
-      "description": "North American vacancy remains at 1%, but JLL says only a very small share of that capacity can support high-density AI deployments.",
-      "published": "2026-08-18T13:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: how people really use AI, and Flock’s design choices",
-      "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their prod",
-      "published": "2026-08-18T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "We still don’t know how people are really using AI",
-      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-      "description": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candida",
-      "published": "2026-08-18T10:06:43.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The role of the astronaut is in flux",
-      "url": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
-      "description": "When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 by some 4,000 miles.&#160; While no space mission can live up to the historic tou",
-      "published": "2026-08-18T09:00:00.000Z"
     }
   ]
 }
