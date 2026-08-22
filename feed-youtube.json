@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-08-21T01:49:17.350Z",
+  "generatedAt": "2026-08-22T01:41:52.105Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Silicon Valley's \"last train\" mindset",
+      "url": "https://www.youtube.com/watch?v=i6zg6mxTBj8",
+      "published": "2026-08-21T21:49:31.000Z",
+      "description": "\"Right now, Silicon Valley is uncharacteristically full of people who don't actually love computers.\"\n\nMax Schoening (Head of Product at Notion) on why the fear of missing the last train is a bad reason to build anything."
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "What Great Product Design Looks Like",
@@ -77,13 +84,6 @@
       "url": "https://www.youtube.com/watch?v=7xpnbPFs7n8",
       "published": "2026-08-15T21:30:14.000Z",
       "description": "Lovable just raised $400M in Series C funding. It started with 15 people and $10M ARR in two months. \n\nAnton Osika (co-founder of Lovable) on how it all began."
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "Why companies need to change how they think about hiring",
-      "url": "https://www.youtube.com/watch?v=wM63YhjdQ9c",
-      "published": "2026-08-14T11:00:11.000Z",
-      "description": "Adam Ward (Head of Talent, Cursor) on why you need to treat every hire like an executive search - starting with rigorous scoping"
     }
   ]
 }

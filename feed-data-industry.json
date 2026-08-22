@@ -1,12 +1,103 @@
 {
-  "generatedAt": "2026-08-21T01:49:17.350Z",
+  "generatedAt": "2026-08-22T01:41:52.105Z",
   "articles": [
     {
+      "source": "Data Center Knowledge",
+      "title": "Zayo Locks Up Corning Fiber Capacity for AI Network Buildout",
+      "url": "https://www.datacenterknowledge.com/networking/zayo-locks-up-corning-fiber-capacity-for-ai-network-buildout",
+      "description": "The agreement secures a material portion of the fiber Zayo needs for its 15,000 route-mile network expansion through 2030.",
+      "published": "2026-08-21T17:04:27.000Z"
+    },
+    {
       "source": "Data Center Dynamics",
-      "title": "The Edge of tomorrow",
-      "url": "https://www.datacenterdynamics.com/en/analysis/the-edge-of-tomorrow/",
-      "description": "Axelera AI founder Fabrizio del Maffeo wants to bring Edge AI hardware to the world",
-      "published": "2026-08-20T18:38:39.000Z"
+      "title": "Vapat Enters the data center market with a 160MW project in Valladolid",
+      "url": "https://www.datacenterdynamics.com/en/news/vapat-enters-the-data-center-market-with-a-160mw-project-in-valladolid/",
+      "description": "The project calls for the construction of two data center buildings, each with eight IT rooms",
+      "published": "2026-08-21T16:47:08.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Colombia halts construction of 1,600km fiber network in the Amazon",
+      "url": "https://www.datacenterdynamics.com/en/news/colombia-puts-the-brakes-on-a-1600-km-fiber-optic-network-in-the-amazon/",
+      "description": "The technical and financial complexity of the deployment has led the government to withdraw the procurement process",
+      "published": "2026-08-21T16:42:53.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Nvidia backs data center powered land company Cloverleaf",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-backs-data-center-powered-land-company-cloverleaf/",
+      "description": "Will help company bring projects to fruition, based on Nvidia DSX platform",
+      "published": "2026-08-21T16:20:47.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Edge data center for AI workloads proposed in Manchester, UK",
+      "url": "https://www.datacenterdynamics.com/en/news/edge-data-center-for-ai-workloads-proposed-in-manchester-uk/",
+      "description": "Two building scheme is part of planned network of Edge sites",
+      "published": "2026-08-21T15:47:11.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Rocket Lab has no plans to enter orbital data center market",
+      "url": "https://www.datacenterdynamics.com/en/news/rocket-lab-has-no-plans-to-enter-orbital-data-center-market/",
+      "description": "But SpaceX's compute ambitions could give Rocket Lab a launch opening",
+      "published": "2026-08-21T15:30:10.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+      "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
+      "description": "\n                        Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.\n                    ",
+      "published": "2026-08-21T13:11:35.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: threats from space mirrors and credit for AI drugs",
+      "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on dema",
+      "published": "2026-08-21T12:10:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "PJM Strategy Targets Data Center Growth, but Policy Gaps Remain",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/pjm-5-year-strategy-wrestles-with-data-center-boom",
+      "description": "The grid operator calls for faster development of generation and transmission and greater visibility into large loads, but major questions remain.",
+      "published": "2026-08-21T11:13:14.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Mother tongue",
+      "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
+      "description": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and snuggle (his chin on my second rib). Now was the moment when our son’s eyelids we",
+      "published": "2026-08-21T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "When AI designs a drug, who gets the credit?",
+      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "description": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up",
+      "published": "2026-08-21T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
+      "url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
+      "description": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, the US company Reflect Orbital plans to launch a test satellite called Eärendil-1 that will extend an 18-by-",
+      "published": "2026-08-21T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "AI Infrastructure Pushes Data Center Capex Forecast Above $3 Trillion",
+      "url": "https://www.datacenterknowledge.com/ai-data-centers/ai-infrastructure-pushes-data-center-capex-forecast-above-3-trillion",
+      "description": "AI infrastructure spending is forecast to push global data center capex beyond $3 trillion by 2030, driven by hyperscalers and AI-specialized clouds.",
+      "published": "2026-08-21T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "EdgeCore Says Data Centers Should Pay Their Own Power Costs",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/edgecore-says-data-centers-should-pay-their-own-power-costs",
+      "description": "The developer-operator says it will fund the power infrastructure its campuses need, but the definition of “full cost” depends on how utilities allocate broader grid investments.",
+      "published": "2026-08-20T21:09:41.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -14,34 +105,6 @@
       "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
       "description": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” ",
       "published": "2026-08-20T15:42:39.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Data center launched by BBT Group at hospital in Bad Mergentheim, Germany",
-      "url": "https://www.datacenterdynamics.com/en/news/data-center-launched-by-bbt-group-at-hospital-in-bad-mergentheim-germany/",
-      "description": "The 78kW facility at Caritas Hospital will support digital services at several hospitals run by the operator in Baden-Württemberg",
-      "published": "2026-08-20T15:00:35.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: Why third-party sustainability certification matters for the future of data centers",
-      "url": "https://www.datacenterdynamics.com/en/opinions/why-third-party-sustainability-certification-matters-for-the-future-of-data-centers/",
-      "description": "The most successful data center developers will not be those making the boldest sustainability claims. They will be the ones willing to have those claims independently measured, tested, and verified",
-      "published": "2026-08-20T15:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Zayo expands Corning partnership to secure long-term fiber supply for AI expansion",
-      "url": "https://www.datacenterdynamics.com/en/news/zayo-expands-corning-partnership-to-secure-long-term-fiber-supply-for-ai-expansion/",
-      "description": "As company works toward 15,000 new route miles target by 2030",
-      "published": "2026-08-20T14:59:34.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Hudson River Trading taps CoreWeave for research platform",
-      "url": "https://www.datacenterdynamics.com/en/news/hudson-river-trading-taps-coreweave-for-research-platform/",
-      "description": "CoreWeave secures another quant trading firm",
-      "published": "2026-08-20T14:55:07.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -58,41 +121,6 @@
       "published": "2026-08-20T13:00:35.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
-      "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the back of a c",
-      "published": "2026-08-20T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The next big thing in hydrogen could be underground",
-      "url": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
-      "description": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a climate solution because when burned, it produces wa",
-      "published": "2026-08-20T10:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Unlocking hidden revenue streams with market models",
-      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-      "description": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, seaso",
-      "published": "2026-08-20T09:47:22.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Support networks aim to help kids through the polycrisis",
-      "url": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
-      "description": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just six years old but was about to be hit by an adult-size realization. “They were ",
-      "published": "2026-08-20T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "AI Data Center Networking: Scaling Up, Out, and Across with 102.4T Ethernet",
-      "url": "https://www.datacenterknowledge.com/networking/ai-data-center-networking-scaling-up-out-and-across-with-102-4t-ethernet",
-      "description": "As AI clusters scale and network silicon becomes the bottleneck, next-generation switching architecture targets latency and multi-site connectivity.",
-      "published": "2026-08-20T09:00:00.000Z"
-    },
-    {
       "source": "VentureBeat AI",
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
       "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
@@ -107,39 +135,11 @@
       "published": "2026-08-19T14:16:38.000Z"
     },
     {
-      "source": "Data Center Knowledge",
-      "title": "House Bill Would Put Federal Electricity Tax on Data Centers",
-      "url": "https://www.datacenterknowledge.com/regulations/house-bill-would-put-federal-electricity-tax-on-data-centers",
-      "description": "H.R. 10102 would tax data center electricity at 1 cent per kWh, raising an estimated $1.76 billion annually for housing, conservation, and infrastructure.",
-      "published": "2026-08-19T14:03:01.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Nvidia Backs OpenAI’s Ohio Data Center Buildout With $105B Guarantee",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/nvidia-backs-openai-s-ohio-data-center-buildout-with-105b-guarantee",
-      "description": "The chipmaker is tying its financial support to long-lived infrastructure and the residual value of the hardware that will operate within it.",
-      "published": "2026-08-19T13:44:35.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Can Large-Load Flexibility Ease Data Center Energy Concerns?",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/can-large-load-flexibility-ease-data-center-energy-concerns",
-      "description": "Can data centers stabilize energy grids rather than strain them? Large-load flexibility could be the key to reducing blackouts and costs.",
-      "published": "2026-08-19T09:00:00.000Z"
-    },
-    {
       "source": "The Next Platform",
       "title": "Cerebras Overclocks WSE-3 Waferscale Engine To Boost Inference Oomph In “Nexus” CS-4",
       "url": "https://www.nextplatform.com/compute/2026/08/19/cerebras-overclocks-wse-3-waferscale-engine-to-boost-inference-oomph-in-nexus-cs-4/5289400",
       "description": "",
       "published": "2026-08-19T04:39:18.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Quantum Startup Qarakal Takes Lessons From Classical Systems With Pangaea Architecture",
-      "url": "https://www.nextplatform.com/compute/2026/08/18/quantum-startup-qarakal-takes-lessons-from-classical-systems-with-pangaea-architecture/5289266",
-      "description": "",
-      "published": "2026-08-18T21:13:45.000Z"
     }
   ]
 }

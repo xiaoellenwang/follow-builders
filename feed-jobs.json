@@ -1,21 +1,125 @@
 {
-  "generatedAt": "2026-08-21T01:49:17.350Z",
+  "generatedAt": "2026-08-22T01:41:52.105Z",
   "jobs": [
     {
-      "title": "Applied Senior Software Engineer (AI Native Development)",
-      "company": "EPAM SYSTEMS PTE. LTD.",
+      "title": "AI Tester",
+      "company": "NCS PTE. LTD.",
       "salary": "S$7,000 – S$12,000",
-      "type": "Full Time",
+      "type": "Contract",
       "skills": [
-        "AI Agents",
-        "Software Engineering",
-        "Agile"
+        "LangSmith",
+        "Software Test Engineering",
+        "Game Artificial Intelligence Development"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/a313d3c5232b16a089e939136d4761f3",
-      "posted": "2026-08-21T01:26:27.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/ccff9abc0a76959a9d76cd7889c75b3d",
+      "posted": "2026-08-21T14:49:43.000Z"
     },
     {
-      "title": "Senior Data Scientist / Machine Learning Engineer",
+      "title": "AI Engineer",
+      "company": "NCS PTE. LTD.",
+      "salary": "S$7,000 – S$12,000",
+      "type": "Contract",
+      "skills": [
+        "Game Artificial Intelligence Development",
+        "Terraform",
+        "Security"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/392274e88edaafed4ab4cdd356b1572f",
+      "posted": "2026-08-21T14:39:12.000Z"
+    },
+    {
+      "title": "Senior AI Engineer (Backend)",
+      "company": "FREEFLO PTE. LTD.",
+      "salary": "S$3,000 – S$5,000",
+      "type": "Permanent",
+      "skills": [
+        "Ai",
+        "Serverless Framework",
+        "OpenAI API"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/228aa94be9f7eec246f59ba12f7479c3",
+      "posted": "2026-08-21T14:20:15.000Z"
+    },
+    {
+      "title": "Senior Full Stack AI Software Engineer (Cybersecurity & AI SaaS)",
+      "company": "MOMENTUM Z PTE. LTD.",
+      "salary": "S$4,500 – S$5,000",
+      "type": "Full Time",
+      "skills": [
+        "Ai",
+        "Ownership",
+        "Literacy"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/7c84b93a62f4c180a955b31ed7adc528",
+      "posted": "2026-08-21T11:58:37.000Z"
+    },
+    {
+      "title": "Lead AI Engineer",
+      "company": "KUAILU SOFTWARE (SINGAPORE) PTE. LTD.",
+      "salary": "S$8,000 – S$15,000",
+      "type": "Full Time",
+      "skills": [
+        "Sampling",
+        "Data Pipeline",
+        "Reasoning Skills"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/88d8e7c691fd5efe22f8a1626e9307a9",
+      "posted": "2026-08-21T10:19:24.000Z"
+    },
+    {
+      "title": "*GOV* AI Engineer| JavaScript | Python",
+      "company": "SCIENTEC CONSULTING PTE. LTD.",
+      "salary": "S$7,000 – S$11,000",
+      "type": "Contract",
+      "skills": [
+        "API Development",
+        "AI Ethics",
+        "PostgreSQL"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/369bd6c188da696b93f35b717ff1e71c",
+      "posted": "2026-08-21T10:19:05.000Z"
+    },
+    {
+      "title": "Senior Manager ML Operation",
+      "company": "AVENSYS CONSULTING PTE. LTD.",
+      "salary": "S$6,000 – S$12,000",
+      "type": "Contract",
+      "skills": [
+        "Issue Escalation",
+        "Pipelines",
+        "Troubleshooting Procedures"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/7922b826eb97045b0cd6c327c278937b",
+      "posted": "2026-08-21T10:13:43.000Z"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "KUAILU SOFTWARE (SINGAPORE) PTE. LTD.",
+      "salary": "S$5,000 – S$8,000",
+      "type": "Full Time",
+      "skills": [
+        "Hyperparameter",
+        "Data Cleaning",
+        "Natural Language Processing"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/fe6ab454fcff5681e629151ebf94f5bc",
+      "posted": "2026-08-21T10:12:15.000Z"
+    },
+    {
+      "title": "AI/ML Governance Lead, Commercial & Investment Banking Digital, Data and AI",
+      "company": "JPMORGAN CHASE BANK, N.A.",
+      "salary": "S$11,000 – S$22,000",
+      "type": "Permanent",
+      "skills": [
+        "Customer Mindset",
+        "Microsoft PowerPoint",
+        "Account Legal"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/8ac35a6f50017b0e3971966c1ade57f1",
+      "posted": "2026-08-21T10:03:25.000Z"
+    },
+    {
+      "title": "[T05] Senior Data Scientist / Machine Learning Engineer",
       "company": "TALENTSIS PTE. LTD.",
       "salary": "S$5,700 – S$6,700",
       "type": "Full Time",
@@ -24,177 +128,73 @@
         "Design",
         "large datasets"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/2eca3342b4ae48b6811d50132311430b",
-      "posted": "2026-08-21T01:23:54.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/c0d2de49fd3c19c2ca826ed3c8bed396",
+      "posted": "2026-08-21T09:46:29.000Z"
     },
     {
-      "title": "AI Application Engineer",
-      "company": "AZTECH TECHNOLOGIES PTE. LTD.",
-      "salary": "S$6,000 – S$7,000",
-      "type": "Permanent",
-      "skills": [
-        "Debugging of Applications",
-        "Product Innovation",
-        "Role Modelling"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/ced5389205f80d1fd23e4dd675d54993",
-      "posted": "2026-08-21T00:42:46.000Z"
-    },
-    {
-      "title": "Software Engineer III, AI Enablement",
-      "company": "JPMORGAN CHASE BANK, N.A.",
-      "salary": "S$8,000 – S$16,000",
-      "type": "Permanent",
-      "skills": [
-        "Customer Mindset",
-        "Safe Work Practices",
-        "Build Trust"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/539a9d660027f3f75aa058734b3b92fe",
-      "posted": "2026-08-20T11:36:41.000Z"
-    },
-    {
-      "title": "Investment Analyst (Start up, deep AI/software exp welcome to apply $10k) (ID: 708067)",
-      "company": "PERSOL SINGAPORE PTE. LTD.",
-      "salary": "S$9,000 – S$10,000",
-      "type": "Permanent",
-      "skills": [
-        "Open Innovation",
-        "Commercial Due Diligence",
-        "Technology Expertise"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/c398fac13e6d9ae5b430ba27898baa43",
-      "posted": "2026-08-20T09:56:43.000Z"
-    },
-    {
-      "title": "AI Engineer",
-      "company": "DIDI MOBILITY PTE. LTD.",
-      "salary": "S$6,000 – S$20,000",
+      "title": "[T05] Senior/ Machine Learning Engineer",
+      "company": "TALENTSIS PTE. LTD.",
+      "salary": "S$5,700 – S$6,700",
       "type": "Full Time",
       "skills": [
+        "Collaborate With Engineers",
         "Design",
-        "Generative AI Application Development and Deployment",
-        "Design of Experiments"
+        "large datasets"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/57d5c968ae851038eb776c0f89c07c21",
-      "posted": "2026-08-20T09:22:47.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/86efad8ed5f2b9717d88c874baa0eed0",
+      "posted": "2026-08-21T09:45:55.000Z"
     },
     {
-      "title": "Senior Software Engineer - AI & Data Systems",
-      "company": "MEINHARDT (SINGAPORE) PTE LTD",
-      "salary": "S$7,000 – S$8,000",
+      "title": "Project Manager, MLOps",
+      "company": "PERSOL SINGAPORE PTE. LTD.",
+      "salary": "S$9,000 – S$12,000",
       "type": "Permanent",
-      "skills": [
-        "Azure AI",
-        "API Development",
-        "Machine Learning"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/3cb50573362824c91d7fa05f2cfbd051",
-      "posted": "2026-08-20T06:55:15.000Z"
-    },
-    {
-      "title": "Principal Research Scientist (Neuro-symbolic AI)",
-      "company": "BLUE FIRE AI PTE. LTD.",
-      "salary": "S$12,000 – S$20,000",
-      "type": "Permanent",
-      "skills": [
-        "Data Ingestion",
-        "Methodology",
-        "Indexing"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/3ad0834950a944e425a6a73fb39743d9",
-      "posted": "2026-08-20T06:44:23.000Z"
-    },
-    {
-      "title": "Artificial Intelligence Engineer - Cognitive Maintenance",
-      "company": "GROUNDUP.AI PTE. LTD.",
-      "salary": "S$3,500 – S$40,500",
-      "type": "Contract",
       "skills": [
         "Machine Learning",
-        "engine sensor data",
-        "Exploratory Data Analysis"
+        "Liaising with cross functional teams",
+        "Leadership"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/d0dc7493176d17b2809049bb00c449aa",
-      "posted": "2026-08-20T06:32:06.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/9b7cc1690a23084823ad5f25632cadc5",
+      "posted": "2026-08-21T09:42:31.000Z"
     },
     {
-      "title": "Full‑Stack Applied AI Engineer (Agentic AI)",
-      "company": "FLINTEX CONSULTING PTE. LTD.",
-      "salary": "S$6,000 – S$8,500",
+      "title": "Edge AI & Embedded Systems Engineer",
+      "company": "PRISM AI STUDIO PTE. LTD.",
+      "salary": "S$4,000 – S$6,000",
       "type": "Contract",
       "skills": [
-        "Azure AI",
-        "Code Quality",
-        "AI Agents"
+        "Software Debugging",
+        "Ai",
+        "Hardware Architecture"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/4ea88723dddb1f51213eea93979fa5e3",
-      "posted": "2026-08-20T04:59:25.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/808a401bc78d94f3ff92d5d012c35602",
+      "posted": "2026-08-21T09:39:30.000Z"
     },
     {
-      "title": "AI Engineer",
-      "company": "PHOENIX SOLUTIONS (S) PTE. LTD.",
-      "salary": "S$8,000 – S$13,000",
-      "type": "Full Time",
-      "skills": [
-        "Kubernetes",
-        "Mathematics",
-        "Computer Science"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/75fcd3300baf64f776ca1ddb03e739bc",
-      "posted": "2026-08-20T04:34:11.000Z"
-    },
-    {
-      "title": "Agentic AI Engineer",
-      "company": "WE-PLUS PTE. LTD.",
-      "salary": "S$3,000 – S$5,000",
+      "title": "Capability Lead – AI Pilot Implementation Project Manager",
+      "company": "ONCOSHOT PTE. LTD.",
+      "salary": "S$4,000 – S$10,000",
       "type": "Permanent",
       "skills": [
-        "Logical Reasoning",
-        "Performance Testing",
-        "Scalability"
+        "Piloting",
+        "Ai",
+        "Software Validation"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/3d3123e529ee984419ebcc0ae475ca6c",
-      "posted": "2026-08-20T03:42:55.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/d303ef33cd4fce2b1a945c62fa251a1e",
+      "posted": "2026-08-21T09:14:19.000Z"
     },
     {
-      "title": "Principal AI Engineer",
-      "company": "QUESS ENGINEERING PTE. LTD.",
-      "salary": "S$9,500 – S$13,000",
+      "title": "Software Engineer (Python / AI chatbots)",
+      "company": "SCIENTEC CONSULTING PTE. LTD.",
+      "salary": "S$5,000 – S$10,000",
       "type": "Contract",
       "skills": [
-        "Multi-Agent Systems",
-        "Logical Reasoning",
-        "SIEM"
+        "Chatbot",
+        "Design",
+        "RESTful API"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/6184c10493a953e9649eac19ffb75871",
-      "posted": "2026-08-20T03:20:04.000Z"
-    },
-    {
-      "title": "AI Full Stack Developer – 12 months contract",
-      "company": "PERSOL TECH SERVICES PTE. LTD.",
-      "salary": "S$3,500 – S$7,000",
-      "type": "Contract",
-      "skills": [
-        "Git",
-        "3rd party integration",
-        "Computer Engineering"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/ab8789b8b44095ce61b368c92d98351c",
-      "posted": "2026-08-20T02:59:01.000Z"
-    },
-    {
-      "title": "Tech Lead, Machine Learning Engineer - Global E-Commerce (Conversational AI)",
-      "company": "BYTEDANCE PTE. LTD.",
-      "salary": "S$11,250 – S$22,500",
-      "type": "Full Time",
-      "skills": [
-        "Code Review",
-        "Roadmap",
-        "Natural Language Processing"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/6169356d28c597080805e17d390ec35f",
-      "posted": "2026-08-20T02:40:15.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/5cd5ce3b94113dc5ed958ae8aada769e",
+      "posted": "2026-08-21T08:40:54.000Z"
     }
   ]
 }
