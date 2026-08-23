@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-08-22T01:41:52.105Z",
+  "generatedAt": "2026-08-23T01:52:37.618Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: What coolant should you use for data center liquid cooling?",
+      "url": "https://www.datacenterdynamics.com/en/opinions/what-coolant-should-you-use-for-data-center-liquid-cooling/",
+      "description": "Exploring PG25, dielectric fluids, and ASHRAE recommendations",
+      "published": "2026-08-22T15:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Ignis and Acciona look to build a data center in Segovia, Spain",
+      "url": "https://www.datacenterdynamics.com/en/news/ignis-and-acciona-join-forces-to-build-a-data-center-in-segovia/",
+      "description": "The joint project also includes the development of a photovoltaic plant",
+      "published": "2026-08-22T14:00:33.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Building data centers is getting easier. Building trust is not",
+      "url": "https://www.datacenterdynamics.com/en/opinions/building-data-centers-is-getting-easier-building-trust-is-not/",
+      "description": "Data centers cannot afford to treat communities as an afterthought",
+      "published": "2026-08-22T14:00:31.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Terronova starts work on 300MW data center campus outside São Paulo, Brazil",
+      "url": "https://www.datacenterdynamics.com/en/news/terranova-boosts-technology-infrastructure-with-the-construction-of-one-of-latin-americas-first-ai-data-centers/",
+      "description": "Site could eventually exceed 1GW",
+      "published": "2026-08-22T11:00:30.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: Powering data centers is no longer a simple matter of supply and demand",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/powering-data-centers-is-no-longer-a-simple-matter-of-supply-and-demand/",
+      "description": "Ramboll’s Michael Bergstrom unpacks how unprecedented load growth, changing grid standards, and shifting utility requirements are transforming the data center lifecycle",
+      "published": "2026-08-22T07:00:00.000Z"
+    },
     {
       "source": "Data Center Knowledge",
       "title": "Zayo Locks Up Corning Fiber Capacity for AI Network Buildout",
       "url": "https://www.datacenterknowledge.com/networking/zayo-locks-up-corning-fiber-capacity-for-ai-network-buildout",
       "description": "The agreement secures a material portion of the fiber Zayo needs for its 15,000 route-mile network expansion through 2030.",
       "published": "2026-08-21T17:04:27.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Vapat Enters the data center market with a 160MW project in Valladolid",
-      "url": "https://www.datacenterdynamics.com/en/news/vapat-enters-the-data-center-market-with-a-160mw-project-in-valladolid/",
-      "description": "The project calls for the construction of two data center buildings, each with eight IT rooms",
-      "published": "2026-08-21T16:47:08.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Colombia halts construction of 1,600km fiber network in the Amazon",
-      "url": "https://www.datacenterdynamics.com/en/news/colombia-puts-the-brakes-on-a-1600-km-fiber-optic-network-in-the-amazon/",
-      "description": "The technical and financial complexity of the deployment has led the government to withdraw the procurement process",
-      "published": "2026-08-21T16:42:53.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Nvidia backs data center powered land company Cloverleaf",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-backs-data-center-powered-land-company-cloverleaf/",
-      "description": "Will help company bring projects to fruition, based on Nvidia DSX platform",
-      "published": "2026-08-21T16:20:47.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Edge data center for AI workloads proposed in Manchester, UK",
-      "url": "https://www.datacenterdynamics.com/en/news/edge-data-center-for-ai-workloads-proposed-in-manchester-uk/",
-      "description": "Two building scheme is part of planned network of Edge sites",
-      "published": "2026-08-21T15:47:11.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Rocket Lab has no plans to enter orbital data center market",
-      "url": "https://www.datacenterdynamics.com/en/news/rocket-lab-has-no-plans-to-enter-orbital-data-center-market/",
-      "description": "But SpaceX's compute ambitions could give Rocket Lab a launch opening",
-      "published": "2026-08-21T15:30:10.000Z"
     },
     {
       "source": "Ars Technica Tech",
@@ -119,27 +119,6 @@
       "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
       "description": "\n                        Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.\n                    ",
       "published": "2026-08-20T13:00:35.000Z"
-    },
-    {
-      "source": "VentureBeat AI",
-      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-      "description": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for",
-      "published": "2026-08-19T14:18:12.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "IBM Pushes System Design To Reach Ultra-Cold Temperatures For Quantum",
-      "url": "https://www.nextplatform.com/compute/2026/08/19/ibm-pushes-system-design-to-reach-ultra-cold-temperatures-for-quantum/5289699",
-      "description": "",
-      "published": "2026-08-19T14:16:38.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Cerebras Overclocks WSE-3 Waferscale Engine To Boost Inference Oomph In “Nexus” CS-4",
-      "url": "https://www.nextplatform.com/compute/2026/08/19/cerebras-overclocks-wse-3-waferscale-engine-to-boost-inference-oomph-in-nexus-cs-4/5289400",
-      "description": "",
-      "published": "2026-08-19T04:39:18.000Z"
     }
   ]
 }

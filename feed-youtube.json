@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-22T01:41:52.105Z",
+  "generatedAt": "2026-08-23T01:52:37.618Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "How to Actually Develop Taste",
+      "url": "https://www.youtube.com/watch?v=1p9NoSdnWUc",
+      "published": "2026-08-22T22:30:16.000Z",
+      "description": "Taste isn't something you have. It's reps with feedback, run enough times.\n\nMax Schoening (Head of Product at Notion) on why building taste works almost exactly like training a model."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Base44: 0 to an $80M Exit in 6 Months",
+      "url": "https://www.youtube.com/watch?v=bDh-GTxz0Sg",
+      "published": "2026-08-22T10:46:01.000Z",
+      "description": "Zero to an $80 million exit in six months.\n\nMaor Shlomo (Founder of Base44) on the small frustration that started Base44."
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "Silicon Valley's \"last train\" mindset",
@@ -77,13 +91,6 @@
       "url": "https://www.youtube.com/watch?v=kaFiNLiIPpQ",
       "published": "2026-08-16T11:05:39.000Z",
       "description": "Is anyone's job actually safe from AI? Anthropic's own co-founder doesn't think so.\n\nBenjamin Mann on job replacement, plus one habit that upgrades how you use Claude Code."
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "How Lovable hit $10M ARR in just 2 months",
-      "url": "https://www.youtube.com/watch?v=7xpnbPFs7n8",
-      "published": "2026-08-15T21:30:14.000Z",
-      "description": "Lovable just raised $400M in Series C funding. It started with 15 people and $10M ARR in two months. \n\nAnton Osika (co-founder of Lovable) on how it all began."
     }
   ]
 }

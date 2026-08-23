@@ -1,6 +1,45 @@
 {
-  "generatedAt": "2026-08-22T01:41:52.105Z",
+  "generatedAt": "2026-08-23T01:52:37.618Z",
   "jobs": [
+    {
+      "title": "AI Engineer",
+      "company": "SEATRIUM (SG) PTE. LTD.",
+      "salary": "S$3,500 – S$5,000",
+      "type": "Contract",
+      "skills": [
+        "TensorFlow",
+        "Machine Learning",
+        "CSS"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/27860a212275fce48dcf2a9f0032a1da",
+      "posted": "2026-08-22T07:41:13.000Z"
+    },
+    {
+      "title": "AI Engineer (Software Development)",
+      "company": "SEATRIUM (SG) PTE. LTD.",
+      "salary": "S$3,500 – S$5,000",
+      "type": "Contract",
+      "skills": [
+        "TensorFlow",
+        "Machine Learning",
+        "CSS"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/2d71da7846501846140cf58af7ecee8c",
+      "posted": "2026-08-22T07:40:15.000Z"
+    },
+    {
+      "title": "Quant Researcher #77900",
+      "company": "ANRADUS PTE. LTD.",
+      "salary": "S$6,000 – S$8,500",
+      "type": "Permanent",
+      "skills": [
+        "Algorithm Analysis",
+        "Scalability",
+        "Quantitative Research"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/7b3038bb1addf53aa61a8c2d834faccb",
+      "posted": "2026-08-22T05:52:47.000Z"
+    },
     {
       "title": "AI Tester",
       "company": "NCS PTE. LTD.",
@@ -30,7 +69,7 @@
     {
       "title": "Senior AI Engineer (Backend)",
       "company": "FREEFLO PTE. LTD.",
-      "salary": "S$3,000 – S$5,000",
+      "salary": "S$5,000 – S$5,600",
       "type": "Permanent",
       "skills": [
         "Ai",
@@ -156,45 +195,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/9b7cc1690a23084823ad5f25632cadc5",
       "posted": "2026-08-21T09:42:31.000Z"
-    },
-    {
-      "title": "Edge AI & Embedded Systems Engineer",
-      "company": "PRISM AI STUDIO PTE. LTD.",
-      "salary": "S$4,000 – S$6,000",
-      "type": "Contract",
-      "skills": [
-        "Software Debugging",
-        "Ai",
-        "Hardware Architecture"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/808a401bc78d94f3ff92d5d012c35602",
-      "posted": "2026-08-21T09:39:30.000Z"
-    },
-    {
-      "title": "Capability Lead – AI Pilot Implementation Project Manager",
-      "company": "ONCOSHOT PTE. LTD.",
-      "salary": "S$4,000 – S$10,000",
-      "type": "Permanent",
-      "skills": [
-        "Piloting",
-        "Ai",
-        "Software Validation"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/d303ef33cd4fce2b1a945c62fa251a1e",
-      "posted": "2026-08-21T09:14:19.000Z"
-    },
-    {
-      "title": "Software Engineer (Python / AI chatbots)",
-      "company": "SCIENTEC CONSULTING PTE. LTD.",
-      "salary": "S$5,000 – S$10,000",
-      "type": "Contract",
-      "skills": [
-        "Chatbot",
-        "Design",
-        "RESTful API"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/5cd5ce3b94113dc5ed958ae8aada769e",
-      "posted": "2026-08-21T08:40:54.000Z"
     }
   ]
 }
