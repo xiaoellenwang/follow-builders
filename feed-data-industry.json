@@ -1,6 +1,27 @@
 {
-  "generatedAt": "2026-08-23T01:52:37.618Z",
+  "generatedAt": "2026-08-24T01:49:32.491Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "The hidden infrastructure decisions that impact long-term uptime",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-hidden-infrastructure-decisions-that-impact-long-term-uptime/",
+      "description": "The growing need to future-proof infrastructure",
+      "published": "2026-08-23T14:00:30.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Lithium-ion batteries are reshaping data centers, fire safety must keep pace",
+      "url": "https://www.datacenterdynamics.com/en/opinions/lithium-ion-batteries-are-reshaping-data-centers-fire-safety-must-keep-pace/",
+      "description": "Managing fire in the AI age",
+      "published": "2026-08-23T10:00:26.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: Why speed to power starts before the grid",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/why-speed-to-power-starts-before-the-grid/",
+      "description": "Rowan Digital Infrastructure's Patrick Dillow explains how smart site selection, flexible planning, and early utility partnerships pave the way to de-risking hyperscale project timelines",
+      "published": "2026-08-23T07:00:00.000Z"
+    },
     {
       "source": "Data Center Dynamics",
       "title": "Sponsored: What coolant should you use for data center liquid cooling?",
@@ -14,27 +35,6 @@
       "url": "https://www.datacenterdynamics.com/en/news/ignis-and-acciona-join-forces-to-build-a-data-center-in-segovia/",
       "description": "The joint project also includes the development of a photovoltaic plant",
       "published": "2026-08-22T14:00:33.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Building data centers is getting easier. Building trust is not",
-      "url": "https://www.datacenterdynamics.com/en/opinions/building-data-centers-is-getting-easier-building-trust-is-not/",
-      "description": "Data centers cannot afford to treat communities as an afterthought",
-      "published": "2026-08-22T14:00:31.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Terronova starts work on 300MW data center campus outside São Paulo, Brazil",
-      "url": "https://www.datacenterdynamics.com/en/news/terranova-boosts-technology-infrastructure-with-the-construction-of-one-of-latin-americas-first-ai-data-centers/",
-      "description": "Site could eventually exceed 1GW",
-      "published": "2026-08-22T11:00:30.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: Powering data centers is no longer a simple matter of supply and demand",
-      "url": "https://www.datacenterdynamics.com/en/marketwatch/powering-data-centers-is-no-longer-a-simple-matter-of-supply-and-demand/",
-      "description": "Ramboll’s Michael Bergstrom unpacks how unprecedented load growth, changing grid standards, and shifting utility requirements are transforming the data center lifecycle",
-      "published": "2026-08-22T07:00:00.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -91,34 +91,6 @@
       "url": "https://www.datacenterknowledge.com/ai-data-centers/ai-infrastructure-pushes-data-center-capex-forecast-above-3-trillion",
       "description": "AI infrastructure spending is forecast to push global data center capex beyond $3 trillion by 2030, driven by hyperscalers and AI-specialized clouds.",
       "published": "2026-08-21T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "EdgeCore Says Data Centers Should Pay Their Own Power Costs",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/edgecore-says-data-centers-should-pay-their-own-power-costs",
-      "description": "The developer-operator says it will fund the power infrastructure its campuses need, but the definition of “full cost” depends on how utilities allocate broader grid investments.",
-      "published": "2026-08-20T21:09:41.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Debates over AI consciousness are a trap",
-      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "description": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” ",
-      "published": "2026-08-20T15:42:39.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Micron Puts $10B Behind US AI Memory Research",
-      "url": "https://www.datacenterknowledge.com/data-center-chips/micron-puts-10b-behind-us-ai-memory-research",
-      "description": "The new Idaho research hub will target memory, compute, and packaging as AI systems push existing technologies.",
-      "published": "2026-08-20T14:11:06.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-      "description": "\n                        Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.\n                    ",
-      "published": "2026-08-20T13:00:35.000Z"
     }
   ]
 }

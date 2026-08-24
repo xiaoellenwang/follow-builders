@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-23T01:52:37.618Z",
+  "generatedAt": "2026-08-24T01:49:32.491Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Why They Rejected 31,831 PM Applicants",
+      "url": "https://www.youtube.com/watch?v=lpNbHUI-fbo",
+      "published": "2026-08-23T16:45:40.000Z",
+      "description": "31,832 people applied to be a PM at Whatnot. They hired one.\n\nTom Verrilli (CPO, Whatnot) on what actually gets someone through that funnel."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "84 minutes of enterprise sales alpha | Jen Abel",
+      "url": "https://www.youtube.com/watch?v=YS9In813jJ0",
+      "published": "2026-08-23T12:30:08.000Z",
+      "description": "Jen Abel is the co-founder of JJellyfish and GM of enterprise sales at State Affairs. She is widely regarded as one of the sharpest practitioners in enterprise sales, and for that reason, this is her third visit to the podcast. In our first conversation we went deep on founder-led sales; in our seco"
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "How to Actually Develop Taste",
@@ -77,20 +91,6 @@
       "url": "https://www.youtube.com/watch?v=lozILdmdZyQ",
       "published": "2026-08-17T11:22:11.000Z",
       "description": "Anthropic co-founder on leaving OpenAI: \"Safety wasn't the top priority there.\"\n\nBenjamin Mann on why he wanted a lab that could push the frontier and still put safety first."
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "Chatbots are not the final interface: OpenAI’s Head of Design on what’s next | Ian Silber",
-      "url": "https://www.youtube.com/watch?v=BV0hy6NET-U",
-      "published": "2026-08-16T12:30:26.000Z",
-      "description": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber\n\nIan Silber is the head of product design at OpenAI, where he has led the design of ChatGPT, Codex, and all of OpenAI’s product experience for the past three years. Before OpenAI, he was at Artifact, the AI-power"
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "Anthropic's co-founder on using Claude effectively",
-      "url": "https://www.youtube.com/watch?v=kaFiNLiIPpQ",
-      "published": "2026-08-16T11:05:39.000Z",
-      "description": "Is anyone's job actually safe from AI? Anthropic's own co-founder doesn't think so.\n\nBenjamin Mann on job replacement, plus one habit that upgrades how you use Claude Code."
     }
   ]
 }

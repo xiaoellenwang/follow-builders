@@ -1,6 +1,123 @@
 {
-  "generatedAt": "2026-08-23T01:52:37.618Z",
+  "generatedAt": "2026-08-24T01:49:32.491Z",
   "jobs": [
+    {
+      "title": "Presales AI Solutions Engineer",
+      "company": "SKILLSFORCE MANAGEMENT CONSULTANCY PTE LTD",
+      "salary": "S$6,000 – S$10,000",
+      "type": "Permanent",
+      "skills": [
+        "Sales",
+        "Pre-Sales",
+        "AI Agents"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/6b26563c4ecc652a1ff398707f7b5610",
+      "posted": "2026-08-24T01:31:03.000Z"
+    },
+    {
+      "title": "DevOps Engineer (AI Platform and Cloud)",
+      "company": "NIVABIZ PTE. LTD.",
+      "salary": "S$6,000 – S$7,500",
+      "type": "Contract",
+      "skills": [
+        "Azure AI",
+        "Ai",
+        "Terraform"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/f7cb278223973a08c7bf698978aff8be",
+      "posted": "2026-08-23T14:59:53.000Z"
+    },
+    {
+      "title": "Applied Machine Learning Orchestration Graduate (AML) - 2027 Start",
+      "company": "BYTEDANCE PTE. LTD.",
+      "salary": "S$11,250 – S$22,500",
+      "type": "Full Time",
+      "skills": [
+        "Machine Learning",
+        "Onboarding",
+        "Distributed Platforms"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/7af523be31ac5a7608d6faedca37697f",
+      "posted": "2026-08-23T14:34:47.000Z"
+    },
+    {
+      "title": "Applied Machine Learning Orchestration Graduate (AML) - 2027 Start",
+      "company": "BYTEDANCE PTE. LTD.",
+      "salary": "S$6,500 – S$13,000",
+      "type": "Full Time",
+      "skills": [
+        "Machine Learning",
+        "Onboarding",
+        "Distributed Platforms"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/e0ae59bc2f4bb773fdd981dfb0039221",
+      "posted": "2026-08-23T14:34:02.000Z"
+    },
+    {
+      "title": "Research Scientist - Large-Scale Machine Learning Systems (SysML) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "company": "BYTEDANCE PTE. LTD.",
+      "salary": "S$11,250 – S$22,500",
+      "type": "Full Time",
+      "skills": [
+        "Collaborative Filtering",
+        "Onboarding",
+        "Advertising"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/2cf7552a9ff0416659f06710449974cd",
+      "posted": "2026-08-23T14:32:33.000Z"
+    },
+    {
+      "title": "Research Scientist - Large-Scale Machine Learning Systems (SysML) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "company": "BYTEDANCE PTE. LTD.",
+      "salary": "S$6,500 – S$13,000",
+      "type": "Full Time",
+      "skills": [
+        "Collaborative Filtering",
+        "Onboarding",
+        "Advertising"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/8078582c2621ca043df0f1f1720b5567",
+      "posted": "2026-08-23T14:31:41.000Z"
+    },
+    {
+      "title": "Product Manager (AI & EdTech)",
+      "company": "BAMBOO SYSTEM TECHNOLOGY PTE. LTD.",
+      "salary": "S$3,000 – S$4,500",
+      "type": "Full Time",
+      "skills": [
+        "Market Research",
+        "Analytical Skills",
+        "Interpersonal Skills"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/e6ae407c2b55bac095b524d8ea48e030",
+      "posted": "2026-08-23T14:02:42.000Z"
+    },
+    {
+      "title": "Applied AI Scientist",
+      "company": "DADACONSULTANTS PTE. LTD.",
+      "salary": "S$8,000 – S$18,000",
+      "type": "Permanent",
+      "skills": [
+        "Deep Learning",
+        "Communication",
+        "Foundations"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/69b5a6e14aece0461debc75b23f9273b",
+      "posted": "2026-08-23T03:14:59.000Z"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "DADACONSULTANTS PTE. LTD.",
+      "salary": "S$8,000 – S$18,000",
+      "type": "Permanent",
+      "skills": [
+        "Kubernetes",
+        "Collaboration",
+        "Platform Architecture"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/0aacccc5e0fa1e94bca9b62032e72ad4",
+      "posted": "2026-08-23T03:08:25.000Z"
+    },
     {
       "title": "AI Engineer",
       "company": "SEATRIUM (SG) PTE. LTD.",
@@ -26,32 +143,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/2d71da7846501846140cf58af7ecee8c",
       "posted": "2026-08-22T07:40:15.000Z"
-    },
-    {
-      "title": "Quant Researcher #77900",
-      "company": "ANRADUS PTE. LTD.",
-      "salary": "S$6,000 – S$8,500",
-      "type": "Permanent",
-      "skills": [
-        "Algorithm Analysis",
-        "Scalability",
-        "Quantitative Research"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/7b3038bb1addf53aa61a8c2d834faccb",
-      "posted": "2026-08-22T05:52:47.000Z"
-    },
-    {
-      "title": "AI Tester",
-      "company": "NCS PTE. LTD.",
-      "salary": "S$7,000 – S$12,000",
-      "type": "Contract",
-      "skills": [
-        "LangSmith",
-        "Software Test Engineering",
-        "Game Artificial Intelligence Development"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/ccff9abc0a76959a9d76cd7889c75b3d",
-      "posted": "2026-08-21T14:49:43.000Z"
     },
     {
       "title": "AI Engineer",
@@ -80,45 +171,6 @@
       "posted": "2026-08-21T14:20:15.000Z"
     },
     {
-      "title": "Senior Full Stack AI Software Engineer (Cybersecurity & AI SaaS)",
-      "company": "MOMENTUM Z PTE. LTD.",
-      "salary": "S$4,500 – S$5,000",
-      "type": "Full Time",
-      "skills": [
-        "Ai",
-        "Ownership",
-        "Literacy"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/7c84b93a62f4c180a955b31ed7adc528",
-      "posted": "2026-08-21T11:58:37.000Z"
-    },
-    {
-      "title": "Lead AI Engineer",
-      "company": "KUAILU SOFTWARE (SINGAPORE) PTE. LTD.",
-      "salary": "S$8,000 – S$15,000",
-      "type": "Full Time",
-      "skills": [
-        "Sampling",
-        "Data Pipeline",
-        "Reasoning Skills"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/88d8e7c691fd5efe22f8a1626e9307a9",
-      "posted": "2026-08-21T10:19:24.000Z"
-    },
-    {
-      "title": "*GOV* AI Engineer| JavaScript | Python",
-      "company": "SCIENTEC CONSULTING PTE. LTD.",
-      "salary": "S$7,000 – S$11,000",
-      "type": "Contract",
-      "skills": [
-        "API Development",
-        "AI Ethics",
-        "PostgreSQL"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/369bd6c188da696b93f35b717ff1e71c",
-      "posted": "2026-08-21T10:19:05.000Z"
-    },
-    {
       "title": "Senior Manager ML Operation",
       "company": "AVENSYS CONSULTING PTE. LTD.",
       "salary": "S$6,000 – S$12,000",
@@ -132,19 +184,6 @@
       "posted": "2026-08-21T10:13:43.000Z"
     },
     {
-      "title": "AI Engineer",
-      "company": "KUAILU SOFTWARE (SINGAPORE) PTE. LTD.",
-      "salary": "S$5,000 – S$8,000",
-      "type": "Full Time",
-      "skills": [
-        "Hyperparameter",
-        "Data Cleaning",
-        "Natural Language Processing"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/fe6ab454fcff5681e629151ebf94f5bc",
-      "posted": "2026-08-21T10:12:15.000Z"
-    },
-    {
       "title": "AI/ML Governance Lead, Commercial & Investment Banking Digital, Data and AI",
       "company": "JPMORGAN CHASE BANK, N.A.",
       "salary": "S$11,000 – S$22,000",
@@ -156,45 +195,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/8ac35a6f50017b0e3971966c1ade57f1",
       "posted": "2026-08-21T10:03:25.000Z"
-    },
-    {
-      "title": "[T05] Senior Data Scientist / Machine Learning Engineer",
-      "company": "TALENTSIS PTE. LTD.",
-      "salary": "S$5,700 – S$6,700",
-      "type": "Full Time",
-      "skills": [
-        "Collaborate With Engineers",
-        "Design",
-        "large datasets"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/c0d2de49fd3c19c2ca826ed3c8bed396",
-      "posted": "2026-08-21T09:46:29.000Z"
-    },
-    {
-      "title": "[T05] Senior/ Machine Learning Engineer",
-      "company": "TALENTSIS PTE. LTD.",
-      "salary": "S$5,700 – S$6,700",
-      "type": "Full Time",
-      "skills": [
-        "Collaborate With Engineers",
-        "Design",
-        "large datasets"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/86efad8ed5f2b9717d88c874baa0eed0",
-      "posted": "2026-08-21T09:45:55.000Z"
-    },
-    {
-      "title": "Project Manager, MLOps",
-      "company": "PERSOL SINGAPORE PTE. LTD.",
-      "salary": "S$9,000 – S$12,000",
-      "type": "Permanent",
-      "skills": [
-        "Machine Learning",
-        "Liaising with cross functional teams",
-        "Leadership"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/9b7cc1690a23084823ad5f25632cadc5",
-      "posted": "2026-08-21T09:42:31.000Z"
     }
   ]
 }
