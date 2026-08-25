@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-24T01:49:32.491Z",
+  "generatedAt": "2026-08-25T01:43:59.908Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "90% of People Are Selling Wrong",
+      "url": "https://www.youtube.com/watch?v=_LWpjDPxMmY",
+      "published": "2026-08-24T15:59:50.000Z",
+      "description": "Intro, demo, proposal, contract, close. That's not a sales process, those are just buckets.\n\nJen Abel (General Manager at State Affairs) on the 90% who mistake one for the other."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Anthropic's Co-founder on the Real Bottleneck to Smarter AI",
+      "url": "https://www.youtube.com/watch?v=SdccuZr-MmE",
+      "published": "2026-08-24T09:30:03.000Z",
+      "description": "The biggest bottleneck on model intelligence isn't algorithms. It's chips.\n\nBenjamin Mann (Co-founder, Anthropic) on what 10x more compute would actually buy you."
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "Why They Rejected 31,831 PM Applicants",
@@ -84,13 +98,6 @@
       "url": "https://www.youtube.com/watch?v=GN2FQ-4Tk8o",
       "published": "2026-08-18T10:59:24.000Z",
       "description": "Instead of making you type everything out, ChatGPT now just asks.\n\nIan Silber (Head of Design at OpenAI) on how OpenAI's design team keeps evolving the interface."
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "8 people left OpenAI to start Anthropic",
-      "url": "https://www.youtube.com/watch?v=lozILdmdZyQ",
-      "published": "2026-08-17T11:22:11.000Z",
-      "description": "Anthropic co-founder on leaving OpenAI: \"Safety wasn't the top priority there.\"\n\nBenjamin Mann on why he wanted a lab that could push the frontier and still put safety first."
     }
   ]
 }

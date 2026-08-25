@@ -1,96 +1,96 @@
 {
-  "generatedAt": "2026-08-24T01:49:32.491Z",
+  "generatedAt": "2026-08-25T01:43:59.908Z",
   "articles": [
     {
-      "source": "Data Center Dynamics",
-      "title": "The hidden infrastructure decisions that impact long-term uptime",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-hidden-infrastructure-decisions-that-impact-long-term-uptime/",
-      "description": "The growing need to future-proof infrastructure",
-      "published": "2026-08-23T14:00:30.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Lithium-ion batteries are reshaping data centers, fire safety must keep pace",
-      "url": "https://www.datacenterdynamics.com/en/opinions/lithium-ion-batteries-are-reshaping-data-centers-fire-safety-must-keep-pace/",
-      "description": "Managing fire in the AI age",
-      "published": "2026-08-23T10:00:26.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: Why speed to power starts before the grid",
-      "url": "https://www.datacenterdynamics.com/en/marketwatch/why-speed-to-power-starts-before-the-grid/",
-      "description": "Rowan Digital Infrastructure's Patrick Dillow explains how smart site selection, flexible planning, and early utility partnerships pave the way to de-risking hyperscale project timelines",
-      "published": "2026-08-23T07:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: What coolant should you use for data center liquid cooling?",
-      "url": "https://www.datacenterdynamics.com/en/opinions/what-coolant-should-you-use-for-data-center-liquid-cooling/",
-      "description": "Exploring PG25, dielectric fluids, and ASHRAE recommendations",
-      "published": "2026-08-22T15:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Ignis and Acciona look to build a data center in Segovia, Spain",
-      "url": "https://www.datacenterdynamics.com/en/news/ignis-and-acciona-join-forces-to-build-a-data-center-in-segovia/",
-      "description": "The joint project also includes the development of a photovoltaic plant",
-      "published": "2026-08-22T14:00:33.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
-      "title": "Zayo Locks Up Corning Fiber Capacity for AI Network Buildout",
-      "url": "https://www.datacenterknowledge.com/networking/zayo-locks-up-corning-fiber-capacity-for-ai-network-buildout",
-      "description": "The agreement secures a material portion of the fiber Zayo needs for its 15,000 route-mile network expansion through 2030.",
-      "published": "2026-08-21T17:04:27.000Z"
+      "title": "Data Center Construction at Midyear: Demand, Friction, and Building Discipline",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/data-center-construction-at-midyear-demand-friction-and-building-discipline",
+      "description": "Data center buildouts are booming in 2026, but challenges like power, labor, and community concerns demand innovation and collaboration.",
+      "published": "2026-08-24T21:16:52.000Z"
     },
     {
       "source": "Ars Technica Tech",
-      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
-      "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
-      "description": "\n                        Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.\n                    ",
-      "published": "2026-08-21T13:11:35.000Z"
+      "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
+      "url": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
+      "description": "\n                        Is the technique outdated? Yes. Is it still creepy? Also yes.\n                    ",
+      "published": "2026-08-24T19:19:21.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "The Download: threats from space mirrors and credit for AI drugs",
-      "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on dema",
-      "published": "2026-08-21T12:10:00.000Z"
+      "source": "Data Center Dynamics",
+      "title": "Raeden claims Michigan moratorium unlawfully stopped its Gibraltar data center development",
+      "url": "https://www.datacenterdynamics.com/en/news/raeden-claims-michigan-moratorium-unlawfully-stopped-its-gibraltar-data-center-development/",
+      "description": "Imposed moratorium curbed proposals for a 100MW data center in the city",
+      "published": "2026-08-24T16:07:11.000Z"
     },
     {
-      "source": "Data Center Knowledge",
-      "title": "PJM Strategy Targets Data Center Growth, but Policy Gaps Remain",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/pjm-5-year-strategy-wrestles-with-data-center-boom",
-      "description": "The grid operator calls for faster development of generation and transmission and greater visibility into large loads, but major questions remain.",
-      "published": "2026-08-21T11:13:14.000Z"
+      "source": "Data Center Dynamics",
+      "title": "Beyond power: The search for an AI niche",
+      "url": "https://www.datacenterdynamics.com/en/opinions/beyond-power-the-search-for-an-ai-niche/",
+      "description": "What makes locations ideal for AI data center needs",
+      "published": "2026-08-24T15:58:48.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "Mother tongue",
-      "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
-      "description": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and snuggle (his chin on my second rib). Now was the moment when our son’s eyelids we",
-      "published": "2026-08-21T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "When AI designs a drug, who gets the credit?",
-      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-      "description": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up",
-      "published": "2026-08-21T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
-      "url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
-      "description": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, the US company Reflect Orbital plans to launch a test satellite called Eärendil-1 that will extend an 18-by-",
-      "published": "2026-08-21T09:00:00.000Z"
+      "source": "Data Center Dynamics",
+      "title": "Deploying 800VDC architectures for large-amperage data centers",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/deploying-800vdc-architectures-for-large-amperage-data-centers/",
+      "description": "800VDC architectures for the next generation of high-density data centers",
+      "published": "2026-08-24T15:41:09.000Z"
     },
     {
       "source": "Data Center Knowledge",
-      "title": "AI Infrastructure Pushes Data Center Capex Forecast Above $3 Trillion",
-      "url": "https://www.datacenterknowledge.com/ai-data-centers/ai-infrastructure-pushes-data-center-capex-forecast-above-3-trillion",
-      "description": "AI infrastructure spending is forecast to push global data center capex beyond $3 trillion by 2030, driven by hyperscalers and AI-specialized clouds.",
-      "published": "2026-08-21T09:00:00.000Z"
+      "title": "Prometheus’ 1.5 GW Texas Data Center Plan Tests Private Power",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/prometheus-1-5-gw-pecos-plan-tests-private-power",
+      "description": "The developer plans an islanded campus with onsite generation, but reaching its 2027 target will require a customer, modular construction, and a new power plant.",
+      "published": "2026-08-24T15:19:07.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sphere 3D plans 50MW data center in Hopkinsville, Kentucky",
+      "url": "https://www.datacenterdynamics.com/en/news/sphere-3d-plans-50mw-data-center-in-hopkinsville-kentucky/",
+      "description": "Alongside potential conversion of existing 15MW Bitcoin mining facility to AI and HPC",
+      "published": "2026-08-24T15:10:32.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Greenidge Generation rebrands as Vulcan Infrastructure and Power, targets AI/HPC",
+      "url": "https://www.datacenterdynamics.com/en/news/greenidge-generation-rebrands-as-vulcan-infrastructure-and-power-targets-aihpc/",
+      "description": "Moves away from Bitcoin mining to AI and HPC data centers",
+      "published": "2026-08-24T14:50:33.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "How to encourage smarter AI use in the classroom",
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "description": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones t",
+      "published": "2026-08-24T14:20:19.000Z"
+    },
+    {
+      "source": "Import AI",
+      "title": "Import AI 470: No rights for machines; automating environment generation with SPADE; and building better GPU kernels with Hawkeye",
+      "url": "https://jack-clark.net/2026/08/24/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/",
+      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI is accelerating some types of progress but not others:…A nice METR study lays out where acceleration is showing up…",
+      "published": "2026-08-24T13:12:40.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: kids outlearning AI, and space travel agents",
+      "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily churn thr",
+      "published": "2026-08-24T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "description": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&",
+      "published": "2026-08-24T09:00:00.000Z"
+    },
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "Data Engineering Weekly #284",
+      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-284",
+      "description": "The Weekly Data Engineering Newsletter",
+      "published": "2026-08-24T02:04:48.000Z"
     }
   ]
 }
