@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-25T01:43:59.908Z",
+  "generatedAt": "2026-08-26T01:49:32.125Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Never Demo to a Room You Haven't Scouted",
+      "url": "https://www.youtube.com/watch?v=yrrDBrXQ6Rk",
+      "published": "2026-08-25T15:07:29.000Z",
+      "description": "Never Demo to a Room You Haven't Scouted"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "TAM is the last thing YC worries about?",
+      "url": "https://www.youtube.com/watch?v=F13zwLCIIkg",
+      "published": "2026-08-25T01:56:50.000Z",
+      "description": "The TAM of Uber would be nothing. The TAM of Airbnb would've been nothing.\n\nDalton Caldwell on why YC doesn't sweat market size at pre-seed."
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "90% of People Are Selling Wrong",
@@ -77,27 +91,6 @@
       "url": "https://www.youtube.com/watch?v=5FMPkR8paP4",
       "published": "2026-08-19T14:00:11.000Z",
       "description": "Ian Silber (Head of Product Design at OpenAI) explains how, if you're using AI already, you're earlier than you think."
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "Even the Finance Guy Codes at Anthropic",
-      "url": "https://www.youtube.com/watch?v=9ghAvYZ8Ats",
-      "published": "2026-08-18T22:30:08.000Z",
-      "description": "On the Claude Code team, even the finance guy codes. | Boris Cherny (Head of Claude Code at Anthropic)"
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "Why designers feel pessimistic about AI",
-      "url": "https://www.youtube.com/watch?v=zjx_M0mxT_s",
-      "published": "2026-08-18T14:00:04.000Z",
-      "description": "Ian Silber (Head of Product Design at OpenAI) on why some designers are struggling to navigate the AI era."
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "What's Driving ChatGPT's UI Changes",
-      "url": "https://www.youtube.com/watch?v=GN2FQ-4Tk8o",
-      "published": "2026-08-18T10:59:24.000Z",
-      "description": "Instead of making you type everything out, ChatGPT now just asks.\n\nIan Silber (Head of Design at OpenAI) on how OpenAI's design team keeps evolving the interface."
     }
   ]
 }

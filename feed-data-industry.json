@@ -1,6 +1,104 @@
 {
-  "generatedAt": "2026-08-25T01:43:59.908Z",
+  "generatedAt": "2026-08-26T01:49:32.125Z",
   "articles": [
+    {
+      "source": "MIT Technology Review",
+      "title": "Addressing a sticking point in sustainable adhesives",
+      "url": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
+      "description": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers.  “The labels on a container are held up with petroleum-based glue. And because of that, even though",
+      "published": "2026-08-25T21:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "YouTuber finds niche as college admissions mentor",
+      "url": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
+      "description": "As a first-generation student from a small town, Gohar Khan ’21 had to navigate the college admissions process largely on his own. He founded his YouTube channel, Gohar’s Guide, to make things easier for other young people. Today, more than 10 million people follow Khan on social media for college a",
+      "published": "2026-08-25T21:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Launching youth entrepreneurship",
+      "url": "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/",
+      "description": "Even as a teenager, Laurie Stach ’06 says, she had a “crazy ambition to take on the world and solve problems.” At MIT, she realized she wasn’t the only one. “Adults always see these youth who are good at math and science and say, ‘You’re going to do great things—someday,’” says Stach. “Meanwhile, tr",
+      "published": "2026-08-25T21:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "A new stamp on cyberfraud prevention",
+      "url": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
+      "description": "For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “precise eye” for detail and nuance that his MIT application essay said would make him a good engineer.",
+      "published": "2026-08-25T21:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "AgeLab research inspires an A I startup",
+      "url": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
+      "description": "When Don Yansen ’63 arrived at the MIT AgeLab for a study on technology in care­giving for older adults, he didn’t plan to launch another company. But when he heard participants talk about how hard modern devices can be to use, he decided to develop an alternative. Yansen, a serial entrepreneur who ",
+      "published": "2026-08-25T21:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "DOE Keeps Eddystone Power Plant Online Amid Data Center Demand Surge",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/doe-extends-eddystone-as-pjm-faces-data-center-power-surge",
+      "description": "The 760 MW Eddystone coal plant will remain online longer as PJM faces rising data center load, generator retirements, and delayed power resources.",
+      "published": "2026-08-25T19:54:43.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Liquid Cooling Options: RDHx, Direct-to-Chip, Immersion",
+      "url": "https://www.datacenterknowledge.com/cooling/liquid-cooling-options-rdhx-direct-to-chip-immersion",
+      "description": "AI workloads push data center rack densities beyond the limits of air cooling. Three liquid cooling approaches offer different trade-offs and benefits.",
+      "published": "2026-08-25T19:21:33.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Infineon acquires Indian power systems firm C2i Semiconductors",
+      "url": "https://www.datacenterdynamics.com/en/news/infineon-acquires-indian-power-systems-firm-c2i-semiconductors/",
+      "description": "Transaction expected to close this year",
+      "published": "2026-08-25T16:11:51.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Banglalink deploys rooftop solar array on data center in Cumilla, Bangladesh",
+      "url": "https://www.datacenterdynamics.com/en/news/banglalink-deploys-rooftop-solar-array-on-data-center-in-cumilla-bangladesh/",
+      "description": "Has a capacity of 50kW",
+      "published": "2026-08-25T16:09:30.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "You Probably Forget How Cheap Memory Used To Be – And Is Not So Now",
+      "url": "https://www.nextplatform.com/store/2026/08/25/you-probably-forget-how-cheap-memory-used-to-be-and-is-not-so-now/5292363",
+      "description": "",
+      "published": "2026-08-25T16:03:21.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Arm's race: Building the AGI CPU",
+      "url": "https://www.datacenterdynamics.com/en/analysis/arms-race-building-the-agi-cpu/",
+      "description": "Britain's chip design champion is making its own silicon for AI data centers",
+      "published": "2026-08-25T16:00:33.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Residents raise concerns over proposed 50MW data center in Hopkinsville, Kentucky",
+      "url": "https://www.datacenterdynamics.com/en/news/residents-raise-concerns-over-proposed-50mw-data-center-in-hopkinsville-kentucky/",
+      "description": "North Campbell Land Co. looking to convert its Bitcoin mining facility to AI and HPC",
+      "published": "2026-08-25T15:00:27.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: From surveillance to operational intelligence: Rethinking safety and security in data centers",
+      "url": "https://www.datacenterdynamics.com/en/opinions/from-surveillance-to-operational-intelligence-rethinking-safety-and-security-in-data-centers/",
+      "description": "Why data center leaders should no longer evaluate surveillance and access systems solely as security investments.",
+      "published": "2026-08-25T15:00:25.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Lancium, Nvidia Partner on Gigawatt-Scale AI Data Centers",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/lancium-nvidia-partner-on-gigawatt-scale-ai-data-centers",
+      "description": "The developer says it has 4 GW under lease and 15+ GW of powered land as Nvidia partnership advances its grid-responsive AI data center model.",
+      "published": "2026-08-25T12:33:39.000Z"
+    },
     {
       "source": "Data Center Knowledge",
       "title": "Data Center Construction at Midyear: Demand, Friction, and Building Discipline",
@@ -16,27 +114,6 @@
       "published": "2026-08-24T19:19:21.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Raeden claims Michigan moratorium unlawfully stopped its Gibraltar data center development",
-      "url": "https://www.datacenterdynamics.com/en/news/raeden-claims-michigan-moratorium-unlawfully-stopped-its-gibraltar-data-center-development/",
-      "description": "Imposed moratorium curbed proposals for a 100MW data center in the city",
-      "published": "2026-08-24T16:07:11.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Beyond power: The search for an AI niche",
-      "url": "https://www.datacenterdynamics.com/en/opinions/beyond-power-the-search-for-an-ai-niche/",
-      "description": "What makes locations ideal for AI data center needs",
-      "published": "2026-08-24T15:58:48.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Deploying 800VDC architectures for large-amperage data centers",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/deploying-800vdc-architectures-for-large-amperage-data-centers/",
-      "description": "800VDC architectures for the next generation of high-density data centers",
-      "published": "2026-08-24T15:41:09.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "Prometheus’ 1.5 GW Texas Data Center Plan Tests Private Power",
       "url": "https://www.datacenterknowledge.com/data-center-construction/prometheus-1-5-gw-pecos-plan-tests-private-power",
@@ -44,46 +121,11 @@
       "published": "2026-08-24T15:19:07.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Sphere 3D plans 50MW data center in Hopkinsville, Kentucky",
-      "url": "https://www.datacenterdynamics.com/en/news/sphere-3d-plans-50mw-data-center-in-hopkinsville-kentucky/",
-      "description": "Alongside potential conversion of existing 15MW Bitcoin mining facility to AI and HPC",
-      "published": "2026-08-24T15:10:32.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Greenidge Generation rebrands as Vulcan Infrastructure and Power, targets AI/HPC",
-      "url": "https://www.datacenterdynamics.com/en/news/greenidge-generation-rebrands-as-vulcan-infrastructure-and-power-targets-aihpc/",
-      "description": "Moves away from Bitcoin mining to AI and HPC data centers",
-      "published": "2026-08-24T14:50:33.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "How to encourage smarter AI use in the classroom",
-      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-      "description": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones t",
-      "published": "2026-08-24T14:20:19.000Z"
-    },
-    {
       "source": "Import AI",
       "title": "Import AI 470: No rights for machines; automating environment generation with SPADE; and building better GPU kernels with Hawkeye",
       "url": "https://jack-clark.net/2026/08/24/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/",
       "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI is accelerating some types of progress but not others:…A nice METR study lays out where acceleration is showing up…",
       "published": "2026-08-24T13:12:40.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: kids outlearning AI, and space travel agents",
-      "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily churn thr",
-      "published": "2026-08-24T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Kids outlearn AI—and we still don’t know why",
-      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "description": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&",
-      "published": "2026-08-24T09:00:00.000Z"
     },
     {
       "source": "DataEngineeringWeekly",
