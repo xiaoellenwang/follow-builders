@@ -1,200 +1,200 @@
 {
-  "generatedAt": "2026-08-26T01:49:32.125Z",
+  "generatedAt": "2026-08-27T09:21:15.021Z",
   "jobs": [
     {
-      "title": "AI Engineer",
-      "company": "PEOPLE PROFILERS (SERVICES) PTE. LTD.",
-      "salary": "S$9,000 – S$14,000",
-      "type": "Contract",
-      "skills": [
-        "Architectural Modeling",
-        "Ai",
-        "Stakeholder Relationship"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/3f4b46fcbedb46303e51257c88e72268",
-      "posted": "2026-08-26T00:32:14.000Z"
-    },
-    {
-      "title": "AI Engineer (React/Python)",
-      "company": "SCIENTEC CONSULTING PTE. LTD.",
-      "salary": "S$6,000 – S$11,000",
-      "type": "Contract",
-      "skills": [
-        "GCC",
-        "Node.js",
-        "Modern Architecture"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/887cbac4817d9148c9679debed119198",
-      "posted": "2026-08-25T09:41:34.000Z"
-    },
-    {
-      "title": "Senior AI Harness Engineer",
-      "company": "AVENSYS CONSULTING PTE. LTD.",
-      "salary": "S$5,000 – S$10,000",
-      "type": "Contract",
-      "skills": [
-        "Ai",
-        "Test Automation Framework",
-        "Generative AI Application Development and Deployment"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/acbf8399960cfdcd65afa125fba63a11",
-      "posted": "2026-08-25T09:37:41.000Z"
-    },
-    {
-      "title": "AI Security & Automation Lead [5 DAYS / KAKI BUKIT] (KCKC)",
-      "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-      "salary": "S$6,000 – S$8,000",
-      "type": "Full Time",
-      "skills": [
-        "Antiaging Products",
-        "validation strategies",
-        "Logistics Automation"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/f9a7ed38e0b398d771ca403afc906b6d",
-      "posted": "2026-08-25T09:37:11.000Z"
-    },
-    {
-      "title": "Technical Engineer – (AI & Learning Applications)",
-      "company": "DCI CONSULTANTS PRIVATE LIMITED",
+      "title": "Computer Vision / ML Engineer",
+      "company": "PERCEPT SOLUTIONS PTE. LTD.",
       "salary": "S$5,000 – S$7,000",
       "type": "Contract",
       "skills": [
-        "Design",
-        "Leadership",
-        "Technology Education"
+        "Virtualization Solutions",
+        "Evaluation Studies",
+        "Video Analytics"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/3d7e24cebc1b23efecfe442b59ac22f7",
-      "posted": "2026-08-25T09:22:58.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/8d7976f4db57e4cd99549b3c3ed42dca",
+      "posted": "2026-08-27T08:55:17.000Z"
     },
     {
-      "title": "Machine Learning Engineer",
-      "company": "RAKUTEN ASIA PTE. LTD.",
-      "salary": "S$10,000 – S$17,000",
-      "type": "Permanent",
-      "skills": [
-        "Collaborate With Engineers",
-        "Research Findings Communication",
-        "Impact Evaluation"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/9f9346a4f86025a03d85a3de36014091",
-      "posted": "2026-08-25T09:19:32.000Z"
-    },
-    {
-      "title": "Technical Engineer (AI & Learning Applications)",
-      "company": "MINDTECK SINGAPORE PTE LTD",
-      "salary": "S$4,800 – S$6,150",
-      "type": "Contract",
-      "skills": [
-        "Data Ethics",
-        "Ai",
-        "Learning and Development Framework Management"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/148d46307fe2fbaba73c5203b9592a02",
-      "posted": "2026-08-25T07:36:54.000Z"
-    },
-    {
-      "title": "Junior Machine Learning Engineer",
-      "company": "WINGFIN SINGAPORE PTE. LTD.",
-      "salary": "S$5,000 – S$7,000",
+      "title": "Research Fellow, AI (School of Computing)",
+      "company": "NATIONAL UNIVERSITY OF SINGAPORE",
+      "salary": "S$6,000 – S$9,000",
       "type": "Full Time",
       "skills": [
         "Deep Learning",
         "Machine Learning",
+        "Research Programmes"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/d8912e857be64048bc7f56fa6a4bfadf",
+      "posted": "2026-08-27T08:54:19.000Z"
+    },
+    {
+      "title": "AWS Data Engineer",
+      "company": "TESCOM (SINGAPORE) SOFTWARE SYSTEMS TESTING PTE LTD.",
+      "salary": "S$6,800 – S$7,800",
+      "type": "Contract",
+      "skills": [
+        "Stream Processing",
+        "AWS",
+        "Implementation of Best Practices"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/6386387d0e549fb8e3fa8d368493ef01",
+      "posted": "2026-08-27T08:37:27.000Z"
+    },
+    {
+      "title": "EDB-IPP Project: LLM Model Compression and Acceleration",
+      "company": "RAKUTEN ASIA PTE. LTD.",
+      "salary": "S$4,500 – S$6,000",
+      "type": "Permanent",
+      "skills": [
+        "Compression",
+        "Machine Learning",
         "Ai"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/76588887166355a62408f870ad30bff3",
-      "posted": "2026-08-25T07:27:49.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/df44012c40f7b0d3358721f158581f05",
+      "posted": "2026-08-27T07:28:31.000Z"
     },
     {
-      "title": "AI Application Analyst",
-      "company": "PENTA-OCEAN CONSTRUCTION COMPANY LIMITED",
-      "salary": "S$6,000 – S$7,000",
-      "type": "Full Time",
+      "title": "AI Security & Automation Lead - LCYL",
+      "company": "THE SUPREME HR ADVISORY PTE. LTD.",
+      "salary": "S$6,000 – S$8,000",
+      "type": "Permanent",
       "skills": [
-        "Feasibility Studies",
-        "Analytical Skills",
-        "Technical Product Support"
+        "Antiaging Products",
+        "Logistics Automation",
+        "Timely Delivery"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/0989ef60effc683c26ceef5c2a376046",
-      "posted": "2026-08-25T07:24:22.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/bda6704783e06fd6c1b47df6bd7cdabd",
+      "posted": "2026-08-27T07:01:03.000Z"
     },
     {
-      "title": "Data Scientist (Machine Learning)",
-      "company": "FLINTEX CONSULTING PTE. LTD.",
-      "salary": "S$6,000 – S$8,500",
-      "type": "Contract",
+      "title": "Machine Learning Engineer",
+      "company": "CANTINA RESEARCH SINGAPORE PTE. LTD.",
+      "salary": "S$11,250 – S$22,500",
+      "type": "Permanent",
       "skills": [
-        "Dashboards",
-        "Validation",
-        "Data Pipeline"
+        "Retention Management",
+        "Microsoft Azure",
+        "Kubernetes"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/2517fd32779d52692e7dac72f05b65ff",
-      "posted": "2026-08-25T06:27:19.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/eb9bd749f506ab760cf966ea8d8ec3ea",
+      "posted": "2026-08-27T06:59:15.000Z"
     },
     {
-      "title": "AI Specialist",
-      "company": "FLINTEX CONSULTING PTE. LTD.",
-      "salary": "S$6,000 – S$8,500",
-      "type": "Contract",
+      "title": "Machine Learning Engineer",
+      "company": "CANTINA RESEARCH SINGAPORE PTE. LTD.",
+      "salary": "S$10,000 – S$20,000",
+      "type": "Permanent",
       "skills": [
-        "Chatbot",
-        "Retrieval-Augmented Generation (RAG)",
-        "Design"
+        "Retention Management",
+        "Microsoft Azure",
+        "Kubernetes"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/9fe31f126fdf5b7ad36ee433a4447798",
-      "posted": "2026-08-25T06:26:16.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/852ef600f9f5d866e5e0c027ecc1760a",
+      "posted": "2026-08-27T06:48:06.000Z"
     },
     {
-      "title": "Data Scientist (AI Platform Applications)",
-      "company": "FPT ASIA PACIFIC PTE. LTD.",
-      "salary": "S$7,500 – S$10,000",
-      "type": "Full Time",
+      "title": "Data Scientist Intern (AI Engineer Intern)",
+      "company": "ONE TECH STOP PTE. LTD.",
+      "salary": "S$1,000 – S$1,200",
+      "type": "Internship/Attachment",
       "skills": [
-        "API Development",
-        "Time Series Analysis",
-        "Use cases"
+        "Data Analysis",
+        "Natural Language Processing",
+        "Google Cloud Platform"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/74ab7e65d8060e413ac3b646b9ac6eb5",
-      "posted": "2026-08-25T06:04:57.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/7632d01e7929d79a3a450634e11b49c5",
+      "posted": "2026-08-27T06:06:41.000Z"
+    },
+    {
+      "title": "Data Scientist Intern (AI Analyst Intern)",
+      "company": "ONE TECH STOP PTE. LTD.",
+      "salary": "S$1,000 – S$1,200",
+      "type": "Internship/Attachment",
+      "skills": [
+        "Market Research",
+        "TensorFlow",
+        "Communication"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/ac45fe60cf3703e336316ac4e363535a",
+      "posted": "2026-08-27T06:05:32.000Z"
     },
     {
       "title": "Full‑Stack Applied AI Engineer (Agentic AI)",
       "company": "FLINTEX CONSULTING PTE. LTD.",
-      "salary": "S$7,500 – S$8,500",
-      "type": "Contract",
-      "skills": [
-        "Azure AI",
-        "TensorFlow",
-        "Ai"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/ec0c89295ea90bb6a43feff809083823",
-      "posted": "2026-08-25T05:05:08.000Z"
-    },
-    {
-      "title": "Applied AI Engineer (Agentic AI & ML)",
-      "company": "FLINTEX CONSULTING PTE. LTD.",
       "salary": "S$6,000 – S$8,500",
       "type": "Contract",
       "skills": [
-        "Utility Industry",
-        "Learning Platform",
-        "Design Patterns"
+        "Azure AI",
+        "Code Quality",
+        "AI Agents"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/dbd4c15510b174bab0b8b1a430408bd3",
-      "posted": "2026-08-25T04:48:37.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/590cec95121749c62c235f74f0e8177b",
+      "posted": "2026-08-27T05:32:08.000Z"
     },
     {
-      "title": "Lead Machine Learning Engineer",
-      "company": "VIRTUOS HOLDINGS PTE. LTD.",
-      "salary": "S$8,000 – S$11,500",
+      "title": "Machine Learning Engineer Intern (Computer Vision & AI)",
+      "company": "CYNAPSE PTE. LTD.",
+      "salary": "S$1,100 – S$1,500",
+      "type": "Internship/Attachment",
+      "skills": [
+        "Machine Learning",
+        "Git",
+        "Recognition"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/1d6620dd5375d5782ce2b392ff7bb7fc",
+      "posted": "2026-08-27T05:31:29.000Z"
+    },
+    {
+      "title": "Full-Stack AI Engineer",
+      "company": "KOPI RECRUIT PTE. LTD.",
+      "salary": "S$4,000 – S$7,600",
+      "type": "Contract",
+      "skills": [
+        "Data Protection",
+        "Database Migrations",
+        "Computer Engineering"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/0957e5cc65d5039372d940e5c697f4a2",
+      "posted": "2026-08-27T05:26:24.000Z"
+    },
+    {
+      "title": "Senior AI Engineer - AI Agents / RAG / Fine-Tuning",
+      "company": "MAGELLAN GLOBAL PTE. LTD.",
+      "salary": "S$8,000 – S$11,000",
       "type": "Full Time",
       "skills": [
-        "Language Services",
-        "Agents",
-        "AWS"
+        "Multi-Agent Systems",
+        "Retrieval-Augmented Generation (RAG)",
+        "Pipeline Management"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/b50a4b2ce7f66aa690732f45d9f1a2d8",
-      "posted": "2026-08-25T03:44:09.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/d8522cb85553756605947959c5bbe464",
+      "posted": "2026-08-27T04:54:15.000Z"
+    },
+    {
+      "title": "Full-Stack AI Engineer",
+      "company": "RAPSYS TECHNOLOGIES PTE. LTD.",
+      "salary": "S$5,000 – S$7,500",
+      "type": "Contract",
+      "skills": [
+        "Retrieval-Augmented Generation (RAG)",
+        "Design",
+        "Database Schemas"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/d88380baf97119165b573886d7932f19",
+      "posted": "2026-08-27T04:30:01.000Z"
+    },
+    {
+      "title": "Full Stack AI Engineer",
+      "company": "VINOVA PTE. LTD.",
+      "salary": "S$7,400 – S$7,400",
+      "type": "Contract",
+      "skills": [
+        "Software Troubleshooting",
+        "Generative AI Application Development and Deployment",
+        "Agents"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/28f1c9b4f77548446d26170fc139e21a",
+      "posted": "2026-08-27T03:20:01.000Z"
     }
   ]
 }
