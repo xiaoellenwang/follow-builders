@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-27T09:21:15.021Z",
+  "generatedAt": "2026-08-28T11:10:27.104Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Can Bootstrapped Founders Still Win?",
+      "url": "https://www.youtube.com/watch?v=7FXWoYKBYxw",
+      "published": "2026-08-28T10:43:38.000Z",
+      "description": "\"They're going to be 100x engineers, because they're able to manage LLMs.\"\n\nMaor Shlomo (Founder of Base44) on why team size and funding won't decide who wins a category."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "You should be losing most of your deals",
+      "url": "https://www.youtube.com/watch?v=1fivs_0QFLQ",
+      "published": "2026-08-27T16:00:33.000Z",
+      "description": "“If your win rate is higher than 35% your price is too low” Jen Abel (General Manager of State Affairs)"
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "Brex was a VR headset company",
@@ -77,20 +91,6 @@
       "url": "https://www.youtube.com/watch?v=i6zg6mxTBj8",
       "published": "2026-08-21T21:49:31.000Z",
       "description": "\"Right now, Silicon Valley is uncharacteristically full of people who don't actually love computers.\"\n\nMax Schoening (Head of Product at Notion) on why the fear of missing the last train is a bad reason to build anything."
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "What Great Product Design Looks Like",
-      "url": "https://www.youtube.com/watch?v=35dHPoBlr7Y",
-      "published": "2026-08-20T22:30:21.000Z",
-      "description": "There's no training data for the next great product idea.\n\nIan Silber (Head of Design at OpenAI) on why human designers still have the edge over AI."
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "The One Trait that Matters Most in the AI Age",
-      "url": "https://www.youtube.com/watch?v=sVJnaZBXdEw",
-      "published": "2026-08-20T16:23:52.000Z",
-      "description": "\"I don't think agency is very evenly distributed in the world.\"\n\nMax Schoening (Head of Product at Notion) on why agency, not skill, decides who does well from here."
     }
   ]
 }
