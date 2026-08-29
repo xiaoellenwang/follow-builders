@@ -1,40 +1,68 @@
 {
-  "generatedAt": "2026-08-28T11:10:27.104Z",
+  "generatedAt": "2026-08-29T06:54:35.166Z",
   "articles": [
     {
-      "source": "Data Center Dynamics",
-      "title": "Alibaba Cloud launches its first cloud region in Brazil",
-      "url": "https://www.datacenterdynamics.com/en/news/alibaba-brazil/",
-      "description": "Two new data centers will offer cloud services along with a suite of agent-based AI services for local businesses",
-      "published": "2026-08-28T11:00:31.000Z"
+      "source": "Data Center Knowledge",
+      "title": "Trump Targets Foreign Grid Equipment as Data Centers Expand",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/trump-targets-foreign-grid-equipment-as-data-centers-expand",
+      "description": "A new Executive Order targets foreign grid equipment as utilities and data center developers contend with tight supplies and long lead times.",
+      "published": "2026-08-28T16:58:45.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Warehouses De Pauw announces two data center projects in Ilfov County, Romania",
-      "url": "https://www.datacenterdynamics.com/en/news/warehouses-de-pauw-announces-two-data-center-projects-in-ilfov-county-romania/",
-      "description": "The facilities outside Bucharest will have a combined power demand of 380MW",
-      "published": "2026-08-28T10:50:28.000Z"
+      "title": "Trump admin considers more semiconductor tariffs, could include data center servers",
+      "url": "https://www.datacenterdynamics.com/en/news/trump-admin-considers-more-semiconductor-tariffs-and-possibly-data-center-servers/",
+      "description": "Because it went so well before",
+      "published": "2026-08-28T16:25:00.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Alberta’s iGaming market opening explained and what happened after July 13?",
-      "url": "https://www.datacenterdynamics.com/en/opinions/albertas-igaming-market-opening-explained-and-what-happened-after-july-13/",
-      "description": "And why the infrastructure needs to satisfy Alberta's regulatory requirements",
-      "published": "2026-08-28T10:50:14.000Z"
+      "title": "UK Green Party calls for nationwide data center moratorium",
+      "url": "https://www.datacenterdynamics.com/en/news/uk-green-party-calls-for-nationwide-data-center-moratorium/",
+      "description": "Only 'local scale data centers for the local community' would be allowed",
+      "published": "2026-08-28T16:02:41.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Amazon signs 199MW worth of PPAs across Sweden with OX2 and Mirova",
-      "url": "https://www.datacenterdynamics.com/en/news/amazon-signs-199mw-worth-of-ppas-across-sweden-with-ox2-and-mirova/",
-      "description": "Power will be delivered from four onshore wind farms",
-      "published": "2026-08-28T10:40:25.000Z"
+      "title": "ESDS Software Solution targets Rs 720 Crore IPO, will use proceeds to expand data center footprint",
+      "url": "https://www.datacenterdynamics.com/en/news/esds-software-solution-targets-rs-720-crore-ipo-will-use-proceeds-to-expand-data-center-footprint/",
+      "description": "IPO launches today, August 28",
+      "published": "2026-08-28T16:00:23.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "T1 Energy secures approval to convert solar manufacturing campus in Mo i Rana, Norway, into 50MW data center",
-      "url": "https://www.datacenterdynamics.com/en/news/t1-energy-secures-approval-to-convert-solar-manufacturing-campus-in-mo-i-rana-norway-into-50mw-data-center/",
-      "description": "With an option to expand",
-      "published": "2026-08-28T10:38:02.000Z"
+      "title": "Yotta Data Services nears IPO, says chairman Hiranandani",
+      "url": "https://www.datacenterdynamics.com/en/news/yotta-data-services-nears-ipo-says-chairman-hiranandani/",
+      "description": "Declines to comment on valuation or targeted raise",
+      "published": "2026-08-28T15:29:15.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: Can today’s fiber infrastructure planning keep pace with tomorrow’s AI workload demands?",
+      "url": "https://www.datacenterdynamics.com/en/opinions/can-todays-fiber-infrastructure-planning-keep-pace-with-tomorrows-ai-workload-demands/",
+      "description": "One of the prevailing challenges in AI infrastructure is the mismatch between technology and infrastructure cycles.",
+      "published": "2026-08-28T15:00:38.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "DOE Retreat on Transmission Corridors Tests the Case for Building Ahead",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/doe-retreat-on-transmission-corridors-tests-the-case-for-building-ahead",
+      "description": "DOE declined three proposed transmission corridors as its own study cites data center load growth, raising questions about how far ahead utilities should build.",
+      "published": "2026-08-28T13:12:06.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+      "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company cal",
+      "published": "2026-08-28T12:35:27.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
+      "url": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
+      "description": "\n                        The group infected more than 1,000 organizations in a relentless supply-chain attack campaign.\n                    ",
+      "published": "2026-08-28T11:15:05.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -54,7 +82,7 @@
       "source": "MIT Technology Review",
       "title": "A startup claims it’s found a drug to make your blood young",
       "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
-      "description": "I knew I’d officially become a ‘longevity influencer’ this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment, an injectable combination of two existing drugs which they call 1 Generation. This wasn’t just an",
+      "description": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment,&#160;an injectable combination of two existing drugs which they call 1 Generation. This wasn’t ju",
       "published": "2026-08-27T19:48:13.000Z"
     },
     {
@@ -63,13 +91,6 @@
       "url": "https://www.datacenterknowledge.com/data-center-site-selection/data-center-backlash-is-reaching-the-ballot-box",
       "description": "Data center development is becoming a campaign liability for politicians who once sold it as an economic development win.",
       "published": "2026-08-27T16:53:42.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Peeling Apart That Supposed $120 Billion Chip Deal Google Inked With Marvell",
-      "url": "https://www.nextplatform.com/compute/2026/08/27/peeling-apart-that-supposed-120-billion-chip-deal-google-inked-with-marvell/5292984",
-      "description": "",
-      "published": "2026-08-27T14:24:59.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -119,27 +140,6 @@
       "url": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
       "description": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that’s pretty dismal, especially because the transportation sector is the single biggest source of greenhouse-gas emissions in the country.&#160; One thing that could help turn ",
       "published": "2026-08-27T10:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "How Data Centers Are Using AI to Run Cooler and Smarter",
-      "url": "https://www.datacenterknowledge.com/data-center-software/how-data-centers-are-using-ai-to-run-cooler-and-smarter",
-      "description": "Analysts weigh in on where the industry is headed, as Digital Realty, AWS, DPR Construction, and Schneider Electric demonstrate how they’re leveraging AI.",
-      "published": "2026-08-27T09:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "The Network Is More Of Nvidia’s Computer Than It Ever Was At Sun",
-      "url": "https://www.nextplatform.com/compute/2026/08/27/the-network-is-more-of-nvidias-computer-than-it-ever-was-at-sun/5292807",
-      "description": "",
-      "published": "2026-08-27T04:38:50.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-      "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
-      "description": "\n                        Report shows Meta's challenges replacing people with AI agents. \n                    ",
-      "published": "2026-08-26T21:25:27.000Z"
     }
   ]
 }

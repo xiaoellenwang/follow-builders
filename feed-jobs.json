@@ -1,6 +1,71 @@
 {
-  "generatedAt": "2026-08-28T11:10:27.104Z",
+  "generatedAt": "2026-08-29T06:54:35.166Z",
   "jobs": [
+    {
+      "title": "AI Engineer",
+      "company": "KOPI RECRUIT PTE. LTD.",
+      "salary": "S$4,000 – S$6,300",
+      "type": "Contract",
+      "skills": [
+        "Data Protection Regulation",
+        "Search",
+        "AWS"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/2269e093f0ef51fe0019e4f18b866dff",
+      "posted": "2026-08-29T05:00:11.000Z"
+    },
+    {
+      "title": "AI Platform Engineer",
+      "company": "SEARCHASIA CONSULTING PTE. LTD.",
+      "salary": "S$8,000 – S$10,000",
+      "type": "Permanent",
+      "skills": [
+        "Computer Engineering",
+        "Scalability",
+        "AI Governance"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/3b2dd6e269aa19e337c3063876a57c59",
+      "posted": "2026-08-29T03:48:44.000Z"
+    },
+    {
+      "title": "2027 Data and AI Program (Summer Analyst) - Singapore",
+      "company": "JPMORGAN CHASE BANK, N.A.",
+      "salary": "S$6,900 – S$10,500",
+      "type": "Full Time",
+      "skills": [
+        "Internships",
+        "Graduate Recruitment",
+        "Subject Matter Expert"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/48cc87c558f247fb8fc11730afbf85e9",
+      "posted": "2026-08-28T13:50:15.000Z"
+    },
+    {
+      "title": "AI Scientist, Composite Materials, IMRE",
+      "company": "A*STAR RESEARCH ENTITIES",
+      "salary": "S$4,750 – S$9,500",
+      "type": "Contract",
+      "skills": [
+        "Library Science",
+        "Liaise with laboratories",
+        "Materials Science"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/c7dcb3d4d6c4289b65e9edeaec55421f",
+      "posted": "2026-08-28T12:45:04.000Z"
+    },
+    {
+      "title": "Research Officer (Computational Chemistry & AI-Driven ADMET), BII",
+      "company": "A*STAR RESEARCH ENTITIES",
+      "salary": "S$3,000 – S$6,000",
+      "type": "Contract",
+      "skills": [
+        "Liaising with cross functional teams",
+        "Research Findings Communication",
+        "Inter-professional Collaboration"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/444529151a93871cf3e32c069a2f6257",
+      "posted": "2026-08-28T12:32:31.000Z"
+    },
     {
       "title": "R0445372 Private Bank – Senior Business Analyst (AI Initiatives) - VP",
       "company": "DEUTSCHE BANK AKTIENGESELLSCHAFT",
@@ -13,19 +78,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/5e83c394174b4933382898f2c14bfda4",
       "posted": "2026-08-28T10:54:58.000Z"
-    },
-    {
-      "title": "Hiring for AI Enggineer/GenAI ,Agentic AI",
-      "company": "PATH INFOTECH PTE. LTD.",
-      "salary": "S$6,000 – S$8,000",
-      "type": "Contract",
-      "skills": [
-        "Microsoft Azure",
-        "Cloud Applications",
-        "Computer Engineering"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/df1fa873313c6fa9c39933260f2e17c9",
-      "posted": "2026-08-28T09:55:06.000Z"
     },
     {
       "title": "FullStack Software Engineer Graduate, (TikTok Client — AI-Powered Audio & Video Creation) - 2027 Start",
@@ -67,19 +119,6 @@
       "posted": "2026-08-28T08:59:45.000Z"
     },
     {
-      "title": "Cybersecurity (AI | Automation) #IFL",
-      "company": "RECRUIT EXPRESS PTE LTD",
-      "salary": "S$8,000 – S$9,500",
-      "type": "Permanent",
-      "skills": [
-        "Security Architecture",
-        "Ai",
-        "Security Compliance"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/5d9b565fd599506bebb4af93c5bfd165",
-      "posted": "2026-08-28T08:59:39.000Z"
-    },
-    {
       "title": "Machine Learning Engineer (AI Infrastructure)",
       "company": "JAC RECRUITMENT PTE. LTD.",
       "salary": "S$8,000 – S$12,000",
@@ -104,19 +143,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/6a2b3664389b0445a8c9327d68ad99be",
       "posted": "2026-08-28T08:37:39.000Z"
-    },
-    {
-      "title": "Agentic AI Consultant",
-      "company": "ABEAM CONSULTING (SINGAPORE) PTE. LTD.",
-      "salary": "S$5,000 – S$6,500",
-      "type": "Permanent",
-      "skills": [
-        "DDD",
-        "scientific discipline",
-        "Intelligent Automation"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/f500b843aca104caf14a62ba56046146",
-      "posted": "2026-08-28T08:12:38.000Z"
     },
     {
       "title": "AI & Data Science Consultant/Engineer (Japanese Speaking)",
@@ -156,32 +182,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/b1996edf5bd72d4ea9b39dd003b7b2cf",
       "posted": "2026-08-28T07:59:36.000Z"
-    },
-    {
-      "title": "RPA UiPath Developer - Singapore",
-      "company": "ABEAM CONSULTING (SINGAPORE) PTE. LTD.",
-      "salary": "S$4,000 – S$6,000",
-      "type": "Contract",
-      "skills": [
-        "Applications",
-        "AI Agents",
-        "Development"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/ed5cb9d39971a05579a3fa4ccee3d56f",
-      "posted": "2026-08-28T07:53:30.000Z"
-    },
-    {
-      "title": "Android Software Engineer (AI Systems)",
-      "company": "JAC RECRUITMENT PTE. LTD.",
-      "salary": "S$8,000 – S$10,000",
-      "type": "Permanent",
-      "skills": [
-        "TensorFlow",
-        "Android SDK",
-        "API Management"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/c292d1626e0c69f9675d437135d9e80e",
-      "posted": "2026-08-28T07:51:17.000Z"
     },
     {
       "title": "AI Security & Automation Lead - LCYL",
