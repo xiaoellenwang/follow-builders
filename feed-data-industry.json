@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-29T06:54:35.166Z",
+  "generatedAt": "2026-08-30T05:10:00.655Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "From pressure to proof: Leading through constraint in the data center era",
+      "url": "https://www.datacenterdynamics.com/en/opinions/from-pressure-to-proof-leading-through-constraint-in-the-data-center-era/",
+      "description": "And the mindset shift the team needed",
+      "published": "2026-08-29T11:00:31.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: The fiber connectivity challenge behind AI at scale",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/the-fiber-connectivity-challenge-behind-ai-at-scale/",
+      "description": "CommScope’s experts explain how fiber infrastructure can support faster deployment, greater resilience, and future flexibility",
+      "published": "2026-08-29T07:00:00.000Z"
+    },
     {
       "source": "Data Center Knowledge",
       "title": "Trump Targets Foreign Grid Equipment as Data Centers Expand",
@@ -28,20 +42,6 @@
       "url": "https://www.datacenterdynamics.com/en/news/esds-software-solution-targets-rs-720-crore-ipo-will-use-proceeds-to-expand-data-center-footprint/",
       "description": "IPO launches today, August 28",
       "published": "2026-08-28T16:00:23.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Yotta Data Services nears IPO, says chairman Hiranandani",
-      "url": "https://www.datacenterdynamics.com/en/news/yotta-data-services-nears-ipo-says-chairman-hiranandani/",
-      "description": "Declines to comment on valuation or targeted raise",
-      "published": "2026-08-28T15:29:15.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: Can today’s fiber infrastructure planning keep pace with tomorrow’s AI workload demands?",
-      "url": "https://www.datacenterdynamics.com/en/opinions/can-todays-fiber-infrastructure-planning-keep-pace-with-tomorrows-ai-workload-demands/",
-      "description": "One of the prevailing challenges in AI infrastructure is the mismatch between technology and infrastructure cycles.",
-      "published": "2026-08-28T15:00:38.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -93,6 +93,13 @@
       "published": "2026-08-27T16:53:42.000Z"
     },
     {
+      "source": "The Next Platform",
+      "title": "Peeling Apart That Supposed $120 Billion Chip Deal Google Inked With Marvell",
+      "url": "https://www.nextplatform.com/compute/2026/08/27/peeling-apart-that-supposed-120-billion-chip-deal-google-inked-with-marvell/5292984",
+      "description": "",
+      "published": "2026-08-27T14:24:59.000Z"
+    },
+    {
       "source": "Data Center Knowledge",
       "title": "‘Out of Hyperbole’: Nvidia’s AI Boom Tests Data Center Infrastructure Limits",
       "url": "https://www.datacenterknowledge.com/data-center-chips/-out-of-hyperbole-nvidia-s-ai-boom-tests-data-center-infrastructure-limits",
@@ -133,13 +140,6 @@
       "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "description": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, wha",
       "published": "2026-08-27T12:01:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Is Slate Auto’s new electric truck the EV Americans need?",
-      "url": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
-      "description": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that’s pretty dismal, especially because the transportation sector is the single biggest source of greenhouse-gas emissions in the country.&#160; One thing that could help turn ",
-      "published": "2026-08-27T10:00:00.000Z"
     }
   ]
 }

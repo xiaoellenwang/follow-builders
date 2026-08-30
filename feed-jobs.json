@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-08-29T06:54:35.166Z",
+  "generatedAt": "2026-08-30T05:10:00.655Z",
   "jobs": [
+    {
+      "title": "AI Engineer / Senior Developer / Software (LLM) - ARTIFICIAL INTELLIGENCE",
+      "company": "PERSONNEL LINK JOBHUB PTE. LTD.",
+      "salary": "S$6,000 – S$10,000",
+      "type": "Permanent",
+      "skills": [
+        "Retrieval-Augmented Generation (RAG)",
+        "AI Agents",
+        "Python Scripting"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/3d165e5baba5c41d846a10a3215100c9",
+      "posted": "2026-08-29T16:09:16.000Z"
+    },
+    {
+      "title": "Capital & Financial Markets Full Stack AI Engineer - Contract",
+      "company": "PERSOL SINGAPORE PTE. LTD.",
+      "salary": "S$7,000 – S$10,500",
+      "type": "Contract",
+      "skills": [
+        "Design",
+        "AI Agents",
+        "Kubernetes"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/f809924abafc97de8fb8a15430169d5b",
+      "posted": "2026-08-29T10:06:45.000Z"
+    },
     {
       "title": "AI Engineer",
       "company": "KOPI RECRUIT PTE. LTD.",
@@ -28,84 +54,6 @@
       "posted": "2026-08-29T03:48:44.000Z"
     },
     {
-      "title": "2027 Data and AI Program (Summer Analyst) - Singapore",
-      "company": "JPMORGAN CHASE BANK, N.A.",
-      "salary": "S$6,900 – S$10,500",
-      "type": "Full Time",
-      "skills": [
-        "Internships",
-        "Graduate Recruitment",
-        "Subject Matter Expert"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/48cc87c558f247fb8fc11730afbf85e9",
-      "posted": "2026-08-28T13:50:15.000Z"
-    },
-    {
-      "title": "AI Scientist, Composite Materials, IMRE",
-      "company": "A*STAR RESEARCH ENTITIES",
-      "salary": "S$4,750 – S$9,500",
-      "type": "Contract",
-      "skills": [
-        "Library Science",
-        "Liaise with laboratories",
-        "Materials Science"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/c7dcb3d4d6c4289b65e9edeaec55421f",
-      "posted": "2026-08-28T12:45:04.000Z"
-    },
-    {
-      "title": "Research Officer (Computational Chemistry & AI-Driven ADMET), BII",
-      "company": "A*STAR RESEARCH ENTITIES",
-      "salary": "S$3,000 – S$6,000",
-      "type": "Contract",
-      "skills": [
-        "Liaising with cross functional teams",
-        "Research Findings Communication",
-        "Inter-professional Collaboration"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/444529151a93871cf3e32c069a2f6257",
-      "posted": "2026-08-28T12:32:31.000Z"
-    },
-    {
-      "title": "R0445372 Private Bank – Senior Business Analyst (AI Initiatives) - VP",
-      "company": "DEUTSCHE BANK AKTIENGESELLSCHAFT",
-      "salary": "S$12,900 – S$16,000",
-      "type": "Permanent",
-      "skills": [
-        "Analytics Support",
-        "Requirements Gathering",
-        "Analytical Skills"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/5e83c394174b4933382898f2c14bfda4",
-      "posted": "2026-08-28T10:54:58.000Z"
-    },
-    {
-      "title": "FullStack Software Engineer Graduate, (TikTok Client — AI-Powered Audio & Video Creation) - 2027 Start",
-      "company": "TIKTOK PTE. LTD.",
-      "salary": "S$7,000 – S$14,000",
-      "type": "Permanent",
-      "skills": [
-        "Teamwork",
-        "Computer Engineering",
-        "Object Oriented Concepts"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/1011d0ab7c20791a5dd6682e83ddd8b2",
-      "posted": "2026-08-28T09:31:25.000Z"
-    },
-    {
-      "title": "Research Fellow (Machine Learning in Chemical Engineering), ChBE",
-      "company": "NATIONAL UNIVERSITY OF SINGAPORE",
-      "salary": "S$5,500 – S$6,500",
-      "type": "Full Time",
-      "skills": [
-        "Reinforcement Learning",
-        "Energy",
-        "COMSOL"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/065a5b4935d1b16692e385b3be02a4dc",
-      "posted": "2026-08-28T09:23:59.000Z"
-    },
-    {
       "title": "ML Evaluation Engineer",
       "company": "ALLEGIS GROUP SINGAPORE PRIVATE LIMITED",
       "salary": "S$5,000 – S$10,000",
@@ -117,19 +65,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/2afd926fa933ffc80885bd782b010bd7",
       "posted": "2026-08-28T08:59:45.000Z"
-    },
-    {
-      "title": "Machine Learning Engineer (AI Infrastructure)",
-      "company": "JAC RECRUITMENT PTE. LTD.",
-      "salary": "S$8,000 – S$12,000",
-      "type": "Permanent",
-      "skills": [
-        "TensorFlow",
-        "Machine Learning",
-        "Collaborate With Engineers"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/e0935868690396d0009b1769ab87684d",
-      "posted": "2026-08-28T08:53:49.000Z"
     },
     {
       "title": "Lead AI Engineer – AI & Data (Banking Industry)",
@@ -158,32 +93,6 @@
       "posted": "2026-08-28T08:04:07.000Z"
     },
     {
-      "title": "AI Application Consultant/Engineer",
-      "company": "ABEAM CONSULTING (SINGAPORE) PTE. LTD.",
-      "salary": "S$8,000 – S$12,000",
-      "type": "Contract",
-      "skills": [
-        "Generative AI Application Development and Deployment",
-        "AWS",
-        "Azure OpenAI"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/bb4adc73e6319fa0540a1fa2b5defc34",
-      "posted": "2026-08-28T08:01:46.000Z"
-    },
-    {
-      "title": "ASUS AICS SG - Machine Learning Engineer",
-      "company": "ASUS GLOBAL PTE. LTD.",
-      "salary": "S$6,500 – S$13,000",
-      "type": "Permanent",
-      "skills": [
-        "Chatbot",
-        "TensorFlow",
-        "Machine Learning"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/b1996edf5bd72d4ea9b39dd003b7b2cf",
-      "posted": "2026-08-28T07:59:36.000Z"
-    },
-    {
       "title": "AI Security & Automation Lead - LCYL",
       "company": "THE SUPREME HR ADVISORY PTE. LTD.",
       "salary": "S$6,000 – S$8,000",
@@ -195,6 +104,97 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/f000a375f12a6f74ef2293e7730f2127",
       "posted": "2026-08-28T07:51:00.000Z"
+    },
+    {
+      "title": "AI Security & Automation Lead [5 DAYS / KAKI BUKIT] (KCKC)",
+      "company": "THE SUPREME HR ADVISORY PTE. LTD.",
+      "salary": "S$6,000 – S$8,000",
+      "type": "Full Time",
+      "skills": [
+        "Antiaging Products",
+        "validation strategies",
+        "Logistics Automation"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/705f8a97e5c19764c2dff881730a7c84",
+      "posted": "2026-08-28T03:29:47.000Z"
+    },
+    {
+      "title": "Data & AI Engineer",
+      "company": "UNSD INFORMATION TECHNOLOGY PTE. LTD.",
+      "salary": "S$5,000 – S$6,500",
+      "type": "Full Time",
+      "skills": [
+        "TensorFlow",
+        "Provides Support",
+        "Trend Reporting"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/994535b40ba75464294e8bed57e97d9a",
+      "posted": "2026-08-28T02:55:14.000Z"
+    },
+    {
+      "title": "AI Cybersecurity Engineer",
+      "company": "U3 PROJECTS PTE. LTD.",
+      "salary": "S$8,000 – S$13,000",
+      "type": "Full Time",
+      "skills": [
+        "Certifications",
+        "Web Filtering",
+        "Security Compliance"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/09eab0734d22f9b5132df2b30bbbb9c5",
+      "posted": "2026-08-28T02:36:10.000Z"
+    },
+    {
+      "title": "Research Engineer I (Computer Science / Artificial Intelligence / Data Science / Electrical Engineering)",
+      "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
+      "salary": "S$3,300 – S$6,600",
+      "type": "Contract",
+      "skills": [
+        "Deep Learning",
+        "Written and Verbal Communication Abilities",
+        "TensorFlow"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/79052d543851b14e185cdf5337560794",
+      "posted": "2026-08-28T01:54:38.000Z"
+    },
+    {
+      "title": "Research Scientist (Artificial Intelligence / Computer Science / Machine Learning / Natural Language Processing / Information Retrieval / Data Science)",
+      "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
+      "salary": "S$4,000 – S$8,000",
+      "type": "Contract",
+      "skills": [
+        "Information Retrieval",
+        "Machine Learning",
+        "Training Analysis"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/296b846e4cf99cfef90675703d84a38c",
+      "posted": "2026-08-28T01:43:54.000Z"
+    },
+    {
+      "title": "Junior Software Engineer - AI/ML",
+      "company": "HCL SINGAPORE PTE. LTD.",
+      "salary": "S$4,500 – S$5,500",
+      "type": "Full Time",
+      "skills": [
+        "Machine Learning",
+        "Business Roadmaps",
+        "Business Data Analysis"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/89393c2da5c22af6d915a51b77cd63d4",
+      "posted": "2026-08-27T09:52:30.000Z"
+    },
+    {
+      "title": "Data Scientist Intern (AI Analyst Intern)",
+      "company": "ONE TECH STOP PTE. LTD.",
+      "salary": "S$1,000 – S$1,200",
+      "type": "Internship/Attachment",
+      "skills": [
+        "Market Research",
+        "TensorFlow",
+        "Communication"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/ac45fe60cf3703e336316ac4e363535a",
+      "posted": "2026-08-27T06:05:32.000Z"
     }
   ]
 }

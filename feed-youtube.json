@@ -1,4 +1,96 @@
 {
-  "generatedAt": "2026-08-29T06:54:35.166Z",
-  "videos": []
+  "generatedAt": "2026-08-30T05:10:00.655Z",
+  "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Why \"Self-Sufficiency\" Is Costing You",
+      "url": "https://www.youtube.com/watch?v=yO5pVT5Lf4o",
+      "published": "2026-08-30T00:27:36.000Z",
+      "description": "The career advice most people follow hardest is the one holding them back.\n\nStanford professor Jeffrey Pfeffer on what to unlearn."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "What Zuck, Elon and Sam had in common early",
+      "url": "https://www.youtube.com/watch?v=mzj52dF2rqs",
+      "published": "2026-08-28T23:53:27.000Z",
+      "description": "The thing Zuck, Elon and Sam Altman all had before they were anyone: staying power.\n\nDalton Caldwell on what he noticed hanging around them in the early 2000s."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "This demo mistake kills deals",
+      "url": "https://www.youtube.com/watch?v=5Yiv6RUDGEU",
+      "published": "2026-08-28T17:00:15.000Z",
+      "description": "Jen Abel (General Manager, State Affairs): Demo 20% of the product—the 20% you know they care about."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Can Bootstrapped Founders Still Win?",
+      "url": "https://www.youtube.com/watch?v=7FXWoYKBYxw",
+      "published": "2026-08-28T10:43:38.000Z",
+      "description": "\"They're going to be 100x engineers, because they're able to manage LLMs.\"\n\nMaor Shlomo (Founder of Base44) on why team size and funding won't decide who wins a category."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "You should be losing most of your deals",
+      "url": "https://www.youtube.com/watch?v=1fivs_0QFLQ",
+      "published": "2026-08-27T16:00:33.000Z",
+      "description": "“If your win rate is higher than 35% your price is too low” Jen Abel (General Manager of State Affairs)"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Brex was a VR headset company",
+      "url": "https://www.youtube.com/watch?v=Pc9cwCL5ntQ",
+      "published": "2026-08-26T19:29:07.000Z",
+      "description": "Brex started as a VR headset company.\n\nDalton Caldwell on how the idea became a decacorn."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "A 35%+ Win Rate Means Your Price Is Too Low",
+      "url": "https://www.youtube.com/watch?v=4L4wwvi6EaY",
+      "published": "2026-08-26T10:30:31.000Z",
+      "description": "A high win rate isn't the flex you think it is. If you're closing more than 35%, you're charging too little.\n\nJen Abel (General Manager at State Affairs) on what a healthy enterprise win rate actually looks like."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Never Demo to a Room You Haven't Scouted",
+      "url": "https://www.youtube.com/watch?v=yrrDBrXQ6Rk",
+      "published": "2026-08-25T15:07:29.000Z",
+      "description": "Never Demo to a Room You Haven't Scouted"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "TAM is the last thing YC worries about?",
+      "url": "https://www.youtube.com/watch?v=F13zwLCIIkg",
+      "published": "2026-08-25T01:56:50.000Z",
+      "description": "The TAM of Uber would be nothing. The TAM of Airbnb would've been nothing.\n\nDalton Caldwell on why YC doesn't sweat market size at pre-seed."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "90% of People Are Selling Wrong",
+      "url": "https://www.youtube.com/watch?v=_LWpjDPxMmY",
+      "published": "2026-08-24T15:59:50.000Z",
+      "description": "Intro, demo, proposal, contract, close. That's not a sales process, those are just buckets.\n\nJen Abel (General Manager at State Affairs) on the 90% who mistake one for the other."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Anthropic's Co-founder on the Real Bottleneck to Smarter AI",
+      "url": "https://www.youtube.com/watch?v=SdccuZr-MmE",
+      "published": "2026-08-24T09:30:03.000Z",
+      "description": "The biggest bottleneck on model intelligence isn't algorithms. It's chips.\n\nBenjamin Mann (Co-founder, Anthropic) on what 10x more compute would actually buy you."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Why They Rejected 31,831 PM Applicants",
+      "url": "https://www.youtube.com/watch?v=lpNbHUI-fbo",
+      "published": "2026-08-23T16:45:40.000Z",
+      "description": "31,832 people applied to be a PM at Whatnot. They hired one.\n\nTom Verrilli (CPO, Whatnot) on what actually gets someone through that funnel."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "84 minutes of enterprise sales alpha | Jen Abel",
+      "url": "https://www.youtube.com/watch?v=YS9In813jJ0",
+      "published": "2026-08-23T12:30:08.000Z",
+      "description": "Jen Abel is the co-founder of JJellyfish and GM of enterprise sales at State Affairs. She is widely regarded as one of the sharpest practitioners in enterprise sales, and for that reason, this is her third visit to the podcast. In our first conversation we went deep on founder-led sales; in our seco"
+    }
+  ]
 }
