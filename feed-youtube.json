@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-30T05:10:00.655Z",
+  "generatedAt": "2026-08-31T05:18:00.784Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Speed Without Data Is Just Faster Failure",
+      "url": "https://www.youtube.com/watch?v=KmhuMFcKAzw",
+      "published": "2026-08-30T21:26:46.000Z",
+      "description": "Building fast gave everyone the ability to iterate faster. It didn't give anyone better information to iterate on.\n\nTara Seshan (Product Lead at OpenAI) on the gap that sends teams off course."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)",
+      "url": "https://www.youtube.com/watch?v=zMvBMfj4cSQ",
+      "published": "2026-08-30T12:30:33.000Z",
+      "description": "Tara Seshan leads product for Codex and ChatGPT Work at OpenAI (alongside previous podcast guest Andrew Ambrosino, who’s her engineering manager). Before OpenAI, Tara spent over six years at Stripe, where she joined as one of the first five product managers. She went on to lead product for Watershed"
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "Why \"Self-Sufficiency\" Is Costing You",
@@ -77,20 +91,6 @@
       "url": "https://www.youtube.com/watch?v=SdccuZr-MmE",
       "published": "2026-08-24T09:30:03.000Z",
       "description": "The biggest bottleneck on model intelligence isn't algorithms. It's chips.\n\nBenjamin Mann (Co-founder, Anthropic) on what 10x more compute would actually buy you."
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "Why They Rejected 31,831 PM Applicants",
-      "url": "https://www.youtube.com/watch?v=lpNbHUI-fbo",
-      "published": "2026-08-23T16:45:40.000Z",
-      "description": "31,832 people applied to be a PM at Whatnot. They hired one.\n\nTom Verrilli (CPO, Whatnot) on what actually gets someone through that funnel."
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "84 minutes of enterprise sales alpha | Jen Abel",
-      "url": "https://www.youtube.com/watch?v=YS9In813jJ0",
-      "published": "2026-08-23T12:30:08.000Z",
-      "description": "Jen Abel is the co-founder of JJellyfish and GM of enterprise sales at State Affairs. She is widely regarded as one of the sharpest practitioners in enterprise sales, and for that reason, this is her third visit to the podcast. In our first conversation we went deep on founder-led sales; in our seco"
     }
   ]
 }

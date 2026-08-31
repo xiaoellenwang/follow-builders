@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-30T05:10:00.655Z",
+  "generatedAt": "2026-08-31T05:18:00.784Z",
   "articles": [
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "Data Engineering Weekly #285",
+      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-285",
+      "description": "The Weekly Data Engineering Newsletter",
+      "published": "2026-08-31T02:51:19.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Inside Meta’s push to put robots to work in data centers",
+      "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+      "description": "\n                        The company is testing robots on tasks that can performed by technicians.\n                    ",
+      "published": "2026-08-30T11:03:47.000Z"
+    },
     {
       "source": "Data Center Dynamics",
       "title": "From pressure to proof: Leading through constraint in the data center era",
@@ -77,69 +91,6 @@
       "url": "https://www.datacenterknowledge.com/ai-data-centers/ai-rack-density-s-real-limits-power-cooling-failure-risk",
       "description": "As AI racks push past 100 kW, electrical engineering and resilience planning – not chip counts – are setting the cap.",
       "published": "2026-08-28T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "A startup claims it’s found a drug to make your blood young",
-      "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
-      "description": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment,&#160;an injectable combination of two existing drugs which they call 1 Generation. This wasn’t ju",
-      "published": "2026-08-27T19:48:13.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Data Center Backlash Reaches the Ballot Box",
-      "url": "https://www.datacenterknowledge.com/data-center-site-selection/data-center-backlash-is-reaching-the-ballot-box",
-      "description": "Data center development is becoming a campaign liability for politicians who once sold it as an economic development win.",
-      "published": "2026-08-27T16:53:42.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Peeling Apart That Supposed $120 Billion Chip Deal Google Inked With Marvell",
-      "url": "https://www.nextplatform.com/compute/2026/08/27/peeling-apart-that-supposed-120-billion-chip-deal-google-inked-with-marvell/5292984",
-      "description": "",
-      "published": "2026-08-27T14:24:59.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "‘Out of Hyperbole’: Nvidia’s AI Boom Tests Data Center Infrastructure Limits",
-      "url": "https://www.datacenterknowledge.com/data-center-chips/-out-of-hyperbole-nvidia-s-ai-boom-tests-data-center-infrastructure-limits",
-      "description": "Nvidia’s $89B data center quarter and AWS’ plan for two million more GPUs show AI infrastructure demand broadening beyond hyperscalers.",
-      "published": "2026-08-27T14:13:15.000Z"
-    },
-    {
-      "source": "VentureBeat AI",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "description": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching into applications",
-      "published": "2026-08-27T14:01:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
-      "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
-      "description": "\n                        227 install commands were found in corporate docs pointing at code nobody owns.\n                    ",
-      "published": "2026-08-27T14:00:13.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-      "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "description": "\n                        Without authorization, 1,200 OpenAI agents conspired among themselves to game a test. \n                    ",
-      "published": "2026-08-27T12:58:59.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
-      "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently tr",
-      "published": "2026-08-27T12:10:00.000Z"
-    },
-    {
-      "source": "VentureBeat AI",
-      "title": "When agents act on their own, governance has to live in the data layer",
-      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-      "description": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, wha",
-      "published": "2026-08-27T12:01:00.000Z"
     }
   ]
 }
