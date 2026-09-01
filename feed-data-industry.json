@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-08-31T05:18:00.784Z",
+  "generatedAt": "2026-09-01T04:52:30.730Z",
   "articles": [
+    {
+      "source": "The Next Platform",
+      "title": "VMware Intros Private AI Cloud, AI Factory As Workloads Shift To On-Prem",
+      "url": "https://www.nextplatform.com/cloud/2026/09/01/vmware-intros-private-ai-cloud-ai-factory-as-workloads-shift-to-on-prem/5293559",
+      "description": "",
+      "published": "2026-09-01T04:43:05.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "SLB’s $4.1B Kelvion Deal Expands AI Data Center Push",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/slb-s-4-1b-kelvion-deal-expands-ai-data-center-push",
+      "description": "SLB’s $4.1B Kelvion deal expands its data center business into thermal management as AI drives higher power densities and cooling demands.",
+      "published": "2026-08-31T22:34:19.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging F",
+      "published": "2026-08-31T18:00:00.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "In The Long Run, Nvidia NVSwitch Is The InfiniBand Of Scale Up AI Networks",
+      "url": "https://www.nextplatform.com/connect/2026/08/31/in-the-long-run-nvidia-nvswitch-is-the-infiniband-of-scale-up-ai-networks/5293474",
+      "description": "",
+      "published": "2026-08-31T17:12:47.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Think twice before installing this device promising free movies",
+      "url": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
+      "description": "\n                        In exchange for free stuff, devices make home connections part of a proxy network.\n                    ",
+      "published": "2026-08-31T16:33:38.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Nvidia, MediaTek Bring Custom Chips to AI Racks",
+      "url": "https://www.datacenterknowledge.com/data-center-hardware/nvidia-mediatek-bring-custom-chips-to-ai-racks",
+      "description": "Nvidia is opening its rack-scale AI systems to custom chips, giving hyperscalers more flexibility as they seek alternatives to off-the-shelf GPUs.",
+      "published": "2026-08-31T14:30:55.000Z"
+    },
+    {
+      "source": "Import AI",
+      "title": "Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI",
+      "url": "https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/",
+      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Import AI reader giveaway! Upcoming event: Fiction and the Future with Robin SloanI’ll be chatting with my chum Robin ",
+      "published": "2026-08-31T13:31:06.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Unlocking the potential of existing assets",
+      "url": "https://www.datacenterdynamics.com/en/opinions/unlocking-the-potential-of-existing-assets/",
+      "description": "Retrofitting rather than building new",
+      "published": "2026-08-31T11:00:39.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Solid-State Transformers Power Next-Gen AI Data Centers",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/solid-state-transformers-power-next-gen-ai-data-centers",
+      "description": "Solid-state transformers are gaining traction as a way to convert medium-voltage AC directly to 800 V DC in AI data centers. Still, questions remain about the technology’s maturity.",
+      "published": "2026-08-31T09:00:00.000Z"
+    },
     {
       "source": "DataEngineeringWeekly",
       "title": "Data Engineering Weekly #285",
@@ -28,69 +91,6 @@
       "url": "https://www.datacenterdynamics.com/en/marketwatch/the-fiber-connectivity-challenge-behind-ai-at-scale/",
       "description": "CommScope’s experts explain how fiber infrastructure can support faster deployment, greater resilience, and future flexibility",
       "published": "2026-08-29T07:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Trump Targets Foreign Grid Equipment as Data Centers Expand",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/trump-targets-foreign-grid-equipment-as-data-centers-expand",
-      "description": "A new Executive Order targets foreign grid equipment as utilities and data center developers contend with tight supplies and long lead times.",
-      "published": "2026-08-28T16:58:45.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Trump admin considers more semiconductor tariffs, could include data center servers",
-      "url": "https://www.datacenterdynamics.com/en/news/trump-admin-considers-more-semiconductor-tariffs-and-possibly-data-center-servers/",
-      "description": "Because it went so well before",
-      "published": "2026-08-28T16:25:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "UK Green Party calls for nationwide data center moratorium",
-      "url": "https://www.datacenterdynamics.com/en/news/uk-green-party-calls-for-nationwide-data-center-moratorium/",
-      "description": "Only 'local scale data centers for the local community' would be allowed",
-      "published": "2026-08-28T16:02:41.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "ESDS Software Solution targets Rs 720 Crore IPO, will use proceeds to expand data center footprint",
-      "url": "https://www.datacenterdynamics.com/en/news/esds-software-solution-targets-rs-720-crore-ipo-will-use-proceeds-to-expand-data-center-footprint/",
-      "description": "IPO launches today, August 28",
-      "published": "2026-08-28T16:00:23.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "DOE Retreat on Transmission Corridors Tests the Case for Building Ahead",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/doe-retreat-on-transmission-corridors-tests-the-case-for-building-ahead",
-      "description": "DOE declined three proposed transmission corridors as its own study cites data center load growth, raising questions about how far ahead utilities should build.",
-      "published": "2026-08-28T13:12:06.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: a secretive antiaging drug and joining virtual power plants",
-      "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company cal",
-      "published": "2026-08-28T12:35:27.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
-      "url": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
-      "description": "\n                        The group infected more than 1,000 organizations in a relentless supply-chain attack campaign.\n                    ",
-      "published": "2026-08-28T11:15:05.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "How to sign up for a virtual power plant—and decide whether you should",
-      "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
-      "description": "MIT Technology Review’s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a col",
-      "published": "2026-08-28T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "AI Rack Density’s Real Limits: Power, Cooling, Failure Risk",
-      "url": "https://www.datacenterknowledge.com/ai-data-centers/ai-rack-density-s-real-limits-power-cooling-failure-risk",
-      "description": "As AI racks push past 100 kW, electrical engineering and resilience planning – not chip counts – are setting the cap.",
-      "published": "2026-08-28T09:00:00.000Z"
     }
   ]
 }
