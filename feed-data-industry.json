@@ -1,6 +1,90 @@
 {
-  "generatedAt": "2026-09-01T04:52:30.730Z",
+  "generatedAt": "2026-09-02T04:13:16.119Z",
   "articles": [
+    {
+      "source": "MIT Technology Review",
+      "title": "How AI plotted an interstellar journey to Alpha Centauri",
+      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+      "description": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.&#160; It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is ",
+      "published": "2026-09-01T19:10:36.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "California Judge Orders Full Environmental Review of 330 MW Data Center",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/california-judge-orders-full-environmental-review-of-330-mw-data-center",
+      "description": "A California judge says Imperial County must review a proposed 330 MW data center and its power, water, battery, and generation infrastructure.",
+      "published": "2026-09-01T18:11:35.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Four of Vietnam's subsea cables suffer faults, leading to fresh connectivity outages for country",
+      "url": "https://www.datacenterdynamics.com/en/news/four-of-vietnams-subsea-cables-suffer-faults-leading-to-fresh-connectivity-outages-for-country/",
+      "description": "Not for the first time in recent years",
+      "published": "2026-09-01T16:40:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Flying the Flag for subsea connectivity in the AI era",
+      "url": "https://www.datacenterdynamics.com/en/analysis/flying-the-flag-for-subsea-connectivity-in-the-ai-era/",
+      "description": "Flag, the company formerly known as GCX has a new name and is honing in on serving AI data centers",
+      "published": "2026-09-01T16:00:38.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Infleqtion supplies Japanese research team with QPU for neutral-atom quantum computer",
+      "url": "https://www.datacenterdynamics.com/en/news/infleqtion-supplies-japanese-research-team-with-qpu-for-neutral-atom-quantum-computer/",
+      "description": "Project forms part of Japan’s Quantum Moonshot program",
+      "published": "2026-09-01T16:00:34.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Exascale Labs partners with EnergyBank on floating wind data center pilot in Norway",
+      "url": "https://www.datacenterdynamics.com/en/news/exascale-labs-partners-with-energybank-on-floating-wind-data-center-pilot-in-norway/",
+      "description": "Plan to colocate compute at the world's first floating wind installation",
+      "published": "2026-09-01T15:50:23.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "How AI Is Changing Construction from Blueprint to Build",
+      "url": "https://www.datacenterknowledge.com/ai-data-centers/how-ai-is-changing-construction-from-blueprint-to-build",
+      "description": "AI is reshaping the construction lifecycle. At Ai4 2026, AEC leaders shared how firms are applying AI across design, logistics, safety, and operations, while tackling data standards, culture change, and scaling.",
+      "published": "2026-09-01T15:38:04.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "AWS cable landing station in West Cork, Ireland, approved despite local opposition",
+      "url": "https://www.datacenterdynamics.com/en/news/aws-cable-landing-station-in-west-cork-ireland-approved-despite-local-opposition/",
+      "description": "CLS to support Fastnet transatlantic cable connecting West Cork, Ireland, to Maryland, USA",
+      "published": "2026-09-01T15:30:33.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Meeting AI Demand: Alternate Power, Design, and Site Strategy",
+      "url": "https://www.datacenterknowledge.com/ai-data-centers/meeting-ai-demand-alternate-power-design-and-site-strategy",
+      "description": "AI’s explosive growth is forcing a fundamental reimagining of data center infrastructure.",
+      "published": "2026-09-01T15:23:49.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Making the AI-powered case for legacy modernization",
+      "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
+      "description": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with t",
+      "published": "2026-09-01T14:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+      "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and pro",
+      "published": "2026-09-01T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "How engineered microbes could help feed the world’s crops",
+      "url": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
+      "description": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a crop’s roots with beneficial microbes can help feed the plant, providing crucia",
+      "published": "2026-09-01T09:00:00.000Z"
+    },
     {
       "source": "The Next Platform",
       "title": "VMware Intros Private AI Cloud, AI Factory As Workloads Shift To On-Prem",
@@ -51,46 +135,11 @@
       "published": "2026-08-31T13:31:06.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Unlocking the potential of existing assets",
-      "url": "https://www.datacenterdynamics.com/en/opinions/unlocking-the-potential-of-existing-assets/",
-      "description": "Retrofitting rather than building new",
-      "published": "2026-08-31T11:00:39.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Solid-State Transformers Power Next-Gen AI Data Centers",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/solid-state-transformers-power-next-gen-ai-data-centers",
-      "description": "Solid-state transformers are gaining traction as a way to convert medium-voltage AC directly to 800 V DC in AI data centers. Still, questions remain about the technology’s maturity.",
-      "published": "2026-08-31T09:00:00.000Z"
-    },
-    {
       "source": "DataEngineeringWeekly",
       "title": "Data Engineering Weekly #285",
       "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-285",
       "description": "The Weekly Data Engineering Newsletter",
       "published": "2026-08-31T02:51:19.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Inside Meta’s push to put robots to work in data centers",
-      "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
-      "description": "\n                        The company is testing robots on tasks that can performed by technicians.\n                    ",
-      "published": "2026-08-30T11:03:47.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "From pressure to proof: Leading through constraint in the data center era",
-      "url": "https://www.datacenterdynamics.com/en/opinions/from-pressure-to-proof-leading-through-constraint-in-the-data-center-era/",
-      "description": "And the mindset shift the team needed",
-      "published": "2026-08-29T11:00:31.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: The fiber connectivity challenge behind AI at scale",
-      "url": "https://www.datacenterdynamics.com/en/marketwatch/the-fiber-connectivity-challenge-behind-ai-at-scale/",
-      "description": "CommScope’s experts explain how fiber infrastructure can support faster deployment, greater resilience, and future flexibility",
-      "published": "2026-08-29T07:00:00.000Z"
     }
   ]
 }
