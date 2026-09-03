@@ -1,6 +1,97 @@
 {
-  "generatedAt": "2026-09-02T04:13:16.119Z",
+  "generatedAt": "2026-09-03T04:10:14.198Z",
   "articles": [
+    {
+      "source": "Data Center Knowledge",
+      "title": "AWS Wires a New US AI Route Across the Pacific",
+      "url": "https://www.datacenterknowledge.com/cables/aws-wires-a-new-us-ai-route-across-the-pacific",
+      "description": "AWS is building a 420 Tbps subsea cable between Japan and Washington State, which is scheduled to enter service in 2029, to support AI workloads and expand trans-Pacific network capacity.",
+      "published": "2026-09-02T20:51:58.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "I rented a car, and within hours, my driver's license was for sale",
+      "url": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
+      "description": "\n                        The FBI is reportedly investigating a massive data breach that is unfolding in real time.\n                    ",
+      "published": "2026-09-02T20:32:02.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "How AI Is Changing Fire Protection in Modern Data Centers",
+      "url": "https://www.datacenterknowledge.com/outages/how-ai-is-changing-fire-protection-in-modern-data-centers",
+      "description": "Effective protection depends on early design integration and a holistic approach that considers building construction, emergency procedures, and operational resilience – not just code compliance.",
+      "published": "2026-09-02T19:48:48.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Optics Still Driving Marvell’s AI Business More Than Custom Chips",
+      "url": "https://www.nextplatform.com/connect/2026/09/02/optics-still-driving-marvells-ai-business-more-than-custom-chips/5294018",
+      "description": "",
+      "published": "2026-09-02T17:59:47.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Iren secures contract from \"leading frontier lab,\" on track to exit crypto business by end of year",
+      "url": "https://www.datacenterdynamics.com/en/news/iren-secures-contract-from-leading-frontier-lab-on-track-to-exit-crypto-business-by-end-of-year/",
+      "description": "Neocloud releases results for fiscal year 2026",
+      "published": "2026-09-02T17:30:28.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Haffner Energy launches biomass power-cooling system for data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/haffner-energy-launches-biomass-power-cooling-system-for-data-centers/",
+      "description": "System powered by residual biomass",
+      "published": "2026-09-02T17:20:31.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Amazon plots new subsea cable linking US and Japan",
+      "url": "https://www.datacenterdynamics.com/en/news/amazon-plots-new-subsea-cable-linking-us-and-japan/",
+      "description": "First cable to land in Washington since the new millennium",
+      "published": "2026-09-02T17:10:29.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Matt Clifford, man behind UK's AI Growth Zones plan, joins Anthropic",
+      "url": "https://www.datacenterdynamics.com/en/news/matt-clifford-man-behind-uks-ai-growth-zones-plan-joins-anthropic/",
+      "description": "Plans to stay on at ARIA is \"a clear conflict of interest,\" MP says",
+      "published": "2026-09-02T17:07:13.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Telehouse adds new building to Frankfurt data center campus",
+      "url": "https://www.datacenterdynamics.com/en/news/telehouse-adds-new-building-to-frankfurt-data-center-campus/",
+      "description": "Building N adds 5.4MW to campus",
+      "published": "2026-09-02T17:00:26.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Facilitating AI integration with simplicity at scale",
+      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "description": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make dec",
+      "published": "2026-09-02T14:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: AI puzzles and a path to our nearest star system",
+      "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine lear",
+      "published": "2026-09-02T12:10:00.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
+      "url": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
+      "description": "\n                        What can we learn from a BGP hijacking that poisoned production software? Plenty.\n                    ",
+      "published": "2026-09-02T11:00:43.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Why Data Centers Rarely Reuse Cooling Water",
+      "url": "https://www.datacenterknowledge.com/cooling/why-data-centers-rarely-reuse-cooling-water",
+      "description": "While alternatives to evaporative cooling exist, most data centers don’t adopt them because the economics currently don’t justify the higher capital costs and operational complexity.",
+      "published": "2026-09-02T09:00:00.000Z"
+    },
     {
       "source": "MIT Technology Review",
       "title": "How AI plotted an interstellar journey to Alpha Centauri",
@@ -16,53 +107,11 @@
       "published": "2026-09-01T18:11:35.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Four of Vietnam's subsea cables suffer faults, leading to fresh connectivity outages for country",
-      "url": "https://www.datacenterdynamics.com/en/news/four-of-vietnams-subsea-cables-suffer-faults-leading-to-fresh-connectivity-outages-for-country/",
-      "description": "Not for the first time in recent years",
-      "published": "2026-09-01T16:40:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Flying the Flag for subsea connectivity in the AI era",
-      "url": "https://www.datacenterdynamics.com/en/analysis/flying-the-flag-for-subsea-connectivity-in-the-ai-era/",
-      "description": "Flag, the company formerly known as GCX has a new name and is honing in on serving AI data centers",
-      "published": "2026-09-01T16:00:38.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Infleqtion supplies Japanese research team with QPU for neutral-atom quantum computer",
-      "url": "https://www.datacenterdynamics.com/en/news/infleqtion-supplies-japanese-research-team-with-qpu-for-neutral-atom-quantum-computer/",
-      "description": "Project forms part of Japan’s Quantum Moonshot program",
-      "published": "2026-09-01T16:00:34.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Exascale Labs partners with EnergyBank on floating wind data center pilot in Norway",
-      "url": "https://www.datacenterdynamics.com/en/news/exascale-labs-partners-with-energybank-on-floating-wind-data-center-pilot-in-norway/",
-      "description": "Plan to colocate compute at the world's first floating wind installation",
-      "published": "2026-09-01T15:50:23.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "How AI Is Changing Construction from Blueprint to Build",
       "url": "https://www.datacenterknowledge.com/ai-data-centers/how-ai-is-changing-construction-from-blueprint-to-build",
       "description": "AI is reshaping the construction lifecycle. At Ai4 2026, AEC leaders shared how firms are applying AI across design, logistics, safety, and operations, while tackling data standards, culture change, and scaling.",
       "published": "2026-09-01T15:38:04.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "AWS cable landing station in West Cork, Ireland, approved despite local opposition",
-      "url": "https://www.datacenterdynamics.com/en/news/aws-cable-landing-station-in-west-cork-ireland-approved-despite-local-opposition/",
-      "description": "CLS to support Fastnet transatlantic cable connecting West Cork, Ireland, to Maryland, USA",
-      "published": "2026-09-01T15:30:33.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Meeting AI Demand: Alternate Power, Design, and Site Strategy",
-      "url": "https://www.datacenterknowledge.com/ai-data-centers/meeting-ai-demand-alternate-power-design-and-site-strategy",
-      "description": "AI’s explosive growth is forcing a fundamental reimagining of data center infrastructure.",
-      "published": "2026-09-01T15:23:49.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -79,13 +128,6 @@
       "published": "2026-09-01T12:10:00.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "How engineered microbes could help feed the world’s crops",
-      "url": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
-      "description": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a crop’s roots with beneficial microbes can help feed the plant, providing crucia",
-      "published": "2026-09-01T09:00:00.000Z"
-    },
-    {
       "source": "The Next Platform",
       "title": "VMware Intros Private AI Cloud, AI Factory As Workloads Shift To On-Prem",
       "url": "https://www.nextplatform.com/cloud/2026/09/01/vmware-intros-private-ai-cloud-ai-factory-as-workloads-shift-to-on-prem/5293559",
@@ -93,53 +135,11 @@
       "published": "2026-09-01T04:43:05.000Z"
     },
     {
-      "source": "Data Center Knowledge",
-      "title": "SLB’s $4.1B Kelvion Deal Expands AI Data Center Push",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/slb-s-4-1b-kelvion-deal-expands-ai-data-center-push",
-      "description": "SLB’s $4.1B Kelvion deal expands its data center business into thermal management as AI drives higher power densities and cooling demands.",
-      "published": "2026-08-31T22:34:19.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging F",
-      "published": "2026-08-31T18:00:00.000Z"
-    },
-    {
       "source": "The Next Platform",
       "title": "In The Long Run, Nvidia NVSwitch Is The InfiniBand Of Scale Up AI Networks",
       "url": "https://www.nextplatform.com/connect/2026/08/31/in-the-long-run-nvidia-nvswitch-is-the-infiniband-of-scale-up-ai-networks/5293474",
       "description": "",
       "published": "2026-08-31T17:12:47.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Think twice before installing this device promising free movies",
-      "url": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
-      "description": "\n                        In exchange for free stuff, devices make home connections part of a proxy network.\n                    ",
-      "published": "2026-08-31T16:33:38.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Nvidia, MediaTek Bring Custom Chips to AI Racks",
-      "url": "https://www.datacenterknowledge.com/data-center-hardware/nvidia-mediatek-bring-custom-chips-to-ai-racks",
-      "description": "Nvidia is opening its rack-scale AI systems to custom chips, giving hyperscalers more flexibility as they seek alternatives to off-the-shelf GPUs.",
-      "published": "2026-08-31T14:30:55.000Z"
-    },
-    {
-      "source": "Import AI",
-      "title": "Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI",
-      "url": "https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/",
-      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Import AI reader giveaway! Upcoming event: Fiction and the Future with Robin SloanI’ll be chatting with my chum Robin ",
-      "published": "2026-08-31T13:31:06.000Z"
-    },
-    {
-      "source": "DataEngineeringWeekly",
-      "title": "Data Engineering Weekly #285",
-      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-285",
-      "description": "The Weekly Data Engineering Newsletter",
-      "published": "2026-08-31T02:51:19.000Z"
     }
   ]
 }
