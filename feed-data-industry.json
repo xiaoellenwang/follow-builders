@@ -1,6 +1,97 @@
 {
-  "generatedAt": "2026-09-03T04:10:14.198Z",
+  "generatedAt": "2026-09-04T04:16:09.623Z",
   "articles": [
+    {
+      "source": "Data Center Knowledge",
+      "title": "The Corrosion Blind Spot in the AI Buildout",
+      "url": "https://www.datacenterknowledge.com/ai-data-centers/the-corrosion-blind-spot-in-the-ai-buildout",
+      "description": "AI data centers' massive capital investments are at risk from corrosion, which begins during construction – not operations – yet preservation is rarely included in project governance or early planning.",
+      "published": "2026-09-03T21:49:04.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Nvidia Expands Its Open Source AI Presence With $12.9 Billion Hugging Face Buy",
+      "url": "https://www.nextplatform.com/ai/2026/09/03/nvidia-expands-its-open-source-ai-presence-with-129-billion-hugging-face-buy/5294352",
+      "description": "",
+      "published": "2026-09-03T20:55:49.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
+      "url": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
+      "description": "\n                        Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying.\n                    ",
+      "published": "2026-09-03T19:52:06.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
+      "url": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
+      "description": "\n                        Pro soccer team's CTO points to \"issues with the Broadcom takeover.\" \n                    ",
+      "published": "2026-09-03T18:58:31.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "GoPro to enter AI data center market via merger with optical photonics company",
+      "url": "https://www.datacenterdynamics.com/en/news/gopro-to-enter-ai-data-center-market-via-merger-with-optical-photonics-company/",
+      "description": "Company has entered into a merger agreement with Action Acquisitions and Starman Optical",
+      "published": "2026-09-03T17:50:24.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "California lawmakers pass data center ratepayer protection bills, send to governor for approval",
+      "url": "https://www.datacenterdynamics.com/en/news/california-lawmakers-pass-data-center-ratepayer-protection-bills-send-to-governor-for-approval/",
+      "description": "If passed, the legislation would create separate electricity tariffs for large data centers",
+      "published": "2026-09-03T17:40:29.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Hyperscale Data ends cryptomining operations at Michigan data center",
+      "url": "https://www.datacenterdynamics.com/en/news/hyperscale-data-ends-cryptomining-operations-at-michigan-data-center/",
+      "description": "In preparation for incoming neocloud customer",
+      "published": "2026-09-03T17:20:22.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "India mulls removal of legacy Chinese telecoms kit - report",
+      "url": "https://www.datacenterdynamics.com/en/news/india-mulls-removal-of-legacy-chinese-telecoms-kit-report/",
+      "description": "Could India become the latest market to rip and replace Chinese telecoms equipment?",
+      "published": "2026-09-03T17:00:29.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "ChatGPT, Claude, and Grok hit by simultaneous outages",
+      "url": "https://www.datacenterdynamics.com/en/news/chatgpt-claude-and-grok-hit-by-simultaneous-outages/",
+      "description": "People forced to think for themselves",
+      "published": "2026-09-03T16:50:56.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: rethinking child safety and fossil-fueled farming",
+      "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning t",
+      "published": "2026-09-03T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Agriculture relies on fossil fuels. It’s costing us.",
+      "url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
+      "description": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how far the ripple effects of the conflict in Iran have spread. Fertilizer prices h",
+      "published": "2026-09-03T10:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Scaling agentic AI pilots across the enterprise",
+      "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+      "description": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 c",
+      "published": "2026-09-03T09:30:32.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Could Fiber Be the Next Big Bottleneck in Data Center Growth?",
+      "url": "https://www.datacenterknowledge.com/networking/could-fiber-be-the-next-big-bottleneck-in-data-center-growth-",
+      "description": "Power and water aren’t the only constraints on new builds. In many markets, fiber access and diversity now determine where facilities can be located and how quickly they can scale.",
+      "published": "2026-09-03T09:00:00.000Z"
+    },
     {
       "source": "Data Center Knowledge",
       "title": "AWS Wires a New US AI Route Across the Pacific",
@@ -30,41 +121,6 @@
       "published": "2026-09-02T17:59:47.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Iren secures contract from \"leading frontier lab,\" on track to exit crypto business by end of year",
-      "url": "https://www.datacenterdynamics.com/en/news/iren-secures-contract-from-leading-frontier-lab-on-track-to-exit-crypto-business-by-end-of-year/",
-      "description": "Neocloud releases results for fiscal year 2026",
-      "published": "2026-09-02T17:30:28.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Haffner Energy launches biomass power-cooling system for data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/haffner-energy-launches-biomass-power-cooling-system-for-data-centers/",
-      "description": "System powered by residual biomass",
-      "published": "2026-09-02T17:20:31.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Amazon plots new subsea cable linking US and Japan",
-      "url": "https://www.datacenterdynamics.com/en/news/amazon-plots-new-subsea-cable-linking-us-and-japan/",
-      "description": "First cable to land in Washington since the new millennium",
-      "published": "2026-09-02T17:10:29.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Matt Clifford, man behind UK's AI Growth Zones plan, joins Anthropic",
-      "url": "https://www.datacenterdynamics.com/en/news/matt-clifford-man-behind-uks-ai-growth-zones-plan-joins-anthropic/",
-      "description": "Plans to stay on at ARIA is \"a clear conflict of interest,\" MP says",
-      "published": "2026-09-02T17:07:13.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Telehouse adds new building to Frankfurt data center campus",
-      "url": "https://www.datacenterdynamics.com/en/news/telehouse-adds-new-building-to-frankfurt-data-center-campus/",
-      "description": "Building N adds 5.4MW to campus",
-      "published": "2026-09-02T17:00:26.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "Facilitating AI integration with simplicity at scale",
       "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
@@ -84,62 +140,6 @@
       "url": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
       "description": "\n                        What can we learn from a BGP hijacking that poisoned production software? Plenty.\n                    ",
       "published": "2026-09-02T11:00:43.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Why Data Centers Rarely Reuse Cooling Water",
-      "url": "https://www.datacenterknowledge.com/cooling/why-data-centers-rarely-reuse-cooling-water",
-      "description": "While alternatives to evaporative cooling exist, most data centers don’t adopt them because the economics currently don’t justify the higher capital costs and operational complexity.",
-      "published": "2026-09-02T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "How AI plotted an interstellar journey to Alpha Centauri",
-      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
-      "description": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.&#160; It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is ",
-      "published": "2026-09-01T19:10:36.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "California Judge Orders Full Environmental Review of 330 MW Data Center",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/california-judge-orders-full-environmental-review-of-330-mw-data-center",
-      "description": "A California judge says Imperial County must review a proposed 330 MW data center and its power, water, battery, and generation infrastructure.",
-      "published": "2026-09-01T18:11:35.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "How AI Is Changing Construction from Blueprint to Build",
-      "url": "https://www.datacenterknowledge.com/ai-data-centers/how-ai-is-changing-construction-from-blueprint-to-build",
-      "description": "AI is reshaping the construction lifecycle. At Ai4 2026, AEC leaders shared how firms are applying AI across design, logistics, safety, and operations, while tackling data standards, culture change, and scaling.",
-      "published": "2026-09-01T15:38:04.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Making the AI-powered case for legacy modernization",
-      "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
-      "description": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with t",
-      "published": "2026-09-01T14:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
-      "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and pro",
-      "published": "2026-09-01T12:10:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "VMware Intros Private AI Cloud, AI Factory As Workloads Shift To On-Prem",
-      "url": "https://www.nextplatform.com/cloud/2026/09/01/vmware-intros-private-ai-cloud-ai-factory-as-workloads-shift-to-on-prem/5293559",
-      "description": "",
-      "published": "2026-09-01T04:43:05.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "In The Long Run, Nvidia NVSwitch Is The InfiniBand Of Scale Up AI Networks",
-      "url": "https://www.nextplatform.com/connect/2026/08/31/in-the-long-run-nvidia-nvswitch-is-the-infiniband-of-scale-up-ai-networks/5293474",
-      "description": "",
-      "published": "2026-08-31T17:12:47.000Z"
     }
   ]
 }
