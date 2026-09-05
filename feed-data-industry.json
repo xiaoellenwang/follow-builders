@@ -1,6 +1,97 @@
 {
-  "generatedAt": "2026-09-04T04:16:09.623Z",
+  "generatedAt": "2026-09-05T04:12:15.924Z",
   "articles": [
+    {
+      "source": "Ars Technica Tech",
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "description": "\n                        In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test. \n                    ",
+      "published": "2026-09-04T22:17:36.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Architecting memory and storage in the AI era",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "description": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced inf",
+      "published": "2026-09-04T18:39:19.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
+      "url": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
+      "description": "\n                        Broadcom admits it put “too big a focus on VCF.”\n                    ",
+      "published": "2026-09-04T17:35:02.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+      "description": "\n                        A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.\n                    ",
+      "published": "2026-09-04T17:18:12.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "T5 spins out construction arm, sells operations biz to Salute",
+      "url": "https://www.datacenterdynamics.com/en/news/t5-spins-out-construction-arm-sells-operations-biz-to-salute/",
+      "description": "T5 Construction now EverOn Data Center Services",
+      "published": "2026-09-04T16:40:25.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Telstra confirms July outage was caused by network timing system failure",
+      "url": "https://www.datacenterdynamics.com/en/news/telstra-confirms-july-outage-was-caused-by-network-timing-system-failure/",
+      "description": "As independent report finds that the Australian carrier failed to react to previous warnings after 2020 network upgrade",
+      "published": "2026-09-04T16:35:13.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Pure starts work on second building at Brent Cross campus in London, UK",
+      "url": "https://www.datacenterdynamics.com/en/news/pure-starts-work-on-second-building-at-brent-cross-campus-in-london-uk/",
+      "description": "B2 to offer 70MW",
+      "published": "2026-09-04T16:30:28.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "The virtualization dividend: Why net-zero starts at the infrastructure layer",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-virtualization-dividend-why-net-zero-starts-at-the-infrastructure-layer/",
+      "description": "And why it can be a very useful tool for sustainability",
+      "published": "2026-09-04T16:22:33.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Man sentenced to prison for operating rogue telecoms infrastructure in Lancashire, UK",
+      "url": "https://www.datacenterdynamics.com/en/news/man-sentenced-to-prison-for-operating-rogue-telecoms-infrastructure-in-lancashire-uk/",
+      "description": "The man created rogue mobile antenna to send out fraudulent texts",
+      "published": "2026-09-04T16:20:32.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Flex Pays $4.4B for EPC Power as AI Data Centers Push 800V Architecture",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/flex-pays-4-4b-for-epc-power-as-ai-data-centers-push-800v-architecture",
+      "description": "Flex’s $4.4B EPC Power deal adds 800V DC and grid-forming technology as AI data center rack densities rise and operators rethink power delivery.",
+      "published": "2026-09-04T14:51:29.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: selling battlefield drone data and AI reshaping language",
+      "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI&#8217;s impac",
+      "published": "2026-09-04T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "description": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight,",
+      "published": "2026-09-04T09:25:19.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Self-Improving AI Could Drive Innovation – But Strain Data Centers",
+      "url": "https://www.datacenterknowledge.com/ai-data-centers/self-improving-ai-could-drive-innovation-but-strain-data-centers",
+      "description": "Recursive self-improvement is touted as AI’s next major milestone. If it’s ever achieved, the impact will be felt across the data center industry and far beyond.",
+      "published": "2026-09-04T09:00:00.000Z"
+    },
     {
       "source": "Data Center Knowledge",
       "title": "The Corrosion Blind Spot in the AI Buildout",
@@ -30,41 +121,6 @@
       "published": "2026-09-03T18:58:31.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "GoPro to enter AI data center market via merger with optical photonics company",
-      "url": "https://www.datacenterdynamics.com/en/news/gopro-to-enter-ai-data-center-market-via-merger-with-optical-photonics-company/",
-      "description": "Company has entered into a merger agreement with Action Acquisitions and Starman Optical",
-      "published": "2026-09-03T17:50:24.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "California lawmakers pass data center ratepayer protection bills, send to governor for approval",
-      "url": "https://www.datacenterdynamics.com/en/news/california-lawmakers-pass-data-center-ratepayer-protection-bills-send-to-governor-for-approval/",
-      "description": "If passed, the legislation would create separate electricity tariffs for large data centers",
-      "published": "2026-09-03T17:40:29.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Hyperscale Data ends cryptomining operations at Michigan data center",
-      "url": "https://www.datacenterdynamics.com/en/news/hyperscale-data-ends-cryptomining-operations-at-michigan-data-center/",
-      "description": "In preparation for incoming neocloud customer",
-      "published": "2026-09-03T17:20:22.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "India mulls removal of legacy Chinese telecoms kit - report",
-      "url": "https://www.datacenterdynamics.com/en/news/india-mulls-removal-of-legacy-chinese-telecoms-kit-report/",
-      "description": "Could India become the latest market to rip and replace Chinese telecoms equipment?",
-      "published": "2026-09-03T17:00:29.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "ChatGPT, Claude, and Grok hit by simultaneous outages",
-      "url": "https://www.datacenterdynamics.com/en/news/chatgpt-claude-and-grok-hit-by-simultaneous-outages/",
-      "description": "People forced to think for themselves",
-      "published": "2026-09-03T16:50:56.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: rethinking child safety and fossil-fueled farming",
       "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
@@ -79,67 +135,11 @@
       "published": "2026-09-03T10:00:00.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "Scaling agentic AI pilots across the enterprise",
-      "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
-      "description": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 c",
-      "published": "2026-09-03T09:30:32.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "Could Fiber Be the Next Big Bottleneck in Data Center Growth?",
       "url": "https://www.datacenterknowledge.com/networking/could-fiber-be-the-next-big-bottleneck-in-data-center-growth-",
       "description": "Power and water aren’t the only constraints on new builds. In many markets, fiber access and diversity now determine where facilities can be located and how quickly they can scale.",
       "published": "2026-09-03T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "AWS Wires a New US AI Route Across the Pacific",
-      "url": "https://www.datacenterknowledge.com/cables/aws-wires-a-new-us-ai-route-across-the-pacific",
-      "description": "AWS is building a 420 Tbps subsea cable between Japan and Washington State, which is scheduled to enter service in 2029, to support AI workloads and expand trans-Pacific network capacity.",
-      "published": "2026-09-02T20:51:58.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "I rented a car, and within hours, my driver's license was for sale",
-      "url": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
-      "description": "\n                        The FBI is reportedly investigating a massive data breach that is unfolding in real time.\n                    ",
-      "published": "2026-09-02T20:32:02.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "How AI Is Changing Fire Protection in Modern Data Centers",
-      "url": "https://www.datacenterknowledge.com/outages/how-ai-is-changing-fire-protection-in-modern-data-centers",
-      "description": "Effective protection depends on early design integration and a holistic approach that considers building construction, emergency procedures, and operational resilience – not just code compliance.",
-      "published": "2026-09-02T19:48:48.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Optics Still Driving Marvell’s AI Business More Than Custom Chips",
-      "url": "https://www.nextplatform.com/connect/2026/09/02/optics-still-driving-marvells-ai-business-more-than-custom-chips/5294018",
-      "description": "",
-      "published": "2026-09-02T17:59:47.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Facilitating AI integration with simplicity at scale",
-      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-      "description": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make dec",
-      "published": "2026-09-02T14:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: AI puzzles and a path to our nearest star system",
-      "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine lear",
-      "published": "2026-09-02T12:10:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
-      "url": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
-      "description": "\n                        What can we learn from a BGP hijacking that poisoned production software? Plenty.\n                    ",
-      "published": "2026-09-02T11:00:43.000Z"
     }
   ]
 }
