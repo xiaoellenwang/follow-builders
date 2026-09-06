@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-09-05T04:12:15.924Z",
+  "generatedAt": "2026-09-06T04:20:54.829Z",
   "jobs": [
+    {
+      "title": "Quant Researcher #77900",
+      "company": "ANRADUS PTE. LTD.",
+      "salary": "S$6,000 – S$8,500",
+      "type": "Permanent",
+      "skills": [
+        "Algorithm Analysis",
+        "Scalability",
+        "Quantitative Research"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/39a9e75e41604c16502d958b1810ca41",
+      "posted": "2026-09-05T22:16:16.000Z"
+    },
+    {
+      "title": "data engineer (aws, ai) - 10k - financial services",
+      "company": "RANDSTAD PTE. LIMITED",
+      "salary": "S$7,500 – S$12,000",
+      "type": "Permanent",
+      "skills": [
+        "large datasets",
+        "Airflow",
+        "governance framework"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/9b39a9329f6fffbbfcf6572799f2a3de",
+      "posted": "2026-09-05T15:56:59.000Z"
+    },
     {
       "title": "AI Engineer",
       "company": "GARENA ONLINE PRIVATE LIMITED",
@@ -67,19 +93,6 @@
       "posted": "2026-09-04T10:19:28.000Z"
     },
     {
-      "title": "Data Analyst / Associate Data Engineer",
-      "company": "SOMIN PTE. LTD.",
-      "salary": "S$7,000 – S$8,500",
-      "type": "Full Time",
-      "skills": [
-        "Solutions Marketing",
-        "Business Intelligence and Data Analytics",
-        "Data Pipeline"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/3065afe53293565a8275fdb4e72a11eb",
-      "posted": "2026-09-04T10:09:43.000Z"
-    },
-    {
       "title": "Research Engineer, Embodied AI & Robotics, IAIC",
       "company": "A*STAR RESEARCH ENTITIES",
       "salary": "S$3,000 – S$6,000",
@@ -91,19 +104,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/cdc506a7ed7805b250cb4ef02f95ef80",
       "posted": "2026-09-04T10:08:52.000Z"
-    },
-    {
-      "title": "Software Engineer (AI Project / Flask)",
-      "company": "SCIENTEC CONSULTING PTE. LTD.",
-      "salary": "S$6,000 – S$10,000",
-      "type": "Contract",
-      "skills": [
-        "Chatbot",
-        "Ai",
-        "Git"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/a80832d8a13e3ff37327ec0eca7b107e",
-      "posted": "2026-09-04T09:58:04.000Z"
     },
     {
       "title": "Cloud Specialist - AI Platforms",
@@ -132,19 +132,6 @@
       "posted": "2026-09-04T09:42:05.000Z"
     },
     {
-      "title": "EDB-IPP Project: Advancing Domain-Specific Multimodal Large Language Models and AI Governance for Vertical Domain Applications",
-      "company": "RAKUTEN ASIA PTE. LTD.",
-      "salary": "S$4,500 – S$6,000",
-      "type": "Permanent",
-      "skills": [
-        "Talent Development",
-        "Natural Language Processing",
-        "Segmentation"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/72f2b994f8c9312f5a210d19d2c8fc92",
-      "posted": "2026-09-04T09:32:20.000Z"
-    },
-    {
       "title": "Staff Forward Deployed Engineer, Developer AI, Google Cloud - Bengaluru, Gurugram, Mumbai or Singapore",
       "company": "GOOGLE ASIA PACIFIC PTE. LTD.",
       "salary": "S$15,000 – S$30,000",
@@ -158,32 +145,6 @@
       "posted": "2026-09-04T09:19:31.000Z"
     },
     {
-      "title": "PhD Holder | AI Research Scientist",
-      "company": "REOLINK TECHNOLOGY PTE. LTD.",
-      "salary": "S$7,000 – S$9,000",
-      "type": "Permanent",
-      "skills": [
-        "Deep Learning",
-        "Game Artificial Intelligence Development",
-        "Machine Learning"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/50635c696b8ae0c105a98598297692a6",
-      "posted": "2026-09-04T09:06:51.000Z"
-    },
-    {
-      "title": "Machine Learning Engineer",
-      "company": "KAITO PTE. LTD.",
-      "salary": "S$8,000 – S$9,500",
-      "type": "Full Time",
-      "skills": [
-        "Business Optimization",
-        "scalable solutions",
-        "Data Pipeline"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/4ed6e5a502c0435575bb94b465bc81d4",
-      "posted": "2026-09-04T09:00:14.000Z"
-    },
-    {
       "title": "AI Engineer",
       "company": "DIDI MOBILITY PTE. LTD.",
       "salary": "S$12,000 – S$20,000",
@@ -195,6 +156,45 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/3ac4a31ca8429065bd9e1c114dc873d6",
       "posted": "2026-09-04T08:51:28.000Z"
+    },
+    {
+      "title": "AI Security & Automation Lead [5 DAYS / KAKI BUKIT] (KCKC)",
+      "company": "THE SUPREME HR ADVISORY PTE. LTD.",
+      "salary": "S$6,000 – S$8,000",
+      "type": "Full Time",
+      "skills": [
+        "Antiaging Products",
+        "validation strategies",
+        "Logistics Automation"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/6e410976fd7e17183998d28afa6d0faf",
+      "posted": "2026-09-04T08:40:12.000Z"
+    },
+    {
+      "title": "[T04] Machine Learning Engineer (ML) - Permanent Role",
+      "company": "TALENTSIS PTE. LTD.",
+      "salary": "S$5,500 – S$6,500",
+      "type": "Permanent",
+      "skills": [
+        "API Development",
+        "Liaising with cross functional teams",
+        "Collaborate With Engineers"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/d83454ef7300833c46fd0149de159c35",
+      "posted": "2026-09-04T08:25:52.000Z"
+    },
+    {
+      "title": "Site Reliability Engineer - AIOps, LLMOps, MLOps",
+      "company": "AVENSYS CONSULTING PTE. LTD.",
+      "salary": "S$6,000 – S$8,000",
+      "type": "Contract",
+      "skills": [
+        "Pipelines",
+        "Work Life Balance",
+        "Healthcare"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/31650a6e1345654a28090649146deef6",
+      "posted": "2026-09-04T07:09:49.000Z"
     }
   ]
 }

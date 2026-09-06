@@ -1,4 +1,103 @@
 {
-  "generatedAt": "2026-09-05T04:12:15.924Z",
-  "videos": []
+  "generatedAt": "2026-09-06T04:20:54.829Z",
+  "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Don't Let Claude Think For You",
+      "url": "https://www.youtube.com/watch?v=LYUzCbsfkgU",
+      "published": "2026-09-05T10:30:19.000Z",
+      "description": "\"What you don't want is an AI that just agrees with you.\" Dianne Penn (Head of Product, Research & Labs at Anthropic) on using Claude to sharpen her thinking without letting it take over."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Why Writing Matters Now",
+      "url": "https://www.youtube.com/watch?v=oJmIteo_UlA",
+      "published": "2026-09-04T23:16:30.000Z",
+      "description": "She hands almost all her writing to the model. One kind she never does.\n\nOpenAI's Product Lead on the discipline she uses to keep her thinking from atrophying."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "OpenAI's North Star for ChatGPT",
+      "url": "https://www.youtube.com/watch?v=-6aJv925E_o",
+      "published": "2026-09-04T14:00:26.000Z",
+      "description": "OpenAI's Product Lead Tara Seshan explains the vision for ChatGPT"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "There's a Second Curve in the Scaling Laws",
+      "url": "https://www.youtube.com/watch?v=96FKKbuQ7D0",
+      "published": "2026-09-04T11:06:31.000Z",
+      "description": "Models go from can't-do to can-do overnight. One day it can't add, the next it reliably can.\n\nDianne Penn (Head of Product, Research & Labs at Anthropic) on the discontinuous jumps hiding inside the scaling laws."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "The three memes of product development",
+      "url": "https://www.youtube.com/watch?v=xSGSAsTvh8o",
+      "published": "2026-09-03T23:00:35.000Z",
+      "description": "OpenAI's product culture runs on three internal questions | Tara Seshan (Product Lead, OpenAI)"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Claude's 24-Hour Bridge Obsession",
+      "url": "https://www.youtube.com/watch?v=ZpiPRliDP0o",
+      "published": "2026-09-03T10:30:30.000Z",
+      "description": "For 24 hours, Claude was obsessed with the Golden Gate Bridge. Dianne Penn (Head of Product, Research & Labs at Anthropic) on why a quirky experiment that reached 2,000 people mattered more than the numbers."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "OpenAI is Founders-Led",
+      "url": "https://www.youtube.com/watch?v=36kxJlY7-m0",
+      "published": "2026-09-03T01:00:45.000Z",
+      "description": "Founder-led is common. Founders-led is different.\n\nOpenAI's Product Lead on how little top-down direction there actually is inside the company."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "When should you be using AI to write?",
+      "url": "https://www.youtube.com/watch?v=YASHMZoBlz8",
+      "published": "2026-09-02T14:00:11.000Z",
+      "description": "Tara Seshan (Product Lead, OpenAI) explains why you should never automate writing-as-thinking."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Evals Are the New PRDs",
+      "url": "https://www.youtube.com/watch?v=N_3pPQp7CkQ",
+      "published": "2026-09-02T10:30:10.000Z",
+      "description": "The PRD ruled product work for two decades. Not anymore.\n\nDianne Penn (Head of Product, Research & Labs at Anthropic) on why her team writes evals instead and what that changes about the job."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Ambition Is the New Bottleneck",
+      "url": "https://www.youtube.com/watch?v=ifAMQNcOnZI",
+      "published": "2026-09-01T15:08:25.000Z",
+      "description": "Someone brings you a timeline, or a first version, or a way of getting it done. The useful response is asking whether the ceiling is actually much higher than that.\n\nTara Seshan (Product Lead at OpenAI) on why reminding people what's now possible has become a core part of the PM job."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "\"The only way to build is for where the models will be in 2-3 months\"",
+      "url": "https://www.youtube.com/watch?v=tlTKTV40Mqg",
+      "published": "2026-09-01T14:00:07.000Z",
+      "description": "OpenAI's Product Lead, Tara Seshan on why you should build for a 2-3 month horizon."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Work Is Becoming All Steering and No Rowing",
+      "url": "https://www.youtube.com/watch?v=lPpEynndz-w",
+      "published": "2026-08-31T15:43:23.000Z",
+      "description": "Agents will do the rowing. Your job becomes pointing the ship.\n\nTara Seshan (Product Lead at OpenAI) on why the steering keeps moving up a level, and what stays human even after it does."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Speed Without Data Is Just Faster Failure",
+      "url": "https://www.youtube.com/watch?v=KmhuMFcKAzw",
+      "published": "2026-08-30T21:26:46.000Z",
+      "description": "Building fast gave everyone the ability to iterate faster. It didn't give anyone better information to iterate on.\n\nTara Seshan (Product Lead at OpenAI) on the gap that sends teams off course."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)",
+      "url": "https://www.youtube.com/watch?v=zMvBMfj4cSQ",
+      "published": "2026-08-30T12:30:33.000Z",
+      "description": "Tara Seshan leads product for ChatGPT Work at OpenAI (alongside previous podcast guest Andrew Ambrosino, who’s her engineering manager). Before OpenAI, Tara spent over six years at Stripe, where she joined as one of the first five product managers. She went on to lead product for Watershed, which Ti"
+    }
+  ]
 }

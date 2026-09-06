@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-09-05T04:12:15.924Z",
+  "generatedAt": "2026-09-06T04:20:54.829Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "The role of manufacturing in tomorrow’s data center buildouts",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-role-of-manufacturing-in-tomorrows-data-center-buildouts/",
+      "description": "Procurement infrastructure that hasn't scaled alongside the investment driving it",
+      "published": "2026-09-05T10:00:34.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: Planning power and cooling for high-density AI",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/planning-power-and-cooling-for-high-density-ai/",
+      "description": "As rack densities rise and hardware roadmaps accelerate, Legrand’s experts explain why electrical and thermal infrastructure must be planned together",
+      "published": "2026-09-05T07:00:00.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
@@ -49,20 +63,6 @@
       "url": "https://www.datacenterdynamics.com/en/news/pure-starts-work-on-second-building-at-brent-cross-campus-in-london-uk/",
       "description": "B2 to offer 70MW",
       "published": "2026-09-04T16:30:28.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "The virtualization dividend: Why net-zero starts at the infrastructure layer",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-virtualization-dividend-why-net-zero-starts-at-the-infrastructure-layer/",
-      "description": "And why it can be a very useful tool for sustainability",
-      "published": "2026-09-04T16:22:33.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Man sentenced to prison for operating rogue telecoms infrastructure in Lancashire, UK",
-      "url": "https://www.datacenterdynamics.com/en/news/man-sentenced-to-prison-for-operating-rogue-telecoms-infrastructure-in-lancashire-uk/",
-      "description": "The man created rogue mobile antenna to send out fraudulent texts",
-      "published": "2026-09-04T16:20:32.000Z"
     },
     {
       "source": "Data Center Knowledge",
