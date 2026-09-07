@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-09-06T04:20:54.829Z",
+  "generatedAt": "2026-09-07T04:19:59.827Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Why companies are becoming a series of loops | Anish Acharya (a16z)",
+      "url": "https://www.youtube.com/watch?v=LdIyXiq2DTY",
+      "published": "2026-09-06T12:30:36.000Z",
+      "description": "Anish Acharya is a General Partner at Andreessen Horowitz (a16z), where he has focused on consumer investing. Anish is one of the most insightful, thought-provoking, and in-the-weeds product investors I’ve met, and this conversation will get your mind buzzing. Before joining a16z, Anish was a serial"
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "Don't Let Claude Think For You",
@@ -84,20 +91,6 @@
       "url": "https://www.youtube.com/watch?v=lPpEynndz-w",
       "published": "2026-08-31T15:43:23.000Z",
       "description": "Agents will do the rowing. Your job becomes pointing the ship.\n\nTara Seshan (Product Lead at OpenAI) on why the steering keeps moving up a level, and what stays human even after it does."
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "Speed Without Data Is Just Faster Failure",
-      "url": "https://www.youtube.com/watch?v=KmhuMFcKAzw",
-      "published": "2026-08-30T21:26:46.000Z",
-      "description": "Building fast gave everyone the ability to iterate faster. It didn't give anyone better information to iterate on.\n\nTara Seshan (Product Lead at OpenAI) on the gap that sends teams off course."
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)",
-      "url": "https://www.youtube.com/watch?v=zMvBMfj4cSQ",
-      "published": "2026-08-30T12:30:33.000Z",
-      "description": "Tara Seshan leads product for ChatGPT Work at OpenAI (alongside previous podcast guest Andrew Ambrosino, who’s her engineering manager). Before OpenAI, Tara spent over six years at Stripe, where she joined as one of the first five product managers. She went on to lead product for Watershed, which Ti"
     }
   ]
 }

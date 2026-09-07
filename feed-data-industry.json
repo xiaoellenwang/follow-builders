@@ -1,6 +1,27 @@
 {
-  "generatedAt": "2026-09-06T04:20:54.829Z",
+  "generatedAt": "2026-09-07T04:19:59.827Z",
   "articles": [
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "Data Engineering Weekly #286",
+      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-286",
+      "description": "The Weekly Data Engineering Newsletter",
+      "published": "2026-09-07T00:18:06.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Why data center cooling is now business-critical",
+      "url": "https://www.datacenterdynamics.com/en/opinions/why-data-center-cooling-is-now-business-critical/",
+      "description": "Rapid growth of data centers forces operators to rethink thermal fluid management",
+      "published": "2026-09-06T14:00:35.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "The electrical power problem that will decide the AI race",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-electrical-power-problem-that-will-decide-the-ai-race/",
+      "description": "America’s data centers are about to draw power on the scale of entire nations",
+      "published": "2026-09-06T10:00:35.000Z"
+    },
     {
       "source": "Data Center Dynamics",
       "title": "The role of manufacturing in tomorrow’s data center buildouts",
@@ -51,20 +72,6 @@
       "published": "2026-09-04T16:40:25.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Telstra confirms July outage was caused by network timing system failure",
-      "url": "https://www.datacenterdynamics.com/en/news/telstra-confirms-july-outage-was-caused-by-network-timing-system-failure/",
-      "description": "As independent report finds that the Australian carrier failed to react to previous warnings after 2020 network upgrade",
-      "published": "2026-09-04T16:35:13.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Pure starts work on second building at Brent Cross campus in London, UK",
-      "url": "https://www.datacenterdynamics.com/en/news/pure-starts-work-on-second-building-at-brent-cross-campus-in-london-uk/",
-      "description": "B2 to offer 70MW",
-      "published": "2026-09-04T16:30:28.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "Flex Pays $4.4B for EPC Power as AI Data Centers Push 800V Architecture",
       "url": "https://www.datacenterknowledge.com/energy-power-supply/flex-pays-4-4b-for-epc-power-as-ai-data-centers-push-800v-architecture",
@@ -91,55 +98,6 @@
       "url": "https://www.datacenterknowledge.com/ai-data-centers/self-improving-ai-could-drive-innovation-but-strain-data-centers",
       "description": "Recursive self-improvement is touted as AI’s next major milestone. If it’s ever achieved, the impact will be felt across the data center industry and far beyond.",
       "published": "2026-09-04T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "The Corrosion Blind Spot in the AI Buildout",
-      "url": "https://www.datacenterknowledge.com/ai-data-centers/the-corrosion-blind-spot-in-the-ai-buildout",
-      "description": "AI data centers' massive capital investments are at risk from corrosion, which begins during construction – not operations – yet preservation is rarely included in project governance or early planning.",
-      "published": "2026-09-03T21:49:04.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Nvidia Expands Its Open Source AI Presence With $12.9 Billion Hugging Face Buy",
-      "url": "https://www.nextplatform.com/ai/2026/09/03/nvidia-expands-its-open-source-ai-presence-with-129-billion-hugging-face-buy/5294352",
-      "description": "",
-      "published": "2026-09-03T20:55:49.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
-      "url": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
-      "description": "\n                        Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying.\n                    ",
-      "published": "2026-09-03T19:52:06.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
-      "url": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
-      "description": "\n                        Pro soccer team's CTO points to \"issues with the Broadcom takeover.\" \n                    ",
-      "published": "2026-09-03T18:58:31.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: rethinking child safety and fossil-fueled farming",
-      "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning t",
-      "published": "2026-09-03T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Agriculture relies on fossil fuels. It’s costing us.",
-      "url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
-      "description": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how far the ripple effects of the conflict in Iran have spread. Fertilizer prices h",
-      "published": "2026-09-03T10:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Could Fiber Be the Next Big Bottleneck in Data Center Growth?",
-      "url": "https://www.datacenterknowledge.com/networking/could-fiber-be-the-next-big-bottleneck-in-data-center-growth-",
-      "description": "Power and water aren’t the only constraints on new builds. In many markets, fiber access and diversity now determine where facilities can be located and how quickly they can scale.",
-      "published": "2026-09-03T09:00:00.000Z"
     }
   ]
 }
