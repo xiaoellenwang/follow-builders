@@ -1,103 +1,61 @@
 {
-  "generatedAt": "2026-09-07T04:19:59.827Z",
+  "generatedAt": "2026-09-08T04:20:06.317Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "GLP begins development of 200MW data center in Foshan, China",
+      "url": "https://www.datacenterdynamics.com/en/news/glp-begins-development-of-200mw-data-center-in-foshan-china/",
+      "description": "First phase comprises 40MW",
+      "published": "2026-09-07T16:14:50.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Corvex targets 8MW of AI cloud capacity by end of 2026",
+      "url": "https://www.datacenterdynamics.com/en/news/corvex-targets-8mw-of-ai-cloud-capacity-by-end-of-2026/",
+      "description": "Company secures $33m for expansion plans",
+      "published": "2026-09-07T16:06:27.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "O2 Business launches satellite D2D service in UK",
+      "url": "https://www.datacenterdynamics.com/en/news/o2-business-launches-satellite-d2d-service-in-uk/",
+      "description": "Aims to plug coverage gap for rural UK businesses",
+      "published": "2026-09-07T15:58:08.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "The cooling loop can't keep up",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-cooling-loop-cant-keep-up/",
+      "description": "Why thermal lag in CDU control systems is an unaccounted-for reliability risk",
+      "published": "2026-09-07T15:41:16.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "ASC cable break causes connectivity disruption between Perth and Singapore",
+      "url": "https://www.datacenterdynamics.com/en/news/asc-cable-break-causes-connectivity-disruption-between-perth-and-singapore/",
+      "description": "Repairs are underway",
+      "published": "2026-09-07T15:40:21.000Z"
+    },
+    {
+      "source": "Import AI",
+      "title": "Import AI 472: DeepMind’s cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman",
+      "url": "https://jack-clark.net/2026/09/07/import-ai-472-deepminds-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/",
+      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Researchers discover another OpenAI agent emergent communication incident:…Less severe, but worrying nonetheless…Some ",
+      "published": "2026-09-07T12:26:31.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a va",
+      "published": "2026-09-07T12:10:00.000Z"
+    },
     {
       "source": "DataEngineeringWeekly",
       "title": "Data Engineering Weekly #286",
       "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-286",
       "description": "The Weekly Data Engineering Newsletter",
       "published": "2026-09-07T00:18:06.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Why data center cooling is now business-critical",
-      "url": "https://www.datacenterdynamics.com/en/opinions/why-data-center-cooling-is-now-business-critical/",
-      "description": "Rapid growth of data centers forces operators to rethink thermal fluid management",
-      "published": "2026-09-06T14:00:35.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "The electrical power problem that will decide the AI race",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-electrical-power-problem-that-will-decide-the-ai-race/",
-      "description": "America’s data centers are about to draw power on the scale of entire nations",
-      "published": "2026-09-06T10:00:35.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "The role of manufacturing in tomorrow’s data center buildouts",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-role-of-manufacturing-in-tomorrows-data-center-buildouts/",
-      "description": "Procurement infrastructure that hasn't scaled alongside the investment driving it",
-      "published": "2026-09-05T10:00:34.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: Planning power and cooling for high-density AI",
-      "url": "https://www.datacenterdynamics.com/en/marketwatch/planning-power-and-cooling-for-high-density-ai/",
-      "description": "As rack densities rise and hardware roadmaps accelerate, Legrand’s experts explain why electrical and thermal infrastructure must be planned together",
-      "published": "2026-09-05T07:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-      "description": "\n                        In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test. \n                    ",
-      "published": "2026-09-04T22:17:36.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Architecting memory and storage in the AI era",
-      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-      "description": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced inf",
-      "published": "2026-09-04T18:39:19.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
-      "url": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
-      "description": "\n                        Broadcom admits it put “too big a focus on VCF.”\n                    ",
-      "published": "2026-09-04T17:35:02.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-      "description": "\n                        A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.\n                    ",
-      "published": "2026-09-04T17:18:12.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "T5 spins out construction arm, sells operations biz to Salute",
-      "url": "https://www.datacenterdynamics.com/en/news/t5-spins-out-construction-arm-sells-operations-biz-to-salute/",
-      "description": "T5 Construction now EverOn Data Center Services",
-      "published": "2026-09-04T16:40:25.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Flex Pays $4.4B for EPC Power as AI Data Centers Push 800V Architecture",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/flex-pays-4-4b-for-epc-power-as-ai-data-centers-push-800v-architecture",
-      "description": "Flex’s $4.4B EPC Power deal adds 800V DC and grid-forming technology as AI data center rack densities rise and operators rethink power delivery.",
-      "published": "2026-09-04T14:51:29.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: selling battlefield drone data and AI reshaping language",
-      "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI&#8217;s impac",
-      "published": "2026-09-04T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-      "description": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight,",
-      "published": "2026-09-04T09:25:19.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Self-Improving AI Could Drive Innovation – But Strain Data Centers",
-      "url": "https://www.datacenterknowledge.com/ai-data-centers/self-improving-ai-could-drive-innovation-but-strain-data-centers",
-      "description": "Recursive self-improvement is touted as AI’s next major milestone. If it’s ever achieved, the impact will be felt across the data center industry and far beyond.",
-      "published": "2026-09-04T09:00:00.000Z"
     }
   ]
 }
