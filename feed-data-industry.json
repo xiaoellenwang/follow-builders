@@ -1,40 +1,110 @@
 {
-  "generatedAt": "2026-09-08T04:20:06.317Z",
+  "generatedAt": "2026-09-09T04:25:37.458Z",
   "articles": [
     {
-      "source": "Data Center Dynamics",
-      "title": "GLP begins development of 200MW data center in Foshan, China",
-      "url": "https://www.datacenterdynamics.com/en/news/glp-begins-development-of-200mw-data-center-in-foshan-china/",
-      "description": "First phase comprises 40MW",
-      "published": "2026-09-07T16:14:50.000Z"
+      "source": "MIT Technology Review",
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "description": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in",
+      "published": "2026-09-09T03:10:08.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Why this month's Microsoft patch release is a doozy",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "description": "\n                        Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.\n                    ",
+      "published": "2026-09-08T21:11:46.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "HPE Sees No Customer Pushback On Rising Datacenter Equipment Costs",
+      "url": "https://www.nextplatform.com/compute/2026/09/08/hpe-sees-no-customer-pushback-on-rising-datacenter-equipment-costs/5295102",
+      "description": "",
+      "published": "2026-09-08T19:28:02.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "The AI Data Center Boom Is Here. Can Contractor Safety Keep Pace?",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/the-ai-data-center-boom-is-here-can-contractor-safety-keep-pace-",
+      "description": "AI data center growth demands continuous safety oversight beyond onboarding, using real-time worker qualification tracking and leading indicators to prevent incidents.",
+      "published": "2026-09-08T17:51:22.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Corvex targets 8MW of AI cloud capacity by end of 2026",
-      "url": "https://www.datacenterdynamics.com/en/news/corvex-targets-8mw-of-ai-cloud-capacity-by-end-of-2026/",
-      "description": "Company secures $33m for expansion plans",
-      "published": "2026-09-07T16:06:27.000Z"
+      "title": "NEC signs MoU with UNDP to support conservation, climate action through use of AI",
+      "url": "https://www.datacenterdynamics.com/en/news/nec-signs-mou-with-undp-to-support-conservation-climate-action-through-use-of-ai/",
+      "description": "Will also carry out assessments and studies aimed at improving the resilience of AI and digital infrastructure",
+      "published": "2026-09-08T16:30:26.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "O2 Business launches satellite D2D service in UK",
-      "url": "https://www.datacenterdynamics.com/en/news/o2-business-launches-satellite-d2d-service-in-uk/",
-      "description": "Aims to plug coverage gap for rural UK businesses",
-      "published": "2026-09-07T15:58:08.000Z"
+      "title": "Palantir selects Nebius as sovereign AI infrastructure provider",
+      "url": "https://www.datacenterdynamics.com/en/news/palantir-selects-nebius-as-sovereign-ai-infrastructure-provider/",
+      "description": "Palantir's commercial customers will have access to Nebius' cloud platform",
+      "published": "2026-09-08T16:22:28.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "The cooling loop can't keep up",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-cooling-loop-cant-keep-up/",
-      "description": "Why thermal lag in CDU control systems is an unaccounted-for reliability risk",
-      "published": "2026-09-07T15:41:16.000Z"
+      "title": "GSMA urges regulators to back upper 6GHz spectrum for next-gen networks",
+      "url": "https://www.datacenterdynamics.com/en/news/gsma-urges-regulators-to-back-upper-6ghz-spectrum-for-next-gen-networks/",
+      "description": "With more than 60 operators and equipment vendors united, trade body presses for prioritization for wide-scale deployments",
+      "published": "2026-09-08T16:12:17.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "ASC cable break causes connectivity disruption between Perth and Singapore",
-      "url": "https://www.datacenterdynamics.com/en/news/asc-cable-break-causes-connectivity-disruption-between-perth-and-singapore/",
-      "description": "Repairs are underway",
-      "published": "2026-09-07T15:40:21.000Z"
+      "title": "Google's European energy and infrastructure principle joins Mistral Compute",
+      "url": "https://www.datacenterdynamics.com/en/news/googles-european-energy-infrastructure-principle-joins-mistral-compute/",
+      "description": "Marc Oman joins as AI firm looks to deploy 1GW",
+      "published": "2026-09-08T16:06:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Retail colo in the age of AI: One size does not fit all",
+      "url": "https://www.datacenterdynamics.com/en/analysis/retail-colo-in-the-age-of-ai-one-size-does-not-fit-all/",
+      "description": "Insights from a small-scale Edge retail colocation facility in East London",
+      "published": "2026-09-08T16:00:36.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: our 35 Innovators Under 35 this year",
+      "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35",
+      "published": "2026-09-08T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "This founder is teaching chips how to recycle (their energy)",
+      "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
+      "description": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usually t",
+      "published": "2026-09-08T10:36:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "description": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up&",
+      "published": "2026-09-08T10:34:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "This founder is making cheaper, cleaner steel",
+      "url": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
+      "description": "The steel industry isn’t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority of steelmakers melt solid iron ore at dizzyingly high temperatures inside blast furnaces, where the material reacts wit",
+      "published": "2026-09-08T10:33:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "GPU Lifespan in Data Centers: Physical vs. Economic",
+      "url": "https://www.datacenterknowledge.com/data-center-chips/gpu-lifespan-in-data-centers-physical-vs-economic",
+      "description": "Data center GPUs physically last 5+ years, but economic replacement cycles are 2-4 years due to rapid performance gains. Resale or GPU-as-a-Service models help maximize value.",
+      "published": "2026-09-08T09:00:00.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Dell Says AI Will Drive 75 Percent Of Datacenter Demand By 2030",
+      "url": "https://www.nextplatform.com/compute/2026/09/07/dell-says-ai-will-drive-75-percent-of-datacenter-demand-by-2030/5294882",
+      "description": "",
+      "published": "2026-09-07T22:32:10.000Z"
     },
     {
       "source": "Import AI",
@@ -42,13 +112,6 @@
       "url": "https://jack-clark.net/2026/09/07/import-ai-472-deepminds-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/",
       "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Researchers discover another OpenAI agent emergent communication incident:…Less severe, but worrying nonetheless…Some ",
       "published": "2026-09-07T12:26:31.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a va",
-      "published": "2026-09-07T12:10:00.000Z"
     },
     {
       "source": "DataEngineeringWeekly",
