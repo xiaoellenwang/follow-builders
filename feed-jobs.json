@@ -1,200 +1,200 @@
 {
-  "generatedAt": "2026-09-09T04:25:37.458Z",
+  "generatedAt": "2026-09-10T04:23:22.701Z",
   "jobs": [
     {
-      "title": "Senior Product Manager (B2B SaaS) – Enterprise AI Infrastructure",
-      "company": "DADACONSULTANTS PTE. LTD.",
-      "salary": "S$8,000 – S$12,000",
-      "type": "Full Time",
-      "skills": [
-        "Product Documentations",
-        "API Development",
-        "interviews with stakeholders"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/6bd51ad174a4ff914de5680edcf0fae7",
-      "posted": "2026-09-09T03:45:53.000Z"
-    },
-    {
-      "title": "Project Manager - AI",
-      "company": "IKAS INTERNATIONAL (ASIA) PTE. LTD.",
-      "salary": "S$10,000 – S$12,000",
-      "type": "Contract",
+      "title": "Senior Principal Engineer, Digitalization & AI",
+      "company": "PAXOCEAN ENGINEERING PTE. LTD.",
+      "salary": "S$12,000 – S$18,000",
+      "type": "Permanent",
       "skills": [
         "Digital Transformation Program",
-        "Timely Delivery",
-        "Establishing Plans"
+        "EMS",
+        "Python Scripting"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/2ee91527b19d730dd41bd818dffc3d0e",
-      "posted": "2026-09-09T03:14:26.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/f0dff5a87eea903f0fbd7fa96e30a9af",
+      "posted": "2026-09-10T04:15:21.000Z"
+    },
+    {
+      "title": "Machine Learning Storage Infrastructure Engineer",
+      "company": "BYTEDANCE PTE. LTD.",
+      "salary": "S$11,250 – S$22,500",
+      "type": "Full Time",
+      "skills": [
+        "Feature Extraction",
+        "Development",
+        "Software Engineering"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/ff36c5eb05269b40f88de8dbcaea4e5c",
+      "posted": "2026-09-10T03:29:28.000Z"
+    },
+    {
+      "title": "Machine Learning Storage Infrastructure Engineer",
+      "company": "BYTEDANCE PTE. LTD.",
+      "salary": "S$6,500 – S$13,000",
+      "type": "Full Time",
+      "skills": [
+        "Feature Extraction",
+        "Development",
+        "Software Engineering"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/0043482514f5d20b7551265694c3b4b3",
+      "posted": "2026-09-10T03:28:31.000Z"
+    },
+    {
+      "title": "Research Engineer, Embodied AI & Robotics, IAIC",
+      "company": "A*STAR RESEARCH ENTITIES",
+      "salary": "S$3,000 – S$6,000",
+      "type": "Contract",
+      "skills": [
+        "ROS",
+        "Ai",
+        "Ownership"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/5fe1fa349a067aa46ec3b6698be9575f",
+      "posted": "2026-09-10T03:20:15.000Z"
+    },
+    {
+      "title": "Senior Research Engineer I, Embodied AI & Robotics, IAIC",
+      "company": "A*STAR RESEARCH ENTITIES",
+      "salary": "S$4,500 – S$9,000",
+      "type": "Contract",
+      "skills": [
+        "ROS",
+        "Ai",
+        "Ownership"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/a43ba08d2b10dd52c4217bbb00100f5d",
+      "posted": "2026-09-10T03:00:57.000Z"
     },
     {
       "title": "AI Engineer",
-      "company": "SEATRIUM (SG) PTE. LTD.",
-      "salary": "S$3,500 – S$5,000",
+      "company": "RISKDATA CONSULTING PTE. LTD.",
+      "salary": "S$9,000 – S$12,000",
       "type": "Contract",
       "skills": [
-        "TensorFlow",
-        "Machine Learning",
-        "CSS"
+        "Back-End Systems",
+        "Analytics Support",
+        "Design"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/23a98d9df861339f4f87fb8fdfd1b07b",
-      "posted": "2026-09-09T03:11:18.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/3c1856f5b0286c8378a28a0e4e407592",
+      "posted": "2026-09-10T02:33:38.000Z"
     },
     {
-      "title": "AI Systems Engineer",
-      "company": "SIGNALPLUS SG PTE. LTD.",
-      "salary": "S$9,000 – S$16,000",
+      "title": "AI Engineer (Senior Associate) / Technology Consulting",
+      "company": "ERNST & YOUNG ADVISORY PTE. LTD.",
+      "salary": "S$5,500 – S$9,000",
+      "type": "Permanent",
+      "skills": [
+        "Code Quality",
+        "Liaising with cross functional teams",
+        "Microsoft Azure"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/cd641f6ee76b71bb2a8a23f6240774ee",
+      "posted": "2026-09-10T02:25:28.000Z"
+    },
+    {
+      "title": "Research Assistant / Research Engineer (AI and robotics)",
+      "company": "NATIONAL UNIVERSITY OF SINGAPORE",
+      "salary": "S$5,000 – S$6,000",
       "type": "Full Time",
       "skills": [
-        "Network Performance",
-        "Machine Learning",
-        "Transportation Route and Schedule Planning"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/4c797837f42c713c81c08b402882f5eb",
-      "posted": "2026-09-09T03:02:11.000Z"
-    },
-    {
-      "title": "AI Developer/ Analyst",
-      "company": "SEATRIUM (SG) PTE. LTD.",
-      "salary": "S$4,600 – S$5,800",
-      "type": "Permanent",
-      "skills": [
-        "TensorFlow",
-        "Machine Learning",
-        "CSS"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/89e5dbba3f414b8bbedade76377c94b4",
-      "posted": "2026-09-09T03:00:10.000Z"
-    },
-    {
-      "title": "AI Application Infra - Technical Specialist/Engineer - TikTok LIVE",
-      "company": "TIKTOK PTE. LTD.",
-      "salary": "S$12,000 – S$24,000",
-      "type": "Permanent",
-      "skills": [
-        "Machine Learning",
-        "Design Patterns",
-        "Software Engineering"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/328b09117efb330018786c0cd5df61a1",
-      "posted": "2026-09-09T02:45:35.000Z"
-    },
-    {
-      "title": "VP, AI Engineering",
-      "company": "SINGAPORE LIFE LTD.",
-      "salary": "S$10,000 – S$11,500",
-      "type": "Permanent",
-      "skills": [
-        "AI Governance",
-        "Adaptive Reuse",
-        "Cost Management"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/fd8171fc97e150de3d80801126be90b4",
-      "posted": "2026-09-09T02:30:48.000Z"
-    },
-    {
-      "title": "Fullstack Engineer (Data Application & AI Agent), TikTok Live - Singapore",
-      "company": "TIKTOK PTE. LTD.",
-      "salary": "S$7,000 – S$14,000",
-      "type": "Permanent",
-      "skills": [
-        "Wealth Management",
-        "Asset Management",
-        "CSS"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/57688489b45615ca5547f13d252d970a",
-      "posted": "2026-09-09T02:22:11.000Z"
-    },
-    {
-      "title": "Fullstack Engineer (Data Application & AI Agent) - TikTok Live - Singapore",
-      "company": "TIKTOK PTE. LTD.",
-      "salary": "S$12,000 – S$24,000",
-      "type": "Permanent",
-      "skills": [
-        "Wealth Management",
-        "Asset Management",
-        "CSS"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/c06288880d1adc01359e1029a94fc9ba",
-      "posted": "2026-09-09T02:20:16.000Z"
-    },
-    {
-      "title": "Head of AI Transformation - APJC, Generative AI Innovation Center",
-      "company": "AMAZON WEB SERVICES SINGAPORE PRIVATE LIMITED",
-      "salary": "S$25,000 – S$35,000",
-      "type": "Permanent",
-      "skills": [
-        "Technology Consulting",
-        "Engineering Management",
-        "Pipeline Development"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/8160345fbbc716542f7ae351dfa95878",
-      "posted": "2026-09-09T02:04:00.000Z"
-    },
-    {
-      "title": "Advanced Engineer (High-Efficiency AI Computing)",
-      "company": "PERSOL SINGAPORE PTE. LTD.",
-      "salary": "S$8,000 – S$15,000",
-      "type": "Permanent",
-      "skills": [
-        "Electronics Engineering",
-        "Automation Systems",
-        "liaison with design teams"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/ef2bc883d38bb347103a32cec7e440ec",
-      "posted": "2026-09-09T01:06:55.000Z"
-    },
-    {
-      "title": "Business Partner – Data & AI",
-      "company": "ASIA PACIFIC BREWERIES (SINGAPORE) PTE LTD",
-      "salary": "S$7,650 – S$13,110",
-      "type": "Permanent",
-      "skills": [
-        "Data Products",
         "Ai",
-        "Dashboards"
+        "Proposal Writing",
+        "Grants"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/fd4528bfeb348515c17b7809bef13840",
-      "posted": "2026-09-08T17:31:14.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/23d761e7f77375b9ab84cc0a641021c6",
+      "posted": "2026-09-10T01:47:25.000Z"
     },
     {
-      "title": "Software Engineer – Agentic AI/Contract/West",
-      "company": "RMA CONSULTANTS PTE LTD",
+      "title": "Data Scientist (Project Lead - Data Science/AI) at Marina Bay, $5,000-$6,500 +1 month completion bonus (Office hours)",
+      "company": "SUCCESS HUMAN RESOURCE CENTRE PTE. LTD.",
+      "salary": "S$5,000 – S$6,500",
+      "type": "Contract",
+      "skills": [
+        "Product Testing",
+        "Machine Learning",
+        "Ai"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/b895b0137b295b9f9fb2823127a3ebe4",
+      "posted": "2026-09-10T01:45:52.000Z"
+    },
+    {
+      "title": "Research Fellow (Healthcare AI & Data Analytics)",
+      "company": "NATIONAL UNIVERSITY OF SINGAPORE",
+      "salary": "S$6,000 – S$7,500",
+      "type": "Full Time",
+      "skills": [
+        "Machine Learning",
+        "Science",
+        "Healthcare"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/635bd351229dc5962cf657da0ffc559d",
+      "posted": "2026-09-10T01:20:34.000Z"
+    },
+    {
+      "title": "Data Engineer, Analytics (Singapore)",
+      "company": "FACEBOOK SINGAPORE PTE. LTD.",
+      "salary": "S$12,410 – S$19,420",
+      "type": "Permanent",
+      "skills": [
+        "Service Level Agreement Management",
+        "Collaborate With Engineers",
+        "optimise code"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/f1f2ca28288e2ee1f732abd236a17b38",
+      "posted": "2026-09-09T08:51:58.000Z"
+    },
+    {
+      "title": "AI Security & Automation Lead - LCYL",
+      "company": "THE SUPREME HR ADVISORY PTE. LTD.",
+      "salary": "S$6,000 – S$8,000",
+      "type": "Permanent",
+      "skills": [
+        "Antiaging Products",
+        "Logistics Automation",
+        "Timely Delivery"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/b0a172fa86158d62d2b7b3d6269d7bff",
+      "posted": "2026-09-09T08:46:07.000Z"
+    },
+    {
+      "title": "ICT Infrastructure Engineer (AI Infrastructure)",
+      "company": "NTT SINGAPORE PTE. LTD.",
+      "salary": "S$9,000 – S$11,500",
+      "type": "Full Time",
+      "skills": [
+        "Influencing Key Stakeholders",
+        "Liaising with service providers",
+        "AWS"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/ea0b4233f0d963562787bed5d6ea6b83",
+      "posted": "2026-09-09T08:29:02.000Z"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "REGTECH INSIGHT PTE. LTD.",
+      "salary": "S$9,000 – S$12,000",
+      "type": "Contract",
+      "skills": [
+        "Back-End Systems",
+        "Analytics Support",
+        "Automation Management in Product Development"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/e4243678ff87bc182f6daef810c35236",
+      "posted": "2026-09-09T07:48:04.000Z"
+    },
+    {
+      "title": "AWS Data Engineer",
+      "company": "RAPSYS TECHNOLOGIES PTE. LTD.",
       "salary": "S$5,000 – S$7,500",
       "type": "Contract",
       "skills": [
-        "Scalability",
-        "Data Pipeline",
-        "Neo4j"
+        "Amazon S3",
+        "Scala",
+        "Amazon Redshift"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/1ca53f352a824dcdea16ad18d9ed6611",
-      "posted": "2026-09-08T09:56:28.000Z"
-    },
-    {
-      "title": "Data Engineer",
-      "company": "JJW TECH FINSERV PTE. LTD.",
-      "salary": "S$7,000 – S$11,000",
-      "type": "Full Time",
-      "skills": [
-        "Collaborate With Engineers",
-        "development-oriented",
-        "Pipeline Management"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/1123a4b67a1f6815189e34d6be6ccbf3",
-      "posted": "2026-09-08T09:17:14.000Z"
-    },
-    {
-      "title": "Data Engineer",
-      "company": "JALANDHAR SC PTE. LTD.",
-      "salary": "S$7,000 – S$11,000",
-      "type": "Full Time",
-      "skills": [
-        "Collaborate With Engineers",
-        "development-oriented",
-        "Pipeline Management"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/7cbe740ddb6f6a70341f18210708375c",
-      "posted": "2026-09-08T09:00:12.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/5f59f09d6ac3a961b14400a25fc72489",
+      "posted": "2026-09-09T06:27:03.000Z"
     }
   ]
 }
