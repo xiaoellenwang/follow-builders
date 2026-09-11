@@ -1,47 +1,110 @@
 {
-  "generatedAt": "2026-09-10T04:23:22.701Z",
+  "generatedAt": "2026-09-11T04:22:50.563Z",
   "articles": [
     {
+      "source": "The Next Platform",
+      "title": "Broadcom Rides Rocketing Trend For Custom AI Accelerators",
+      "url": "https://www.nextplatform.com/connect/2026/09/10/broadcom-rides-rocketing-trend-for-custom-ai-accelerators/5295681",
+      "description": "",
+      "published": "2026-09-10T19:44:47.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Why AI Performance Starts Long Before GPUs",
+      "url": "https://www.datacenterknowledge.com/networking/why-ai-performance-starts-long-before-gpus",
+      "description": "AI outcomes depend on how predictably and securely data moves across data centers, clouds, and the edge. Designing for latency, resilience, and visibility is now as important as compute.",
+      "published": "2026-09-10T16:42:49.000Z"
+    },
+    {
       "source": "Data Center Dynamics",
-      "title": "FlexSysAI launches grid-flexibility pilot with ResetData, CSIRO, University of Queensland",
-      "url": "https://www.datacenterdynamics.com/en/news/flexsysai-launches-grid-flexibility-pilot-with-resetdata-csiro-university-of-queensland/",
-      "description": "Will test AI orchestration platform at ResetData data center",
-      "published": "2026-09-09T21:00:28.000Z"
+      "title": "Nvidia’s Groq deal facing DOJ probe amid regulator scrutiny into acqui-hires: report",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidias-groq-deal-facing-doj-probe-amid-regulator-scrutiny-into-acqui-hires-report/",
+      "description": "Justice Department investigation joins FTC inquiry into potential de facto big tech mergers",
+      "published": "2026-09-10T16:23:58.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Loft Orbital, Marlan Space, and Mistral sign $1bn deal to put compute in space",
+      "url": "https://www.datacenterdynamics.com/en/news/loft-orbital-marlan-space-and-mistral-sign-1bn-deal-to-put-compute-in-space/",
+      "description": "Will launch constellation of 50 satellites",
+      "published": "2026-09-10T16:16:21.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Forget about TDP",
+      "url": "https://www.datacenterdynamics.com/en/analysis/forget-about-tdp/",
+      "description": "CoolIT’s CTO argues thermal design power is a solved challenge, and that there are more pressing concerns",
+      "published": "2026-09-10T16:00:34.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: The hidden capacity inside aging data centers: Uncovering performance, capacity, and capital through efficiency",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-hidden-capacity-inside-aging-data-centers-uncovering-performance-capacity-and-capital-through-efficiency/",
+      "description": "In a world where power has become the ultimate currency, you can no longer afford to waste it",
+      "published": "2026-09-10T15:00:00.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Startup d-Matrix Will Pair Its Raptor Memory-Based XPU To Nvidia Rackscale Iron",
+      "url": "https://www.nextplatform.com/compute/2026/09/10/startup-d-matrix-will-pair-its-raptor-memory-based-xpu-to-nvidia-rackscale-iron/5295601",
+      "description": "",
+      "published": "2026-09-10T14:52:10.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Cryptominer BTC Digital could build AI data center in Vietnam",
+      "url": "https://www.datacenterdynamics.com/en/news/cryptominer-btc-digital-could-build-ai-data-center-in-vietnam/",
+      "description": "Signs MoU with local developer",
+      "published": "2026-09-10T14:33:51.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
+      "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinatin",
+      "published": "2026-09-10T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Powering AI is an architecture problem",
+      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "description": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia",
+      "published": "2026-09-10T11:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "This road map could help us decide whether to deploy solar geoengineering",
+      "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+      "description": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Review can reveal. Scientists have now spent half a century exploring the possibil",
+      "published": "2026-09-10T11:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Can the US battery market untangle from China?",
+      "url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
+      "description": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from intermittent renewables like wind and solar. Crucially, this is all happening with ",
+      "published": "2026-09-10T10:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "God told them to sell crypto. Their investors lost everything.",
+      "url": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
+      "description": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. Now he likens the experience to having “a thought that is not my thought.” Divine w",
+      "published": "2026-09-10T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Data Centers vs. Telcos: Different Roles, Shared Dependence",
+      "url": "https://www.datacenterknowledge.com/networking/data-centers-vs-telcos-different-roles-shared-dependence",
+      "description": "Data centers provide the environments where compute runs; telcos deliver the networks that connect them. Here’s how the two ecosystems diverge and overlap.",
+      "published": "2026-09-10T09:00:00.000Z"
     },
     {
       "source": "Ars Technica Tech",
-      "title": "4 groups caught using the same Chrome and Windows exploit kit",
+      "title": "Four groups caught using the same Chrome and Windows exploit kit",
       "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
       "description": "\n                        A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.\n                    ",
       "published": "2026-09-09T20:55:02.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "JD Cloud and Moore Threads team up on cluster of 100,000 GPUs",
-      "url": "https://www.datacenterdynamics.com/en/news/jd-cloud-and-moore-threads-team-up-on-cluster-of-100000-gpus/",
-      "description": "Will use Chinese hardware",
-      "published": "2026-09-09T16:10:47.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: How NeoClouds should choose their next AI region – and why India deserves a closer look",
-      "url": "https://www.datacenterdynamics.com/en/opinions/how-neoclouds-should-choose-their-next-ai-region-and-why-india-deserves-a-closer-look/",
-      "description": "Traditional data center questions are now about choosing the right AI region",
-      "published": "2026-09-09T15:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Samsung working with OpenAI on next-generation custom chip - report",
-      "url": "https://www.datacenterdynamics.com/en/news/samsung-working-with-openai-on-next-generation-custom-chip-report/",
-      "description": "Details of partnership not disclosed",
-      "published": "2026-09-09T14:48:36.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Hscale secures $1bn contract with hyperscaler for Spanish data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/hscale-secures-1bn-contract-with-hyperscaler-for-spanish-data-centers/",
-      "description": "Will provide capacity for cloud and AI workloads",
-      "published": "2026-09-09T14:14:05.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -51,39 +114,11 @@
       "published": "2026-09-09T13:58:01.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "The Download: OpenAI’s turning point for math and a battery record",
-      "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What OpenAI’s latest controversy tells us about the future of math OpenAI says its agents have solved one of the most important open problems in mathe",
-      "published": "2026-09-09T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Batteries just broke another record in the US",
-      "url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
-      "description": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of about 700,000 homes. The surge is putting the country on a trajectory to see 71",
-      "published": "2026-09-09T09:00:00.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "Power Availability Now Determines Where Data Centers Get Built",
       "url": "https://www.datacenterknowledge.com/data-center-site-selection/power-availability-now-determines-where-data-centers-get-built",
       "description": "With US data center electricity use surging, developers must prove they can secure scalable, reliable power before breaking ground.",
       "published": "2026-09-09T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Understanding the thermal ceiling in portable power",
-      "url": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
-      "description": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device protecting itself. As temperature rises during charging, a smartphone&#8217;s battery management system reduces the current it will accept, because heat ac",
-      "published": "2026-09-09T08:18:13.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "description": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in",
-      "published": "2026-09-09T03:10:08.000Z"
     },
     {
       "source": "Ars Technica Tech",
@@ -105,34 +140,6 @@
       "url": "https://www.datacenterknowledge.com/data-center-construction/the-ai-data-center-boom-is-here-can-contractor-safety-keep-pace-",
       "description": "AI data center growth demands continuous safety oversight beyond onboarding, using real-time worker qualification tracking and leading indicators to prevent incidents.",
       "published": "2026-09-08T17:51:22.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: our 35 Innovators Under 35 this year",
-      "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35",
-      "published": "2026-09-08T12:10:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "GPU Lifespan in Data Centers: Physical vs. Economic",
-      "url": "https://www.datacenterknowledge.com/data-center-chips/gpu-lifespan-in-data-centers-physical-vs-economic",
-      "description": "Data center GPUs physically last 5+ years, but economic replacement cycles are 2-4 years due to rapid performance gains. Resale or GPU-as-a-Service models help maximize value.",
-      "published": "2026-09-08T09:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Dell Says AI Will Drive 75 Percent Of Datacenter Demand By 2030",
-      "url": "https://www.nextplatform.com/compute/2026/09/07/dell-says-ai-will-drive-75-percent-of-datacenter-demand-by-2030/5294882",
-      "description": "",
-      "published": "2026-09-07T22:32:10.000Z"
-    },
-    {
-      "source": "Import AI",
-      "title": "Import AI 472: DeepMind’s cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman",
-      "url": "https://jack-clark.net/2026/09/07/import-ai-472-deepminds-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/",
-      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Researchers discover another OpenAI agent emergent communication incident:…Less severe, but worrying nonetheless…Some ",
-      "published": "2026-09-07T12:26:31.000Z"
     }
   ]
 }

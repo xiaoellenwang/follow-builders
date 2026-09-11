@@ -1,200 +1,200 @@
 {
-  "generatedAt": "2026-09-10T04:23:22.701Z",
+  "generatedAt": "2026-09-11T04:22:50.563Z",
   "jobs": [
     {
-      "title": "Senior Principal Engineer, Digitalization & AI",
-      "company": "PAXOCEAN ENGINEERING PTE. LTD.",
-      "salary": "S$12,000 – S$18,000",
-      "type": "Permanent",
+      "title": "AI Engineer",
+      "company": "ALLEGIS GROUP SINGAPORE PRIVATE LIMITED",
+      "salary": "S$6,000 – S$12,000",
+      "type": "Contract",
       "skills": [
-        "Digital Transformation Program",
-        "EMS",
-        "Python Scripting"
+        "AI Ethics",
+        "Incident Investigation Management",
+        "Platform Modernization"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/f0dff5a87eea903f0fbd7fa96e30a9af",
-      "posted": "2026-09-10T04:15:21.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/1dad111e7ebfa777dfaeaf8968b132a3",
+      "posted": "2026-09-11T03:25:34.000Z"
     },
     {
-      "title": "Machine Learning Storage Infrastructure Engineer",
-      "company": "BYTEDANCE PTE. LTD.",
+      "title": "Lead Quality Engineer (Automation & AI Quality Engineering)",
+      "company": "ADECCO PERSONNEL PTE LTD",
+      "salary": "S$11,000 – S$12,000",
+      "type": "Contract",
+      "skills": [
+        "Test Automation Framework",
+        "Test-Driven Development",
+        "Technical Skills"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/302e0f0b63a92aaa7695f9f8091158cf",
+      "posted": "2026-09-11T03:08:04.000Z"
+    },
+    {
+      "title": "Staff/Principal AI Engineer, SMAI",
+      "company": "MICRON SEMICONDUCTOR ASIA OPERATIONS PTE. LTD.",
+      "salary": "S$9,000 – S$17,000",
+      "type": "Full Time",
+      "skills": [
+        "Ai",
+        "Statistical Modelling",
+        "Cloud robotics"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/ede29fc36462affa4dc1ca1468b1dfb0",
+      "posted": "2026-09-11T02:55:59.000Z"
+    },
+    {
+      "title": "AI Specialist",
+      "company": "INFINITY FINANCIAL ADVISORY PTE. LTD.",
+      "salary": "S$3,800 – S$4,500",
+      "type": "Full Time",
+      "skills": [
+        "Workflow Automation",
+        "Design",
+        "Product Innovation"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/5a06f3169859c0f51bb1440b499ca02e",
+      "posted": "2026-09-11T02:37:00.000Z"
+    },
+    {
+      "title": "Information Technology - Senior Data Scientist (Advanced AI Track)",
+      "company": "SINGAPORE AIRLINES LIMITED",
+      "salary": "S$5,500 – S$11,000",
+      "type": "Permanent",
+      "skills": [
+        "Machine Learning",
+        "Scala",
+        "Kanban"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/ab12389c5f30be8df02b771b6e4995cf",
+      "posted": "2026-09-11T02:30:49.000Z"
+    },
+    {
+      "title": "Principal Product Owner , SMART MFG & AI",
+      "company": "MICRON SEMICONDUCTOR ASIA OPERATIONS PTE. LTD.",
+      "salary": "S$14,000 – S$22,000",
+      "type": "Full Time",
+      "skills": [
+        "Electronic Procurement",
+        "Collaborate With Engineers",
+        "product backlog"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/a59c586b4082ec77858770343d766edb",
+      "posted": "2026-09-11T02:29:37.000Z"
+    },
+    {
+      "title": "AI Engineer, SMAI",
+      "company": "MICRON SEMICONDUCTOR ASIA OPERATIONS PTE. LTD.",
+      "salary": "S$6,000 – S$9,500",
+      "type": "Full Time",
+      "skills": [
+        "Computer Engineering",
+        "Manufacturing Automation",
+        "Scalable Applications"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/b831b7909a74d78ce7b90f216d236841",
+      "posted": "2026-09-11T02:27:12.000Z"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "JEET ANALYTICS PTE. LTD.",
+      "salary": "S$9,000 – S$12,000",
+      "type": "Contract",
+      "skills": [
+        "Ai",
+        "Workflow",
+        "AI Agents"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/037f5722602fee119baa3940cf123b50",
+      "posted": "2026-09-11T02:22:59.000Z"
+    },
+    {
+      "title": "Full Stack Engineer (AI & GenAI) (2 Year Contract)",
+      "company": "RHINO PARTNERS PTE. LTD.",
+      "salary": "S$8,000 – S$10,000",
+      "type": "Contract",
+      "skills": [
+        "API Development",
+        "Developing Interfaces",
+        "Design"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/634c47846bba06d727611e256e226704",
+      "posted": "2026-09-11T02:19:45.000Z"
+    },
+    {
+      "title": "Director - Data Scientist (AI Transformation & Industrialization) Banking",
+      "company": "TANGSPAC SEARCH PRIVATE LIMITED",
+      "salary": "S$12,000 – S$16,000",
+      "type": "Permanent",
+      "skills": [
+        "Wealth Management",
+        "Machine Learning",
+        "Customer Segmentation"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/8435df545a68d4d045b94496baf33314",
+      "posted": "2026-09-11T02:11:42.000Z"
+    },
+    {
+      "title": "Research Scientist - LLM Applications for International E-commerce Scenarios - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "company": "TIKTOK PTE. LTD.",
       "salary": "S$11,250 – S$22,500",
       "type": "Full Time",
       "skills": [
-        "Feature Extraction",
-        "Development",
-        "Software Engineering"
+        "Deep Learning",
+        "Generative Model",
+        "Onboarding"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/ff36c5eb05269b40f88de8dbcaea4e5c",
-      "posted": "2026-09-10T03:29:28.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/f01701753edd144796d611083c9309a0",
+      "posted": "2026-09-11T01:53:11.000Z"
     },
     {
-      "title": "Machine Learning Storage Infrastructure Engineer",
-      "company": "BYTEDANCE PTE. LTD.",
-      "salary": "S$6,500 – S$13,000",
-      "type": "Full Time",
+      "title": "Senior Data Engineer",
+      "company": "MORGAN MCKINLEY PTE. LTD.",
+      "salary": "S$8,000 – S$15,000",
+      "type": "Permanent",
       "skills": [
-        "Feature Extraction",
-        "Development",
-        "Software Engineering"
+        "analyst role",
+        "Computer Engineering",
+        "Architecture"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/0043482514f5d20b7551265694c3b4b3",
-      "posted": "2026-09-10T03:28:31.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/cc77788d0eab83abe17aaac417b7ee75",
+      "posted": "2026-09-11T01:49:51.000Z"
     },
     {
-      "title": "Research Engineer, Embodied AI & Robotics, IAIC",
-      "company": "A*STAR RESEARCH ENTITIES",
-      "salary": "S$3,000 – S$6,000",
+      "title": "Data Engineer (3 Year Contract)",
+      "company": "RHINO PARTNERS PTE. LTD.",
+      "salary": "S$8,000 – S$14,000",
       "type": "Contract",
       "skills": [
-        "ROS",
-        "Ai",
-        "Ownership"
+        "Collaborate With Engineers",
+        "Computer Engineering",
+        "Extensive Work Experience"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/5fe1fa349a067aa46ec3b6698be9575f",
-      "posted": "2026-09-10T03:20:15.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/cf2b686ff4b739a0a284f63582084e30",
+      "posted": "2026-09-11T01:27:59.000Z"
     },
     {
-      "title": "Senior Research Engineer I, Embodied AI & Robotics, IAIC",
-      "company": "A*STAR RESEARCH ENTITIES",
-      "salary": "S$4,500 – S$9,000",
-      "type": "Contract",
-      "skills": [
-        "ROS",
-        "Ai",
-        "Ownership"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/a43ba08d2b10dd52c4217bbb00100f5d",
-      "posted": "2026-09-10T03:00:57.000Z"
-    },
-    {
-      "title": "AI Engineer",
-      "company": "RISKDATA CONSULTING PTE. LTD.",
-      "salary": "S$9,000 – S$12,000",
-      "type": "Contract",
-      "skills": [
-        "Back-End Systems",
-        "Analytics Support",
-        "Design"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/3c1856f5b0286c8378a28a0e4e407592",
-      "posted": "2026-09-10T02:33:38.000Z"
-    },
-    {
-      "title": "AI Engineer (Senior Associate) / Technology Consulting",
-      "company": "ERNST & YOUNG ADVISORY PTE. LTD.",
-      "salary": "S$5,500 – S$9,000",
+      "title": "Senior AI Data Engineer (Ref 26570)",
+      "company": "JOBLINE RESOURCES PTE. LTD.",
+      "salary": "S$8,000 – S$14,500",
       "type": "Permanent",
       "skills": [
         "Code Quality",
-        "Liaising with cross functional teams",
-        "Microsoft Azure"
+        "Optimization",
+        "PySpark"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/cd641f6ee76b71bb2a8a23f6240774ee",
-      "posted": "2026-09-10T02:25:28.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/c8865be3d3b64268bd3cc4047333387f",
+      "posted": "2026-09-11T01:04:18.000Z"
     },
     {
-      "title": "Research Assistant / Research Engineer (AI and robotics)",
-      "company": "NATIONAL UNIVERSITY OF SINGAPORE",
-      "salary": "S$5,000 – S$6,000",
-      "type": "Full Time",
-      "skills": [
-        "Ai",
-        "Proposal Writing",
-        "Grants"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/23d761e7f77375b9ab84cc0a641021c6",
-      "posted": "2026-09-10T01:47:25.000Z"
-    },
-    {
-      "title": "Data Scientist (Project Lead - Data Science/AI) at Marina Bay, $5,000-$6,500 +1 month completion bonus (Office hours)",
-      "company": "SUCCESS HUMAN RESOURCE CENTRE PTE. LTD.",
-      "salary": "S$5,000 – S$6,500",
+      "title": "AI/ML Engineer",
+      "company": "OPTIMUM SOLUTIONS (SINGAPORE) PTE LTD",
+      "salary": "S$8,000 – S$12,500",
       "type": "Contract",
       "skills": [
-        "Product Testing",
         "Machine Learning",
-        "Ai"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/b895b0137b295b9f9fb2823127a3ebe4",
-      "posted": "2026-09-10T01:45:52.000Z"
-    },
-    {
-      "title": "Research Fellow (Healthcare AI & Data Analytics)",
-      "company": "NATIONAL UNIVERSITY OF SINGAPORE",
-      "salary": "S$6,000 – S$7,500",
-      "type": "Full Time",
-      "skills": [
-        "Machine Learning",
-        "Science",
-        "Healthcare"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/635bd351229dc5962cf657da0ffc559d",
-      "posted": "2026-09-10T01:20:34.000Z"
-    },
-    {
-      "title": "Data Engineer, Analytics (Singapore)",
-      "company": "FACEBOOK SINGAPORE PTE. LTD.",
-      "salary": "S$12,410 – S$19,420",
-      "type": "Permanent",
-      "skills": [
-        "Service Level Agreement Management",
-        "Collaborate With Engineers",
-        "optimise code"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/f1f2ca28288e2ee1f732abd236a17b38",
-      "posted": "2026-09-09T08:51:58.000Z"
-    },
-    {
-      "title": "AI Security & Automation Lead - LCYL",
-      "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-      "salary": "S$6,000 – S$8,000",
-      "type": "Permanent",
-      "skills": [
-        "Antiaging Products",
-        "Logistics Automation",
-        "Timely Delivery"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/b0a172fa86158d62d2b7b3d6269d7bff",
-      "posted": "2026-09-09T08:46:07.000Z"
-    },
-    {
-      "title": "ICT Infrastructure Engineer (AI Infrastructure)",
-      "company": "NTT SINGAPORE PTE. LTD.",
-      "salary": "S$9,000 – S$11,500",
-      "type": "Full Time",
-      "skills": [
-        "Influencing Key Stakeholders",
-        "Liaising with service providers",
-        "AWS"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/ea0b4233f0d963562787bed5d6ea6b83",
-      "posted": "2026-09-09T08:29:02.000Z"
-    },
-    {
-      "title": "AI Engineer",
-      "company": "REGTECH INSIGHT PTE. LTD.",
-      "salary": "S$9,000 – S$12,000",
-      "type": "Contract",
-      "skills": [
-        "Back-End Systems",
         "Analytics Support",
-        "Automation Management in Product Development"
+        "Design"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/e4243678ff87bc182f6daef810c35236",
-      "posted": "2026-09-09T07:48:04.000Z"
-    },
-    {
-      "title": "AWS Data Engineer",
-      "company": "RAPSYS TECHNOLOGIES PTE. LTD.",
-      "salary": "S$5,000 – S$7,500",
-      "type": "Contract",
-      "skills": [
-        "Amazon S3",
-        "Scala",
-        "Amazon Redshift"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/5f59f09d6ac3a961b14400a25fc72489",
-      "posted": "2026-09-09T06:27:03.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/98cec5630a7f48d8352aa70e4a1d25ff",
+      "posted": "2026-09-10T16:57:27.000Z"
     }
   ]
 }
