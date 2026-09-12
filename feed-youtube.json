@@ -1,4 +1,96 @@
 {
-  "generatedAt": "2026-09-11T04:22:50.563Z",
-  "videos": []
+  "generatedAt": "2026-09-12T04:20:58.952Z",
+  "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "How to Stand Out When Everyone Is Launching",
+      "url": "https://www.youtube.com/watch?v=BdkiU35fuf8",
+      "published": "2026-09-12T01:16:50.000Z",
+      "description": "Every network that exists today is trained to make sure nobody builds a network on top of it. a16z's Anish Acharya on why growth just became a word of mouth problem again."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "AI's Gap Is a Product Design Failure",
+      "url": "https://www.youtube.com/watch?v=Pzwy48dQFEM",
+      "published": "2026-09-11T13:47:09.000Z",
+      "description": "People don't actually want to be more productive. More people want to spend time than save time. a16z's Anish Acharya on the product design failure holding back AI."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Why Grok Bot's Team Is Colleague-Pilled",
+      "url": "https://www.youtube.com/watch?v=RCQsMv38ARg",
+      "published": "2026-09-11T11:00:13.000Z",
+      "description": "SpaceXAI's Roman Ugarte shares how the Grok Bot team is “colleague-pilled” not AGI-pilled"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "The AI Opportunity That Nobody's Building",
+      "url": "https://www.youtube.com/watch?v=e4xlS1nLeMA",
+      "published": "2026-09-10T11:00:16.000Z",
+      "description": "a16z General Partner, Anish Acharya explains why there’s a big opportunity in consumer software."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "The best hires aren't looking for jobs",
+      "url": "https://www.youtube.com/watch?v=Y4NTbV-t2Dc",
+      "published": "2026-09-10T00:19:53.000Z",
+      "description": "The best hires aren't on the market. SpaceXAI's Roman Ugarte on why recruiting starts with problems, not resumes."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Moats are a byproduct, not a plan",
+      "url": "https://www.youtube.com/watch?v=dbXtevTiZto",
+      "published": "2026-09-08T22:44:47.000Z",
+      "description": "Cursor didn't win by planning a moat. SpaceXAI's Roman Ugarte on why obsession with today beats strategy for tomorrow."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Moats Are Discovered, Not Designed",
+      "url": "https://www.youtube.com/watch?v=Nc3-IxL5yUs",
+      "published": "2026-09-08T14:29:42.000Z",
+      "description": "Cursor got criticized for having no moat. Then it captured every reasoning trace and trained its own models. a16z's Anish Acharya on why moats can be discovered, not designed."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)",
+      "url": "https://www.youtube.com/watch?v=maSdsTLaMuU",
+      "published": "2026-09-08T12:30:23.000Z",
+      "description": "Roman Ugarte helped incubate and build Grok Bot, the popular new knowledge-work agent from SpaceXAI. A small, isolated team took it from first line of code to a working internal product in four weeks, and to a hugely successful public launch just three weeks later. Before Grok Bot, Roman led Growth "
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Why CEOs Should Not Be Away from Product",
+      "url": "https://www.youtube.com/watch?v=C08tH6aqKw8",
+      "published": "2026-09-07T22:30:33.000Z",
+      "description": "There are two ways founders kill their own companies. Not letting go. And getting too far away."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "The Permanent Underclass Is a Fantasy",
+      "url": "https://www.youtube.com/watch?v=SLDzLLQyBK8",
+      "published": "2026-09-07T15:15:00.000Z",
+      "description": "The most sophisticated people at the labs say it's not recursive self-improvement. a16z's Anish Acharya on why the permanent underclass isn't happening."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "The Productivity Frontier Pointed Us Backwards",
+      "url": "https://www.youtube.com/watch?v=gfXDIf3zYgo",
+      "published": "2026-09-07T05:40:58.000Z",
+      "description": "Einstein wouldn't invent relativity today. He'd be deleting LinkedIn notifications and getting Slacked mid-equation."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Why companies are becoming a series of loops | Anish Acharya (a16z)",
+      "url": "https://www.youtube.com/watch?v=LdIyXiq2DTY",
+      "published": "2026-09-06T12:30:36.000Z",
+      "description": "Anish Acharya is a General Partner at Andreessen Horowitz (a16z), where he has focused on consumer investing. Anish is one of the most insightful, thought-provoking, and in-the-weeds product investors I’ve met, and this conversation will get your mind buzzing. Before joining a16z, Anish was a serial"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Don't Let Claude Think For You",
+      "url": "https://www.youtube.com/watch?v=LYUzCbsfkgU",
+      "published": "2026-09-05T10:30:19.000Z",
+      "description": "\"What you don't want is an AI that just agrees with you.\" Dianne Penn (Head of Product, Research & Labs at Anthropic) on using Claude to sharpen her thinking without letting it take over."
+    }
+  ]
 }

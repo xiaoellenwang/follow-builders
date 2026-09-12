@@ -1,12 +1,82 @@
 {
-  "generatedAt": "2026-09-11T04:22:50.563Z",
+  "generatedAt": "2026-09-12T04:20:58.952Z",
   "articles": [
     {
-      "source": "The Next Platform",
-      "title": "Broadcom Rides Rocketing Trend For Custom AI Accelerators",
-      "url": "https://www.nextplatform.com/connect/2026/09/10/broadcom-rides-rocketing-trend-for-custom-ai-accelerators/5295681",
-      "description": "",
-      "published": "2026-09-10T19:44:47.000Z"
+      "source": "MIT Technology Review",
+      "title": "Roundtables: AI’s apocalypse crisis",
+      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "description": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas H",
+      "published": "2026-09-11T20:05:06.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Property Tax: The Value Driver that AI Data Centers Overlook",
+      "url": "https://www.datacenterknowledge.com/ai-data-centers/property-tax-the-value-driver-that-ai-data-centers-overlook",
+      "description": "Property tax is a major, often-overlooked cost in AI data center ownership that should be strategically managed from design through operation, not treated as a yearly accounting task.",
+      "published": "2026-09-11T17:45:27.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Satellite Internet coming to UK rail network as part of £7.8bn space strategy",
+      "url": "https://www.datacenterdynamics.com/en/news/satellite-internet-coming-to-uk-rail-network-as-part-of-78bn-space-strategy/",
+      "description": "British rail policymakers plan to enable seamless broadband on trains by 2030 after promising to do it by 2025",
+      "published": "2026-09-11T16:25:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "UK telcos lament planning rules, says 5G coverage is being stifled",
+      "url": "https://www.datacenterdynamics.com/en/news/uk-telcos-lament-planning-rules-says-5g-coverage-is-being-stifled/",
+      "description": "More flexibility on regulations could drive 5G forward",
+      "published": "2026-09-11T16:16:53.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Plans for 120MW data center withdrawn in Lombardy, Italy",
+      "url": "https://www.datacenterdynamics.com/en/news/plans-for-120mw-data-center-withdrawn-in-lombardy-italy/",
+      "description": "Mayor says municipality never received data needed for the grid connection",
+      "published": "2026-09-11T16:12:18.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "SpaceX signs compute contract valued at $13.3bn annually",
+      "url": "https://www.datacenterdynamics.com/en/news/spacex-signs-compute-contract-valued-at-133bn-annually/",
+      "description": "Brings total annual income from compute leases to $41.1bn",
+      "published": "2026-09-11T16:02:26.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: Fluid strategy in the era of high-density computing",
+      "url": "https://www.datacenterdynamics.com/en/opinions/fluid-strategy-in-the-era-of-high-density-computing/",
+      "description": "Material compatibility, contamination control and lifecycle considerations for direct-to-chip liquid cooling",
+      "published": "2026-09-11T15:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: biotech’s future and cheaper, cleaner steel",
+      "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the bri",
+      "published": "2026-09-11T12:10:00.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "ClickFix attacks infecting PCs and Macs are going viral",
+      "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
+      "description": "\n                        Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.\n                    ",
+      "published": "2026-09-11T11:30:58.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Meet the under-35s shaping the future of biotech",
+      "url": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
+      "description": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includ",
+      "published": "2026-09-11T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Urban Data Centers: Who Needs Them and Where to Find Them",
+      "url": "https://www.datacenterknowledge.com/data-center-site-selection/urban-data-centers-who-needs-them-and-where-to-find-them",
+      "description": "Urban data centers deliver low-latency performance and rich interconnection for metro workloads. Learn when they make sense, key trade-offs, and how to find the right provider.",
+      "published": "2026-09-11T09:00:00.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -14,48 +84,6 @@
       "url": "https://www.datacenterknowledge.com/networking/why-ai-performance-starts-long-before-gpus",
       "description": "AI outcomes depend on how predictably and securely data moves across data centers, clouds, and the edge. Designing for latency, resilience, and visibility is now as important as compute.",
       "published": "2026-09-10T16:42:49.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Nvidia’s Groq deal facing DOJ probe amid regulator scrutiny into acqui-hires: report",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidias-groq-deal-facing-doj-probe-amid-regulator-scrutiny-into-acqui-hires-report/",
-      "description": "Justice Department investigation joins FTC inquiry into potential de facto big tech mergers",
-      "published": "2026-09-10T16:23:58.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Loft Orbital, Marlan Space, and Mistral sign $1bn deal to put compute in space",
-      "url": "https://www.datacenterdynamics.com/en/news/loft-orbital-marlan-space-and-mistral-sign-1bn-deal-to-put-compute-in-space/",
-      "description": "Will launch constellation of 50 satellites",
-      "published": "2026-09-10T16:16:21.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Forget about TDP",
-      "url": "https://www.datacenterdynamics.com/en/analysis/forget-about-tdp/",
-      "description": "CoolIT’s CTO argues thermal design power is a solved challenge, and that there are more pressing concerns",
-      "published": "2026-09-10T16:00:34.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: The hidden capacity inside aging data centers: Uncovering performance, capacity, and capital through efficiency",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-hidden-capacity-inside-aging-data-centers-uncovering-performance-capacity-and-capital-through-efficiency/",
-      "description": "In a world where power has become the ultimate currency, you can no longer afford to waste it",
-      "published": "2026-09-10T15:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Startup d-Matrix Will Pair Its Raptor Memory-Based XPU To Nvidia Rackscale Iron",
-      "url": "https://www.nextplatform.com/compute/2026/09/10/startup-d-matrix-will-pair-its-raptor-memory-based-xpu-to-nvidia-rackscale-iron/5295601",
-      "description": "",
-      "published": "2026-09-10T14:52:10.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Cryptominer BTC Digital could build AI data center in Vietnam",
-      "url": "https://www.datacenterdynamics.com/en/news/cryptominer-btc-digital-could-build-ai-data-center-in-vietnam/",
-      "description": "Signs MoU with local developer",
-      "published": "2026-09-10T14:33:51.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -70,27 +98,6 @@
       "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
       "description": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia",
       "published": "2026-09-10T11:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "This road map could help us decide whether to deploy solar geoengineering",
-      "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
-      "description": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Review can reveal. Scientists have now spent half a century exploring the possibil",
-      "published": "2026-09-10T11:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Can the US battery market untangle from China?",
-      "url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
-      "description": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from intermittent renewables like wind and solar. Crucially, this is all happening with ",
-      "published": "2026-09-10T10:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "God told them to sell crypto. Their investors lost everything.",
-      "url": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
-      "description": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. Now he likens the experience to having “a thought that is not my thought.” Divine w",
-      "published": "2026-09-10T09:00:00.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -112,34 +119,6 @@
       "url": "https://www.datacenterknowledge.com/cooling/beyond-wue-assessing-data-center-water-resilience",
       "description": "Water stewardship claims and WUE scores don’t guarantee reliability under heatwaves or water shortages. A site-specific resilience assessment matters more.",
       "published": "2026-09-09T13:58:01.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Power Availability Now Determines Where Data Centers Get Built",
-      "url": "https://www.datacenterknowledge.com/data-center-site-selection/power-availability-now-determines-where-data-centers-get-built",
-      "description": "With US data center electricity use surging, developers must prove they can secure scalable, reliable power before breaking ground.",
-      "published": "2026-09-09T09:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Why this month's Microsoft patch release is a doozy",
-      "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-      "description": "\n                        Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.\n                    ",
-      "published": "2026-09-08T21:11:46.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "HPE Sees No Customer Pushback On Rising Datacenter Equipment Costs",
-      "url": "https://www.nextplatform.com/compute/2026/09/08/hpe-sees-no-customer-pushback-on-rising-datacenter-equipment-costs/5295102",
-      "description": "",
-      "published": "2026-09-08T19:28:02.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "The AI Data Center Boom Is Here. Can Contractor Safety Keep Pace?",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/the-ai-data-center-boom-is-here-can-contractor-safety-keep-pace-",
-      "description": "AI data center growth demands continuous safety oversight beyond onboarding, using real-time worker qualification tracking and leading indicators to prevent incidents.",
-      "published": "2026-09-08T17:51:22.000Z"
     }
   ]
 }
