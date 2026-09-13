@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-09-12T04:20:58.952Z",
+  "generatedAt": "2026-09-13T04:34:50.213Z",
   "articles": [
     {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: Making data centers ready for AI workloads with rack-level cooling",
+      "url": "https://www.datacenterdynamics.com/en/opinions/making-data-centers-ready-for-ai-workloads-with-rack-level-cooling/",
+      "description": "As AI matures and scales, organizations must decide: Where will these high-density workloads run?",
+      "published": "2026-09-12T15:00:00.000Z"
+    },
+    {
       "source": "MIT Technology Review",
-      "title": "Roundtables: AI’s apocalypse crisis",
+      "title": "Roundtables: Could AI really kill us all?",
       "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
       "description": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas H",
       "published": "2026-09-11T20:05:06.000Z"
@@ -44,13 +51,6 @@
       "published": "2026-09-11T16:02:26.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: Fluid strategy in the era of high-density computing",
-      "url": "https://www.datacenterdynamics.com/en/opinions/fluid-strategy-in-the-era-of-high-density-computing/",
-      "description": "Material compatibility, contamination control and lifecycle considerations for direct-to-chip liquid cooling",
-      "published": "2026-09-11T15:00:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: biotech’s future and cheaper, cleaner steel",
       "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
@@ -79,11 +79,25 @@
       "published": "2026-09-11T09:00:00.000Z"
     },
     {
+      "source": "The Next Platform",
+      "title": "Broadcom Rides Rocketing Trend For Custom AI Accelerators",
+      "url": "https://www.nextplatform.com/connect/2026/09/10/broadcom-rides-rocketing-trend-for-custom-ai-accelerators/5295681",
+      "description": "",
+      "published": "2026-09-10T19:44:47.000Z"
+    },
+    {
       "source": "Data Center Knowledge",
       "title": "Why AI Performance Starts Long Before GPUs",
       "url": "https://www.datacenterknowledge.com/networking/why-ai-performance-starts-long-before-gpus",
       "description": "AI outcomes depend on how predictably and securely data moves across data centers, clouds, and the edge. Designing for latency, resilience, and visibility is now as important as compute.",
       "published": "2026-09-10T16:42:49.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Startup d-Matrix Will Pair Its Raptor Memory-Based XPU To Nvidia Rackscale Iron",
+      "url": "https://www.nextplatform.com/compute/2026/09/10/startup-d-matrix-will-pair-its-raptor-memory-based-xpu-to-nvidia-rackscale-iron/5295601",
+      "description": "",
+      "published": "2026-09-10T14:52:10.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -105,20 +119,6 @@
       "url": "https://www.datacenterknowledge.com/networking/data-centers-vs-telcos-different-roles-shared-dependence",
       "description": "Data centers provide the environments where compute runs; telcos deliver the networks that connect them. Here’s how the two ecosystems diverge and overlap.",
       "published": "2026-09-10T09:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Four groups caught using the same Chrome and Windows exploit kit",
-      "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
-      "description": "\n                        A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.\n                    ",
-      "published": "2026-09-09T20:55:02.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Beyond WUE: Assessing Data Center Water Resilience",
-      "url": "https://www.datacenterknowledge.com/cooling/beyond-wue-assessing-data-center-water-resilience",
-      "description": "Water stewardship claims and WUE scores don’t guarantee reliability under heatwaves or water shortages. A site-specific resilience assessment matters more.",
-      "published": "2026-09-09T13:58:01.000Z"
     }
   ]
 }

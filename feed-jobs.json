@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-09-12T04:20:58.952Z",
+  "generatedAt": "2026-09-13T04:34:50.213Z",
   "jobs": [
+    {
+      "title": "Full Stack Engineer (Generative AI Platform) (min 5 Years Experience, 1 Year Contract)",
+      "company": "RHINO PARTNERS PTE. LTD.",
+      "salary": "S$7,000 – S$9,000",
+      "type": "Contract",
+      "skills": [
+        "Chatbot",
+        "Design",
+        "Data Analysis"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/aff8037a41e3ba0a4dc9f45eaa1b9aea",
+      "posted": "2026-09-12T14:51:59.000Z"
+    },
     {
       "title": "Global AI Security Manager",
       "company": "ALL ABOUT PEOPLE",
@@ -26,19 +39,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/b3ac26faf41312d8d790b70c6059c55b",
       "posted": "2026-09-12T01:44:47.000Z"
-    },
-    {
-      "title": "PhD Holder | AI Algorithms Engineer / Specialist",
-      "company": "REOLINK TECHNOLOGY PTE. LTD.",
-      "salary": "S$7,000 – S$9,500",
-      "type": "Permanent",
-      "skills": [
-        "TensorFlow",
-        "Apache MXNet",
-        "Machine Learning"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/557909a661c781889dfba8099c461ed1",
-      "posted": "2026-09-11T11:18:15.000Z"
     },
     {
       "title": "Data Scientist (ML, NLP, GenAI, Statistics)",
@@ -78,19 +78,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/629fc071a7f2ac4314ac80efb6191ae2",
       "posted": "2026-09-11T09:11:16.000Z"
-    },
-    {
-      "title": "Advertising AI Algorithm Engineer",
-      "company": "PERSOL SINGAPORE PTE. LTD.",
-      "salary": "S$7,000 – S$13,000",
-      "type": "Contract",
-      "skills": [
-        "develop strategic recommendations",
-        "Quality Management",
-        "Data Structures"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/532f91fb281983320774f67a76d61ee0",
-      "posted": "2026-09-11T08:15:50.000Z"
     },
     {
       "title": "AI Engineering Lead (GenAI & Supply Chain Platforms)",
@@ -158,32 +145,6 @@
       "posted": "2026-09-11T07:39:08.000Z"
     },
     {
-      "title": "Advanced Engineer (High-Efficiency AI Computing)",
-      "company": "PERSOL SINGAPORE PTE. LTD.",
-      "salary": "S$8,000 – S$15,000",
-      "type": "Contract",
-      "skills": [
-        "Developing hardware and software",
-        "Impact Evaluation",
-        "HPC"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/d0234541209417462d0fc5e30b982037",
-      "posted": "2026-09-11T07:37:26.000Z"
-    },
-    {
-      "title": "Lead of Agentic AI",
-      "company": "GOLDEN AGRI INTERNATIONAL PTE LTD",
-      "salary": "S$10,000 – S$15,000",
-      "type": "Full Time",
-      "skills": [
-        "Code Quality",
-        "Ai",
-        "Certifications"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/11d784617490bafbb28e079f6edca670",
-      "posted": "2026-09-11T07:28:14.000Z"
-    },
-    {
       "title": "Agentic AI Engineer / Specialist",
       "company": "GOLDEN AGRI INTERNATIONAL PTE LTD",
       "salary": "S$6,000 – S$11,000",
@@ -195,6 +156,45 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/f78d216bbc0df2bc3fc37dbd00931bd6",
       "posted": "2026-09-11T07:18:52.000Z"
+    },
+    {
+      "title": "AI & Digital Transformation Executive",
+      "company": "BOK SENG LOGISTICS PRIVATE LIMITED",
+      "salary": "S$3,200 – S$4,000",
+      "type": "Full Time",
+      "skills": [
+        "API Development",
+        "Ai",
+        "Zapier"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/55364cc3d1d81c9a928c8fc0765fd06f",
+      "posted": "2026-09-11T06:47:42.000Z"
+    },
+    {
+      "title": "AI & Business Automation Intern ( Internship)",
+      "company": "CELOTTI TECH TALENT (SINGAPORE) PTE. LTD.",
+      "salary": "S$600 – S$1,000",
+      "type": "Full Time",
+      "skills": [
+        "Creative Problem Solving",
+        "Automation Management in Product Development",
+        "Talent Mining"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/ffa64781c7f5e696f5ed41c22ee918f4",
+      "posted": "2026-09-11T05:32:41.000Z"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "ALLEGIS GROUP SINGAPORE PRIVATE LIMITED",
+      "salary": "S$6,000 – S$12,000",
+      "type": "Contract",
+      "skills": [
+        "AI Ethics",
+        "Incident Investigation Management",
+        "Platform Modernization"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/1dad111e7ebfa777dfaeaf8968b132a3",
+      "posted": "2026-09-11T03:25:34.000Z"
     }
   ]
 }
