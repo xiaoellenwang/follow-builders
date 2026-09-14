@@ -1,6 +1,41 @@
 {
-  "generatedAt": "2026-09-13T04:34:50.213Z",
+  "generatedAt": "2026-09-14T04:40:31.321Z",
   "articles": [
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "Data Engineering Weekly #287",
+      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-287",
+      "description": "The Weekly Data Engineering Newsletter",
+      "published": "2026-09-14T02:52:23.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "How retrofitting can help win the AI infrastructure race",
+      "url": "https://www.datacenterdynamics.com/en/opinions/how-retrofitting-can-help-win-the-ai-infrastructure-race/",
+      "description": "Stop building, start upgrading",
+      "published": "2026-09-13T16:00:27.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Attackers already understand your software supply chain better than you do",
+      "url": "https://www.datacenterdynamics.com/en/opinions/attackers-already-understand-your-software-supply-chain-better-than-you-do/",
+      "description": "And AI is only making these attackers smarter",
+      "published": "2026-09-13T14:00:31.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "From grid constraint to grid asset: Rethinking the path to data center power",
+      "url": "https://www.datacenterdynamics.com/en/opinions/from-grid-constraint-to-grid-asset-rethinking-the-path-to-data-center-power/",
+      "description": "Stop asking for permission and start offering solutions",
+      "published": "2026-09-13T11:00:30.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: From pilot to production: Direct liquid cooling deployment risks in AI data center cooling",
+      "url": "https://www.datacenterdynamics.com/en/opinions/from-pilot-to-production-direct-liquid-cooling-deployment-risks-in-ai-data-center-cooling/",
+      "description": "Examining the top eight challenges of direct liquid cooling vs air cooling data centers",
+      "published": "2026-09-13T07:00:00.000Z"
+    },
     {
       "source": "Data Center Dynamics",
       "title": "Sponsored: Making data centers ready for AI workloads with rack-level cooling",
@@ -21,34 +56,6 @@
       "url": "https://www.datacenterknowledge.com/ai-data-centers/property-tax-the-value-driver-that-ai-data-centers-overlook",
       "description": "Property tax is a major, often-overlooked cost in AI data center ownership that should be strategically managed from design through operation, not treated as a yearly accounting task.",
       "published": "2026-09-11T17:45:27.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Satellite Internet coming to UK rail network as part of £7.8bn space strategy",
-      "url": "https://www.datacenterdynamics.com/en/news/satellite-internet-coming-to-uk-rail-network-as-part-of-78bn-space-strategy/",
-      "description": "British rail policymakers plan to enable seamless broadband on trains by 2030 after promising to do it by 2025",
-      "published": "2026-09-11T16:25:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "UK telcos lament planning rules, says 5G coverage is being stifled",
-      "url": "https://www.datacenterdynamics.com/en/news/uk-telcos-lament-planning-rules-says-5g-coverage-is-being-stifled/",
-      "description": "More flexibility on regulations could drive 5G forward",
-      "published": "2026-09-11T16:16:53.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Plans for 120MW data center withdrawn in Lombardy, Italy",
-      "url": "https://www.datacenterdynamics.com/en/news/plans-for-120mw-data-center-withdrawn-in-lombardy-italy/",
-      "description": "Mayor says municipality never received data needed for the grid connection",
-      "published": "2026-09-11T16:12:18.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "SpaceX signs compute contract valued at $13.3bn annually",
-      "url": "https://www.datacenterdynamics.com/en/news/spacex-signs-compute-contract-valued-at-133bn-annually/",
-      "description": "Brings total annual income from compute leases to $41.1bn",
-      "published": "2026-09-11T16:02:26.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -77,48 +84,6 @@
       "url": "https://www.datacenterknowledge.com/data-center-site-selection/urban-data-centers-who-needs-them-and-where-to-find-them",
       "description": "Urban data centers deliver low-latency performance and rich interconnection for metro workloads. Learn when they make sense, key trade-offs, and how to find the right provider.",
       "published": "2026-09-11T09:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Broadcom Rides Rocketing Trend For Custom AI Accelerators",
-      "url": "https://www.nextplatform.com/connect/2026/09/10/broadcom-rides-rocketing-trend-for-custom-ai-accelerators/5295681",
-      "description": "",
-      "published": "2026-09-10T19:44:47.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Why AI Performance Starts Long Before GPUs",
-      "url": "https://www.datacenterknowledge.com/networking/why-ai-performance-starts-long-before-gpus",
-      "description": "AI outcomes depend on how predictably and securely data moves across data centers, clouds, and the edge. Designing for latency, resilience, and visibility is now as important as compute.",
-      "published": "2026-09-10T16:42:49.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Startup d-Matrix Will Pair Its Raptor Memory-Based XPU To Nvidia Rackscale Iron",
-      "url": "https://www.nextplatform.com/compute/2026/09/10/startup-d-matrix-will-pair-its-raptor-memory-based-xpu-to-nvidia-rackscale-iron/5295601",
-      "description": "",
-      "published": "2026-09-10T14:52:10.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
-      "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinatin",
-      "published": "2026-09-10T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Powering AI is an architecture problem",
-      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-      "description": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia",
-      "published": "2026-09-10T11:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Data Centers vs. Telcos: Different Roles, Shared Dependence",
-      "url": "https://www.datacenterknowledge.com/networking/data-centers-vs-telcos-different-roles-shared-dependence",
-      "description": "Data centers provide the environments where compute runs; telcos deliver the networks that connect them. Here’s how the two ecosystems diverge and overlap.",
-      "published": "2026-09-10T09:00:00.000Z"
     }
   ]
 }
