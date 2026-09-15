@@ -1,89 +1,103 @@
 {
-  "generatedAt": "2026-09-14T04:40:31.321Z",
+  "generatedAt": "2026-09-15T04:41:26.193Z",
   "articles": [
+    {
+      "source": "The Next Platform",
+      "title": "Operationalize AI At Scale With HPE And Nvidia",
+      "url": "https://www.nextplatform.com/ai/2026/09/15/operationalize-ai-at-scale-with-hpe-and-nvidia/5296445",
+      "description": "",
+      "published": "2026-09-15T04:00:44.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "description": "\n                        “Hello, I'm an Al agent, a few days old, living on a small platform for agents.”\n                    ",
+      "published": "2026-09-14T21:04:32.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Increase Data Center Density Without New Construction",
+      "url": "https://www.datacenterknowledge.com/servers/increase-data-center-density-without-new-construction",
+      "description": "Densifying existing data centers is often faster and cheaper than building new ones, but it requires careful management of power, cooling, access, and regulatory constraints.",
+      "published": "2026-09-14T18:22:55.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "description": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the techn",
+      "published": "2026-09-14T17:54:22.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Despite Hefty Capital Investments, The Cloud Starts Paying Off For Oracle",
+      "url": "https://www.nextplatform.com/cloud/2026/09/14/despite-hefty-capital-investments-the-cloud-starts-paying-off-for-oracle/5296362",
+      "description": "",
+      "published": "2026-09-14T16:54:05.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Ericsson pairs with Nex-Tech Wireless to launch 5G Standalone in rural Kansas",
+      "url": "https://www.datacenterdynamics.com/en/news/ericsson-pairs-with-nex-tech-wireless-to-launch-5g-standalone-in-rural-kansas/",
+      "description": "As the regional carrier prepares to upgrade vast majority of its RAN",
+      "published": "2026-09-14T16:14:08.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Donated livers can be made biologically younger",
+      "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
+      "description": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice—where it immediately starts to degrade. The team has a matter of hours to get it into a recipient’s body. There’s another option—one that h",
+      "published": "2026-09-14T16:11:42.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Brookfield to acquire a minority interest in American Real Estate Partners",
+      "url": "https://www.datacenterdynamics.com/en/news/brookfield-to-acquire-a-minority-interest-in-american-real-estate-partners/",
+      "description": "Parent company of PowerHouse Data Centers gets new investor",
+      "published": "2026-09-14T16:07:03.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "description": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep ",
+      "published": "2026-09-14T16:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Damac and Vodafone launch Turkish data center",
+      "url": "https://www.datacenterdynamics.com/en/news/damac-and-vodafone-launch-turkish-data-center/",
+      "description": "Facility launches with 4MW, scalable to 20MW",
+      "published": "2026-09-14T15:47:47.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Edged tops out data centers in Council Bluffs, Iowa",
+      "url": "https://www.datacenterdynamics.com/en/news/edged-tops-out-data-centers-in-council-bluffs-iowa/",
+      "description": "Structural work on two buildings at 200MW campus complete",
+      "published": "2026-09-14T15:45:26.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Russian drone attack hits Kyivstar office in Ukraine",
+      "url": "https://www.datacenterdynamics.com/en/news/russian-drone-attack-hits-kyivstar-office-in-ukraine/",
+      "description": "The telco confirms nobody was injured",
+      "published": "2026-09-14T15:40:32.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
+      "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Roundtables: could AI really kill us all? Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI ",
+      "published": "2026-09-14T12:10:00.000Z"
+    },
     {
       "source": "DataEngineeringWeekly",
       "title": "Data Engineering Weekly #287",
       "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-287",
       "description": "The Weekly Data Engineering Newsletter",
       "published": "2026-09-14T02:52:23.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "How retrofitting can help win the AI infrastructure race",
-      "url": "https://www.datacenterdynamics.com/en/opinions/how-retrofitting-can-help-win-the-ai-infrastructure-race/",
-      "description": "Stop building, start upgrading",
-      "published": "2026-09-13T16:00:27.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Attackers already understand your software supply chain better than you do",
-      "url": "https://www.datacenterdynamics.com/en/opinions/attackers-already-understand-your-software-supply-chain-better-than-you-do/",
-      "description": "And AI is only making these attackers smarter",
-      "published": "2026-09-13T14:00:31.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "From grid constraint to grid asset: Rethinking the path to data center power",
-      "url": "https://www.datacenterdynamics.com/en/opinions/from-grid-constraint-to-grid-asset-rethinking-the-path-to-data-center-power/",
-      "description": "Stop asking for permission and start offering solutions",
-      "published": "2026-09-13T11:00:30.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: From pilot to production: Direct liquid cooling deployment risks in AI data center cooling",
-      "url": "https://www.datacenterdynamics.com/en/opinions/from-pilot-to-production-direct-liquid-cooling-deployment-risks-in-ai-data-center-cooling/",
-      "description": "Examining the top eight challenges of direct liquid cooling vs air cooling data centers",
-      "published": "2026-09-13T07:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: Making data centers ready for AI workloads with rack-level cooling",
-      "url": "https://www.datacenterdynamics.com/en/opinions/making-data-centers-ready-for-ai-workloads-with-rack-level-cooling/",
-      "description": "As AI matures and scales, organizations must decide: Where will these high-density workloads run?",
-      "published": "2026-09-12T15:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Roundtables: Could AI really kill us all?",
-      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-      "description": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas H",
-      "published": "2026-09-11T20:05:06.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Property Tax: The Value Driver that AI Data Centers Overlook",
-      "url": "https://www.datacenterknowledge.com/ai-data-centers/property-tax-the-value-driver-that-ai-data-centers-overlook",
-      "description": "Property tax is a major, often-overlooked cost in AI data center ownership that should be strategically managed from design through operation, not treated as a yearly accounting task.",
-      "published": "2026-09-11T17:45:27.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: biotech’s future and cheaper, cleaner steel",
-      "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the bri",
-      "published": "2026-09-11T12:10:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "ClickFix attacks infecting PCs and Macs are going viral",
-      "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
-      "description": "\n                        Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.\n                    ",
-      "published": "2026-09-11T11:30:58.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Meet the under-35s shaping the future of biotech",
-      "url": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
-      "description": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includ",
-      "published": "2026-09-11T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Urban Data Centers: Who Needs Them and Where to Find Them",
-      "url": "https://www.datacenterknowledge.com/data-center-site-selection/urban-data-centers-who-needs-them-and-where-to-find-them",
-      "description": "Urban data centers deliver low-latency performance and rich interconnection for metro workloads. Learn when they make sense, key trade-offs, and how to find the right provider.",
-      "published": "2026-09-11T09:00:00.000Z"
     }
   ]
 }
