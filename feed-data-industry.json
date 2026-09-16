@@ -1,6 +1,83 @@
 {
-  "generatedAt": "2026-09-15T04:41:26.193Z",
+  "generatedAt": "2026-09-16T04:36:30.366Z",
   "articles": [
+    {
+      "source": "MIT Technology Review",
+      "title": "Roundtables: Could AI really kill us all?",
+      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "description": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, ",
+      "published": "2026-09-15T17:47:51.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "The Ripple Effect of Data Center Project Cancellations and Delays",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/the-ripple-effect-of-data-center-project-cancellations-and-delays",
+      "description": "Canceled data center projects leave utilities with stranded infrastructure costs that are often passed on to ratepayers, while capacity reassignment can take months or years to resolve.",
+      "published": "2026-09-15T17:01:09.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Telenor under investigation over former Myanmar unit amid suspected sanctions breaches",
+      "url": "https://www.datacenterdynamics.com/en/news/telenor-under-investigation-over-former-myanmar-unit-amid-suspected-sanctions-breaches/",
+      "description": "The carrier says it was left with \"no real choice\" over its Myanmar exit",
+      "published": "2026-09-15T16:57:30.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Indian renewable firm Waaree forms new data center subsidiary",
+      "url": "https://www.datacenterdynamics.com/en/news/indian-renewable-firm-waaree-forms-new-data-center-subsidiary/",
+      "description": "Has yet to commence operations",
+      "published": "2026-09-15T16:27:08.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Japan's NTT Docomo deploys Nokia's latest Open RAN kit",
+      "url": "https://www.datacenterdynamics.com/en/news/japans-ntt-docomo-deploys-nokias-latest-open-ran-kit/",
+      "description": "Carrier opens up",
+      "published": "2026-09-15T16:14:50.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "AirTrunk partners with Emergence Quantum to explore cryogenic cooling in data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/airtrunk-partners-with-emergence-quantum-to-explore-cryogenic-cooling-in-data-centers/",
+      "description": "Companies buddy up to integrate cryogenic cooling into data centers",
+      "published": "2026-09-15T16:10:52.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Are diamonds a data center's best friend?",
+      "url": "https://www.datacenterdynamics.com/en/analysis/are-diamonds-a-data-centers-best-friend/",
+      "description": "Akash Systems is bring diamond cooling to the data hall",
+      "published": "2026-09-15T16:08:11.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+      "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: th",
+      "published": "2026-09-15T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "AI models need more data about biology, and OpenAI is paying to create it",
+      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+      "description": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing ",
+      "published": "2026-09-15T12:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "What’s at stake in AI’s trillion-dollar gamble",
+      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+      "description": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in ques",
+      "published": "2026-09-15T10:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Speed Is the New Capacity: Why AI Infrastructure Needs a New Power Strategy",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/speed-is-the-new-capacity-why-ai-infrastructure-needs-a-new-power-strategy",
+      "description": "For AI infrastructure, power delivery speed now matters more than capacity alone, reshaping site selection and requiring phased, flexible power strategies.",
+      "published": "2026-09-15T09:00:00.000Z"
+    },
     {
       "source": "The Next Platform",
       "title": "Operationalize AI At Scale With HPE And Nvidia",
@@ -26,7 +103,7 @@
       "source": "MIT Technology Review",
       "title": "The AI industry has taken a doomer turn. What now?",
       "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "description": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the techn",
+      "description": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the ",
       "published": "2026-09-14T17:54:22.000Z"
     },
     {
@@ -35,62 +112,6 @@
       "url": "https://www.nextplatform.com/cloud/2026/09/14/despite-hefty-capital-investments-the-cloud-starts-paying-off-for-oracle/5296362",
       "description": "",
       "published": "2026-09-14T16:54:05.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Ericsson pairs with Nex-Tech Wireless to launch 5G Standalone in rural Kansas",
-      "url": "https://www.datacenterdynamics.com/en/news/ericsson-pairs-with-nex-tech-wireless-to-launch-5g-standalone-in-rural-kansas/",
-      "description": "As the regional carrier prepares to upgrade vast majority of its RAN",
-      "published": "2026-09-14T16:14:08.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Donated livers can be made biologically younger",
-      "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
-      "description": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice—where it immediately starts to degrade. The team has a matter of hours to get it into a recipient’s body. There’s another option—one that h",
-      "published": "2026-09-14T16:11:42.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Brookfield to acquire a minority interest in American Real Estate Partners",
-      "url": "https://www.datacenterdynamics.com/en/news/brookfield-to-acquire-a-minority-interest-in-american-real-estate-partners/",
-      "description": "Parent company of PowerHouse Data Centers gets new investor",
-      "published": "2026-09-14T16:07:03.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "AI agents blew the whistle on their cheating colleagues",
-      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-      "description": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep ",
-      "published": "2026-09-14T16:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Damac and Vodafone launch Turkish data center",
-      "url": "https://www.datacenterdynamics.com/en/news/damac-and-vodafone-launch-turkish-data-center/",
-      "description": "Facility launches with 4MW, scalable to 20MW",
-      "published": "2026-09-14T15:47:47.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Edged tops out data centers in Council Bluffs, Iowa",
-      "url": "https://www.datacenterdynamics.com/en/news/edged-tops-out-data-centers-in-council-bluffs-iowa/",
-      "description": "Structural work on two buildings at 200MW campus complete",
-      "published": "2026-09-14T15:45:26.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Russian drone attack hits Kyivstar office in Ukraine",
-      "url": "https://www.datacenterdynamics.com/en/news/russian-drone-attack-hits-kyivstar-office-in-ukraine/",
-      "description": "The telco confirms nobody was injured",
-      "published": "2026-09-14T15:40:32.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
-      "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Roundtables: could AI really kill us all? Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI ",
-      "published": "2026-09-14T12:10:00.000Z"
     },
     {
       "source": "DataEngineeringWeekly",
