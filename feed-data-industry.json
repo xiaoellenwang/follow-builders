@@ -1,6 +1,97 @@
 {
-  "generatedAt": "2026-09-16T04:36:30.366Z",
+  "generatedAt": "2026-09-17T04:41:33.079Z",
   "articles": [
+    {
+      "source": "Ars Technica Tech",
+      "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+      "url": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
+      "description": "\n                        Group plans to be largely out of commission for several weeks.\n                    ",
+      "published": "2026-09-16T21:08:14.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Onsemi unveils its Embedded Power Platform architecture to increase power density",
+      "url": "https://www.datacenterdynamics.com/en/news/onsemi-unveils-its-embedded-power-platform-architecture-to-increase-power-density/",
+      "description": "Works by using the silicon wafer as an embedded package",
+      "published": "2026-09-16T18:30:29.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Scotland's parliament backs defacto, temporary, moratorium on new hyperscale data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/scotland-data-center-moratorium/",
+      "description": "No plans will be approved until new planning guidance is published",
+      "published": "2026-09-16T17:43:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "An Introduction to Data Center SLAs",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/an-introduction-to-data-center-slas/",
+      "description": "Navigating SLA volatility &amp; protecting data center cash flows",
+      "published": "2026-09-16T17:32:13.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Infleqtion And Nvidia Reduce Physical-to-Logical Qubit Ratio in Quantum Computers",
+      "url": "https://www.nextplatform.com/compute/2026/09/16/infleqtion-and-nvidia-reduce-physical-to-logical-qubit-ratio-in-quantum-computers/5296887",
+      "description": "",
+      "published": "2026-09-16T15:36:46.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "TotalEnergies partners with Mistral to develop AI models for oil and gas exploitation",
+      "url": "https://www.datacenterdynamics.com/en/news/totalenergies-partners-with-mistral-to-develop-ai-models-for-oil-and-gas-exploitation/",
+      "description": "Three-year contract worth an estimated €100 million",
+      "published": "2026-09-16T15:24:28.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "AI growth is highlighting the network as the next data center bottleneck",
+      "url": "https://www.datacenterdynamics.com/en/opinions/ai-growth-is-highlighting-the-network-as-the-next-data-center-bottleneck/",
+      "description": "The importance of fiber in establishing new data center hubs in the UK",
+      "published": "2026-09-16T15:16:23.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Meet a mouse whose brain cortex is made up of human cells",
+      "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+      "description": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&#160; The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tis",
+      "published": "2026-09-16T15:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "OpenAI Astra’s ‘Critical’ Rating and the AI Governability Gap",
+      "url": "https://www.datacenterknowledge.com/security-and-risk-management/openai-astra-s-critical-rating-and-the-ai-governability-gap",
+      "description": "Advanced AI models can now evade oversight. Data center operators must verify monitoring under adversarial conditions rather than rely on vendor claims.",
+      "published": "2026-09-16T14:53:38.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "How To Smash The Memory Wall Plaguing High Performance Systems",
+      "url": "https://www.nextplatform.com/store/2026/09/16/how-to-smash-the-memory-wall-plaguing-high-performance-systems/5296866",
+      "description": "",
+      "published": "2026-09-16T13:37:11.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Building the materials foundation for AI",
+      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "description": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, ele",
+      "published": "2026-09-16T12:47:34.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+      "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impa",
+      "published": "2026-09-16T12:10:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Data Center Pay Is Rising, but Turnover Remains High, Survey Finds",
+      "url": "https://www.datacenterknowledge.com/data-center-career-development/raises-are-up-turnover-high-in-data-centers-survey-finds",
+      "description": "Data center professionals are changing jobs despite pay raises, prioritizing career growth alongside salary.",
+      "published": "2026-09-16T09:00:00.000Z"
+    },
     {
       "source": "MIT Technology Review",
       "title": "Roundtables: Could AI really kill us all?",
@@ -16,60 +107,11 @@
       "published": "2026-09-15T17:01:09.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Telenor under investigation over former Myanmar unit amid suspected sanctions breaches",
-      "url": "https://www.datacenterdynamics.com/en/news/telenor-under-investigation-over-former-myanmar-unit-amid-suspected-sanctions-breaches/",
-      "description": "The carrier says it was left with \"no real choice\" over its Myanmar exit",
-      "published": "2026-09-15T16:57:30.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Indian renewable firm Waaree forms new data center subsidiary",
-      "url": "https://www.datacenterdynamics.com/en/news/indian-renewable-firm-waaree-forms-new-data-center-subsidiary/",
-      "description": "Has yet to commence operations",
-      "published": "2026-09-15T16:27:08.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Japan's NTT Docomo deploys Nokia's latest Open RAN kit",
-      "url": "https://www.datacenterdynamics.com/en/news/japans-ntt-docomo-deploys-nokias-latest-open-ran-kit/",
-      "description": "Carrier opens up",
-      "published": "2026-09-15T16:14:50.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "AirTrunk partners with Emergence Quantum to explore cryogenic cooling in data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/airtrunk-partners-with-emergence-quantum-to-explore-cryogenic-cooling-in-data-centers/",
-      "description": "Companies buddy up to integrate cryogenic cooling into data centers",
-      "published": "2026-09-15T16:10:52.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Are diamonds a data center's best friend?",
-      "url": "https://www.datacenterdynamics.com/en/analysis/are-diamonds-a-data-centers-best-friend/",
-      "description": "Akash Systems is bring diamond cooling to the data hall",
-      "published": "2026-09-15T16:08:11.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
       "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
       "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: th",
       "published": "2026-09-15T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "AI models need more data about biology, and OpenAI is paying to create it",
-      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
-      "description": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing ",
-      "published": "2026-09-15T12:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "What’s at stake in AI’s trillion-dollar gamble",
-      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-      "description": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in ques",
-      "published": "2026-09-15T10:00:00.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -98,27 +140,6 @@
       "url": "https://www.datacenterknowledge.com/servers/increase-data-center-density-without-new-construction",
       "description": "Densifying existing data centers is often faster and cheaper than building new ones, but it requires careful management of power, cooling, access, and regulatory constraints.",
       "published": "2026-09-14T18:22:55.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "description": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the ",
-      "published": "2026-09-14T17:54:22.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Despite Hefty Capital Investments, The Cloud Starts Paying Off For Oracle",
-      "url": "https://www.nextplatform.com/cloud/2026/09/14/despite-hefty-capital-investments-the-cloud-starts-paying-off-for-oracle/5296362",
-      "description": "",
-      "published": "2026-09-14T16:54:05.000Z"
-    },
-    {
-      "source": "DataEngineeringWeekly",
-      "title": "Data Engineering Weekly #287",
-      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-287",
-      "description": "The Weekly Data Engineering Newsletter",
-      "published": "2026-09-14T02:52:23.000Z"
     }
   ]
 }
