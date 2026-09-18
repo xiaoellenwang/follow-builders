@@ -1,6 +1,83 @@
 {
-  "generatedAt": "2026-09-17T04:41:33.079Z",
+  "generatedAt": "2026-09-18T04:26:51.561Z",
   "articles": [
+    {
+      "source": "Ars Technica Tech",
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "description": "\n                        SynthID can cause models to follow harmful instructions they would otherwise refuse.\n                    ",
+      "published": "2026-09-17T18:33:13.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Bull Beats Out HPE For Next-Gen Lumi AI Supercomputer",
+      "url": "https://www.nextplatform.com/hpc/2026/09/17/bull-beats-out-hpe-for-next-gen-lumi-ai-supercomputer/5297292",
+      "description": "",
+      "published": "2026-09-17T17:22:31.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "The companies that are cooling on gas",
+      "url": "https://www.datacenterdynamics.com/en/analysis/the-companies-that-are-cooling-on-gas/",
+      "description": "Data centers could be attached to gas pipelines",
+      "published": "2026-09-17T16:00:40.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Delivery Certainty Will Define the Next Phase of Data Center Growth",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/delivery-certainty-will-define-the-next-phase-of-data-center-growth",
+      "description": "Data center demand is strong, but delivery capability will determine success. Power, labor, and supply chain constraints are the new competitive battleground.",
+      "published": "2026-09-17T16:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: What end users are asking for today vs. five years ago – lessons from Luke Skywalker",
+      "url": "https://www.datacenterdynamics.com/en/opinions/what-end-users-are-asking-for-today-vs-five-years-ago-lessons-from-luke-skywalker/",
+      "description": "“A long time ago in a galaxy far, far away…”",
+      "published": "2026-09-17T15:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "AI chip startup Rebellions partners with ai& for Japanese AI infrastructure deployment",
+      "url": "https://www.datacenterdynamics.com/en/news/ai-chip-startup-rebellions-partners-with-ai-for-japanese-ai-infrastructure-deployment/",
+      "description": "ai&amp; looking to purchase up to 100 units of Rebellions’ RebelRack infrastructure",
+      "published": "2026-09-17T14:39:28.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "800VDC protection in data centers",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/800vdc-protection-in-data-centers/",
+      "description": "Unlocking next-gen AI data center efficiency",
+      "published": "2026-09-17T14:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: mice with part-human brains and climate tech innovators",
+      "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its",
+      "published": "2026-09-17T12:10:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Microsoft files to develop two-building campus outside Atlanta, Georgia",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-files-to-develop-two-building-campus-outside-atlanta-georgia/",
+      "description": "Expanding plans in Union City",
+      "published": "2026-09-17T12:00:31.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Meet the innovators under 35 shaping climate tech",
+      "url": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
+      "description": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate includes nine individuals from all over th",
+      "published": "2026-09-17T10:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Zombie Workloads Haunt Data Center Efficiency Efforts",
+      "url": "https://www.datacenterknowledge.com/cloud/zombie-workloads-haunt-data-center-efficiency-efforts",
+      "description": "Abandoned jobs, instances, and volumes can run indefinitely. FinOps tools help, but GPU-era AI demands new zombie-hunting methods.",
+      "published": "2026-09-17T09:00:00.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
@@ -9,46 +86,11 @@
       "published": "2026-09-16T21:08:14.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Onsemi unveils its Embedded Power Platform architecture to increase power density",
-      "url": "https://www.datacenterdynamics.com/en/news/onsemi-unveils-its-embedded-power-platform-architecture-to-increase-power-density/",
-      "description": "Works by using the silicon wafer as an embedded package",
-      "published": "2026-09-16T18:30:29.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Scotland's parliament backs defacto, temporary, moratorium on new hyperscale data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/scotland-data-center-moratorium/",
-      "description": "No plans will be approved until new planning guidance is published",
-      "published": "2026-09-16T17:43:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "An Introduction to Data Center SLAs",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/an-introduction-to-data-center-slas/",
-      "description": "Navigating SLA volatility &amp; protecting data center cash flows",
-      "published": "2026-09-16T17:32:13.000Z"
-    },
-    {
       "source": "The Next Platform",
       "title": "Infleqtion And Nvidia Reduce Physical-to-Logical Qubit Ratio in Quantum Computers",
       "url": "https://www.nextplatform.com/compute/2026/09/16/infleqtion-and-nvidia-reduce-physical-to-logical-qubit-ratio-in-quantum-computers/5296887",
       "description": "",
       "published": "2026-09-16T15:36:46.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "TotalEnergies partners with Mistral to develop AI models for oil and gas exploitation",
-      "url": "https://www.datacenterdynamics.com/en/news/totalenergies-partners-with-mistral-to-develop-ai-models-for-oil-and-gas-exploitation/",
-      "description": "Three-year contract worth an estimated €100 million",
-      "published": "2026-09-16T15:24:28.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "AI growth is highlighting the network as the next data center bottleneck",
-      "url": "https://www.datacenterdynamics.com/en/opinions/ai-growth-is-highlighting-the-network-as-the-next-data-center-bottleneck/",
-      "description": "The importance of fiber in establishing new data center hubs in the UK",
-      "published": "2026-09-16T15:16:23.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -93,53 +135,11 @@
       "published": "2026-09-16T09:00:00.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "Roundtables: Could AI really kill us all?",
-      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-      "description": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, ",
-      "published": "2026-09-15T17:47:51.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "The Ripple Effect of Data Center Project Cancellations and Delays",
       "url": "https://www.datacenterknowledge.com/energy-power-supply/the-ripple-effect-of-data-center-project-cancellations-and-delays",
       "description": "Canceled data center projects leave utilities with stranded infrastructure costs that are often passed on to ratepayers, while capacity reassignment can take months or years to resolve.",
       "published": "2026-09-15T17:01:09.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-      "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: th",
-      "published": "2026-09-15T12:10:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Speed Is the New Capacity: Why AI Infrastructure Needs a New Power Strategy",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/speed-is-the-new-capacity-why-ai-infrastructure-needs-a-new-power-strategy",
-      "description": "For AI infrastructure, power delivery speed now matters more than capacity alone, reshaping site selection and requiring phased, flexible power strategies.",
-      "published": "2026-09-15T09:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Operationalize AI At Scale With HPE And Nvidia",
-      "url": "https://www.nextplatform.com/ai/2026/09/15/operationalize-ai-at-scale-with-hpe-and-nvidia/5296445",
-      "description": "",
-      "published": "2026-09-15T04:00:44.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-      "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-      "description": "\n                        “Hello, I'm an Al agent, a few days old, living on a small platform for agents.”\n                    ",
-      "published": "2026-09-14T21:04:32.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Increase Data Center Density Without New Construction",
-      "url": "https://www.datacenterknowledge.com/servers/increase-data-center-density-without-new-construction",
-      "description": "Densifying existing data centers is often faster and cheaper than building new ones, but it requires careful management of power, cooling, access, and regulatory constraints.",
-      "published": "2026-09-14T18:22:55.000Z"
     }
   ]
 }
