@@ -1,6 +1,76 @@
 {
-  "generatedAt": "2026-09-18T04:26:51.561Z",
+  "generatedAt": "2026-09-19T04:24:17.255Z",
   "articles": [
+    {
+      "source": "Data Center Knowledge",
+      "title": "Space Data Centers Inch Toward Reality, With Caveats",
+      "url": "https://www.datacenterknowledge.com/next-gen-data-centers/space-data-centers-inch-toward-reality-with-caveats",
+      "description": "At the AI Infra Summit, a panel of executives and a US government IT leader discussed the promise and challenges of building data centers in space.",
+      "published": "2026-09-18T16:35:21.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Virginia’s Loudoun County board votes to pause new data center applications",
+      "url": "https://www.datacenterdynamics.com/en/news/virginias-loudoun-county-board-votes-to-pause-new-data-center-applications/",
+      "description": "County introduces 12-month moratorium in data center hotspot",
+      "published": "2026-09-18T16:18:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Hidden costs",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/2026-guide-to-navigating-data-center-supply-chain-complexity/",
+      "description": "2026 guide to navigating data center supply chain complexity",
+      "published": "2026-09-18T15:57:19.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Brazil's President Lula signs ReData data center bill into law",
+      "url": "https://www.datacenterdynamics.com/en/news/president-lula-signs-bill-at-the-planalto-palace/",
+      "description": "The bill was passed by the Senate in September",
+      "published": "2026-09-18T15:40:08.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "IQM to deploy Spark quantum computer at Brazil’s Eldorado Research Institute",
+      "url": "https://www.datacenterdynamics.com/en/news/iqm-to-deploy-spark-quantum-computer-at-brazils-eldorado-research-institute/",
+      "description": "First quantum system deployed by Finnish quantum firm in South America",
+      "published": "2026-09-18T15:07:44.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Brazil's Eveo plans data center in Recife",
+      "url": "https://www.datacenterdynamics.com/en/news/eveo-accelerates-expansion-in-the-northeast-and-will-have-a-tier-iii-data-center-in-recife/",
+      "description": "Company adding to sites in Fortaleza, São Paulo, and Curitiba",
+      "published": "2026-09-18T15:03:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: AI’s extinction risk and bioweapons threat",
+      "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many",
+      "published": "2026-09-18T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Could AI really kill us all? Your questions, answered.",
+      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "description": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Do",
+      "published": "2026-09-18T11:29:22.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+      "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+      "description": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: “I agree with Dario tha",
+      "published": "2026-09-18T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Rack Power Is Rising Fast. Here’s What It Means for Data Centers",
+      "url": "https://www.datacenterknowledge.com/data-center-hardware/rack-power-is-rising-fast-here-s-what-it-means-for-data-centers",
+      "description": "AI-heavy deployments are driving higher per-rack loads and new requirements for power delivery, liquid cooling, and structural planning.",
+      "published": "2026-09-18T09:00:00.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
@@ -16,13 +86,6 @@
       "published": "2026-09-17T17:22:31.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "The companies that are cooling on gas",
-      "url": "https://www.datacenterdynamics.com/en/analysis/the-companies-that-are-cooling-on-gas/",
-      "description": "Data centers could be attached to gas pipelines",
-      "published": "2026-09-17T16:00:40.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "Delivery Certainty Will Define the Next Phase of Data Center Growth",
       "url": "https://www.datacenterknowledge.com/data-center-construction/delivery-certainty-will-define-the-next-phase-of-data-center-growth",
@@ -30,39 +93,11 @@
       "published": "2026-09-17T16:00:00.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: What end users are asking for today vs. five years ago – lessons from Luke Skywalker",
-      "url": "https://www.datacenterdynamics.com/en/opinions/what-end-users-are-asking-for-today-vs-five-years-ago-lessons-from-luke-skywalker/",
-      "description": "“A long time ago in a galaxy far, far away…”",
-      "published": "2026-09-17T15:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "AI chip startup Rebellions partners with ai& for Japanese AI infrastructure deployment",
-      "url": "https://www.datacenterdynamics.com/en/news/ai-chip-startup-rebellions-partners-with-ai-for-japanese-ai-infrastructure-deployment/",
-      "description": "ai&amp; looking to purchase up to 100 units of Rebellions’ RebelRack infrastructure",
-      "published": "2026-09-17T14:39:28.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "800VDC protection in data centers",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/800vdc-protection-in-data-centers/",
-      "description": "Unlocking next-gen AI data center efficiency",
-      "published": "2026-09-17T14:00:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: mice with part-human brains and climate tech innovators",
       "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
       "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its",
       "published": "2026-09-17T12:10:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Microsoft files to develop two-building campus outside Atlanta, Georgia",
-      "url": "https://www.datacenterdynamics.com/en/news/microsoft-files-to-develop-two-building-campus-outside-atlanta-georgia/",
-      "description": "Expanding plans in Union City",
-      "published": "2026-09-17T12:00:31.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -93,13 +128,6 @@
       "published": "2026-09-16T15:36:46.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "Meet a mouse whose brain cortex is made up of human cells",
-      "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
-      "description": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&#160; The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tis",
-      "published": "2026-09-16T15:00:00.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "OpenAI Astra’s ‘Critical’ Rating and the AI Governability Gap",
       "url": "https://www.datacenterknowledge.com/security-and-risk-management/openai-astra-s-critical-rating-and-the-ai-governability-gap",
@@ -112,34 +140,6 @@
       "url": "https://www.nextplatform.com/store/2026/09/16/how-to-smash-the-memory-wall-plaguing-high-performance-systems/5296866",
       "description": "",
       "published": "2026-09-16T13:37:11.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Building the materials foundation for AI",
-      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-      "description": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, ele",
-      "published": "2026-09-16T12:47:34.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
-      "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impa",
-      "published": "2026-09-16T12:10:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Data Center Pay Is Rising, but Turnover Remains High, Survey Finds",
-      "url": "https://www.datacenterknowledge.com/data-center-career-development/raises-are-up-turnover-high-in-data-centers-survey-finds",
-      "description": "Data center professionals are changing jobs despite pay raises, prioritizing career growth alongside salary.",
-      "published": "2026-09-16T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "The Ripple Effect of Data Center Project Cancellations and Delays",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/the-ripple-effect-of-data-center-project-cancellations-and-delays",
-      "description": "Canceled data center projects leave utilities with stranded infrastructure costs that are often passed on to ratepayers, while capacity reassignment can take months or years to resolve.",
-      "published": "2026-09-15T17:01:09.000Z"
     }
   ]
 }
