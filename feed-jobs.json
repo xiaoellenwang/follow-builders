@@ -1,6 +1,45 @@
 {
-  "generatedAt": "2026-09-19T04:24:17.255Z",
+  "generatedAt": "2026-09-20T04:42:41.834Z",
   "jobs": [
+    {
+      "title": "Business Development Representative (BDR) Intern – AI & Workflow Automation",
+      "company": "MOXO PTE. LTD.",
+      "salary": "S$1,400 – S$1,800",
+      "type": "Internship/Attachment",
+      "skills": [
+        "Communication",
+        "Business Operations Management",
+        "Account Management"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/96c0528f7d3da6157dd6ba6095c5c0e8",
+      "posted": "2026-09-20T04:36:19.000Z"
+    },
+    {
+      "title": "AI Technical Delivery Manager",
+      "company": "PRAMAHAA PTE. LTD.",
+      "salary": "S$13,000 – S$15,000",
+      "type": "Full Time",
+      "skills": [
+        "project scope management",
+        "Ai",
+        "Computer Engineering"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/13932ac97141a9851948dcafdbbad6df",
+      "posted": "2026-09-19T13:54:08.000Z"
+    },
+    {
+      "title": "Agentic AI Engineer (Deployment Architect)",
+      "company": "ACCESS PEOPLE (SINGAPORE) PTE. LTD.",
+      "salary": "S$15,000 – S$24,000",
+      "type": "Permanent",
+      "skills": [
+        "Machine Learning",
+        "Liaising with cross functional teams",
+        "Direct experience"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/3246f5eee879c7d77b67fbe45c99f7da",
+      "posted": "2026-09-19T05:29:04.000Z"
+    },
     {
       "title": "Senior Data Engineer (contract)",
       "company": "NSEARCH GLOBAL PTE. LTD.",
@@ -156,45 +195,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/4b61f74a556e7787824d7ff373d03ffa",
       "posted": "2026-09-18T07:04:52.000Z"
-    },
-    {
-      "title": "LLM Engineer",
-      "company": "TECHKNOWLEDGEY PTE. LTD.",
-      "salary": "S$10,000 – S$15,000",
-      "type": "Permanent",
-      "skills": [
-        "Retrieval-Augmented Generation (RAG)",
-        "Generative AI Application Development and Deployment",
-        "Clean Code"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/b4760e1f90e251fffb8075d9cc2502b2",
-      "posted": "2026-09-18T06:55:12.000Z"
-    },
-    {
-      "title": "Data Engineer (Contract)",
-      "company": "NSEARCH GLOBAL PTE. LTD.",
-      "salary": "S$11,000 – S$14,000",
-      "type": "Contract",
-      "skills": [
-        "Machine Learning",
-        "JSON",
-        "Terraform"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/7b5769c24224b7ff4ed1840cd1beeac5",
-      "posted": "2026-09-18T06:07:04.000Z"
-    },
-    {
-      "title": "[T04] Machine Learning Engineer (ML) - Permanent Role",
-      "company": "TALENTSIS PTE. LTD.",
-      "salary": "S$5,500 – S$6,500",
-      "type": "Permanent",
-      "skills": [
-        "API Development",
-        "Liaising with cross functional teams",
-        "Collaborate With Engineers"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/485722d637632656fdbcb97c127b97bb",
-      "posted": "2026-09-18T06:01:02.000Z"
     }
   ]
 }
