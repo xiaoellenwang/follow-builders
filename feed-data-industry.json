@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-09-20T04:42:41.834Z",
+  "generatedAt": "2026-09-21T04:40:51.551Z",
   "articles": [
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "Data Engineering Weekly #288",
+      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-288",
+      "description": "The Weekly Data Engineering Newsletter",
+      "published": "2026-09-21T01:09:33.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: AI-driven services are becoming the new standard for uptime",
+      "url": "https://www.datacenterdynamics.com/en/opinions/ai-driven-services-are-becoming-the-new-standard-for-uptime/",
+      "description": "With expectations rising for what ‘standard’ means, the industry is moving to services that are more predictive, insightful and effective",
+      "published": "2026-09-20T15:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+      "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+      "description": "\n                        Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.\n                    ",
+      "published": "2026-09-20T11:07:00.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "The GenAI Boom Accelerates And Transforms Ethernet Switching",
+      "url": "https://www.nextplatform.com/connect/2026/09/20/the-genai-boom-accelerates-and-transforms-ethernet-switching/5297603",
+      "description": "",
+      "published": "2026-09-20T10:53:28.000Z"
+    },
     {
       "source": "Data Center Knowledge",
       "title": "Space Data Centers Inch Toward Reality, With Caveats",
@@ -37,13 +65,6 @@
       "published": "2026-09-18T15:07:44.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Brazil's Eveo plans data center in Recife",
-      "url": "https://www.datacenterdynamics.com/en/news/eveo-accelerates-expansion-in-the-northeast-and-will-have-a-tier-iii-data-center-in-recife/",
-      "description": "Company adding to sites in Fortaleza, São Paulo, and Curitiba",
-      "published": "2026-09-18T15:03:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: AI’s extinction risk and bioweapons threat",
       "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
@@ -70,48 +91,6 @@
       "url": "https://www.datacenterknowledge.com/data-center-hardware/rack-power-is-rising-fast-here-s-what-it-means-for-data-centers",
       "description": "AI-heavy deployments are driving higher per-rack loads and new requirements for power delivery, liquid cooling, and structural planning.",
       "published": "2026-09-18T09:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
-      "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-      "description": "\n                        SynthID can cause models to follow harmful instructions they would otherwise refuse.\n                    ",
-      "published": "2026-09-17T18:33:13.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Bull Beats Out HPE For Next-Gen Lumi AI Supercomputer",
-      "url": "https://www.nextplatform.com/hpc/2026/09/17/bull-beats-out-hpe-for-next-gen-lumi-ai-supercomputer/5297292",
-      "description": "",
-      "published": "2026-09-17T17:22:31.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Delivery Certainty Will Define the Next Phase of Data Center Growth",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/delivery-certainty-will-define-the-next-phase-of-data-center-growth",
-      "description": "Data center demand is strong, but delivery capability will determine success. Power, labor, and supply chain constraints are the new competitive battleground.",
-      "published": "2026-09-17T16:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: mice with part-human brains and climate tech innovators",
-      "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its",
-      "published": "2026-09-17T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Meet the innovators under 35 shaping climate tech",
-      "url": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
-      "description": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate includes nine individuals from all over th",
-      "published": "2026-09-17T10:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Zombie Workloads Haunt Data Center Efficiency Efforts",
-      "url": "https://www.datacenterknowledge.com/cloud/zombie-workloads-haunt-data-center-efficiency-efforts",
-      "description": "Abandoned jobs, instances, and volumes can run indefinitely. FinOps tools help, but GPU-era AI demands new zombie-hunting methods.",
-      "published": "2026-09-17T09:00:00.000Z"
     }
   ]
 }
