@@ -1,187 +1,200 @@
 {
-  "generatedAt": "2026-09-21T04:40:51.551Z",
+  "generatedAt": "2026-09-22T04:37:18.566Z",
   "jobs": [
     {
-      "title": "AI Outcome Customer Engineer - Singapore",
-      "company": "GOOGLE ASIA PACIFIC PTE. LTD.",
-      "salary": "S$12,000 – S$24,000",
-      "type": "Full Time",
-      "skills": [
-        "Enterprise Integration Solution",
-        "Medical Degree",
-        "Agents"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/4842f3b7e0b4c52e96b59ed7a08fde7c",
-      "posted": "2026-09-21T04:40:23.000Z"
-    },
-    {
-      "title": "AI Outcome Customer Engineer, Google Cloud - Singapore",
-      "company": "GOOGLE ASIA PACIFIC PTE. LTD.",
-      "salary": "S$12,000 – S$24,000",
-      "type": "Full Time",
-      "skills": [
-        "Enterprise Integration Solution",
-        "Agents",
-        "Security Reconciliations"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/1f6aa165edc4bf0161e3548e788f3805",
-      "posted": "2026-09-21T04:26:48.000Z"
-    },
-    {
-      "title": "Specialist, Machine Learning Engineer",
-      "company": "MSD INTERNATIONAL GMBH (SINGAPORE BRANCH)",
-      "salary": "S$5,000 – S$8,000",
-      "type": "Permanent",
-      "skills": [
-        "Qualitative Analysis",
-        "Entrepreneurial Experience",
-        "Provides Support"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/717996c1677240561fedf26417b19ad8",
-      "posted": "2026-09-21T04:13:42.000Z"
-    },
-    {
-      "title": "AI Agent Algorithm Engineer",
-      "company": "SHOPEE IP SINGAPORE PRIVATE LIMITED",
-      "salary": "S$9,000 – S$12,000",
-      "type": "Permanent",
-      "skills": [
-        "Search",
-        "Address Potential Issues",
-        "Web Browsers"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/4d9ffd955bd649870434e50b9cc1a45a",
-      "posted": "2026-09-21T03:48:03.000Z"
-    },
-    {
-      "title": "Software Engineer - AI System (Manufacturing | PERM)",
-      "company": "GMP TECHNOLOGIES (S) PTE LTD",
-      "salary": "S$7,000 – S$15,000",
-      "type": "Permanent",
-      "skills": [
-        "MES",
-        "Git",
-        "Cloud Applications"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/9e4d48ef2f565663e15fa9c0a2435c7a",
-      "posted": "2026-09-21T03:44:01.000Z"
-    },
-    {
-      "title": "Data Engineer (AI/ML) Contract",
-      "company": "MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD",
-      "salary": "S$10,000 – S$12,000",
-      "type": "Contract",
-      "skills": [
-        "Airflow",
-        "scalable solutions",
-        "Interactive Project"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/f8db99e285f26faf50ef84a72152069b",
-      "posted": "2026-09-21T03:35:25.000Z"
-    },
-    {
-      "title": "Senior AI Platform Engineer",
-      "company": "PEOPLESEARCH PTE. LTD.",
-      "salary": "S$9,000 – S$10,000",
-      "type": "Full Time",
-      "skills": [
-        "Learning Experience Delivery",
-        "Troubleshooting",
-        "Enterprise Services"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/e9ea40bf7b044a57424085f1629a23ff",
-      "posted": "2026-09-21T03:30:38.000Z"
-    },
-    {
-      "title": "Ai Project lead at Marina Bay, $5,000-$6,500+1 month completion bonus (Office hours)",
-      "company": "SUCCESS HUMAN RESOURCE CENTRE PTE. LTD.",
-      "salary": "S$5,000 – S$6,500",
-      "type": "Contract",
-      "skills": [
-        "Product Testing",
-        "Machine Learning",
-        "Ai"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/c110507fa48c19ef52ee6d95d09266b3",
-      "posted": "2026-09-21T03:24:17.000Z"
-    },
-    {
-      "title": "Site Reliability Application Engineers (AI Platform)",
-      "company": "ASTEK SINGAPORE INNOVATION TECHNOLOGY PTE. LTD.",
-      "salary": "S$9,000 – S$12,000",
+      "title": "Senior AI Fullstack Engineer",
+      "company": "SURBANA JURONG PRIVATE LIMITED",
+      "salary": "S$6,500 – S$11,500",
       "type": "Full Time",
       "skills": [
         "Ai",
-        "Terraform",
-        "Temporal Logic"
+        "Retrieval-Augmented Generation (RAG)",
+        "BIM (Building Information Modeling)"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/a9a9240e080770cb938e55235c3c0402",
-      "posted": "2026-09-21T03:17:07.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/ba703c3eac04d380a12c6a3953c7dd6f",
+      "posted": "2026-09-22T03:53:43.000Z"
     },
     {
-      "title": "Data Engineer, Product Analytics",
-      "company": "FACEBOOK SINGAPORE PTE. LTD.",
-      "salary": "S$16,830 – S$25,250",
-      "type": "Permanent",
+      "title": "Project Support Officer (AI Project Coordinator | 1 year contract | public sector)",
+      "company": "BGC GROUP PTE. LTD.",
+      "salary": "S$3,000 – S$3,500",
+      "type": "Contract",
       "skills": [
-        "Collaborate With Engineers",
-        "Data Handling",
-        "Computer Engineering"
+        "Contacting candidates",
+        "Microsoft 365",
+        "Document Control"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/71504536dde947ee9b1f53399b92d084",
-      "posted": "2026-09-21T02:23:50.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/5c7ddc4fd25306c3349405c8e64f974f",
+      "posted": "2026-09-22T03:49:22.000Z"
     },
     {
-      "title": "Principal/Staff ML/AI Engineer, Product Engineering, STPG",
+      "title": "AI Fullstack Engineer",
+      "company": "SURBANA JURONG PRIVATE LIMITED",
+      "salary": "S$3,800 – S$6,800",
+      "type": "Full Time",
+      "skills": [
+        "Ai",
+        "Retrieval-Augmented Generation (RAG)",
+        "BIM (Building Information Modeling)"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/cc67c5faea50298c2af2bdafe632dca9",
+      "posted": "2026-09-22T03:36:02.000Z"
+    },
+    {
+      "title": "AI Reimagination Engineer",
       "company": "MICRON SEMICONDUCTOR ASIA OPERATIONS PTE. LTD.",
       "salary": "S$7,000 – S$13,000",
       "type": "Full Time",
       "skills": [
-        "Manufacturing Operations Management",
-        "Machine Learning",
-        "Workflow"
+        "Trend Micro Internet Security",
+        "Stateflow",
+        "Automation Systems"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/40090748ee13167a28bc597a10f99b6b",
-      "posted": "2026-09-20T23:44:25.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/ab66f8869c4dabfde77d101c09c203f6",
+      "posted": "2026-09-22T03:26:00.000Z"
     },
     {
-      "title": "Senior Applied AI Engineer",
-      "company": "REGASK PTE. LTD.",
-      "salary": "S$9,000 – S$11,000",
-      "type": "Permanent",
-      "skills": [
-        "Software Debugging",
-        "MongoDB Atlas",
-        "Vector Search"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/d7b686ceedac5464dd3a5ec6a4ada574",
-      "posted": "2026-09-18T10:25:34.000Z"
-    },
-    {
-      "title": "Project Manager, Machine Learning Ops",
-      "company": "MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD",
-      "salary": "S$10,000 – S$13,000",
-      "type": "Permanent",
-      "skills": [
-        "Machine Learning",
-        "Application Architecture",
-        "Development Reviews"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/9f641c8f8ffa3b8dc6613f219d55ea7c",
-      "posted": "2026-09-18T09:28:43.000Z"
-    },
-    {
-      "title": "Lead AI Engineer",
-      "company": "HEWLETT PACKARD ENTERPRISE SINGAPORE PTE. LTD.",
-      "salary": "S$8,000 – S$16,000",
+      "title": "AI Reimagination Engineer",
+      "company": "MICRON SEMICONDUCTOR ASIA OPERATIONS PTE. LTD.",
+      "salary": "S$7,000 – S$13,000",
       "type": "Full Time",
       "skills": [
-        "Design",
-        "Computer Engineering",
-        "Kubernetes"
+        "Trend Micro Internet Security",
+        "Stateflow",
+        "Automation Systems"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/708275f82040bc2233ff3942b8460951",
-      "posted": "2026-09-18T07:50:47.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/857b91e7da7d32cf20da8d87da266345",
+      "posted": "2026-09-22T03:22:35.000Z"
+    },
+    {
+      "title": "Data & AI Manager",
+      "company": "CFGI (SINGAPORE) PRIVATE LIMITED",
+      "salary": "S$14,000 – S$15,000",
+      "type": "Full Time",
+      "skills": [
+        "Machine Learning",
+        "Analytics Support",
+        "Technology Consulting"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/e459e8f8f253adee8173b16cd144155d",
+      "posted": "2026-09-22T02:48:20.000Z"
+    },
+    {
+      "title": "Postdoctoral Fellow (AI-Driven Digitalization and Management of Civil Infrastructure)",
+      "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
+      "salary": "S$4,000 – S$8,000",
+      "type": "Full Time",
+      "skills": [
+        "Deep Learning",
+        "Machine Learning",
+        "Digital Integration"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/b8d02402e7010fec756ba29b66a39e5e",
+      "posted": "2026-09-22T02:43:27.000Z"
+    },
+    {
+      "title": "AI Reimagination Engineer",
+      "company": "MICRON SEMICONDUCTOR ASIA OPERATIONS PTE. LTD.",
+      "salary": "S$6,000 – S$12,000",
+      "type": "Full Time",
+      "skills": [
+        "Trend Micro Internet Security",
+        "Stateflow",
+        "Automation Systems"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/2a03f800b7e109c3afa11b1271dc6da2",
+      "posted": "2026-09-22T02:43:16.000Z"
+    },
+    {
+      "title": "AI Developer (LLM, Python)",
+      "company": "MICHAEL PAGE (PERSONNEL) PTE. LTD.",
+      "salary": "S$5,500 – S$8,000",
+      "type": "Full Time",
+      "skills": [
+        "TensorFlow",
+        "Liaising with cross functional teams",
+        "Ai"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/2fb2ef44cbc495146d4936e7fbb567e9",
+      "posted": "2026-09-22T02:39:48.000Z"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "ALLINTON ENGINEERING & TRADING PTE. LTD.",
+      "salary": "S$4,500 – S$6,000",
+      "type": "Full Time",
+      "skills": [
+        "Workflow Automation",
+        "Design",
+        "Enterprise Integration Solution"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/0995e917d9c5a1b4308aae457a997d66",
+      "posted": "2026-09-22T02:29:48.000Z"
+    },
+    {
+      "title": "AI Engineer — AMK",
+      "company": "COMBUILDER PTE LTD",
+      "salary": "S$5,000 – S$6,500",
+      "type": "Contract",
+      "skills": [
+        "ROS",
+        "Machine Learning",
+        "robot control systems"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/6353308a9027e9c3a3a68a03b6236360",
+      "posted": "2026-09-22T02:26:45.000Z"
+    },
+    {
+      "title": "Software Engineer (AI Security & Quality) - #1633",
+      "company": "JOBSTER PRIVATE LTD.",
+      "salary": "S$6,500 – S$9,000",
+      "type": "Contract",
+      "skills": [
+        "Security Compliance",
+        "OWASP",
+        "AI Governance"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/c33103cc6780676b62a8293d85cd5f62",
+      "posted": "2026-09-22T02:07:14.000Z"
+    },
+    {
+      "title": "AI - ML Engineer (Contract)",
+      "company": "3 CUBED BUSINESS CONSULTING PTE. LTD.",
+      "salary": "S$8,000 – S$11,000",
+      "type": "Contract",
+      "skills": [
+        "Azure AI",
+        "TensorFlow",
+        "Multi-Agent Systems"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/ec78e9fead57d74608f6306e554c0c98",
+      "posted": "2026-09-22T02:02:58.000Z"
+    },
+    {
+      "title": "Delivery Consultant - AI/ML, ASEAN Professional Services",
+      "company": "AMAZON WEB SERVICES SINGAPORE PRIVATE LIMITED",
+      "salary": "S$9,000 – S$17,000",
+      "type": "Permanent",
+      "skills": [
+        "Machine Learning",
+        "RDS",
+        "Certifications"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/de0f9bfa151aca08a39603f55e16b81f",
+      "posted": "2026-09-22T01:57:53.000Z"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "ALLEGIS GROUP SINGAPORE PRIVATE LIMITED",
+      "salary": "S$6,000 – S$12,000",
+      "type": "Contract",
+      "skills": [
+        "Distributed Platforms",
+        "Airflow",
+        "AI Agents"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/bc91d363c502cb5766f52527aa1a99fb",
+      "posted": "2026-09-22T01:10:01.000Z"
     }
   ]
 }

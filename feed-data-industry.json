@@ -1,19 +1,117 @@
 {
-  "generatedAt": "2026-09-21T04:40:51.551Z",
+  "generatedAt": "2026-09-22T04:37:18.566Z",
   "articles": [
+    {
+      "source": "Ars Technica Tech",
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "description": "\n                        A simple ClickFix attack is only one way to completely hijack the new agent.\n                    ",
+      "published": "2026-09-21T22:24:38.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Accelerated Server Sales Are Themselves Accelerating",
+      "url": "https://www.nextplatform.com/compute/2026/09/21/accelerated-server-sales-are-themselves-accelerating/5297993",
+      "description": "",
+      "published": "2026-09-21T19:21:53.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Enterprises Adopt Colocation for AI and Hybrid Cloud Initiatives",
+      "url": "https://www.datacenterknowledge.com/colocation/enterprises-adopt-colocation-for-ai-and-hybrid-cloud-initiatives",
+      "description": "Enterprises are strategically choosing colocation data centers to host AI applications, deploy a hybrid cloud model, add incremental capacity, improve connectivity, and reduce costs.",
+      "published": "2026-09-21T17:42:10.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Nokia ramps up AI-RAN momentum",
+      "url": "https://www.datacenterdynamics.com/en/news/nokia-ramps-up-ai-ran-momentum/",
+      "description": "As the vendor strikes further carrier partnerships",
+      "published": "2026-09-21T16:21:03.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Flag to deploy Ciena's Waveserver platform on Echo subsea cable",
+      "url": "https://www.datacenterdynamics.com/en/news/flag-to-deploy-cienas-waveserver-platform-on-echo-subsea-cable/",
+      "description": "This will enable Flag to launch new 400GbE and 800GbE services along the route",
+      "published": "2026-09-21T16:18:24.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "The new 5G SA blueprint that is enabling telecom operators to provide the network backbone 24/7 industries need",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-new-5g-sa-blueprint-that-is-enabling-telecom-operators-to-provide-the-network-backbone-247-industries-need/",
+      "description": "It’s time for telecoms to move digital infrastructure closer to the user",
+      "published": "2026-09-21T16:01:04.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "LG launches centrifugal air cooling system for AI data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/lg-launches-centrifugal-air-cooling-system-for-ai-data-centers/",
+      "description": "No oil required for magnetic system",
+      "published": "2026-09-21T15:40:37.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Valorem eyes data centers in Savonlinna and Kankaanpää, Finland",
+      "url": "https://www.datacenterdynamics.com/en/news/valorem-eyes-data-centers-in-savonlinna-and-kankaanp%C3%A4%C3%A4-finland/",
+      "description": "French energy firm adds more data center projects to pipeline",
+      "published": "2026-09-21T15:30:38.000Z"
+    },
+    {
+      "source": "Import AI",
+      "title": "Import AI 473: The US’s superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
+      "url": "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/",
+      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now RAND thinks the best AI strategy for the US is to keep all options open:…It’s not clear exactly what is optimal, so th",
+      "published": "2026-09-21T12:31:04.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: investigating deaths at the US border’s “virtual wall”",
+      "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in Ap",
+      "published": "2026-09-21T12:20:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+      "description": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of&#160;Dying on Camera, a collaboration between&#160;MIT Technolo",
+      "published": "2026-09-21T12:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+      "description": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled tower",
+      "published": "2026-09-21T12:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "description": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.&#160; As he walked through the desert in southern New Mexico that morning, he was within range of three",
+      "published": "2026-09-21T12:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+      "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+      "description": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked.&",
+      "published": "2026-09-21T12:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Grid Constraints Steer Dutch Data Centers Beyond Amsterdam",
+      "url": "https://www.datacenterknowledge.com/data-center-site-selection/grid-constraints-steer-dutch-data-centers-beyond-amsterdam",
+      "description": "Amsterdam remains a top European data center hub, but power constraints are shifting new capacity to Rotterdam and other regional Dutch markets with available grid connections.",
+      "published": "2026-09-21T09:00:00.000Z"
+    },
     {
       "source": "DataEngineeringWeekly",
       "title": "Data Engineering Weekly #288",
       "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-288",
       "description": "The Weekly Data Engineering Newsletter",
       "published": "2026-09-21T01:09:33.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: AI-driven services are becoming the new standard for uptime",
-      "url": "https://www.datacenterdynamics.com/en/opinions/ai-driven-services-are-becoming-the-new-standard-for-uptime/",
-      "description": "With expectations rising for what ‘standard’ means, the industry is moving to services that are more predictive, insightful and effective",
-      "published": "2026-09-20T15:00:00.000Z"
     },
     {
       "source": "Ars Technica Tech",
@@ -28,69 +126,6 @@
       "url": "https://www.nextplatform.com/connect/2026/09/20/the-genai-boom-accelerates-and-transforms-ethernet-switching/5297603",
       "description": "",
       "published": "2026-09-20T10:53:28.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Space Data Centers Inch Toward Reality, With Caveats",
-      "url": "https://www.datacenterknowledge.com/next-gen-data-centers/space-data-centers-inch-toward-reality-with-caveats",
-      "description": "At the AI Infra Summit, a panel of executives and a US government IT leader discussed the promise and challenges of building data centers in space.",
-      "published": "2026-09-18T16:35:21.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Virginia’s Loudoun County board votes to pause new data center applications",
-      "url": "https://www.datacenterdynamics.com/en/news/virginias-loudoun-county-board-votes-to-pause-new-data-center-applications/",
-      "description": "County introduces 12-month moratorium in data center hotspot",
-      "published": "2026-09-18T16:18:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Hidden costs",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/2026-guide-to-navigating-data-center-supply-chain-complexity/",
-      "description": "2026 guide to navigating data center supply chain complexity",
-      "published": "2026-09-18T15:57:19.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Brazil's President Lula signs ReData data center bill into law",
-      "url": "https://www.datacenterdynamics.com/en/news/president-lula-signs-bill-at-the-planalto-palace/",
-      "description": "The bill was passed by the Senate in September",
-      "published": "2026-09-18T15:40:08.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "IQM to deploy Spark quantum computer at Brazil’s Eldorado Research Institute",
-      "url": "https://www.datacenterdynamics.com/en/news/iqm-to-deploy-spark-quantum-computer-at-brazils-eldorado-research-institute/",
-      "description": "First quantum system deployed by Finnish quantum firm in South America",
-      "published": "2026-09-18T15:07:44.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: AI’s extinction risk and bioweapons threat",
-      "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many",
-      "published": "2026-09-18T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Could AI really kill us all? Your questions, answered.",
-      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-      "description": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Do",
-      "published": "2026-09-18T11:29:22.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-      "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
-      "description": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: “I agree with Dario tha",
-      "published": "2026-09-18T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Rack Power Is Rising Fast. Here’s What It Means for Data Centers",
-      "url": "https://www.datacenterknowledge.com/data-center-hardware/rack-power-is-rising-fast-here-s-what-it-means-for-data-centers",
-      "description": "AI-heavy deployments are driving higher per-rack loads and new requirements for power delivery, liquid cooling, and structural planning.",
-      "published": "2026-09-18T09:00:00.000Z"
     }
   ]
 }
