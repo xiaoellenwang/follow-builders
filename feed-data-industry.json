@@ -1,6 +1,83 @@
 {
-  "generatedAt": "2026-09-23T04:33:21.692Z",
+  "generatedAt": "2026-09-24T04:30:45.022Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "Australia’s data center guidelines lay the platform for new good grid citizens",
+      "url": "https://www.datacenterdynamics.com/en/opinions/australias-data-center-guidelines-lay-the-platform-for-new-good-grid-citizens/",
+      "description": "How can big energy consumers make a greater contribution to energy systems and the communities they serve?",
+      "published": "2026-09-24T00:00:27.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Data Center Water Use: From Efficiency Metrics to Real-World Resilience",
+      "url": "https://www.datacenterknowledge.com/cooling/data-center-water-use-from-efficiency-metrics-to-real-world-resilience",
+      "description": "Water has shifted from a background utility to a core constraint for data centers, requiring site-specific resilience planning that addresses peak stress, local hydrology, and community impact, not just average efficiency metrics.",
+      "published": "2026-09-23T21:42:18.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "A congressional representative just proposed killing America’s border tower program",
+      "url": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
+      "description": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.&#160; The announcement comes just days after publication of an MIT Technology Review investigation, “Dying on Camer",
+      "published": "2026-09-23T17:10:11.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Australian Senate calls for nationalized Triple Zero service following several high-profile outages",
+      "url": "https://www.datacenterdynamics.com/en/news/australian-senate-calls-for-nationalized-triple-zero-service-following-several-high-profile-outages/",
+      "description": "Telstra operates the system that connects Australian phone calls to 000",
+      "published": "2026-09-23T16:10:51.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "The renewable energy deal that looks cheap on paper can leave data centers most exposed",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-renewable-energy-deal-that-looks-cheap-on-paper-can-leave-data-centers-most-exposed/",
+      "description": "New analysis shows the best-matched clean power portfolio is also the strongest hedge against price shocks",
+      "published": "2026-09-23T16:05:36.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "IonQ to deploy first quantum computer at Nvidia’s Accelerated Quantum Research Center",
+      "url": "https://www.datacenterdynamics.com/en/news/ionq-to-deploy-first-quantum-computer-at-nvidias-accelerated-quantum-research-center/",
+      "description": "The Superion 256 will be installed in 2027",
+      "published": "2026-09-23T15:48:21.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "California governor signs seven-bill package targeting data center energy and water use",
+      "url": "https://www.datacenterdynamics.com/en/news/california-governor-signs-seven-bill-package-targeting-data-center-energy-and-water-use/",
+      "description": "Seeks to shield ratepayers from bearing the cost associated with data center buildout",
+      "published": "2026-09-23T15:32:38.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
+      "url": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content cre",
+      "published": "2026-09-23T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The AI Hype Index: AI loves cheating",
+      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "description": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into othe",
+      "published": "2026-09-23T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Smart glasses are already causing havoc in India",
+      "url": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
+      "description": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this spring against a bill that would have narrowed the legal recognition for transgender people in&#823",
+      "published": "2026-09-23T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Centralized AI vs. Distributed AI vs. Edge AI: What’s the Difference?",
+      "url": "https://www.datacenterknowledge.com/ai-data-centers/centralized-ai-vs-distributed-ai-vs-edge-ai-what-s-the-difference-",
+      "description": "Choose an AI architecture based on your latency, cost, and compliance needs.",
+      "published": "2026-09-23T09:00:00.000Z"
+    },
     {
       "source": "The Next Platform",
       "title": "Improving Quantum Error Correction By Meshing Surface Code With IBM’s Heavy-Hex Architecture",
@@ -37,41 +114,6 @@
       "published": "2026-09-22T16:55:40.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "BDx breaks ground on AI Campus 2 in Jatiluhur, Indonesia",
-      "url": "https://www.datacenterdynamics.com/en/news/bdx-breaks-ground-on-ai-campus-2-in-jatiluhur-indonesia/",
-      "description": "The first 120MW building is set to go live in early 2027",
-      "published": "2026-09-22T16:33:27.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Orange drops MásOrange brand in Spain following full takeover",
-      "url": "https://www.datacenterdynamics.com/en/news/masorange-disappears-and-orange-spain-assumes-the-groups-corporate-identity/",
-      "description": "The carrier is now known as Orange España",
-      "published": "2026-09-22T16:30:03.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Alibaba unveils Zhenwu V900, says cloud capacity will hit 20GW by 2032",
-      "url": "https://www.datacenterdynamics.com/en/news/alibaba-unveils-zhenwu-v900-says-cloud-capacity-will-hit-20gw-by-2032/",
-      "description": "New AI chip slated for release in Q1 2027",
-      "published": "2026-09-22T16:25:37.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: Simplicity is the new scalability",
-      "url": "https://www.datacenterdynamics.com/en/opinions/simplicity-is-the-new-scalability/",
-      "description": "In the AI era, competitive advantage will come not from offering unlimited choice, but from knowing which choices matter",
-      "published": "2026-09-22T15:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Irish gov't sets out national roaming agreement for Ireland's emergency services",
-      "url": "https://www.datacenterdynamics.com/en/news/irish-govt-sets-out-national-roaming-agreement-for-irelands-emergency-services/",
-      "description": "eir, Three Ireland, and Vodafone have signed the agreement",
-      "published": "2026-09-22T14:40:43.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
       "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
@@ -86,20 +128,6 @@
       "published": "2026-09-22T12:57:25.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
-      "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Don’t be fooled by this summer of AI hype&#160; —Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Bender",
-      "published": "2026-09-22T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Don’t be fooled by this summer of AI hype ",
-      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-      "description": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclose",
-      "published": "2026-09-22T11:04:51.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "Designing Layered Drone Defenses for Data Centers",
       "url": "https://www.datacenterknowledge.com/physical-security/designing-layered-drone-defenses-for-data-centers",
@@ -112,34 +140,6 @@
       "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
       "description": "\n                        A simple ClickFix attack is only one way to completely hijack the new agent.\n                    ",
       "published": "2026-09-21T22:24:38.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Accelerated Server Sales Are Themselves Accelerating",
-      "url": "https://www.nextplatform.com/compute/2026/09/21/accelerated-server-sales-are-themselves-accelerating/5297993",
-      "description": "",
-      "published": "2026-09-21T19:21:53.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Enterprises Adopt Colocation for AI and Hybrid Cloud Initiatives",
-      "url": "https://www.datacenterknowledge.com/colocation/enterprises-adopt-colocation-for-ai-and-hybrid-cloud-initiatives",
-      "description": "Enterprises are strategically choosing colocation data centers to host AI applications, deploy a hybrid cloud model, add incremental capacity, improve connectivity, and reduce costs.",
-      "published": "2026-09-21T17:42:10.000Z"
-    },
-    {
-      "source": "Import AI",
-      "title": "Import AI 473: The US’s superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
-      "url": "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/",
-      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now RAND thinks the best AI strategy for the US is to keep all options open:…It’s not clear exactly what is optimal, so th",
-      "published": "2026-09-21T12:31:04.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: investigating deaths at the US border’s “virtual wall”",
-      "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in Ap",
-      "published": "2026-09-21T12:20:00.000Z"
     }
   ]
 }

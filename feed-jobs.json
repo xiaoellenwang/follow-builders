@@ -1,35 +1,9 @@
 {
-  "generatedAt": "2026-09-23T04:33:21.692Z",
+  "generatedAt": "2026-09-24T04:30:45.022Z",
   "jobs": [
     {
-      "title": "AI Systems, Automation & Full-Stack Development Manager",
-      "company": "BMG HOSPITALITY PTE. LTD.",
-      "salary": "S$4,000 – S$6,000",
-      "type": "Full Time",
-      "skills": [
-        "Mentoring",
-        "Ai",
-        "Python Scripting"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/4bc14c77774dd904665d324178f759cb",
-      "posted": "2026-09-23T03:33:54.000Z"
-    },
-    {
-      "title": "AI Research Scientist– Foundation Models & Embodied AI",
-      "company": "ROBOSPEC PTE. LTD.",
-      "salary": "S$8,000 – S$15,000",
-      "type": "Full Time",
-      "skills": [
-        "Architectural Modeling",
-        "Ai",
-        "training procedures"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/fc8cce1674c2879e54011cd13b89ea29",
-      "posted": "2026-09-23T02:35:18.000Z"
-    },
-    {
       "title": "Data & AI Solutions Specialist",
-      "company": "RISKDATA CONSULTING PTE. LTD.",
+      "company": "REGTECH INSIGHT PTE. LTD.",
       "salary": "S$10,000 – S$13,000",
       "type": "Contract",
       "skills": [
@@ -37,73 +11,164 @@
         "Spark SQL",
         "Design"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/c33b89a28ee6a81e81f02c1a2892ed27",
-      "posted": "2026-09-23T02:30:07.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/22d4491565940108e5fdcb101567c01a",
+      "posted": "2026-09-24T03:27:24.000Z"
     },
     {
-      "title": "Data Engineer",
-      "company": "MERIDIAN & SATURN CAPITAL PTE. LTD.",
-      "salary": "S$5,000 – S$10,000",
-      "type": "Full Time",
-      "skills": [
-        "Machine Learning",
-        "Quantitative Research",
-        "Data Analysis"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/5cb0688a85ceffbb3d0858005d121eda",
-      "posted": "2026-09-23T02:19:26.000Z"
-    },
-    {
-      "title": "AI Engineer",
-      "company": "MERIDIAN & SATURN CAPITAL PTE. LTD.",
-      "salary": "S$5,000 – S$10,000",
-      "type": "Full Time",
-      "skills": [
-        "TensorFlow",
-        "Machine Learning",
-        "Derivatives"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/444caa99ba87090a0f3666311c2503ab",
-      "posted": "2026-09-23T02:17:41.000Z"
-    },
-    {
-      "title": "Data Scientist | Machine Learning | Python | Senior Level",
-      "company": "RANDSTAD PTE. LIMITED",
-      "salary": "S$6,000 – S$8,500",
+      "title": "Senior Consultant, AI Platform Engineering",
+      "company": "PEOPLESEARCH PTE. LTD.",
+      "salary": "S$9,000 – S$10,000",
       "type": "Permanent",
       "skills": [
-        "Distributed Platforms",
-        "Design",
-        "develop strategic recommendations"
+        "Machine Learning",
+        "Liaising with cross functional teams",
+        "Ai"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/04a64da527f8e6ff37682760caa73469",
-      "posted": "2026-09-23T02:14:57.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/6e481f2513bf41ee5babc7303855fdcc",
+      "posted": "2026-09-24T03:21:40.000Z"
+    },
+    {
+      "title": "AI Engineer - Mathematical Reasoning",
+      "company": "WILD DYNASTY PTE. LTD.",
+      "salary": "S$4,000 – S$6,000",
+      "type": "Full Time",
+      "skills": [
+        "Information Retrieval",
+        "Ai",
+        "Retrieval-Augmented Generation (RAG)"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/3be0c90397e02abb84623def836b1745",
+      "posted": "2026-09-24T03:07:35.000Z"
+    },
+    {
+      "title": "Senior AI Engineer",
+      "company": "APBA TG HUMAN RESOURCE PTE. LTD.",
+      "salary": "S$18,000 – S$25,000",
+      "type": "Contract",
+      "skills": [
+        "Azure AI",
+        "A+",
+        "Amazon Bedrock"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/655f054ee099e13c04654f34e60b7759",
+      "posted": "2026-09-24T03:07:28.000Z"
     },
     {
       "title": "Generative AI Solutions Architect",
-      "company": "RISKDATA CONSULTING PTE. LTD.",
+      "company": "REGTECH INSIGHT PTE. LTD.",
       "salary": "S$10,000 – S$12,000",
       "type": "Contract",
       "skills": [
         "Financial Statements Analysis",
         "AI Agents",
-        "Claude API"
+        "Amazon Bedrock"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/07579646982e142be98ae5bb295248f9",
-      "posted": "2026-09-23T02:13:48.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/45ec7aa7b57bd699d5cc18319e652df1",
+      "posted": "2026-09-24T03:03:42.000Z"
     },
     {
-      "title": "Data Scientist / Machine Learning Engineer",
-      "company": "TALENTSIS PTE. LTD.",
-      "salary": "S$5,700 – S$8,300",
+      "title": "Senior AI Engineer",
+      "company": "OMIO TRAVEL SINGAPORE PTE. LTD.",
+      "salary": "S$9,300 – S$13,500",
       "type": "Full Time",
       "skills": [
-        "Collaborate With Engineers",
-        "Design",
-        "large datasets"
+        "Azure AI",
+        "TensorFlow",
+        "Ai"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/faa6c172ca038d463f3543c3580f02fb",
-      "posted": "2026-09-23T02:02:23.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/cdb88bf3397cd6aab8a5a6e9d011ebaf",
+      "posted": "2026-09-24T02:58:18.000Z"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "APBA TG HUMAN RESOURCE PTE. LTD.",
+      "salary": "S$12,000 – S$18,000",
+      "type": "Contract",
+      "skills": [
+        "A+",
+        "Amazon Bedrock",
+        "Analytical Thinking"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/b78130f106136d66c9d92821106d694f",
+      "posted": "2026-09-24T02:58:13.000Z"
+    },
+    {
+      "title": "Machine Learning Engineer (Computer Vision – Model Engineering)",
+      "company": "CYNAPSE PTE. LTD.",
+      "salary": "S$4,000 – S$6,500",
+      "type": "Full Time",
+      "skills": [
+        "Architectural Modeling",
+        "TensorFlow",
+        "Prototype"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/4e265b74dd1cd46653f6210edd0620d7",
+      "posted": "2026-09-24T02:40:08.000Z"
+    },
+    {
+      "title": "6723 - AI Systems Engineer | Up to $7K | Kaki Bukit | Kubernetes, Linux & GPU Clusters",
+      "company": "THE SUPREME HR ADVISORY PTE. LTD.",
+      "salary": "S$5,000 – S$7,000",
+      "type": "Permanent",
+      "skills": [
+        "Linux System Administration",
+        "Timely Execution",
+        "HPC"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/f98fe4e077436eec1aa89dc468a611c5",
+      "posted": "2026-09-24T02:01:41.000Z"
+    },
+    {
+      "title": "AI/ML Engineer",
+      "company": "TALENTSIS PTE. LTD.",
+      "salary": "S$5,500 – S$7,000",
+      "type": "Permanent",
+      "skills": [
+        "Communication",
+        "Machine Learning",
+        "Computer Engineering"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/ed14a9111d278f79432e162f0a520c1c",
+      "posted": "2026-09-24T01:48:46.000Z"
+    },
+    {
+      "title": "AI Forward Deployed Engineer",
+      "company": "EXODUSPOINT CAPITAL MANAGEMENT SINGAPORE, PTE. LTD.",
+      "salary": "S$20,000 – S$21,667",
+      "type": "Permanent",
+      "skills": [
+        "AI Agents",
+        "Computer Engineering",
+        "AI Governance"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/ef2b31aeff21a2d8834322f0e794ea63",
+      "posted": "2026-09-23T16:34:52.000Z"
+    },
+    {
+      "title": "AI Product Manager",
+      "company": "BITDEER AI PTE. LTD.",
+      "salary": "S$14,000 – S$18,000",
+      "type": "Full Time",
+      "skills": [
+        "Liaising with cross functional teams",
+        "delivering KPIs",
+        "Cloud Strategy"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/719e99082fd6116c527297d336e5a446",
+      "posted": "2026-09-23T13:57:36.000Z"
+    },
+    {
+      "title": "Data Scientist | Predictive Modelling | Machine learning | In-house",
+      "company": "RANDSTAD PTE. LIMITED",
+      "salary": "S$7,000 – S$8,500",
+      "type": "Permanent",
+      "skills": [
+        "Influencing Key Stakeholders",
+        "Machine Learning",
+        "Statistical Modelling"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/6cf566960829bd246d27f32dca721496",
+      "posted": "2026-09-23T05:44:21.000Z"
     },
     {
       "title": "AI/ML Engineer",
@@ -119,45 +184,6 @@
       "posted": "2026-09-23T02:01:52.000Z"
     },
     {
-      "title": "*GOV* Full Stack Software Engineer | Agentic AI",
-      "company": "SCIENTEC CONSULTING PTE. LTD.",
-      "salary": "S$7,000 – S$11,000",
-      "type": "Contract",
-      "skills": [
-        "API Development",
-        "AI Ethics",
-        "PostgreSQL"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/c8b6c033d453b3f4bdde87f35a7eab91",
-      "posted": "2026-09-23T01:32:08.000Z"
-    },
-    {
-      "title": "AVP/VP, AI Engineer, Technology Group",
-      "company": "GIC PRIVATE LIMITED",
-      "salary": "S$10,000 – S$15,000",
-      "type": "Full Time",
-      "skills": [
-        "Ai",
-        "Design",
-        "Demonstrate resilience"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/148ac435c6b7dd403434eb3e9d5dc2bd",
-      "posted": "2026-09-23T01:13:51.000Z"
-    },
-    {
-      "title": "AVP/VP, AI Engineer, Technology Group",
-      "company": "GIC PRIVATE LIMITED",
-      "salary": "S$11,250 – S$22,500",
-      "type": "Full Time",
-      "skills": [
-        "Ai",
-        "Design",
-        "Demonstrate resilience"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/7b3dab6d2f1a54dd11a6652330e1d25c",
-      "posted": "2026-09-23T01:06:20.000Z"
-    },
-    {
       "title": "Enterprise Architect (Hybrid Cloud & AI)",
       "company": "UC TECH PTE. LTD.",
       "salary": "S$12,000 – S$23,000",
@@ -169,32 +195,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/354de78111942ca7521a635a76267f33",
       "posted": "2026-09-23T00:19:13.000Z"
-    },
-    {
-      "title": "R&D Engineer (AI)",
-      "company": "PANASONIC R&D CENTER SINGAPORE",
-      "salary": "S$4,600 – S$7,500",
-      "type": "Full Time",
-      "skills": [
-        "Wireless Technologies",
-        "Teamwork",
-        "Hardware"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/970f2bbc63d525670a4cdb1fb611c99d",
-      "posted": "2026-09-23T00:14:07.000Z"
-    },
-    {
-      "title": "AI / Machine Learning Engineer",
-      "company": "HELIUS TECHNOLOGIES PTE. LTD.",
-      "salary": "S$6,000 – S$8,500",
-      "type": "Full Time",
-      "skills": [
-        "Deep Learning",
-        "TensorFlow",
-        "Machine Learning"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/cda5da54d475c33e6eae2d9217ec97c1",
-      "posted": "2026-09-22T13:53:35.000Z"
     }
   ]
 }
