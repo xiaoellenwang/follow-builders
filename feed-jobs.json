@@ -1,6 +1,45 @@
 {
-  "generatedAt": "2026-09-26T04:44:29.161Z",
+  "generatedAt": "2026-09-27T05:07:01.352Z",
   "jobs": [
+    {
+      "title": "Senior AI engineer",
+      "company": "BITRALIS PTE. LTD.",
+      "salary": "S$10,000 – S$18,000",
+      "type": "Full Time",
+      "skills": [
+        "Git",
+        "Cloud Applications",
+        "AWS"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/8c7a25f8dd11a28b4992f0fff54ff341",
+      "posted": "2026-09-26T07:36:45.000Z"
+    },
+    {
+      "title": "Senior AI engineer",
+      "company": "BITRALIS PTE. LTD.",
+      "salary": "S$10,000 – S$18,000",
+      "type": "Full Time",
+      "skills": [
+        "Git",
+        "Cloud Applications",
+        "AWS"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/e6fe7966762cc0731e313b1b0b7afb41",
+      "posted": "2026-09-26T07:32:13.000Z"
+    },
+    {
+      "title": "Head of School (AI, Computing & Digital Innovation)",
+      "company": "LONDON SCHOOL OF BUSINESS & FINANCE PTE. LTD.",
+      "salary": "S$3,000 – S$9,000",
+      "type": "Temporary",
+      "skills": [
+        "Ai",
+        "Board Membership",
+        "Educational Assessment"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/770a080fc971307a0cfe2629d96d9850",
+      "posted": "2026-09-26T06:41:00.000Z"
+    },
     {
       "title": "AI Scientist",
       "company": "CLOUDS CONNECTION PTE. LTD.",
@@ -15,19 +54,6 @@
       "posted": "2026-09-26T04:43:33.000Z"
     },
     {
-      "title": "Maintenance Data Analyst - AI solutions (1 Year Contract) - VTAL",
-      "company": "RECRUITPEDIA PTE. LTD.",
-      "salary": "S$4,000 – S$5,000",
-      "type": "Contract",
-      "skills": [
-        "Training Assistance",
-        "Contacting candidates",
-        "Licensing"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/6c47e8009a54097aae7ff17475f65d3b",
-      "posted": "2026-09-26T03:33:12.000Z"
-    },
-    {
       "title": "AI Engineer",
       "company": "SHARE RESOURCES PRIVATE LIMITED",
       "salary": "S$8,000 – S$9,500",
@@ -39,19 +65,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/4217739501bb9a2144bef4008a0c2dbc",
       "posted": "2026-09-25T14:25:25.000Z"
-    },
-    {
-      "title": "AI Solutions Engineer (Enterprise Clients - HK & SG)",
-      "company": "EV SEARCH PTE. LTD.",
-      "salary": "S$20,000 – S$30,000",
-      "type": "Permanent",
-      "skills": [
-        "Workflow Automation",
-        "Agents",
-        "Foundation Design"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/d0340b82c12926c2d4b1cfbb8d30168e",
-      "posted": "2026-09-25T10:54:41.000Z"
     },
     {
       "title": "Senior AI Engineer – Mathematical Reasoning",
@@ -119,19 +132,6 @@
       "posted": "2026-09-25T06:14:20.000Z"
     },
     {
-      "title": "Customer Engineer, AI, Google Cloud (Thai, English) - Singapore or Bangkok",
-      "company": "GOOGLE ASIA PACIFIC PTE. LTD.",
-      "salary": "S$12,000 – S$24,000",
-      "type": "Full Time",
-      "skills": [
-        "Enterprise Search",
-        "Workshop Delivery",
-        "Event Requirements"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/83d728bbc40d5058e9959701c87f58d4",
-      "posted": "2026-09-25T05:57:03.000Z"
-    },
-    {
       "title": "AI Engineer",
       "company": "APPLIED MATERIALS SOUTH EAST ASIA PTE. LTD.",
       "salary": "S$10,000 – S$19,000",
@@ -184,17 +184,17 @@
       "posted": "2026-09-25T02:39:07.000Z"
     },
     {
-      "title": "Device Modeling AI/ML Software Engineer",
-      "company": "KEYSIGHT TECHNOLOGIES SINGAPORE (SALES) PTE. LTD.",
-      "salary": "S$7,965 – S$10,700",
-      "type": "Full Time",
+      "title": "Lead AI Engineer – AI & Data (Banking Industry)",
+      "company": "ABEAM CONSULTING (SINGAPORE) PTE. LTD.",
+      "salary": "S$11,000 – S$16,000",
+      "type": "Contract",
       "skills": [
-        "Surrogate model",
-        "Statistical Modelling",
-        "scikit-learn"
+        "Azure AI",
+        "Generative Model",
+        "API Development"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/9aa7446b0ab90ea8fe606ea2dce3a43f",
-      "posted": "2026-09-25T02:13:36.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/0797b9148ee0a719e07a832c9c5bd125",
+      "posted": "2026-09-24T09:33:26.000Z"
     }
   ]
 }

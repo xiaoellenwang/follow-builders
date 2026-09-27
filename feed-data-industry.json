@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-09-26T04:44:29.161Z",
+  "generatedAt": "2026-09-27T05:07:01.352Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: Sustainable data center backup power is a strategy, not a battery chemistry",
+      "url": "https://www.datacenterdynamics.com/en/opinions/sustainable-data-center-backup-power-is-a-strategy-not-a-battery-chemistry/",
+      "description": "Data centers continue to walk the tightrope of meeting burgeoning power demands, while also fulfilling sustainability aims and obligations",
+      "published": "2026-09-26T15:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "AI infrastructure will define the next industrial revolution",
+      "url": "https://www.datacenterdynamics.com/en/opinions/ai-infrastructure-will-define-the-next-industrial-revolution/",
+      "description": "Energy technology, intelligence, and digital infrastructure are providing ubiquitous benefits across the world",
+      "published": "2026-09-26T13:00:35.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
@@ -42,27 +56,6 @@
       "url": "https://www.datacenterdynamics.com/en/whitepapers/the-future-of-itad/",
       "description": "An SK tes guide to reducing carbon emissions through IT asset recovery",
       "published": "2026-09-25T15:41:36.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "DCD Connect 2026: Takeaway thoughts",
-      "url": "https://www.datacenterdynamics.com/en/opinions/dcd-connect-2026-takeaway-thoughts/",
-      "description": "Reflections from our first DCD Connect London",
-      "published": "2026-09-25T15:39:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "AI cloud and data center firm Nscale raises $3.36bn ahead of its IPO",
-      "url": "https://www.datacenterdynamics.com/en/news/ai-cloud-and-data-center-firm-nscale-raises-336bn-ahead-of-its-ipo/",
-      "description": "Follows publication of IPO prospectus",
-      "published": "2026-09-25T15:34:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "IonQ: There Is One CPU To Rule Error Correction Decoding",
-      "url": "https://www.nextplatform.com/compute/2026/09/25/ionq-there-is-one-cpu-to-rule-error-correction-decoding/5299192",
-      "description": "",
-      "published": "2026-09-25T13:23:50.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -119,13 +112,6 @@
       "url": "https://www.datacenterknowledge.com/networking/the-role-of-optical-frequency-comb-generators-in-ai-data-centers",
       "description": "Optical frequency combs generate many wavelengths from a single laser instead of using separate lasers per channel, cutting power, cost, and failure points as AI data centers scale to 16+ wavelengths per fiber.",
       "published": "2026-09-24T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Data Center Water Use: From Efficiency Metrics to Real-World Resilience",
-      "url": "https://www.datacenterknowledge.com/cooling/data-center-water-use-from-efficiency-metrics-to-real-world-resilience",
-      "description": "Water has shifted from a background utility to a core constraint for data centers, requiring site-specific resilience planning that addresses peak stress, local hydrology, and community impact, not just average efficiency metrics.",
-      "published": "2026-09-23T21:42:18.000Z"
     }
   ]
 }
