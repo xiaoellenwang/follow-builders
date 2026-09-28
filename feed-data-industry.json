@@ -1,6 +1,27 @@
 {
-  "generatedAt": "2026-09-27T05:07:01.352Z",
+  "generatedAt": "2026-09-28T05:09:26.202Z",
   "articles": [
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "Data Engineering Weekly #289",
+      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-289",
+      "description": "The Weekly Data Engineering Newsletter",
+      "published": "2026-09-28T02:50:27.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: Speed to power: The infrastructure solutions shaping the global data center race",
+      "url": "https://www.datacenterdynamics.com/en/opinions/speed-to-power-the-infrastructure-solutions-shaping-the-global-data-center-race/",
+      "description": "Virtual power plants, grid enhancing technologies and around-the-meter models can all support speed to power",
+      "published": "2026-09-27T15:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Beyond redundancy: Why dynamic stability matters in AI data centers",
+      "url": "https://www.datacenterdynamics.com/en/opinions/beyond-redundancy-why-dynamic-stability-matters-in-ai-data-centers/",
+      "description": "The future of data center resilience",
+      "published": "2026-09-27T10:00:31.000Z"
+    },
     {
       "source": "Data Center Dynamics",
       "title": "Sponsored: Sustainable data center backup power is a strategy, not a battery chemistry",
@@ -44,18 +65,11 @@
       "published": "2026-09-25T16:04:08.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Vocus to build 4,000km fiber link between Brisbane and Darwin",
-      "url": "https://www.datacenterdynamics.com/en/news/vocus-to-build-4000km-fiber-link-between-brisbane-and-darwin/",
-      "description": "The route aims to support growing demand from hyperscaler, neocloud, and enterprise customers",
-      "published": "2026-09-25T16:03:55.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "The future of ITAD",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/the-future-of-itad/",
-      "description": "An SK tes guide to reducing carbon emissions through IT asset recovery",
-      "published": "2026-09-25T15:41:36.000Z"
+      "source": "The Next Platform",
+      "title": "IonQ: There Is One CPU To Rule Error Correction Decoding",
+      "url": "https://www.nextplatform.com/compute/2026/09/25/ionq-there-is-one-cpu-to-rule-error-correction-decoding/5299192",
+      "description": "",
+      "published": "2026-09-25T13:23:50.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -77,41 +91,6 @@
       "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
       "description": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments of",
       "published": "2026-09-25T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Low-Frequency Noise and Data Centers: What to Know",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/low-frequency-noise-and-data-centers-what-to-know",
-      "description": "Infrasound produced by data centers is increasingly scrutinized by communities, making proactive mitigation and transparent communication essential for operators.",
-      "published": "2026-09-24T22:46:49.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
-      "url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinois, has a",
-      "published": "2026-09-24T12:10:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "There's a new way to break RSA that's faster than anything we've seen before",
-      "url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
-      "description": "\n                        Until now, cryptographers thought factoring was the only way to break RSA. Not anymore.\n                    ",
-      "published": "2026-09-24T11:15:44.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "AI is dominating the conversation at Climate Week",
-      "url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
-      "description": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a little louder than us",
-      "published": "2026-09-24T10:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "The Role of Optical Frequency Comb Generators in AI Data Centers",
-      "url": "https://www.datacenterknowledge.com/networking/the-role-of-optical-frequency-comb-generators-in-ai-data-centers",
-      "description": "Optical frequency combs generate many wavelengths from a single laser instead of using separate lasers per channel, cutting power, cost, and failure points as AI data centers scale to 16+ wavelengths per fiber.",
-      "published": "2026-09-24T09:00:00.000Z"
     }
   ]
 }
