@@ -1,96 +1,96 @@
 {
-  "generatedAt": "2026-09-28T05:09:26.202Z",
+  "generatedAt": "2026-09-29T05:32:11.326Z",
   "articles": [
+    {
+      "source": "MIT Technology Review",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "description": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review ",
+      "published": "2026-09-28T22:17:07.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "The Next Generation of AI Infrastructure Design Starts with Efficiency",
+      "url": "https://www.datacenterknowledge.com/ai-data-centers/the-next-generation-of-ai-infrastructure-design-starts-with-efficiency",
+      "description": "AI infrastructure requires a systems-level design approach that integrates power, cooling, and compute to optimize efficiency, resilience, and adaptability – not just capacity.",
+      "published": "2026-09-28T21:01:49.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "When can we say AI made a scientific discovery?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology pro",
+      "published": "2026-09-28T17:03:16.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Europe's data center efficiency labeling scheme needs nuance, industry leaders warn",
+      "url": "https://www.datacenterdynamics.com/en/analysis/europes-data-center-efficiency-labeling-scheme-needs-nuance-industry-leaders-warn/",
+      "description": "Cautious welcome for European Commission labeling plans",
+      "published": "2026-09-28T16:00:35.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Goodman withdraws application for 90MW data center campus in Sydney, Australia",
+      "url": "https://www.datacenterdynamics.com/en/news/goodman-withdraws-application-for-90mw-data-center-campus-in-sydney-australia/",
+      "description": "Company says data center policy and regulatory environment had “evolved significantly”",
+      "published": "2026-09-28T15:42:34.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Re-engineering silicon and system design for AI-era workloads",
+      "url": "https://www.datacenterdynamics.com/en/opinions/re-engineering-silicon-and-system-design-for-ai-era-workloads/",
+      "description": "What does it take to deliver the silicon powering today and tomorrow’s data centers?",
+      "published": "2026-09-28T15:30:44.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Can Supercapacitors Smooth AI’s Power Swings?",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/can-supercapacitors-smooth-ai-s-power-swings-",
+      "description": "Supercapacitors promise millisecond response for AI-induced power transients, but most experts see them complementing, not replacing, UPS systems and batteries.",
+      "published": "2026-09-28T15:15:51.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: Energy as a Service – explained",
+      "url": "https://www.datacenterdynamics.com/en/opinions/energy-as-a-service-explained/",
+      "description": "All your power needs provided under one partner, with the skills and knowledge to bring innovation to your solution",
+      "published": "2026-09-28T15:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Schneider Electric debuts new WCDU for hybrid air and liquid-cooled environments",
+      "url": "https://www.datacenterdynamics.com/en/news/schneider-electric-debuts-new-wcdu-for-hybrid-air-and-liquid-cooled-environments/",
+      "description": "WCDU is most powerful unit in vendor's Motivair range",
+      "published": "2026-09-28T14:23:06.000Z"
+    },
+    {
+      "source": "Import AI",
+      "title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+      "url": "https://jack-clark.net/2026/09/28/import-ai-474-platonic-mindspace-tpus-in-space-zhipu-starts-an-outer-rsi-loop/",
+      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Are minds patterns from a Platonic space, with bodies and machines as their interfaces, Michael Levin asks:…A mind-ben",
+      "published": "2026-09-28T12:32:03.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: rogue agent liability and the AI Hype Index",
+      "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Who&#8217;s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI di",
+      "published": "2026-09-28T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Who’s liable when AI agents go rogue?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a ",
+      "published": "2026-09-28T08:06:22.000Z"
+    },
     {
       "source": "DataEngineeringWeekly",
       "title": "Data Engineering Weekly #289",
       "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-289",
       "description": "The Weekly Data Engineering Newsletter",
       "published": "2026-09-28T02:50:27.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: Speed to power: The infrastructure solutions shaping the global data center race",
-      "url": "https://www.datacenterdynamics.com/en/opinions/speed-to-power-the-infrastructure-solutions-shaping-the-global-data-center-race/",
-      "description": "Virtual power plants, grid enhancing technologies and around-the-meter models can all support speed to power",
-      "published": "2026-09-27T15:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Beyond redundancy: Why dynamic stability matters in AI data centers",
-      "url": "https://www.datacenterdynamics.com/en/opinions/beyond-redundancy-why-dynamic-stability-matters-in-ai-data-centers/",
-      "description": "The future of data center resilience",
-      "published": "2026-09-27T10:00:31.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: Sustainable data center backup power is a strategy, not a battery chemistry",
-      "url": "https://www.datacenterdynamics.com/en/opinions/sustainable-data-center-backup-power-is-a-strategy-not-a-battery-chemistry/",
-      "description": "Data centers continue to walk the tightrope of meeting burgeoning power demands, while also fulfilling sustainability aims and obligations",
-      "published": "2026-09-26T15:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "AI infrastructure will define the next industrial revolution",
-      "url": "https://www.datacenterdynamics.com/en/opinions/ai-infrastructure-will-define-the-next-industrial-revolution/",
-      "description": "Energy technology, intelligence, and digital infrastructure are providing ubiquitous benefits across the world",
-      "published": "2026-09-26T13:00:35.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
-      "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
-      "description": "\n                        Ads appearing all over the Internet are trying to scam people.\n                    ",
-      "published": "2026-09-25T19:38:59.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Efforts to Curb Data Center Speculation Gain Ground Across the US",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/efforts-to-curb-data-center-speculation-gain-ground-across-the-us",
-      "description": "Large-load tariffs and other measures to weed out speculative projects are taking shape amid public backlash to data centers and shifting state-level policies.",
-      "published": "2026-09-25T17:42:18.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Google’s Grid-Interactive AI Data Centers: From Backup to Grid Partner",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/google-s-grid-interactive-ai-data-centers-from-backup-to-grid-partner",
-      "description": "At Data Center World Power, Google’s Tom Garvens detailed how full-stack design, LVDC power, BESS, and liquid cooling are reshaping hyperscale AI while supporting local grids.",
-      "published": "2026-09-25T17:25:35.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "T-Mobile US expands AI network service",
-      "url": "https://www.datacenterdynamics.com/en/news/t-mobile-us-expands-ai-network-service/",
-      "description": "AutoPilot aids T-Mobile's self-organizing network efforts",
-      "published": "2026-09-25T16:04:08.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "IonQ: There Is One CPU To Rule Error Correction Decoding",
-      "url": "https://www.nextplatform.com/compute/2026/09/25/ionq-there-is-one-cpu-to-rule-error-correction-decoding/5299192",
-      "description": "",
-      "published": "2026-09-25T13:23:50.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
-      "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over the next five years on an impro",
-      "published": "2026-09-25T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-      "description": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning a",
-      "published": "2026-09-25T09:16:25.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Young organs may not be a fountain of youth for recipients",
-      "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
-      "description": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments of",
-      "published": "2026-09-25T09:00:00.000Z"
     }
   ]
 }
