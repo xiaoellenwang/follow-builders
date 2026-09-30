@@ -1,6 +1,90 @@
 {
-  "generatedAt": "2026-09-29T05:32:11.326Z",
+  "generatedAt": "2026-09-30T05:20:32.630Z",
   "articles": [
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "Thinking Like a Data Architect",
+      "url": "https://www.dataengineeringweekly.com/p/thinking-like-a-data-architect",
+      "description": "A Field guide for data leaders",
+      "published": "2026-09-30T04:17:33.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: MagPro launches AeroLev 1850 to advance water-smart cooling for AI data centers",
+      "url": "https://www.datacenterdynamics.com/en/product-news/magpro-launches-aerolev-1850-to-advance-water-smart-cooling-for-ai-data-centers/",
+      "description": "By eliminating evaporative cooling water, AeroLev 1850 removes a significant operational constraint for data centers in arid and water-stressed regions",
+      "published": "2026-09-30T01:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Infineon and Eaton partner on silicon-carbide-based solid-state transformers to support 800VDC power architectures",
+      "url": "https://www.datacenterdynamics.com/en/news/infineon-and-eaton-partner-on-silicon-carbide-based-solid-state-transformers-to-support-800vdc-power-architectures/",
+      "description": "Infineon SiC power devices will be deployed in Eaton’s MVSST 2.0 platform",
+      "published": "2026-09-29T16:30:46.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "EU Chips Joint Undertaking puts out two calls for AI hardware development projects",
+      "url": "https://www.datacenterdynamics.com/en/news/eu-chips-joint-undertaking-puts-out-two-calls-for-ai-hardware-development-projects/",
+      "description": "Calls have a combined budget of €80 million",
+      "published": "2026-09-29T16:10:28.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Alibaba Cloud plans new cloud regions in Turkey, Finland, the Netherlands",
+      "url": "https://www.datacenterdynamics.com/en/news/alibaba-cloud-plans-new-cloud-regions-in-turkey-finland-the-netherlands/",
+      "description": "Will also expand existing footprint in Malaysia, Germany, UAE, and elsewhere",
+      "published": "2026-09-29T16:05:33.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Global Switch to host large Nvidia Blackwell deployment at Paris data center",
+      "url": "https://www.datacenterdynamics.com/en/news/global-switch-to-host-large-nvidia-blackwell-deployment-at-paris-data-center/",
+      "description": "End user has not been disclosed",
+      "published": "2026-09-29T16:03:36.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "AMD Buys World Labs For $8.2 Billion To Get AI Model Cred",
+      "url": "https://www.nextplatform.com/ai/2026/09/29/amd-buys-world-labs-for-82-billion-to-get-ai-model-cred/5299801",
+      "description": "",
+      "published": "2026-09-29T14:24:25.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "AMD to Acquire World Labs for $8.2B to Advance AI Models and Robotics",
+      "url": "https://www.datacenterknowledge.com/data-center-chips/amd-to-acquire-world-labs-for-8-2b-to-advance-ai-models-and-robotics",
+      "description": "Analysts say the deal will help AMD inform future chip designs as AI evolves.",
+      "published": "2026-09-29T14:04:42.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: climate tech companies to watch and AI’s discovery problem",
+      "url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 °C of warming, climate policies being unraveled, and Big Tec",
+      "published": "2026-09-29T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
+      "url": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
+      "description": "Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achieve the loftiest goal of the Paris climate agreement. In the US, the world’s second-largest-emitting c",
+      "published": "2026-09-29T11:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Making AI an asset, not an expense",
+      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "description": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to",
+      "published": "2026-09-29T10:43:45.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "The 200 GW Moment: Reinventing the Grid for the AI Economy",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/the-200-gw-moment-reinventing-the-grid-for-the-ai-economy",
+      "description": "As AI pushes rack densities into unprecedented territory, utilities, hyperscalers, and developers are rethinking how to deliver reliable, affordable power at massive scale.",
+      "published": "2026-09-29T09:00:00.000Z"
+    },
     {
       "source": "MIT Technology Review",
       "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
@@ -23,27 +107,6 @@
       "published": "2026-09-28T17:03:16.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Europe's data center efficiency labeling scheme needs nuance, industry leaders warn",
-      "url": "https://www.datacenterdynamics.com/en/analysis/europes-data-center-efficiency-labeling-scheme-needs-nuance-industry-leaders-warn/",
-      "description": "Cautious welcome for European Commission labeling plans",
-      "published": "2026-09-28T16:00:35.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Goodman withdraws application for 90MW data center campus in Sydney, Australia",
-      "url": "https://www.datacenterdynamics.com/en/news/goodman-withdraws-application-for-90mw-data-center-campus-in-sydney-australia/",
-      "description": "Company says data center policy and regulatory environment had “evolved significantly”",
-      "published": "2026-09-28T15:42:34.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Re-engineering silicon and system design for AI-era workloads",
-      "url": "https://www.datacenterdynamics.com/en/opinions/re-engineering-silicon-and-system-design-for-ai-era-workloads/",
-      "description": "What does it take to deliver the silicon powering today and tomorrow’s data centers?",
-      "published": "2026-09-28T15:30:44.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "Can Supercapacitors Smooth AI’s Power Swings?",
       "url": "https://www.datacenterknowledge.com/energy-power-supply/can-supercapacitors-smooth-ai-s-power-swings-",
@@ -51,39 +114,11 @@
       "published": "2026-09-28T15:15:51.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: Energy as a Service – explained",
-      "url": "https://www.datacenterdynamics.com/en/opinions/energy-as-a-service-explained/",
-      "description": "All your power needs provided under one partner, with the skills and knowledge to bring innovation to your solution",
-      "published": "2026-09-28T15:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Schneider Electric debuts new WCDU for hybrid air and liquid-cooled environments",
-      "url": "https://www.datacenterdynamics.com/en/news/schneider-electric-debuts-new-wcdu-for-hybrid-air-and-liquid-cooled-environments/",
-      "description": "WCDU is most powerful unit in vendor's Motivair range",
-      "published": "2026-09-28T14:23:06.000Z"
-    },
-    {
       "source": "Import AI",
       "title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
       "url": "https://jack-clark.net/2026/09/28/import-ai-474-platonic-mindspace-tpus-in-space-zhipu-starts-an-outer-rsi-loop/",
       "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Are minds patterns from a Platonic space, with bodies and machines as their interfaces, Michael Levin asks:…A mind-ben",
       "published": "2026-09-28T12:32:03.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: rogue agent liability and the AI Hype Index",
-      "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Who&#8217;s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI di",
-      "published": "2026-09-28T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Who’s liable when AI agents go rogue?",
-      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-      "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a ",
-      "published": "2026-09-28T08:06:22.000Z"
     },
     {
       "source": "DataEngineeringWeekly",
