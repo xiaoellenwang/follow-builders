@@ -1,4 +1,110 @@
 {
-  "generatedAt": "2026-10-01T05:35:23.190Z",
-  "videos": []
+  "generatedAt": "2026-10-02T05:22:14.626Z",
+  "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "You're Allowed To Miss The Pre-AI Era",
+      "url": "https://www.youtube.com/watch?v=Kwr2DialTlA",
+      "published": "2026-09-30T14:00:22.000Z",
+      "description": "Author of \"Don't Give Away Your Legos\" Molly Graham, explains why it's normal to feel grief for your old role."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Why Claude can’t be your PM (yet) | Anthropic CPO Panel",
+      "url": "https://www.youtube.com/watch?v=sEXdyK6woKU",
+      "published": "2026-09-29T11:00:40.000Z",
+      "description": "What does product management look like when AI changes what teams can build every few months? At the Lenny and Friends Summit, Anthropic’s Ami Vora and Mike Krieger join Dan Shipper to discuss why understanding users, making good decisions, and adapting quickly remain essential to the PM role. They "
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Context is now the product: Product leadership when software can build itself | Karri Saarinen",
+      "url": "https://www.youtube.com/watch?v=Zn9NZ-r1-C4",
+      "published": "2026-09-29T11:00:08.000Z",
+      "description": "AI can help teams ship more software, but are they learning enough to make better products? At the Lenny and Friends Summit, Linear’s Karri Saarinen argues that great products depend on the understanding teams build through customer conversations, shared critiques, and hands-on work. He shares how L"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Stop planning for 2027: how OpenAI builds product 90 days at a time | Tara Sesha and Nan Yu (OpenAI)",
+      "url": "https://www.youtube.com/watch?v=-ciSTkEVy30",
+      "published": "2026-09-29T11:00:00.000Z",
+      "description": "How do you build AI products when the technology and users’ expectations are changing so quickly? At the Lenny and Friends Summit, OpenAI’s Tara Seshan and Nan Yu join Claire Vo to discuss shipping imperfect features, designing agents people can understand, and deciding how those agents should work "
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Things You Should Never Hand to AI",
+      "url": "https://www.youtube.com/watch?v=PlyzlA7-OVw",
+      "published": "2026-09-29T10:30:12.000Z",
+      "description": "Some work should never be handed to AI.\n\nMolly Graham (Founder, Glue Club) on the three things to keep: judgment, trust, and the definition of good."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Roles aren't converging—they're expanding | Tamar Yehoshua (Atlassian CPO)",
+      "url": "https://www.youtube.com/watch?v=BtK4kFI1LNo",
+      "published": "2026-09-28T11:00:25.000Z",
+      "description": "What does the “AI builder” era look like for product managers inside a large company? At the Lenny and Friends Summit, Atlassian’s Tamar Yehoshua shares examples from Confluence, a new product, and Jira to show how PMs can help teams move faster. She explains when it makes sense for PMs to write cod"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "The rise of HI-ICs | Elena Verna (Lovable)",
+      "url": "https://www.youtube.com/watch?v=fn8wnmpVqeI",
+      "published": "2026-09-28T11:00:18.000Z",
+      "description": "What if growing your career no longer meant managing a larger team? At the Lenny and Friends Summit, Elena Verna shares how her move from leading growth at Lovable to working as an individual contributor brought her back to building, with AI helping her take ideas from problem to launch. She argues "
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "What it takes to be a top PM today | Robby Stein (Google Search)",
+      "url": "https://www.youtube.com/watch?v=sTgM_sbLMNg",
+      "published": "2026-09-28T11:00:09.000Z",
+      "description": "When AI can help build almost anything, what makes a product people love? At the Lenny and Friends Summit, Google's Robby Stein draws on his work on Instagram Stories, Reels, and AI search to argue that a PM’s most important skill is making great decisions. He shares a three-part approach: understan"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Standing Still Is How You Fall Behind",
+      "url": "https://www.youtube.com/watch?v=mUtneocyGRQ",
+      "published": "2026-09-28T10:30:27.000Z",
+      "description": "What you can learn by tomorrow matters more than what you know today.\n\nMolly Graham (Founder, Glue Club) on why standing still is the least safe thing you can do."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Molly Graham: The grief, burnout, and opportunity hiding inside the AI transition",
+      "url": "https://www.youtube.com/watch?v=5-96FyJFiCA",
+      "published": "2026-09-27T12:30:18.000Z",
+      "description": "Molly Graham is back for round two, and this one is even more powerful. Molly has spent more than 20 years helping organizations and the humans inside them navigate growth and change. She’s held leadership roles at Google, Facebook, Quip, and the Chan Zuckerberg Initiative and is the host of TED’s W"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Bet Harder on the People Already Winning",
+      "url": "https://www.youtube.com/watch?v=k-ZFbj1ggGY",
+      "published": "2026-09-26T10:30:29.000Z",
+      "description": "Everyone's instinct is to save whoever is drowning. Peter Sellis (Fmr Product Chief, Snap & Discord) did the opposite.\n\nKeep handing your strongest people more decisions until they start making bad ones."
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "How to scale intent, quality, and artistry with Al | Katie Dill (Stripe)",
+      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+      "published": "2026-09-25T16:02:28.000Z",
+      "description": "As AI makes it easier to build, how do we keep products from becoming generic “zombie UI”? At the Lenny and Friends Summit, Stripe’s Katie Dill explains why great design still depends on a clear point of view, an understanding of users, and care in the details. She shares how to build those standard"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Marty Cagan: Strong Opinions, loosely held",
+      "url": "https://www.youtube.com/watch?v=fF3lkTCM5-c",
+      "published": "2026-09-25T15:54:39.000Z",
+      "description": "At Lenny and Friends Summit, Marty Cagan shares ten regrets about his product advice, from underestimating business viability and product leadership to placing too little emphasis on solution discovery. He explains how the pursuit of predictable roadmaps and processes can keep teams from learning wh"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "What product looks like when coding is solved | Geoff Charles (Ramp CPO)",
+      "url": "https://www.youtube.com/watch?v=ZG8Mf3P9xzI",
+      "published": "2026-09-25T15:52:44.000Z",
+      "description": "At Lenny and Friends Summit, Ramp's CPO Geoff Charles explains why building faster with AI means finding bottlenecks across the entire product development process. He shows how Ramp uses AI agents to uncover customer problems, shape ideas, review and test code, coordinate launches, and fix UX issues"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Taste Is What You Refuse to Ship",
+      "url": "https://www.youtube.com/watch?v=8wcM61Pp6TI",
+      "published": "2026-09-25T11:55:42.000Z",
+      "description": "Evan Spiegel said no to better ideas than most consumer startups have ever launched.\n\nThe best product leaders are museum curators. What's shipped is a small slice of the collection."
+    }
+  ]
 }
