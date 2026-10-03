@@ -1,6 +1,90 @@
 {
-  "generatedAt": "2026-10-02T05:22:14.626Z",
+  "generatedAt": "2026-10-03T05:05:14.375Z",
   "articles": [
+    {
+      "source": "Ars Technica Tech",
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "description": "\n                        Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.\n                    ",
+      "published": "2026-10-02T23:03:16.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "General Compute signs multi-year agreement with Cerebras",
+      "url": "https://www.datacenterdynamics.com/en/news/general-compute-signs-multi-year-agreement-with-cerebras/",
+      "description": "Will see Cerebras' wafer-scale compute coming to the AI cloud platform",
+      "published": "2026-10-02T16:35:30.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Intro Group to invest $270m in Egypt’s Kemet Data Center",
+      "url": "https://www.datacenterdynamics.com/en/news/intro-group-to-invest-270m-in-egypts-kemet-data-center/",
+      "description": "The facility will be developed in two phases",
+      "published": "2026-10-02T16:33:42.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Poland’s National Data Processing Center receives EU funding grant",
+      "url": "https://www.datacenterdynamics.com/en/news/polands-national-data-processing-center-receives-eu-funding-grant/",
+      "description": "The data center network has received PLN 1.56 billion ($401m) from the European Funds for Digital Development program",
+      "published": "2026-10-02T16:29:50.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "AI data center planned for Karlsruhe Institute of Technology, Germany",
+      "url": "https://www.datacenterdynamics.com/en/news/ai-data-center-planned-for-karlsruhe-institute-of-technology-germany/",
+      "description": "Facility estimated to cost €24 million and open in 2030",
+      "published": "2026-10-02T16:27:01.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Another data center in Kyiv taken offline by Russian strikes",
+      "url": "https://www.datacenterdynamics.com/en/news/another-data-center-in-kyiv-taken-offline-by-russian-strikes/",
+      "description": "Dline.ua facility taken down, follows strikes on numerous others data centers in the city",
+      "published": "2026-10-02T16:23:06.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "description": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. F",
+      "published": "2026-10-02T15:49:04.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Five Ways to Assess Your AI Infrastructure Readiness",
+      "url": "https://www.datacenterknowledge.com/ai-data-centers/five-ways-to-assess-your-ai-infrastructure-readiness",
+      "description": "AI success hinges on infrastructure. Use this five-part framework to evaluate power, cooling, security, cost strategy, and scalability.",
+      "published": "2026-10-02T13:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
+      "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica Hamzelou This week, I officially signed up for an unusual com",
+      "published": "2026-10-02T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "A new contest pits competitors against each other in a race to biological youth",
+      "url": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
+      "description": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors’ biological ages—figures that are meant ",
+      "published": "2026-10-02T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "From Opposition to Buy-In: Tactics for Data Center Developers",
+      "url": "https://www.datacenterknowledge.com/data-center-site-selection/from-opposition-to-buy-in-tactics-for-data-center-developers",
+      "description": "Data center developers are responding to growing community opposition by embracing transparency, funding power infrastructure, and prioritizing locations with supportive residents.",
+      "published": "2026-10-02T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "description": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;",
+      "published": "2026-10-02T08:00:00.000Z"
+    },
     {
       "source": "The Next Platform",
       "title": "Micron’s Numbers Show Why HBM4 Memory Is Worth 15X Its Weight In Gold",
@@ -23,46 +107,11 @@
       "published": "2026-10-01T19:36:06.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "GMI Cloud raises $668m in funding",
-      "url": "https://www.datacenterdynamics.com/en/news/gmi-cloud-raises-668m-in-funding/",
-      "description": "Combination of equity and credit facility",
-      "published": "2026-10-01T17:50:29.000Z"
-    },
-    {
       "source": "Ars Technica Tech",
       "title": "Memory executives expect RAM shortage to continue through 2028",
       "url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
       "description": "\n                        Prices for memory sold for 2027 \"are much higher than 2026 prices.\" \n                    ",
       "published": "2026-10-01T17:49:56.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "European Space Agency taps OVHcloud and CGI for Earth observation system",
-      "url": "https://www.datacenterdynamics.com/en/news/european-space-agency-taps-ovhcloud-and-cgi-for-earth-observation-system/",
-      "description": "Digital EO will provide Earth observation data to scientists, public bodies, businesses, and citizens",
-      "published": "2026-10-01T17:30:44.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Nebius signs 50MW lease with AIB Data Centers",
-      "url": "https://www.datacenterdynamics.com/en/news/nebius-signs-50mw-lease-with-aib-data-centers/",
-      "description": "Capacity to be leased from data center in southeastern US",
-      "published": "2026-10-01T17:10:34.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "AI cloud provider Blackfuel emerges from stealth, plans first deployment in Spain",
-      "url": "https://www.datacenterdynamics.com/en/news/ai-cloud-provider-blackfuel-emerges-from-stealth-plans-first-deployment-in-spain/",
-      "description": "Will be housed in Digital Realty's BCN1 data center",
-      "published": "2026-10-01T16:50:32.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Traysar and Armada team up for underground AI infrastructure",
-      "url": "https://www.datacenterdynamics.com/en/news/traysar-and-armada-team-up-for-underground-ai-infrastructure/",
-      "description": "Terminus will bring critical infrastructure below the Earth's surface",
-      "published": "2026-10-01T16:40:33.000Z"
     },
     {
       "source": "The Next Platform",
@@ -86,60 +135,11 @@
       "published": "2026-10-01T12:10:00.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
-      "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
-      "description": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way, too, and predict a person’s brain activity based on what they’re looking at.&#160; In the image above, for example, the left-hand image of ea",
-      "published": "2026-10-01T10:32:24.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "How smaller, distributed batteries could help the grid",
-      "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
-      "description": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small ba",
-      "published": "2026-10-01T10:00:00.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "Can Data Center Design Choices Change Public Acceptance?",
       "url": "https://www.datacenterknowledge.com/sustainability/can-data-center-design-choices-change-public-acceptance-",
       "description": "Operators use biomimicry, community co-design, and brownfield redevelopment to reduce the visual impact of data centers and improve local acceptance.",
       "published": "2026-10-01T09:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
-      "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
-      "description": "\n                        A simple email gives the attackers the ability to remotely inject OS commands.\n                    ",
-      "published": "2026-09-30T20:44:48.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Data Center On-Site Power Brings Pollution Risks Closer to Home",
-      "url": "https://www.datacenterknowledge.com/compliance/data-center-on-site-power-brings-pollution-risks-closer-to-home",
-      "description": "The data center industry’s shift to on-site power generation to overcome grid constraints is creating new environmental compliance challenges.",
-      "published": "2026-09-30T18:22:06.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "CoreWeave Targets Enterprises with Forge Platform",
-      "url": "https://www.datacenterknowledge.com/ai-data-centers/coreweave-targets-enterprises-with-forge-platform",
-      "description": "CoreWeave is evolving from a specialized GPU infrastructure provider into a full-stack AI cloud platform to compete with hyperscalers and attract enterprise customers.",
-      "published": "2026-09-30T14:17:02.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Optimization Is The Key Challenge For Quantum Computing",
-      "url": "https://www.nextplatform.com/compute/2026/09/30/optimization-is-the-key-challenge-for-quantum-computing/5300117",
-      "description": "",
-      "published": "2026-09-30T12:27:56.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
-      "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into ",
-      "published": "2026-09-30T12:10:00.000Z"
     }
   ]
 }
