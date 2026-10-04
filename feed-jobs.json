@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-10-03T05:05:14.375Z",
+  "generatedAt": "2026-10-04T05:38:33.723Z",
   "jobs": [
+    {
+      "title": "Junior AI Algorithm Engineer (Chip Design Team)",
+      "company": "FLAMINGO RECRUITMENT PTE. LTD.",
+      "salary": "S$5,000 – S$8,000",
+      "type": "Permanent",
+      "skills": [
+        "TensorFlow",
+        "Technology Expertise",
+        "Technical Customer Support"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/1fa6d669496290fbebf824b060ec1e38",
+      "posted": "2026-10-04T02:21:18.000Z"
+    },
     {
       "title": "AI Assisted Support Engineer",
       "company": "TECHSTUDIO SOLUTIONS PTE. LTD.",
@@ -39,19 +52,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/09aa1f6ed05baafc204c91f5bff720a9",
       "posted": "2026-10-02T10:34:26.000Z"
-    },
-    {
-      "title": "AI enablement engineer",
-      "company": "DGTL TECHNOLOGIES PTE. LTD.",
-      "salary": "S$8,000 – S$12,000",
-      "type": "Permanent",
-      "skills": [
-        "Technical Specialists",
-        "Enterprise Integration Solution",
-        "organizational pain-points"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/a326e4142ae63e0eed5425fd70d09157",
-      "posted": "2026-10-02T09:45:19.000Z"
     },
     {
       "title": "AI Engineer",

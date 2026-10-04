@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-03T05:05:14.375Z",
+  "generatedAt": "2026-10-04T05:38:33.723Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: Overcoming five common direct liquid cooling specification challenges",
+      "url": "https://www.datacenterdynamics.com/en/opinions/overcoming-five-common-direct-liquid-cooling-specification-challenges/",
+      "description": "The reality of AI infrastructure has arrived: the power-hungry chips of today, such as the NVIDIA Blackwell, have rendered traditional air cooling obsolete",
+      "published": "2026-10-03T15:00:00.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
@@ -35,13 +42,6 @@
       "url": "https://www.datacenterdynamics.com/en/news/ai-data-center-planned-for-karlsruhe-institute-of-technology-germany/",
       "description": "Facility estimated to cost €24 million and open in 2030",
       "published": "2026-10-02T16:27:01.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Another data center in Kyiv taken offline by Russian strikes",
-      "url": "https://www.datacenterdynamics.com/en/news/another-data-center-in-kyiv-taken-offline-by-russian-strikes/",
-      "description": "Dline.ua facility taken down, follows strikes on numerous others data centers in the city",
-      "published": "2026-10-02T16:23:06.000Z"
     },
     {
       "source": "MIT Technology Review",
