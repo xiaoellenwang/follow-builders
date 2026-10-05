@@ -1,6 +1,27 @@
 {
-  "generatedAt": "2026-10-04T05:38:33.723Z",
+  "generatedAt": "2026-10-05T05:21:56.892Z",
   "articles": [
+    {
+      "source": "MIT Technology Review",
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "description": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors fo",
+      "published": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "Data Engineering Weekly #290",
+      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-290",
+      "description": "The Weekly Data Engineering Newsletter",
+      "published": "2026-10-05T02:08:21.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "America’s AI race won’t be won by hitting pause on data centers",
+      "url": "https://www.datacenterdynamics.com/en/opinions/americas-ai-race-wont-be-won-by-hitting-pause-on-cata-centers/",
+      "description": "A moratorium mistake",
+      "published": "2026-10-04T14:26:00.000Z"
+    },
     {
       "source": "Data Center Dynamics",
       "title": "Sponsored: Overcoming five common direct liquid cooling specification challenges",
@@ -35,13 +56,6 @@
       "url": "https://www.datacenterdynamics.com/en/news/polands-national-data-processing-center-receives-eu-funding-grant/",
       "description": "The data center network has received PLN 1.56 billion ($401m) from the European Funds for Digital Development program",
       "published": "2026-10-02T16:29:50.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "AI data center planned for Karlsruhe Institute of Technology, Germany",
-      "url": "https://www.datacenterdynamics.com/en/news/ai-data-center-planned-for-karlsruhe-institute-of-technology-germany/",
-      "description": "Facility estimated to cost €24 million and open in 2030",
-      "published": "2026-10-02T16:27:01.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -84,62 +98,6 @@
       "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
       "description": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;",
       "published": "2026-10-02T08:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Micron’s Numbers Show Why HBM4 Memory Is Worth 15X Its Weight In Gold",
-      "url": "https://www.nextplatform.com/store/2026/10/02/microns-numbers-show-why-hbm4-memory-is-worth-15x-its-weight-in-gold/5300701",
-      "description": "",
-      "published": "2026-10-02T00:37:58.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
-      "url": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
-      "description": "\n                        It has been a bad month for federal government cybersecurity.\n                    ",
-      "published": "2026-10-01T20:28:45.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "The Hidden Failure Domain in N+1 Data Center Cooling",
-      "url": "https://www.datacenterknowledge.com/cooling/the-hidden-failure-domain-in-n-1-data-center-cooling",
-      "description": "N+1 capacity can hide shared-control dependencies, turning many units into a single failure domain. Learn how to design for degraded operation and commission real resilience.",
-      "published": "2026-10-01T19:36:06.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Memory executives expect RAM shortage to continue through 2028",
-      "url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
-      "description": "\n                        Prices for memory sold for 2027 \"are much higher than 2026 prices.\" \n                    ",
-      "published": "2026-10-01T17:49:56.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Build The Right AI Factory For Your Needs: Partner For Success",
-      "url": "https://www.nextplatform.com/ai/2026/10/01/sponsored-build-the-right-ai-factory-for-your-needs-partner-for-success/5300157",
-      "description": "SPONSORED FEATURE: HPE and NVIDIA help organizations apply accelerated computing, software, enterprise infrastructure, networking, control plane, and services to the workloads and business outcomes that matter most.",
-      "published": "2026-10-01T15:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Zinc Whiskers: The Hidden Contamination Risk Beneath Data Center Floors",
-      "url": "https://www.datacenterknowledge.com/management/zinc-whiskers-the-hidden-contamination-risk-beneath-data-center-floors",
-      "description": "As AI density and airflow rise, legacy raised-floor and zinc-plated components can shed conductive whiskers that jeopardize equipment reliability.",
-      "published": "2026-10-01T13:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: AI “mind-reading” and creative uses for small batteries",
-      "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by analyzin",
-      "published": "2026-10-01T12:10:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Can Data Center Design Choices Change Public Acceptance?",
-      "url": "https://www.datacenterknowledge.com/sustainability/can-data-center-design-choices-change-public-acceptance-",
-      "description": "Operators use biomimicry, community co-design, and brownfield redevelopment to reduce the visual impact of data centers and improve local acceptance.",
-      "published": "2026-10-01T09:00:00.000Z"
     }
   ]
 }
