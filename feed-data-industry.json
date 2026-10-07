@@ -1,103 +1,145 @@
 {
-  "generatedAt": "2026-10-05T05:21:56.892Z",
+  "generatedAt": "2026-10-07T05:40:36.620Z",
   "articles": [
     {
+      "source": "Ars Technica Tech",
+      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+      "description": "\n                        Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.\n                    ",
+      "published": "2026-10-06T19:21:14.000Z"
+    },
+    {
       "source": "MIT Technology Review",
-      "title": "EmTech Future 2026: When AI Meets Everything",
-      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-      "description": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors fo",
-      "published": "2026-10-05T04:00:00.000Z"
-    },
-    {
-      "source": "DataEngineeringWeekly",
-      "title": "Data Engineering Weekly #290",
-      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-290",
-      "description": "The Weekly Data Engineering Newsletter",
-      "published": "2026-10-05T02:08:21.000Z"
+      "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
+      "url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
+      "description": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from molecular “aging clocks.” Such clocks assess a person’s biological age by looki",
+      "published": "2026-10-06T16:40:36.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "America’s AI race won’t be won by hitting pause on data centers",
-      "url": "https://www.datacenterdynamics.com/en/opinions/americas-ai-race-wont-be-won-by-hitting-pause-on-cata-centers/",
-      "description": "A moratorium mistake",
-      "published": "2026-10-04T14:26:00.000Z"
+      "title": "DCD Studio: Permitting and pre-construction for Edge sites, with Gonzalo de la Pedraja, Quetta Data Centers",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-permitting-and-pre-construction-for-edge-sites-with-gonzalo-de-la-pedraja-quetta-data-centers/",
+      "description": "Zoe Turner speaks with Gonzalo de la Pedraja of Quetta Data Centers about permitting and pre-construction challenges for Edge sites, focusing on critical dynamics in data center development.",
+      "published": "2026-10-06T16:40:11.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "AI Power Spikes Demand Chip-to-Grid Design Changes",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/ai-power-spikes-demand-chip-to-grid-design-changes",
+      "description": "AI data centers’ rapid power swings threaten grid stability, requiring coordinated chip-to-grid strategies across chip makers, operators, utilities, and infrastructure providers.",
+      "published": "2026-10-06T16:25:29.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Sponsored: Overcoming five common direct liquid cooling specification challenges",
-      "url": "https://www.datacenterdynamics.com/en/opinions/overcoming-five-common-direct-liquid-cooling-specification-challenges/",
-      "description": "The reality of AI infrastructure has arrived: the power-hungry chips of today, such as the NVIDIA Blackwell, have rendered traditional air cooling obsolete",
-      "published": "2026-10-03T15:00:00.000Z"
+      "title": "Google signs 3.6GW deal with Constellation to secure power in PJM service area",
+      "url": "https://www.datacenterdynamics.com/en/news/google-signs-36gw-deal-with-constellation-to-secure-power-in-pjm-service-area/",
+      "description": "Nuclear and natural gas deal covers major data center markets",
+      "published": "2026-10-06T16:19:09.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Telus, AST SpaceMobile carry out D2D test in Canada",
+      "url": "https://www.datacenterdynamics.com/en/news/telus-ast-spacemobile-carry-out-d2d-test-in-canada/",
+      "description": "The duo completed their first satellite-to-smartphone integration test on Telus' network",
+      "published": "2026-10-06T16:06:04.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "AWS plans 36-building data center campus in Indiana County, Pennsylvania",
+      "url": "https://www.datacenterdynamics.com/en/news/aws-plans-36-building-data-center-campus-in-indiana-county-pennsylvania/",
+      "description": "Set for Homer City Energy Campus",
+      "published": "2026-10-06T16:04:17.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Orbital data centers? Or just distributed LEO compute?",
+      "url": "https://www.datacenterdynamics.com/en/analysis/orbital-data-centers-or-just-distributed-leo-compute/",
+      "description": "As the marketing pageantry around new space innovation pervades, strategic priorities may be cementing demand",
+      "published": "2026-10-06T16:00:46.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "When One Datacenter Is No Longer Enough",
+      "url": "https://www.nextplatform.com/ai/2026/10/06/sponsored-when-one-datacenter-is-no-longer-enough/5301045",
+      "description": "SPONSORED POST: Why training AI across multiple sites is creating a new networking challenge",
+      "published": "2026-10-06T15:00:00.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Dell Adds Data Context, Prep, And Storage Features To Its AI Data Platform",
+      "url": "https://www.nextplatform.com/store/2026/10/06/dell-adds-data-context-prep-and-storage-features-to-its-ai-data-platform/5301356",
+      "description": "",
+      "published": "2026-10-06T12:59:29.000Z"
     },
     {
       "source": "Ars Technica Tech",
-      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-      "description": "\n                        Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.\n                    ",
-      "published": "2026-10-02T23:03:16.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "General Compute signs multi-year agreement with Cerebras",
-      "url": "https://www.datacenterdynamics.com/en/news/general-compute-signs-multi-year-agreement-with-cerebras/",
-      "description": "Will see Cerebras' wafer-scale compute coming to the AI cloud platform",
-      "published": "2026-10-02T16:35:30.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Intro Group to invest $270m in Egypt’s Kemet Data Center",
-      "url": "https://www.datacenterdynamics.com/en/news/intro-group-to-invest-270m-in-egypts-kemet-data-center/",
-      "description": "The facility will be developed in two phases",
-      "published": "2026-10-02T16:33:42.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Poland’s National Data Processing Center receives EU funding grant",
-      "url": "https://www.datacenterdynamics.com/en/news/polands-national-data-processing-center-receives-eu-funding-grant/",
-      "description": "The data center network has received PLN 1.56 billion ($401m) from the European Funds for Digital Development program",
-      "published": "2026-10-02T16:29:50.000Z"
+      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "description": "\n                        The reports of OpenAI agents harming third-party sites keep coming.\n                    ",
+      "published": "2026-10-06T12:21:53.000Z"
     },
     {
       "source": "MIT Technology Review",
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-      "description": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. F",
-      "published": "2026-10-02T15:49:04.000Z"
+      "title": "The Download: 10 climate tech companies to watch",
+      "url": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology Review puts together a list of the most promising climate tech companies in the world. Th",
+      "published": "2026-10-06T12:10:00.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
+      "url": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
+      "description": "\n                        Users want to \"reduce risk and avoid unnecessary disruption\" while making changes.\n                    ",
+      "published": "2026-10-06T12:00:31.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "2026 Climate Tech Companies to Watch",
+      "url": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
+      "description": "",
+      "published": "2026-10-06T10:35:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Here’s how our climate team picked 10 promising companies to watch",
+      "url": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
+      "description": "As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we started compiling the list in 2023.&#160; This year is shaping up to be one of the hottest ever reco",
+      "published": "2026-10-06T10:35:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "WeLion New Energy and its semi-solid-state batteries",
+      "url": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
+      "description": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and drones. From the EVs that carry commuters home to the ships that transport goods a",
+      "published": "2026-10-06T10:35:00.000Z"
     },
     {
       "source": "Data Center Knowledge",
-      "title": "Five Ways to Assess Your AI Infrastructure Readiness",
-      "url": "https://www.datacenterknowledge.com/ai-data-centers/five-ways-to-assess-your-ai-infrastructure-readiness",
-      "description": "AI success hinges on infrastructure. Use this five-part framework to evaluate power, cooling, security, cost strategy, and scalability.",
-      "published": "2026-10-02T13:00:00.000Z"
+      "title": "The UPS Is Uninterruptible by Design. Its Future Is Not.",
+      "url": "https://www.datacenterknowledge.com/uptime/the-ups-is-uninterruptible-by-design-its-future-is-not-",
+      "description": "From rack-level batteries to BESS and solid-state transformers, new power architectures are reshaping where and whether the UPS belongs in the data center.",
+      "published": "2026-10-06T09:00:00.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
-      "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica Hamzelou This week, I officially signed up for an unusual com",
-      "published": "2026-10-02T12:10:00.000Z"
+      "source": "Ars Technica Tech",
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "description": "\n                        Trust gaps in the new protocol spread malicious prompts from one agent to another.\n                    ",
+      "published": "2026-10-05T22:26:35.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "A new contest pits competitors against each other in a race to biological youth",
-      "url": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
-      "description": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors’ biological ages—figures that are meant ",
-      "published": "2026-10-02T09:00:00.000Z"
+      "source": "The Next Platform",
+      "title": "AI Spending Is The Honey Badger Of Budgets",
+      "url": "https://www.nextplatform.com/ai/2026/10/05/ai-spending-is-the-honey-badger-of-budgets/5301184",
+      "description": "",
+      "published": "2026-10-05T17:52:31.000Z"
     },
     {
       "source": "Data Center Knowledge",
-      "title": "From Opposition to Buy-In: Tactics for Data Center Developers",
-      "url": "https://www.datacenterknowledge.com/data-center-site-selection/from-opposition-to-buy-in-tactics-for-data-center-developers",
-      "description": "Data center developers are responding to growing community opposition by embracing transparency, funding power infrastructure, and prioritizing locations with supportive residents.",
-      "published": "2026-10-02T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Don’t be fooled—LLMs don’t reason",
-      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-      "description": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;",
-      "published": "2026-10-02T08:00:00.000Z"
+      "title": "Beyond the Megawatt: Why Data Center Site Selection Is Now a Three-Front Battle",
+      "url": "https://www.datacenterknowledge.com/data-center-site-selection/beyond-the-megawatt-why-data-center-site-selection-is-now-a-three-front-battle",
+      "description": "Data center development now requires addressing grid costs, water use, and community benefits. Securing power alone is no longer enough for approval.",
+      "published": "2026-10-05T13:00:00.000Z"
     }
   ]
 }
