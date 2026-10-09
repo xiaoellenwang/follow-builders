@@ -1,6 +1,97 @@
 {
-  "generatedAt": "2026-10-08T05:48:49.801Z",
+  "generatedAt": "2026-10-09T05:53:38.407Z",
   "articles": [
+    {
+      "source": "MIT Technology Review",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "description": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next",
+      "published": "2026-10-09T00:08:24.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Permits, Not Power, Halt Google’s Finland Data Centers",
+      "url": "https://www.datacenterknowledge.com/regulations/permits-not-power-halt-google-s-finland-data-centers",
+      "description": "Google had secured access to Finland’s northern grid, but environmental rules are blocking site work at two facilities in its €13 billion data center expansion.",
+      "published": "2026-10-08T17:33:01.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "DCD Connect | London 2026 - Post Show Report",
+      "url": "https://www.datacenterdynamics.com/en/dcd-downloads/dcdconnect-london-2026-post-show-report/",
+      "description": "Gain insights into the key statistics and attendee demographics from this year's event",
+      "published": "2026-10-08T17:19:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Nokia to cut more than 250 jobs in Finland - report",
+      "url": "https://www.datacenterdynamics.com/en/news/nokia-to-cut-more-than-250-jobs-in-finland-report/",
+      "description": "The cuts are part of the company's cost-cutting plans put forward in 2023",
+      "published": "2026-10-08T16:41:20.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "KT Cloud plans 50MW data center project in Incheon, South Korea",
+      "url": "https://www.datacenterdynamics.com/en/news/kt-cloud-plans-50mw-data-center-project-in-incheon-south-korea/",
+      "description": "KT Cloud will serve as the design, build, and operate partner",
+      "published": "2026-10-08T16:33:23.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "DCD Studio: Market models for SMRs with Rosa Rotko, Mott MacDonald",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-market-models-for-smrs-with-rosa-rotko-mott-macdonald/",
+      "description": "Tam Pledger speaks with Rosa Rotko of Mott MacDonald on critical grid connection delays impacting UK energy projects ",
+      "published": "2026-10-08T16:32:05.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "AI cloud company Boost Run secures $525.6m contract with Cohere",
+      "url": "https://www.datacenterdynamics.com/en/news/ai-cloud-company-boost-run-secures-5256m-contract-with-cohere/",
+      "description": "Cohere will use Boost Run's dedicated GPU cloud computing infrastructure",
+      "published": "2026-10-08T16:30:46.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Growing Pains: How Distributed AI Training Changes The Network Between Datacenters",
+      "url": "https://www.nextplatform.com/connect/2026/10/08/sponsored-growing-pains-how-distributed-ai-training-changes-the-network-between-datacenters/5301560",
+      "description": "SPONSORED FEATURE: While linking the GPUs in a datacenter is a challenge, coordinating thousands of them to work efficiently over hundreds of kilometers presents a new set of difficulties.",
+      "published": "2026-10-08T15:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
+      "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the i",
+      "published": "2026-10-08T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Why we’re watching these climate tech companies",
+      "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
+      "description": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT Technology Review team puts together. Our goal is to highlight some of the promising, interesting advances and firms we think are worth paying attention to in the world of climate",
+      "published": "2026-10-08T10:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "description": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds.",
+      "published": "2026-10-08T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "How Carbon-Aware Scheduling Can Cut Data Center Emissions",
+      "url": "https://www.datacenterknowledge.com/sustainability/how-carbon-aware-scheduling-can-cut-data-center-emissions",
+      "description": "Aligning flexible workloads to cleaner hours and locations turns variability into measurable Scope 2 reductions.",
+      "published": "2026-10-08T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Building a safer path to autonomous industrial AI",
+      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+      "description": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the ",
+      "published": "2026-10-08T08:17:32.000Z"
+    },
     {
       "source": "The Next Platform",
       "title": "Memory Is The Lynchpin Of The IT Industry, And Doubly So For AI",
@@ -16,53 +107,11 @@
       "published": "2026-10-08T02:28:49.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Waterless fire suppression is becoming key for data center community relations",
-      "url": "https://www.datacenterdynamics.com/en/opinions/waterless-fire-suppression-is-becoming-key-for-data-center-community-relations/",
-      "description": "The risk of fire has increased dramatically as data centers grow in quantity and size",
-      "published": "2026-10-07T20:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Ghana awards 5G licenses to Telecel, MTN after slow rollout woes",
-      "url": "https://www.datacenterdynamics.com/en/news/ghana-awards-5g-licenses-to-telecel-mtn-after-slow-rollout-woes/",
-      "description": "Telecel plans to launch 5G in December",
-      "published": "2026-10-07T16:12:45.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "AirTrunk plans additional $1bn investment in data center campus in Inzai, Japan",
-      "url": "https://www.datacenterdynamics.com/en/news/airtrunk-plans-additional-1bn-investment-in-data-center-campus-in-inzai-japan/",
-      "description": "Company plans to triple overall investment in country to $30bn",
-      "published": "2026-10-07T16:10:15.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Openreach taps Ciena for 1.6Tbps WaveLogic 6 technology",
-      "url": "https://www.datacenterdynamics.com/en/news/openreach-taps-ciena-for-16tbps-wavelogic-6-technology/",
-      "description": "Optical upgrades will support Openreach's wholesale offering",
-      "published": "2026-10-07T16:01:08.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Secure access across global data centers",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/secure-access-across-global-data-centers/",
-      "description": "From fragmented access to centralized control across 100+ sites",
-      "published": "2026-10-07T15:45:56.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "HPE’s Gen13 Signals Enterprise AI Shift to CPU-GPU Balance",
       "url": "https://www.datacenterknowledge.com/servers/hpe-s-gen13-signals-enterprise-ai-shift-to-cpu-gpu-balance",
       "description": "HPE launched AMD Epyc-powered ProLiant Gen13 servers for enterprise AI inference, agentic AI, and traditional workloads, targeting enterprise customers with varied AI needs.",
       "published": "2026-10-07T15:43:53.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
-      "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular weight-loss drugs may do more than help people shed pounds. They migh",
-      "published": "2026-10-07T12:10:00.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -86,60 +135,11 @@
       "published": "2026-10-06T19:21:14.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
-      "url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
-      "description": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from molecular “aging clocks.” Such clocks assess a person’s biological age by looki",
-      "published": "2026-10-06T16:40:36.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "AI Power Spikes Demand Chip-to-Grid Design Changes",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/ai-power-spikes-demand-chip-to-grid-design-changes",
-      "description": "AI data centers’ rapid power swings threaten grid stability, requiring coordinated chip-to-grid strategies across chip makers, operators, utilities, and infrastructure providers.",
-      "published": "2026-10-06T16:25:29.000Z"
-    },
-    {
       "source": "The Next Platform",
       "title": "When One Datacenter Is No Longer Enough",
       "url": "https://www.nextplatform.com/ai/2026/10/06/sponsored-when-one-datacenter-is-no-longer-enough/5301045",
       "description": "SPONSORED POST: Why training AI across multiple sites is creating a new networking challenge",
       "published": "2026-10-06T15:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Dell Adds Data Context, Prep, And Storage Features To Its AI Data Platform",
-      "url": "https://www.nextplatform.com/store/2026/10/06/dell-adds-data-context-prep-and-storage-features-to-its-ai-data-platform/5301356",
-      "description": "",
-      "published": "2026-10-06T12:59:29.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-      "description": "\n                        The reports of OpenAI agents harming third-party sites keep coming.\n                    ",
-      "published": "2026-10-06T12:21:53.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: 10 climate tech companies to watch",
-      "url": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology Review puts together a list of the most promising climate tech companies in the world. Th",
-      "published": "2026-10-06T12:10:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
-      "url": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
-      "description": "\n                        Users want to \"reduce risk and avoid unnecessary disruption\" while making changes.\n                    ",
-      "published": "2026-10-06T12:00:31.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "2026 Climate Tech Companies to Watch",
-      "url": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
-      "description": "",
-      "published": "2026-10-06T10:35:00.000Z"
     }
   ]
 }
