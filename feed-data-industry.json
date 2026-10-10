@@ -1,6 +1,97 @@
 {
-  "generatedAt": "2026-10-09T05:53:38.407Z",
+  "generatedAt": "2026-10-10T05:36:02.775Z",
   "articles": [
+    {
+      "source": "The Next Platform",
+      "title": "Upscale AI Partners With Nvidia While Competing With It",
+      "url": "https://www.nextplatform.com/connect/2026/10/09/upscale-ai-partners-with-nvidia-while-competing-with-it/5302456",
+      "description": "",
+      "published": "2026-10-09T21:15:34.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
+      "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
+      "description": "\n                        \"The current decline may be just the beginning of a new downward cycle.\" \n                    ",
+      "published": "2026-10-09T18:54:52.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Speed Bumps Slow Asia-Pacific’s Data Center Gold Rush",
+      "url": "https://www.datacenterknowledge.com/investing/speed-bumps-slow-asia-pacific-s-data-center-gold-rush",
+      "description": "Firmus and PLDT pulled data center IPOs this week while governments pressed pause on development in the latest hurdles to Asia’s data center boom.",
+      "published": "2026-10-09T18:42:43.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Bitdeer expands Soluna mining agreement to 35MW",
+      "url": "https://www.datacenterdynamics.com/en/news/bitdeer-expands-soluna-mining-agreement-to-35mw/",
+      "description": "Builds on agreement announced in August",
+      "published": "2026-10-09T16:07:46.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Google's VP of global infrastructure and capacity Bikash Koley heads to TPU neocloud Crux AI",
+      "url": "https://www.datacenterdynamics.com/en/news/googles-vp-of-global-infrastructure-and-capacity-bikash-koley-heads-to-tpu-neocloud-crux-ai/",
+      "description": "Leaves Google, but stays in the family",
+      "published": "2026-10-09T16:00:51.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Vodafone raises cost savings target for UK unit to £1bn",
+      "url": "https://www.datacenterdynamics.com/en/news/vodafone-raises-cost-savings-target-for-uk-unit-to-1bn/",
+      "description": "The previous figure was £700 million",
+      "published": "2026-10-09T15:58:05.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Mexican authorities seize cryptomine amid suspected cartel funding links",
+      "url": "https://www.datacenterdynamics.com/en/news/mexican-authorities-seize-cryptomine-amid-suspected-cartel-funding-links/",
+      "description": "More than 1,000 cryptomining units discovered",
+      "published": "2026-10-09T15:54:59.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Council rejects 80MW data center in northern Italy",
+      "url": "https://www.datacenterdynamics.com/en/news/council-rejects-80mw-data-center-in-northern-italy/",
+      "description": "Municipality argues the plans go against its environmental policy",
+      "published": "2026-10-09T15:50:34.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+      "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how t",
+      "published": "2026-10-09T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "description": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But re",
+      "published": "2026-10-09T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Job titles of the future: Delivery drone air traffic controller",
+      "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+      "description": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wischnewsky is now an RPIC, or “remote pilot in command,” at a company called FlyT",
+      "published": "2026-10-09T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+      "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+      "description": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological age. Overweight and diabetic people who take GLP-1s have a biological age aroun",
+      "published": "2026-10-09T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "ThisWay Global to Convert Bankrupt RELLIS Site into 73 MW AI Hub",
+      "url": "https://www.datacenterknowledge.com/ai-data-centers/thisway-global-to-convert-bankrupt-rellis-site-into-73-mw-ai-hub",
+      "description": "ThisWay Global will revamp a bankrupt data center project at Texas A&amp;M’s RELLIS Campus into a 73 MW AI and research center to demonstrate its Sovereign AI Blueprint.",
+      "published": "2026-10-09T09:00:00.000Z"
+    },
     {
       "source": "MIT Technology Review",
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -16,67 +107,11 @@
       "published": "2026-10-08T17:33:01.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "DCD Connect | London 2026 - Post Show Report",
-      "url": "https://www.datacenterdynamics.com/en/dcd-downloads/dcdconnect-london-2026-post-show-report/",
-      "description": "Gain insights into the key statistics and attendee demographics from this year's event",
-      "published": "2026-10-08T17:19:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Nokia to cut more than 250 jobs in Finland - report",
-      "url": "https://www.datacenterdynamics.com/en/news/nokia-to-cut-more-than-250-jobs-in-finland-report/",
-      "description": "The cuts are part of the company's cost-cutting plans put forward in 2023",
-      "published": "2026-10-08T16:41:20.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "KT Cloud plans 50MW data center project in Incheon, South Korea",
-      "url": "https://www.datacenterdynamics.com/en/news/kt-cloud-plans-50mw-data-center-project-in-incheon-south-korea/",
-      "description": "KT Cloud will serve as the design, build, and operate partner",
-      "published": "2026-10-08T16:33:23.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "DCD Studio: Market models for SMRs with Rosa Rotko, Mott MacDonald",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-market-models-for-smrs-with-rosa-rotko-mott-macdonald/",
-      "description": "Tam Pledger speaks with Rosa Rotko of Mott MacDonald on critical grid connection delays impacting UK energy projects ",
-      "published": "2026-10-08T16:32:05.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "AI cloud company Boost Run secures $525.6m contract with Cohere",
-      "url": "https://www.datacenterdynamics.com/en/news/ai-cloud-company-boost-run-secures-5256m-contract-with-cohere/",
-      "description": "Cohere will use Boost Run's dedicated GPU cloud computing infrastructure",
-      "published": "2026-10-08T16:30:46.000Z"
-    },
-    {
       "source": "The Next Platform",
-      "title": "Growing Pains: How Distributed AI Training Changes The Network Between Datacenters",
-      "url": "https://www.nextplatform.com/connect/2026/10/08/sponsored-growing-pains-how-distributed-ai-training-changes-the-network-between-datacenters/5301560",
-      "description": "SPONSORED FEATURE: While linking the GPUs in a datacenter is a challenge, coordinating thousands of them to work efficiently over hundreds of kilometers presents a new set of difficulties.",
-      "published": "2026-10-08T15:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
-      "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the i",
-      "published": "2026-10-08T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Why we’re watching these climate tech companies",
-      "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
-      "description": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT Technology Review team puts together. Our goal is to highlight some of the promising, interesting advances and firms we think are worth paying attention to in the world of climate",
-      "published": "2026-10-08T10:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "description": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds.",
-      "published": "2026-10-08T09:00:00.000Z"
+      "title": "Memory Is The Lynchpin Of The IT Industry, And Doubly So For AI",
+      "url": "https://www.nextplatform.com/store/2026/10/08/memory-is-the-lynchpin-of-the-it-industry-and-doubly-so-for-ai/5301841",
+      "description": "",
+      "published": "2026-10-08T14:39:00.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -86,18 +121,11 @@
       "published": "2026-10-08T09:00:00.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "Building a safer path to autonomous industrial AI",
-      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-      "description": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the ",
-      "published": "2026-10-08T08:17:32.000Z"
-    },
-    {
       "source": "The Next Platform",
-      "title": "Memory Is The Lynchpin Of The IT Industry, And Doubly So For AI",
-      "url": "https://www.nextplatform.com/store/2026/10/08/memory-is-the-lynchpin-of-the-it-industry-and-doubly-so-for-ai/5301841",
-      "description": "",
-      "published": "2026-10-08T02:39:02.000Z"
+      "title": "Growing Pains: How Distributed AI Training Changes The Network Between Datacenters",
+      "url": "https://www.nextplatform.com/connect/2026/10/08/sponsored-growing-pains-how-distributed-ai-training-changes-the-network-between-datacenters/5301560",
+      "description": "SPONSORED FEATURE: While linking the GPUs in a datacenter is a challenge, coordinating thousands of them to work efficiently over hundreds of kilometers presents a new set of difficulties.",
+      "published": "2026-10-08T09:00:00.000Z"
     },
     {
       "source": "The Next Platform",
@@ -112,34 +140,6 @@
       "url": "https://www.datacenterknowledge.com/servers/hpe-s-gen13-signals-enterprise-ai-shift-to-cpu-gpu-balance",
       "description": "HPE launched AMD Epyc-powered ProLiant Gen13 servers for enterprise AI inference, agentic AI, and traditional workloads, targeting enterprise customers with varied AI needs.",
       "published": "2026-10-07T15:43:53.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "EMEA Data Center Expansion Faces a Delivery Test",
-      "url": "https://www.datacenterknowledge.com/data-center-site-selection/emea-data-center-expansion-faces-a-delivery-test",
-      "description": "Power limits are pushing development beyond FLAP-D, but grid access, construction capacity, and community support will decide which projects get delivered.",
-      "published": "2026-10-07T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Data Center Power Demand to Grow 24% Annually by 2030: McKinsey",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/data-center-power-demand-to-grow-24-annually-by-2030-mckinsey",
-      "description": "Power constraints are pushing operators toward on-site generation, but uncertainty beyond 2030 raises questions about how much infrastructure to build.",
-      "published": "2026-10-07T09:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-      "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-      "description": "\n                        Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.\n                    ",
-      "published": "2026-10-06T19:21:14.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "When One Datacenter Is No Longer Enough",
-      "url": "https://www.nextplatform.com/ai/2026/10/06/sponsored-when-one-datacenter-is-no-longer-enough/5301045",
-      "description": "SPONSORED POST: Why training AI across multiple sites is creating a new networking challenge",
-      "published": "2026-10-06T15:00:00.000Z"
     }
   ]
 }
