@@ -1,6 +1,27 @@
 {
-  "generatedAt": "2026-10-10T05:36:02.775Z",
+  "generatedAt": "2026-10-11T05:32:25.173Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: Why do liquid-cooled AI data centers require different backup power strategy?",
+      "url": "https://www.datacenterdynamics.com/en/opinions/why-do-liquid-cooled-ai-data-centers-require-different-backup-power-strategy/",
+      "description": "AI-focused data centers require new backup power strategies as their rack power density is rising sharply and their workloads fluctuate rapidly",
+      "published": "2026-10-10T15:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Cipher extends Barber Lake data center lease commitments to 20 years",
+      "url": "https://www.datacenterdynamics.com/en/news/cipher-extends-barber-lake-data-center-lease-commitments-to-20-years/",
+      "description": "Fluidstack and unnamed AI lab agree lengthy leases",
+      "published": "2026-10-10T11:00:34.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: Wärtsilä, Schneider Electric, and Stanley Consultants launch coordinated approach for faster US data center power delivery",
+      "url": "https://www.datacenterdynamics.com/en/product-news/w%C3%A4rtsil%C3%A4-schneider-electric-and-stanley-consultants-launch-coordinated-approach-for-faster-us-data-center-power-delivery/",
+      "description": "Coordinated 'generator-to-chip' approach integrates onsite generation, electrical infrastructure, and engineering to help data center customers streamline development and save time compared to traditional delivery models",
+      "published": "2026-10-10T07:00:00.000Z"
+    },
     {
       "source": "The Next Platform",
       "title": "Upscale AI Partners With Nvidia While Competing With It",
@@ -35,27 +56,6 @@
       "url": "https://www.datacenterdynamics.com/en/news/googles-vp-of-global-infrastructure-and-capacity-bikash-koley-heads-to-tpu-neocloud-crux-ai/",
       "description": "Leaves Google, but stays in the family",
       "published": "2026-10-09T16:00:51.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Vodafone raises cost savings target for UK unit to £1bn",
-      "url": "https://www.datacenterdynamics.com/en/news/vodafone-raises-cost-savings-target-for-uk-unit-to-1bn/",
-      "description": "The previous figure was £700 million",
-      "published": "2026-10-09T15:58:05.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Mexican authorities seize cryptomine amid suspected cartel funding links",
-      "url": "https://www.datacenterdynamics.com/en/news/mexican-authorities-seize-cryptomine-amid-suspected-cartel-funding-links/",
-      "description": "More than 1,000 cryptomining units discovered",
-      "published": "2026-10-09T15:54:59.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Council rejects 80MW data center in northern Italy",
-      "url": "https://www.datacenterdynamics.com/en/news/council-rejects-80mw-data-center-in-northern-italy/",
-      "description": "Municipality argues the plans go against its environmental policy",
-      "published": "2026-10-09T15:50:34.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -126,20 +126,6 @@
       "url": "https://www.nextplatform.com/connect/2026/10/08/sponsored-growing-pains-how-distributed-ai-training-changes-the-network-between-datacenters/5301560",
       "description": "SPONSORED FEATURE: While linking the GPUs in a datacenter is a challenge, coordinating thousands of them to work efficiently over hundreds of kilometers presents a new set of difficulties.",
       "published": "2026-10-08T09:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "HPE Unveils The First Of The Next Generation of ProLiants for the AI Era",
-      "url": "https://www.nextplatform.com/compute/2026/10/08/hpe-unveils-the-first-of-the-next-generation-of-proliants-for-the-ai-era/5301808",
-      "description": "",
-      "published": "2026-10-08T02:28:49.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "HPE’s Gen13 Signals Enterprise AI Shift to CPU-GPU Balance",
-      "url": "https://www.datacenterknowledge.com/servers/hpe-s-gen13-signals-enterprise-ai-shift-to-cpu-gpu-balance",
-      "description": "HPE launched AMD Epyc-powered ProLiant Gen13 servers for enterprise AI inference, agentic AI, and traditional workloads, targeting enterprise customers with varied AI needs.",
-      "published": "2026-10-07T15:43:53.000Z"
     }
   ]
 }

@@ -1,4 +1,200 @@
 {
-  "generatedAt": "2026-10-10T05:36:02.775Z",
-  "jobs": []
+  "generatedAt": "2026-10-11T05:32:25.173Z",
+  "jobs": [
+    {
+      "title": "AI/ML Engineer (Agentic AI & Data Science) – 12-Month Contract | Banking Client | MBFC",
+      "company": "NTT SINGAPORE PTE. LTD.",
+      "salary": "S$5,000 – S$7,500",
+      "type": "Contract",
+      "skills": [
+        "TensorFlow",
+        "Machine Learning",
+        "Retrieval-Augmented Generation (RAG)"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/fa20e842cf0070a62b80be701caf576b",
+      "posted": "2026-10-11T04:44:42.000Z"
+    },
+    {
+      "title": "Generative AI & 3D Innovation Specialist",
+      "company": "NEXBRIDGE RECRUITMENT PTE. LTD.",
+      "salary": "S$9,000 – S$12,000",
+      "type": "Contract",
+      "skills": [
+        "TensorFlow",
+        "Computer Engineering",
+        "Collaborating With Product Managers"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/b1760d325c454b19d74b3e6463427ecf",
+      "posted": "2026-10-10T16:59:26.000Z"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "PERSOL SINGAPORE PTE. LTD.",
+      "salary": "S$7,000 – S$10,000",
+      "type": "Contract",
+      "skills": [
+        "Autonomy iManage",
+        "Git",
+        "Technology Expertise"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/589977ace600bcd0e89c2cb10aeecc52",
+      "posted": "2026-10-10T06:15:29.000Z"
+    },
+    {
+      "title": "Full Stack Engineer (AI/Python/React)",
+      "company": "PERSOL SINGAPORE PTE. LTD.",
+      "salary": "S$8,000 – S$12,000",
+      "type": "Contract",
+      "skills": [
+        "Hr Services",
+        "Onboarding",
+        "Validation"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/8ecba28a0337755d7c9539e7c7780b91",
+      "posted": "2026-10-10T06:10:47.000Z"
+    },
+    {
+      "title": "Research Fellow (Computer Science/AI/Computational Biology/Bioinformatics)",
+      "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
+      "salary": "S$6,000 – S$12,000",
+      "type": "Contract",
+      "skills": [
+        "Analytical Approach",
+        "Generative Model",
+        "TensorFlow"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/8edbb3ebda607fabfb1af6526f3b54b1",
+      "posted": "2026-10-10T06:06:04.000Z"
+    },
+    {
+      "title": "ARTIFICIAL INTELLIGENCE MANAGER",
+      "company": "FENG BUILDER PTE. LTD.",
+      "salary": "S$5,800 – S$6,200",
+      "type": "Full Time",
+      "skills": [
+        "Creative Problem Solving",
+        "Generative Model",
+        "Complex Data Sources"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/5e1908d555ab80541b3bd519b9f9e559",
+      "posted": "2026-10-10T02:21:56.000Z"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "OPTIMUM SOLUTIONS (SINGAPORE) PTE LTD",
+      "salary": "S$7,000 – S$10,000",
+      "type": "Contract",
+      "skills": [
+        "Multi-Agent Systems",
+        "Machine Learning",
+        "Front-End Architecture"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/89edef38e78b5539e4452da5bde967f4",
+      "posted": "2026-10-09T10:16:09.000Z"
+    },
+    {
+      "title": "AI Engineer (Gen AI)",
+      "company": "NSEARCH GLOBAL PTE. LTD.",
+      "salary": "S$8,000 – S$12,000",
+      "type": "Contract",
+      "skills": [
+        "Multi-Agent Systems",
+        "Retrieval-Augmented Generation (RAG)",
+        "Front-End Architecture"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/10e3e36c244048140f841de0a0a3fd73",
+      "posted": "2026-10-09T09:48:35.000Z"
+    },
+    {
+      "title": "IT Application Support Specialist L2 (Agentic AI Engineer)",
+      "company": "BASIL TECHNOLOGIES PTE. LTD.",
+      "salary": "S$14,000 – S$14,600",
+      "type": "Contract",
+      "skills": [
+        "Cloud Monitoring",
+        "Design",
+        "Cloud Administration"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/cb725d76de7c1301f46bffd75c86de03",
+      "posted": "2026-10-09T09:23:07.000Z"
+    },
+    {
+      "title": "AI Security Engineer – AI Guardrails / LLM Security",
+      "company": "ASTEK SINGAPORE INNOVATION TECHNOLOGY PTE. LTD.",
+      "salary": "S$6,000 – S$12,000",
+      "type": "Full Time",
+      "skills": [
+        "Azure AI",
+        "Machine Learning",
+        "OWASP"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/4c1bac5f84fbb83d7a2ecd4fd032aad2",
+      "posted": "2026-10-09T08:47:30.000Z"
+    },
+    {
+      "title": "Associate AI Engineer (Banking Sector)",
+      "company": "NTT SINGAPORE PTE. LTD.",
+      "salary": "S$5,500 – S$7,000",
+      "type": "Full Time",
+      "skills": [
+        "Machine Learning",
+        "Ai",
+        "Retrieval-Augmented Generation (RAG)"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/b2dbc656e67db989dddb40e0034e04ed",
+      "posted": "2026-10-09T08:06:55.000Z"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "UARROW PTE. LTD.",
+      "salary": "S$9,000 – S$12,000",
+      "type": "Contract",
+      "skills": [
+        "Analytics Support",
+        "Design",
+        "AI Agents"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/049e9747b6cdf404fe0e5d359bceb090",
+      "posted": "2026-10-09T08:04:38.000Z"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "ICON CONSULTING-GROUP PTE. LTD.",
+      "salary": "S$6,000 – S$10,000",
+      "type": "Permanent",
+      "skills": [
+        "API Development",
+        "TensorFlow",
+        "Machine Learning"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/5c4e7e6d5cf910ecf8ef5865a4af920a",
+      "posted": "2026-10-09T06:24:06.000Z"
+    },
+    {
+      "title": "Large Language Model (LLM) Evaluation Engineer",
+      "company": "KUAILU SOFTWARE (SINGAPORE) PTE. LTD.",
+      "salary": "S$6,000 – S$12,000",
+      "type": "Full Time",
+      "skills": [
+        "Testing Results",
+        "Pipeline Management",
+        "Model Deployment"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/ebe2184f23cd6d90b036db69484d1a0f",
+      "posted": "2026-10-09T03:41:03.000Z"
+    },
+    {
+      "title": "AI Engineer - Contract",
+      "company": "NTT SINGAPORE PTE. LTD.",
+      "salary": "S$5,000 – S$7,000",
+      "type": "Contract",
+      "skills": [
+        "TensorFlow",
+        "Machine Learning",
+        "Ai"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/f5b327f8a62d9002a363d1f5f927c492",
+      "posted": "2026-10-09T03:23:30.000Z"
+    }
+  ]
 }
