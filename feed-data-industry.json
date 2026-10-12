@@ -1,6 +1,27 @@
 {
-  "generatedAt": "2026-10-11T05:32:25.173Z",
+  "generatedAt": "2026-10-12T05:42:25.936Z",
   "articles": [
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "Data Engineering Weekly #291",
+      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-291",
+      "description": "The Weekly Data Engineering Newsletter",
+      "published": "2026-10-12T03:18:01.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: Legacy data center efficiency now has a compliance deadline",
+      "url": "https://www.datacenterdynamics.com/en/opinions/legacy-data-center-efficiency-now-has-a-compliance-deadline/",
+      "description": "Why efficiency in existing facilities has shifted from good intention to obligation",
+      "published": "2026-10-11T15:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Hyperscale Data plans Patriot BTC subsidiary for Bitcoin mining business",
+      "url": "https://www.datacenterdynamics.com/en/news/hyperscale-data-plans-patriot-btc-subsidiary-for-bitcoin-mining-business/",
+      "description": "Will transfer Montana data center to new company",
+      "published": "2026-10-11T11:00:49.000Z"
+    },
     {
       "source": "Data Center Dynamics",
       "title": "Sponsored: Why do liquid-cooled AI data centers require different backup power strategy?",
@@ -44,20 +65,6 @@
       "published": "2026-10-09T18:42:43.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Bitdeer expands Soluna mining agreement to 35MW",
-      "url": "https://www.datacenterdynamics.com/en/news/bitdeer-expands-soluna-mining-agreement-to-35mw/",
-      "description": "Builds on agreement announced in August",
-      "published": "2026-10-09T16:07:46.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Google's VP of global infrastructure and capacity Bikash Koley heads to TPU neocloud Crux AI",
-      "url": "https://www.datacenterdynamics.com/en/news/googles-vp-of-global-infrastructure-and-capacity-bikash-koley-heads-to-tpu-neocloud-crux-ai/",
-      "description": "Leaves Google, but stays in the family",
-      "published": "2026-10-09T16:00:51.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
       "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
@@ -91,41 +98,6 @@
       "url": "https://www.datacenterknowledge.com/ai-data-centers/thisway-global-to-convert-bankrupt-rellis-site-into-73-mw-ai-hub",
       "description": "ThisWay Global will revamp a bankrupt data center project at Texas A&amp;M’s RELLIS Campus into a 73 MW AI and research center to demonstrate its Sovereign AI Blueprint.",
       "published": "2026-10-09T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "description": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next",
-      "published": "2026-10-09T00:08:24.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Permits, Not Power, Halt Google’s Finland Data Centers",
-      "url": "https://www.datacenterknowledge.com/regulations/permits-not-power-halt-google-s-finland-data-centers",
-      "description": "Google had secured access to Finland’s northern grid, but environmental rules are blocking site work at two facilities in its €13 billion data center expansion.",
-      "published": "2026-10-08T17:33:01.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Memory Is The Lynchpin Of The IT Industry, And Doubly So For AI",
-      "url": "https://www.nextplatform.com/store/2026/10/08/memory-is-the-lynchpin-of-the-it-industry-and-doubly-so-for-ai/5301841",
-      "description": "",
-      "published": "2026-10-08T14:39:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "How Carbon-Aware Scheduling Can Cut Data Center Emissions",
-      "url": "https://www.datacenterknowledge.com/sustainability/how-carbon-aware-scheduling-can-cut-data-center-emissions",
-      "description": "Aligning flexible workloads to cleaner hours and locations turns variability into measurable Scope 2 reductions.",
-      "published": "2026-10-08T09:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Growing Pains: How Distributed AI Training Changes The Network Between Datacenters",
-      "url": "https://www.nextplatform.com/connect/2026/10/08/sponsored-growing-pains-how-distributed-ai-training-changes-the-network-between-datacenters/5301560",
-      "description": "SPONSORED FEATURE: While linking the GPUs in a datacenter is a challenge, coordinating thousands of them to work efficiently over hundreds of kilometers presents a new set of difficulties.",
-      "published": "2026-10-08T09:00:00.000Z"
     }
   ]
 }
