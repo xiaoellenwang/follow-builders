@@ -1,200 +1,122 @@
 {
-  "generatedAt": "2026-10-12T05:42:25.936Z",
+  "generatedAt": "2026-10-13T06:38:03.469Z",
   "jobs": [
     {
-      "title": "Ai Data Engineering Lead",
-      "company": "OPTIMUM SOLUTIONS (SINGAPORE) PTE LTD",
-      "salary": "S$12,000 – S$15,000",
+      "title": "AI Engineer",
+      "company": "A PLUS MANPOWER SERVICES PTE. LTD.",
+      "salary": "S$4,000 – S$5,000",
       "type": "Full Time",
       "skills": [
-        "Enterprise Integration Solution",
-        "Database DevOps",
-        "Apache Spark"
+        "Git",
+        "Troubleshooting",
+        "environmental procedures"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/3e98acc1c97062091a042871e329e341",
-      "posted": "2026-10-12T05:42:15.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/7fa2212967b3bc8a53afca24a7215fee",
+      "posted": "2026-10-13T06:28:19.000Z"
     },
     {
-      "title": "Software Engineer in Machine Learning Infra - TikTok Recommendation Architecture",
-      "company": "TIKTOK PTE. LTD.",
-      "salary": "S$11,250 – S$22,500",
-      "type": "Full Time",
-      "skills": [
-        "TensorFlow",
-        "Machine Learning",
-        "Hardware Architecture"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/a4f254156a21845bc3d86ca7e652f37c",
-      "posted": "2026-10-12T05:41:02.000Z"
-    },
-    {
-      "title": "Software Engineer in Machine Learning Infra, TikTok Recommendation Architecture",
-      "company": "TIKTOK PTE. LTD.",
-      "salary": "S$6,500 – S$13,000",
-      "type": "Full Time",
-      "skills": [
-        "TensorFlow",
-        "Machine Learning",
-        "Hardware Architecture"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/7e6c3e79940c0050a7bb6844383f815c",
-      "posted": "2026-10-12T05:40:04.000Z"
-    },
-    {
-      "title": "Ai Tech Lead",
-      "company": "OPTIMUM SOLUTIONS (SINGAPORE) PTE LTD",
-      "salary": "S$12,000 – S$15,000",
-      "type": "Full Time",
-      "skills": [
-        "Code Quality",
-        "Distributed Processing",
-        "Enterprise Integration Solution"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/e0bc6d9b32527223ceb9eac2f71f5fc2",
-      "posted": "2026-10-12T05:39:51.000Z"
-    },
-    {
-      "title": "AI Systems Engineer (Power Platform & Copilot) - Hillview Link",
-      "company": "BUSINESS EDGE PERSONNEL SERVICES PTE LTD",
-      "salary": "S$4,500 – S$5,000",
-      "type": "Contract",
-      "skills": [
-        "Azure AI",
-        "Multi-Agent Systems",
-        "Licensing"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/67ff8735a5e2538a20ef6600e886396b",
-      "posted": "2026-10-12T05:05:34.000Z"
-    },
-    {
-      "title": "AI Application Developer (LLM & Agentic AI)",
-      "company": "PERSOL SINGAPORE PTE. LTD.",
-      "salary": "S$4,800 – S$7,000",
-      "type": "Full Time",
-      "skills": [
-        "Retrieval-Augmented Generation (RAG)",
-        "Applications",
-        "Enterprise Integration Solution"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/c96605ecfface4c5632c26f76199f040",
-      "posted": "2026-10-12T05:04:13.000Z"
-    },
-    {
-      "title": "AI Adoption & Digital Enablement Executive - digital transformation project",
-      "company": "PERSOL SINGAPORE PTE. LTD.",
-      "salary": "S$5,200 – S$7,000",
-      "type": "Full Time",
-      "skills": [
-        "Microsoft 365",
-        "Ai",
-        "User Support"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/8c03c1d74011b6fc94b97938498b595a",
-      "posted": "2026-10-12T04:51:55.000Z"
-    },
-    {
-      "title": "Robotics Engineer - Embodied AI",
-      "company": "HONG YE GROUP PTE. LTD.",
-      "salary": "S$6,500 – S$9,000",
+      "title": "Lead Machine Learning - Search",
+      "company": "GO-JEK SINGAPORE PTE. LTD.",
+      "salary": "S$12,000 – S$18,000",
       "type": "Permanent",
       "skills": [
+        "Machine Learning",
+        "Delivery of Food",
+        "Traffic Analysis"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/7303a7808a6c721fe0e50cd6e66cfb65",
+      "posted": "2026-10-13T06:25:00.000Z"
+    },
+    {
+      "title": "Forward Deployed Engineer, Enterprise AI",
+      "company": "FACEBOOK SINGAPORE PTE. LTD.",
+      "salary": "S$18,080 – S$27,000",
+      "type": "Permanent",
+      "skills": [
+        "privacy programs",
         "Ai",
-        "Medical Degree",
-        "AI Governance"
+        "Generative AI Application Development and Deployment"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/7adb85e9cdfc70384aeae208b72b3d15",
-      "posted": "2026-10-12T04:10:59.000Z"
-    },
-    {
-      "title": "Robotics Engineer Intern - Embodied AI",
-      "company": "HONG YE GROUP PTE. LTD.",
-      "salary": "S$1,200 – S$1,800",
-      "type": "Internship/Attachment",
-      "skills": [
-        "Internships",
-        "ROS",
-        "Simulation"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/ceaaeb65f3474c28794bf9707b2c56f8",
-      "posted": "2026-10-12T04:09:58.000Z"
-    },
-    {
-      "title": "📢 AI Systems Engineer (Cashew)",
-      "company": "SEACARE MANPOWER SERVICES PTE LTD",
-      "salary": "S$5,000 – S$5,000",
-      "type": "Contract",
-      "skills": [
-        "Typing",
-        "Workflow Automation",
-        "UAT"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/ab2190c9f4e0f501246bc1a3ecc75498",
-      "posted": "2026-10-12T03:35:06.000Z"
-    },
-    {
-      "title": "Robotics Engineer Intern - Embodied AI",
-      "company": "YY CIRCLE (SG) PRIVATE LIMITED",
-      "salary": "S$1,200 – S$1,800",
-      "type": "Internship/Attachment",
-      "skills": [
-        "Internships",
-        "ROS",
-        "Simulation"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/589f2e553b5e38f6ea5a233d06f987fc",
-      "posted": "2026-10-12T02:52:01.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/58467623b1f402efcbd3139c2e838d52",
+      "posted": "2026-10-13T06:16:28.000Z"
     },
     {
       "title": "AI Engineer",
-      "company": "JEET ANALYTICS PTE. LTD.",
+      "company": "REGTECH INSIGHT PTE. LTD.",
       "salary": "S$9,000 – S$12,000",
       "type": "Contract",
       "skills": [
-        "Automation Management in Product Development",
-        "Design",
-        "AI Agents"
+        "Machine Learning",
+        "Ai",
+        "Analytics Support"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/4f330e514c252a601ee8115a54229082",
-      "posted": "2026-10-12T02:49:02.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/26aaf58445c315355a5f7047c1d17596",
+      "posted": "2026-10-13T06:16:15.000Z"
     },
     {
-      "title": "Robotics Engineer - Embodied AI",
-      "company": "YY CIRCLE (SG) PRIVATE LIMITED",
-      "salary": "S$6,500 – S$9,000",
+      "title": "Full Stack Engineer (Gen AI)",
+      "company": "KYNDRYL (SINGAPORE) PTE. LTD.",
+      "salary": "S$6,000 – S$12,000",
       "type": "Permanent",
       "skills": [
-        "Ai",
-        "Medical Degree",
-        "AI Governance"
+        "Scalability",
+        "Quality Assurance",
+        "Architect"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/1c5e4e00de06b93e5717356797de3195",
-      "posted": "2026-10-12T02:45:01.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/e2fe9814b672fc49e4f3d16fa9c8d99f",
+      "posted": "2026-10-13T04:03:13.000Z"
     },
     {
-      "title": "Software And Applications Manager [Agentic AI] [Large project implementation]",
-      "company": "MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD",
-      "salary": "S$9,500 – S$9,600",
-      "type": "Contract",
+      "title": "Senior AI and Software Engineer",
+      "company": "MXHL PTE. LTD.",
+      "salary": "S$5,100 – S$6,600",
+      "type": "Permanent",
       "skills": [
-        "Project Team Management",
-        "project scope management",
-        "Liaising with project stakeholders"
+        "Amazon SQS",
+        "Git",
+        "Container"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/1c7482b730c362aab3dc9a13f98cc356",
-      "posted": "2026-10-12T01:38:41.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/be23014c46c407389b06dac46a17322c",
+      "posted": "2026-10-13T02:23:00.000Z"
     },
     {
-      "title": "AI Engineer (Generative AI & 3D Computing )",
-      "company": "NEXBRIDGE RECRUITMENT PTE. LTD.",
-      "salary": "S$9,000 – S$12,000",
+      "title": "AI Engineer — AMK",
+      "company": "COMBUILDER PTE LTD",
+      "salary": "S$5,000 – S$6,500",
       "type": "Contract",
       "skills": [
-        "TensorFlow",
-        "Computer Engineering",
-        "Collaborating With Product Managers"
+        "ROS",
+        "Machine Learning",
+        "robot control systems"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/73802c15c705df3dfc6a0f8268c6cdea",
-      "posted": "2026-10-11T16:11:43.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/96b3bc1ab9b42eb75c1e11da0b88981d",
+      "posted": "2026-10-13T00:53:06.000Z"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "TALENT-MERGE PTE. LTD.",
+      "salary": "S$9,500 – S$10,500",
+      "type": "Full Time",
+      "skills": [
+        "Multi-Agent Systems",
+        "Automation Technology",
+        "Computer Engineering"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/d4fe8389deb6214ffb83a9f25bc7f0d6",
+      "posted": "2026-10-12T09:04:10.000Z"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "APBA TG HUMAN RESOURCE PTE. LTD.",
+      "salary": "S$5,000 – S$9,800",
+      "type": "Contract",
+      "skills": [
+        "A+",
+        "Amazon Bedrock",
+        "Analytical Thinking"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/d4fc34653b819089b10c06ffd3001cb1",
+      "posted": "2026-10-12T06:40:10.000Z"
     }
   ]
 }

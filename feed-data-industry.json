@@ -1,103 +1,89 @@
 {
-  "generatedAt": "2026-10-12T05:42:25.936Z",
+  "generatedAt": "2026-10-13T06:38:03.469Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "DCD Studio: AVK's billion dollar investment into energy solutions, with Ben Pritchard, AVK",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-avks-billion-dollar-investment-into-energy-solutions-with-ben-pritchard-avk/",
+      "description": "Seb Moss speaks with Ben Pritchard of AVK about meeting data center power demands via microgrids, innovative pod factories, and creative financing backed by a $1B investment.",
+      "published": "2026-10-12T16:32:29.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "SWI raises €800 million for data center expansion",
+      "url": "https://www.datacenterdynamics.com/en/news/swi-raises-800-million-for-data-center-expansion/",
+      "description": "Funds to support projects in the US and Europe",
+      "published": "2026-10-12T16:22:49.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "FiveNines Group and Nexus Core Systems partner on 20MW data center in Morocco",
+      "url": "https://www.datacenterdynamics.com/en/news/fivenines-group-and-nexus-core-systems-partner-on-20mw-data-center-in-morocco/",
+      "description": "Data center will be located outside of Casablanca",
+      "published": "2026-10-12T16:20:40.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "DCD Studio: Beyond the hype - Practical strategies for data center development with Nick Marlow, BCS",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-beyond-the-hype-practical-strategies-for-data-center-development-with-nick-marlow-bcs/",
+      "description": "Seb Moss speaks with Nick Marlow of BCS about the evolving European data center landscape, from rising power demands to the challenges of site selection",
+      "published": "2026-10-12T16:11:08.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Ringleader of multi-state cell tower theft gang sentenced to six and a half years in prison",
+      "url": "https://www.datacenterdynamics.com/en/news/ringleader-of-multi-state-cell-tower-theft-gang-sentenced-to-six-and-a-half-years-in-prison/",
+      "description": "The scheme put 911 services at risk",
+      "published": "2026-10-12T16:05:47.000Z"
+    },
+    {
+      "source": "Import AI",
+      "title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
+      "url": "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/",
+      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now New benchmark shows how AI models lack intuitive visual reasoning:…Humanity’s Sixth Sense highlights some shortcomings",
+      "published": "2026-10-12T12:30:39.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: moon city problems and drone traffic controllers",
+      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing to build bases on the moon, with NASA hoping to establish a small&#",
+      "published": "2026-10-12T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Mars may be a hellhole, but the moon is not far behind",
+      "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
+      "description": "Welcome to the second space race. You can be forgiven for experiencing déjà vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags. Now it’s a sprint to the lunar surface between America and China—alongside a host of varyingly friendly and rival nation",
+      "published": "2026-10-12T09:37:02.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The ecologist revealing the invisible networks that revive rainforests",
+      "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
+      "description": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth. Forest ecologist Daisy Dent, a senior scientist at ETH Zurich, oversees this sequence of plots across the Barro Co",
+      "published": "2026-10-12T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "How to Secure Data Centers During the Construction Phase",
+      "url": "https://www.datacenterknowledge.com/physical-security/how-to-secure-data-centers-during-the-construction-phase",
+      "description": "Before operations begin, layered defenses at the site and in the supply chain help prevent theft, vandalism, counterfeit gear, and covert endpoints.",
+      "published": "2026-10-12T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Virginia Tops AI Data Center Readiness Ranking as Smaller Markets Advance",
+      "url": "https://www.datacenterknowledge.com/data-center-site-selection/virginia-tops-ai-data-center-readiness-ranking-as-smaller-markets-advance",
+      "description": "TRG DataCenters’ August 2026 ranking places Virginia in the lead, while states with abundant power, low-carbon electricity, and favorable water conditions gain ground.",
+      "published": "2026-10-12T09:00:00.000Z"
+    },
     {
       "source": "DataEngineeringWeekly",
       "title": "Data Engineering Weekly #291",
       "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-291",
       "description": "The Weekly Data Engineering Newsletter",
       "published": "2026-10-12T03:18:01.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: Legacy data center efficiency now has a compliance deadline",
-      "url": "https://www.datacenterdynamics.com/en/opinions/legacy-data-center-efficiency-now-has-a-compliance-deadline/",
-      "description": "Why efficiency in existing facilities has shifted from good intention to obligation",
-      "published": "2026-10-11T15:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Hyperscale Data plans Patriot BTC subsidiary for Bitcoin mining business",
-      "url": "https://www.datacenterdynamics.com/en/news/hyperscale-data-plans-patriot-btc-subsidiary-for-bitcoin-mining-business/",
-      "description": "Will transfer Montana data center to new company",
-      "published": "2026-10-11T11:00:49.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: Why do liquid-cooled AI data centers require different backup power strategy?",
-      "url": "https://www.datacenterdynamics.com/en/opinions/why-do-liquid-cooled-ai-data-centers-require-different-backup-power-strategy/",
-      "description": "AI-focused data centers require new backup power strategies as their rack power density is rising sharply and their workloads fluctuate rapidly",
-      "published": "2026-10-10T15:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Cipher extends Barber Lake data center lease commitments to 20 years",
-      "url": "https://www.datacenterdynamics.com/en/news/cipher-extends-barber-lake-data-center-lease-commitments-to-20-years/",
-      "description": "Fluidstack and unnamed AI lab agree lengthy leases",
-      "published": "2026-10-10T11:00:34.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: Wärtsilä, Schneider Electric, and Stanley Consultants launch coordinated approach for faster US data center power delivery",
-      "url": "https://www.datacenterdynamics.com/en/product-news/w%C3%A4rtsil%C3%A4-schneider-electric-and-stanley-consultants-launch-coordinated-approach-for-faster-us-data-center-power-delivery/",
-      "description": "Coordinated 'generator-to-chip' approach integrates onsite generation, electrical infrastructure, and engineering to help data center customers streamline development and save time compared to traditional delivery models",
-      "published": "2026-10-10T07:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Upscale AI Partners With Nvidia While Competing With It",
-      "url": "https://www.nextplatform.com/connect/2026/10/09/upscale-ai-partners-with-nvidia-while-competing-with-it/5302456",
-      "description": "",
-      "published": "2026-10-09T21:15:34.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
-      "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
-      "description": "\n                        \"The current decline may be just the beginning of a new downward cycle.\" \n                    ",
-      "published": "2026-10-09T18:54:52.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Speed Bumps Slow Asia-Pacific’s Data Center Gold Rush",
-      "url": "https://www.datacenterknowledge.com/investing/speed-bumps-slow-asia-pacific-s-data-center-gold-rush",
-      "description": "Firmus and PLDT pulled data center IPOs this week while governments pressed pause on development in the latest hurdles to Asia’s data center boom.",
-      "published": "2026-10-09T18:42:43.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
-      "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how t",
-      "published": "2026-10-09T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "We’re putting too much faith in AI’s ability to say no",
-      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-      "description": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But re",
-      "published": "2026-10-09T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Job titles of the future: Delivery drone air traffic controller",
-      "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
-      "description": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wischnewsky is now an RPIC, or “remote pilot in command,” at a company called FlyT",
-      "published": "2026-10-09T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
-      "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
-      "description": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological age. Overweight and diabetic people who take GLP-1s have a biological age aroun",
-      "published": "2026-10-09T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "ThisWay Global to Convert Bankrupt RELLIS Site into 73 MW AI Hub",
-      "url": "https://www.datacenterknowledge.com/ai-data-centers/thisway-global-to-convert-bankrupt-rellis-site-into-73-mw-ai-hub",
-      "description": "ThisWay Global will revamp a bankrupt data center project at Texas A&amp;M’s RELLIS Campus into a 73 MW AI and research center to demonstrate its Sovereign AI Blueprint.",
-      "published": "2026-10-09T09:00:00.000Z"
     }
   ]
 }
