@@ -1,6 +1,97 @@
 {
-  "generatedAt": "2026-10-14T04:39:37.338Z",
+  "generatedAt": "2026-10-15T04:21:51.466Z",
   "articles": [
+    {
+      "source": "Ars Technica Tech",
+      "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+      "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+      "description": "\n                        Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.\n                    ",
+      "published": "2026-10-14T21:35:09.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Brazil’s Data Center Growth Pushes Beyond São Paulo",
+      "url": "https://www.datacenterknowledge.com/data-center-site-selection/brazil-s-data-center-growth-pushes-beyond-s-o-paulo",
+      "description": "Brazil’s data center growth is spreading beyond São Paulo to Rio, Fortaleza, and the south, but power grid delays and lengthy permitting will decide which markets actually succeed.",
+      "published": "2026-10-14T17:30:34.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "DCD Studio: Powering data centers at scale with Hans Obermillacher, Panduit",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-powering-data-centers-at-scale-with-hans-obermillacher-panduit/",
+      "description": "Seb Moss speaks with Hans Obermillacher of Panduit about AI demand surges, edge computing growth in retail, geo-shifting deployments to Nordic countries, and evolving data center infrastructure needs ",
+      "published": "2026-10-14T17:25:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "OpenAI again shakes up data center leadership, with xAI exec Uday Ruddarraju to lead and Sachin Katti to leave",
+      "url": "https://www.datacenterdynamics.com/en/news/openai-again-shakes-up-compute-leadership-with-xai-exec-uday-ruddarraju-to-lead-and-sachin-katti-to-leave/",
+      "description": "After switching out the Stargate team earlier this year",
+      "published": "2026-10-14T16:34:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "DCD Studio: Manufacturing power systems with Michael Beagan, TES Power",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-manufacturing-power-systems-with-michael-beagan-tes-power/",
+      "description": "Seb Moss speaks with Michael Beagan of TES Power on switchgear, power distribution, supply chain management, and the growing role of modular, plug-and-play solutions in accelerating data center delivery",
+      "published": "2026-10-14T16:27:27.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Application filed for 3.3 million sq ft data center campus in Augusta, Georgia",
+      "url": "https://www.datacenterdynamics.com/en/news/application-filed-for-33-million-sq-ft-data-center-campus-in-augusta-georgia/",
+      "description": "Project targeting 2028/2029 go live date",
+      "published": "2026-10-14T15:40:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Two Turkish nationals arrested over Russian-linked arson attack against Starlink ground station in Poland",
+      "url": "https://www.datacenterdynamics.com/en/news/two-turkish-nationals-arrested-over-russian-linked-arson-attack-against-starlink-ground-station-in-poland/",
+      "description": "Starlink ground station site was attacked last month in Mazovia",
+      "published": "2026-10-14T15:30:43.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "AI Data Center Land Buying Hits $6B as Power Premiums Rise",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/ai-data-center-land-buying-hits-6b-as-power-premiums-rise",
+      "description": "US data center land spending hit roughly $6 billion in the first half of 2026, as power access now drives land value and pricing more than location alone.",
+      "published": "2026-10-14T15:10:44.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Why AI Data Center Cooling Needs to Get Smarter",
+      "url": "https://www.datacenterknowledge.com/cooling/why-ai-data-center-cooling-needs-to-get-smarter",
+      "description": "AI is pushing data center cooling to its limits, so the real advantage comes from integrating smart sensing, motor control, and power management into a single responsive, failure-anticipating system.",
+      "published": "2026-10-14T14:54:42.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "description": "\n                        \"Small weight-based replicators\" could usher in a new generation of computer worms.\n                    ",
+      "published": "2026-10-14T12:55:06.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: faking blood and the future of batteries",
+      "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing",
+      "published": "2026-10-14T12:10:00.000Z"
+    },
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "The Self-Organizing Data Stack",
+      "url": "https://www.dataengineeringweekly.com/p/the-self-organizing-data-stack",
+      "description": "When agents answer the questions, they can maintain the data model. Here is what that demands from the orchestration engine.",
+      "published": "2026-10-14T10:41:33.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The US military’s race to make fake blood",
+      "url": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
+      "description": "Its call sign was Morphine 1-2. &#160; In February 2007, the hulking dual-­rotor casualty evacuation helicopter had just flown three wounded soldiers to a field hospital in Balad, north of Baghdad, when another call came: an emergency mission to fly through an insurgent-controlled area in broad dayl",
+      "published": "2026-10-14T09:00:00.000Z"
+    },
     {
       "source": "The Next Platform",
       "title": "Cisco Turns Its Attention To The Control Layers Of Its Quantum Network",
@@ -21,41 +112,6 @@
       "url": "https://www.nextplatform.com/compute/2026/10/13/microsofts-clea-maia-300-inference-xpu-is-a-bandwidth-beast/5302874",
       "description": "",
       "published": "2026-10-13T18:17:46.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "D-Wave signs quantum chip manufacturing deal with SkyWater Technologies",
-      "url": "https://www.datacenterdynamics.com/en/news/quantum-firm-d-wave-signs-quantum-chip-manufacturing-agreement-with-skywater-technologies/",
-      "description": "D-Wave will work with SkyWater team in Minnesota to develop specialized chips",
-      "published": "2026-10-13T16:31:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "AirTrunk to delay IPO amid rising interest rates - report",
-      "url": "https://www.datacenterdynamics.com/en/news/airtrunk-to-delay-ipo-amid-rising-interest-rates-report/",
-      "description": "After Firmus IPO falls apart and PLDT pushes back",
-      "published": "2026-10-13T16:28:10.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Google data center strategic sourcing exec heads to OpenAI",
-      "url": "https://www.datacenterdynamics.com/en/news/google-data-center-strategic-sourcing-exec-heads-to-openai/",
-      "description": "Allyson Fealtman to focus on high-speed interconnect and rack power",
-      "published": "2026-10-13T16:26:47.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "It's all good, man: Goodman Group CEO on his firm's global ambitions",
-      "url": "https://www.datacenterdynamics.com/en/analysis/goodman-group-ceo-greg-goodman-data-center/",
-      "description": "Greg Goodman on the growing importance of data centers to his family's firm",
-      "published": "2026-10-13T16:00:41.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Scaleway plans GPU cluster deployments in Sweden and Copenhagen",
-      "url": "https://www.datacenterdynamics.com/en/news/scaleway-plans-gpu-cluster-deployments-in-sweden-and-copenhagen/",
-      "description": "Announced during cloud company's AI-Pulse 2026 event",
-      "published": "2026-10-13T15:23:29.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -84,55 +140,6 @@
       "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
       "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. T",
       "published": "2026-10-13T10:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "AI labs are buying data from dead startups to train their models",
-      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-      "description": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pendi",
-      "published": "2026-10-13T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "How to Secure Data Centers During the Construction Phase",
-      "url": "https://www.datacenterknowledge.com/physical-security/how-to-secure-data-centers-during-the-construction-phase",
-      "description": "Before operations begin, layered defenses at the site and in the supply chain help prevent theft, vandalism, counterfeit gear, and covert endpoints.",
-      "published": "2026-10-13T09:00:00.000Z"
-    },
-    {
-      "source": "Import AI",
-      "title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
-      "url": "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/",
-      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now New benchmark shows how AI models lack intuitive visual reasoning:…Humanity’s Sixth Sense highlights some shortcomings",
-      "published": "2026-10-12T12:30:39.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: moon city problems and drone traffic controllers",
-      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing to build bases on the moon, with NASA hoping to establish a small&#",
-      "published": "2026-10-12T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "What it would take to build a city on the moon",
-      "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
-      "description": "Welcome to the second space race. You can be forgiven for experiencing déjà vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags. Now it’s a sprint to the lunar surface between America and China—alongside a host of varyingly friendly and rival nation",
-      "published": "2026-10-12T09:37:02.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Virginia Tops AI Data Center Readiness Ranking as Smaller Markets Advance",
-      "url": "https://www.datacenterknowledge.com/data-center-site-selection/virginia-tops-ai-data-center-readiness-ranking-as-smaller-markets-advance",
-      "description": "TRG DataCenters’ August 2026 ranking places Virginia in the lead, while states with abundant power, low-carbon electricity, and favorable water conditions gain ground.",
-      "published": "2026-10-12T09:00:00.000Z"
-    },
-    {
-      "source": "DataEngineeringWeekly",
-      "title": "Data Engineering Weekly #291",
-      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-291",
-      "description": "The Weekly Data Engineering Newsletter",
-      "published": "2026-10-12T03:18:01.000Z"
     }
   ]
 }
