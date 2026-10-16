@@ -1,6 +1,104 @@
 {
-  "generatedAt": "2026-10-15T04:21:51.466Z",
+  "generatedAt": "2026-10-16T04:17:14.825Z",
   "articles": [
+    {
+      "source": "Data Center Knowledge",
+      "title": "Reliability Standards for AI Data Centers, Crypto Miners Move Closer to Adoption",
+      "url": "https://www.datacenterknowledge.com/regulations/reliability-standards-for-ai-data-centers-crypto-miners-move-closer-to-adoption",
+      "description": "The proposed rules must still be approved by NERC’s board and federal regulators. As written, they would apply to computational loads of 50 MW or more connected at voltage levels of at least 100 kV.",
+      "published": "2026-10-15T21:03:05.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
+      "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+      "description": "\n                        The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.\n                    ",
+      "published": "2026-10-15T20:32:41.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "IonQ opens quantum innovation center at University of Cambridge",
+      "url": "https://www.datacenterdynamics.com/en/news/ionq-opens-quantum-innovation-center-at-university-of-cambridge/",
+      "description": "Quantum firm will deploy a Superion 256 system at the center",
+      "published": "2026-10-15T16:20:30.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "DigiCo signs 71MW lease for Sydney data center with unnamed tech firm",
+      "url": "https://www.datacenterdynamics.com/en/news/digico-signs-71mw-lease-for-sydney-data-center-with-unnamed-tech-firm/",
+      "description": "Deal includes reallocation of 20MW of existing contracted capacity",
+      "published": "2026-10-15T16:20:29.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "NTT deploys Nvidia GPU test cluster at Munich 2 data center",
+      "url": "https://www.datacenterdynamics.com/en/news/ntt-deploys-nvidia-gpu-test-cluster-at-munich-2-data-center/",
+      "description": "Allows customers to test AI applications on Nvidia Blackwell hardware",
+      "published": "2026-10-15T16:17:14.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "D-Wave delivers Advantage2 quantum computer to Italy",
+      "url": "https://www.datacenterdynamics.com/en/news/d-wave-delivers-advantage2-quantum-computer-to-italy/",
+      "description": "System has been funded by SQT and will support the region's quantum computing ambitions",
+      "published": "2026-10-15T16:00:38.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Ensuring uptime, insuring downtime",
+      "url": "https://www.datacenterdynamics.com/en/analysis/ensuring-uptime-insuring-downtime/",
+      "description": "Can the insurance industry keep up with data center growth?",
+      "published": "2026-10-15T16:00:37.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Data Center Developers Face Tighter Margins as Construction Costs Rise",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/data-center-developers-face-tighter-margins-as-construction-costs-rise",
+      "description": "JLL says strong AI demand is not enough to protect projects lacking power certainty, anchor tenants, and credible delivery timelines.",
+      "published": "2026-10-15T15:00:01.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "When Faster Supercomputers Aren’t Enough: A Million Reasons Why Advanced Computing Matters For Genomics",
+      "url": "https://www.nextplatform.com/hpc/2026/10/15/partner-content-when-faster-supercomputers-arent-enough/5302571",
+      "description": "PARTNER CONTENT:",
+      "published": "2026-10-15T15:00:00.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "A Decade In, zeroRISC Sees A Bright Future For Open Silicon",
+      "url": "https://www.nextplatform.com/compute/2026/10/15/a-decade-in-zerorisc-sees-a-bright-future-for-open-silicon/5303297",
+      "description": "",
+      "published": "2026-10-15T12:50:55.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+      "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months ha",
+      "published": "2026-10-15T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "How much more can nuclear power plants give?",
+      "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
+      "description": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there’s been big news about nuclear power plants trying to do just that. Constellation, the largest nuclear operator in the US, announced plans t",
+      "published": "2026-10-15T10:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Six wild ideas for perpetuating your mind",
+      "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
+      "description": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections. But it’s a lot trickier to explain why we have a sense of self-awareness or to pin down precisel",
+      "published": "2026-10-15T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
+      "url": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
+      "description": "Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findings with human organs. The kidneys—which are similar in size to human ones—were left in a glass-like ",
+      "published": "2026-10-15T08:43:24.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
@@ -14,41 +112,6 @@
       "url": "https://www.datacenterknowledge.com/data-center-site-selection/brazil-s-data-center-growth-pushes-beyond-s-o-paulo",
       "description": "Brazil’s data center growth is spreading beyond São Paulo to Rio, Fortaleza, and the south, but power grid delays and lengthy permitting will decide which markets actually succeed.",
       "published": "2026-10-14T17:30:34.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "DCD Studio: Powering data centers at scale with Hans Obermillacher, Panduit",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-powering-data-centers-at-scale-with-hans-obermillacher-panduit/",
-      "description": "Seb Moss speaks with Hans Obermillacher of Panduit about AI demand surges, edge computing growth in retail, geo-shifting deployments to Nordic countries, and evolving data center infrastructure needs ",
-      "published": "2026-10-14T17:25:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "OpenAI again shakes up data center leadership, with xAI exec Uday Ruddarraju to lead and Sachin Katti to leave",
-      "url": "https://www.datacenterdynamics.com/en/news/openai-again-shakes-up-compute-leadership-with-xai-exec-uday-ruddarraju-to-lead-and-sachin-katti-to-leave/",
-      "description": "After switching out the Stargate team earlier this year",
-      "published": "2026-10-14T16:34:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "DCD Studio: Manufacturing power systems with Michael Beagan, TES Power",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-manufacturing-power-systems-with-michael-beagan-tes-power/",
-      "description": "Seb Moss speaks with Michael Beagan of TES Power on switchgear, power distribution, supply chain management, and the growing role of modular, plug-and-play solutions in accelerating data center delivery",
-      "published": "2026-10-14T16:27:27.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Application filed for 3.3 million sq ft data center campus in Augusta, Georgia",
-      "url": "https://www.datacenterdynamics.com/en/news/application-filed-for-33-million-sq-ft-data-center-campus-in-augusta-georgia/",
-      "description": "Project targeting 2028/2029 go live date",
-      "published": "2026-10-14T15:40:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Two Turkish nationals arrested over Russian-linked arson attack against Starlink ground station in Poland",
-      "url": "https://www.datacenterdynamics.com/en/news/two-turkish-nationals-arrested-over-russian-linked-arson-attack-against-starlink-ground-station-in-poland/",
-      "description": "Starlink ground station site was attacked last month in Mazovia",
-      "published": "2026-10-14T15:30:43.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -77,69 +140,6 @@
       "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
       "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing",
       "published": "2026-10-14T12:10:00.000Z"
-    },
-    {
-      "source": "DataEngineeringWeekly",
-      "title": "The Self-Organizing Data Stack",
-      "url": "https://www.dataengineeringweekly.com/p/the-self-organizing-data-stack",
-      "description": "When agents answer the questions, they can maintain the data model. Here is what that demands from the orchestration engine.",
-      "published": "2026-10-14T10:41:33.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The US military’s race to make fake blood",
-      "url": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
-      "description": "Its call sign was Morphine 1-2. &#160; In February 2007, the hulking dual-­rotor casualty evacuation helicopter had just flown three wounded soldiers to a field hospital in Balad, north of Baghdad, when another call came: an emergency mission to fly through an insurgent-controlled area in broad dayl",
-      "published": "2026-10-14T09:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Cisco Turns Its Attention To The Control Layers Of Its Quantum Network",
-      "url": "https://www.nextplatform.com/connect/2026/10/14/cisco-turns-its-attention-to-the-control-layers-of-its-quantum-network/5302977",
-      "description": "",
-      "published": "2026-10-14T02:23:17.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Topgolf saved over $11.3 million after leaving VMware",
-      "url": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
-      "description": "\n                        Topgolf and VMware \"ran deep\" before the migration. \n                    ",
-      "published": "2026-10-13T21:33:43.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Microsoft’s “Clea” Maia 300 Inference XPU Is A Bandwidth Beast",
-      "url": "https://www.nextplatform.com/compute/2026/10/13/microsofts-clea-maia-300-inference-xpu-is-a-bandwidth-beast/5302874",
-      "description": "",
-      "published": "2026-10-13T18:17:46.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "How Chiplets Could Transform Server Design – And Data Centers",
-      "url": "https://www.datacenterknowledge.com/data-center-chips/how-chiplets-could-transform-server-design-and-data-centers",
-      "description": "Chiplets are reshaping CPU design, enabling data centers to do more without increasing space or power consumption.",
-      "published": "2026-10-13T13:05:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Microsoft Pushes Custom AI Chips with Azure Maia 300",
-      "url": "https://www.datacenterknowledge.com/data-center-chips/microsoft-pushes-custom-ai-chips-with-azure-maia-300",
-      "description": "Microsoft unveiled Maia 300, its third-generation AI chip, as Maia 200 goes live, powering Copilot.",
-      "published": "2026-10-13T13:00:03.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: open model trade-offs and geothermal power’s promise",
-      "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a report arguing that a powerful new model released by the Chi",
-      "published": "2026-10-13T12:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Open models have real benefits. Do they outweigh the risks?",
-      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-      "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. T",
-      "published": "2026-10-13T10:00:00.000Z"
     }
   ]
 }
