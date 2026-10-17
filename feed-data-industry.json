@@ -1,6 +1,104 @@
 {
-  "generatedAt": "2026-10-16T04:17:14.825Z",
+  "generatedAt": "2026-10-17T04:07:55.957Z",
   "articles": [
+    {
+      "source": "Ars Technica Tech",
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "description": "\n                        The actions could have resulted in criminal charges had humans been behind the keyboard.\n                    ",
+      "published": "2026-10-16T20:59:01.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "description": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that c",
+      "published": "2026-10-16T18:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Closing the Skills Gap in Data Center Facilities Management",
+      "url": "https://www.datacenterknowledge.com/management/closing-the-skills-gap-in-data-center-facilities-management",
+      "description": "Data centers require skilled professionals. Collaboration between IT and facilities, along with proactive maintenance and remote monitoring, helps address workforce shortages.",
+      "published": "2026-10-16T17:18:01.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "DCN Warsaw 2026: Poland deserves a greater share of global data center capacity",
+      "url": "https://www.datacenterdynamics.com/en/analysis/dcn-warsaw-2026-poland-deserves-a-greater-share-of-global-data-center-capacity/",
+      "description": "Poland’s changing energy story means its well placed to benefit from the global data center boom",
+      "published": "2026-10-16T16:19:59.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Google's DeepMind hiring for nuclear expert",
+      "url": "https://www.datacenterdynamics.com/en/news/googles-deepmind-hiring-for-nuclear-expert/",
+      "description": "Will be responsible for evaluating and mitigating the safety risks of frontier AI models in the nuclear domain",
+      "published": "2026-10-16T16:01:15.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Elisa to switch off Estonian 2G network in 2028",
+      "url": "https://www.datacenterdynamics.com/en/news/elisa-to-switch-off-estonian-2g-network-in-2028/",
+      "description": "As the carrier favors 4G and 5G instead",
+      "published": "2026-10-16T15:49:58.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Just How Rosy Is That Datacenter Buildout Forecast?",
+      "url": "https://www.nextplatform.com/compute/2026/10/16/just-how-rosy-is-that-datacenter-buildout-forecast/5303595",
+      "description": "",
+      "published": "2026-10-16T15:31:01.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Stranded natural gas could power offshore data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/stranded-natural-gas-could-power-offshore-data-centers/",
+      "description": "Houston, Texas, firms form new partnership to put compute at sea",
+      "published": "2026-10-16T15:10:28.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Optical switching startup Salience Labs raises $125m with AMD and Intel participating in round",
+      "url": "https://www.datacenterdynamics.com/en/news/optical-switching-startup-salience-labs-raises-125m-with-amd-and-intel-participating-in-round/",
+      "description": "Series B raise will support continued development and deployment of optical circuit switching technology",
+      "published": "2026-10-16T15:03:05.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: failed social media bans, and extending pets’ lives",
+      "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve.   —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are sta",
+      "published": "2026-10-16T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "This implant can restore sight for patients with macular degeneration",
+      "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+      "description": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combin",
+      "published": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Love is infrastructure",
+      "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
+      "description": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close. They traded glimpses and occasional hellos and then went about their business. Both of them carried on livelier conversations with farther-flung neighbors, who we",
+      "published": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
+      "url": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
+      "description": "I don’t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time she pooed in my baby sister’s cot. That’s about it. What I do vividly&#8230;",
+      "published": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Could the Societal Value of Workloads Shape Data Center Policy?",
+      "url": "https://www.datacenterknowledge.com/regulations/could-the-societal-value-of-workloads-shape-data-center-policy-",
+      "description": "As opposition to data center expansion grows, policymakers may eventually look beyond power and water consumption to ask whether the digital services those facilities support justify their environmental and infrastructure costs.",
+      "published": "2026-10-16T09:00:00.000Z"
+    },
     {
       "source": "Data Center Knowledge",
       "title": "Reliability Standards for AI Data Centers, Crypto Miners Move Closer to Adoption",
@@ -14,41 +112,6 @@
       "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
       "description": "\n                        The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.\n                    ",
       "published": "2026-10-15T20:32:41.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "IonQ opens quantum innovation center at University of Cambridge",
-      "url": "https://www.datacenterdynamics.com/en/news/ionq-opens-quantum-innovation-center-at-university-of-cambridge/",
-      "description": "Quantum firm will deploy a Superion 256 system at the center",
-      "published": "2026-10-15T16:20:30.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "DigiCo signs 71MW lease for Sydney data center with unnamed tech firm",
-      "url": "https://www.datacenterdynamics.com/en/news/digico-signs-71mw-lease-for-sydney-data-center-with-unnamed-tech-firm/",
-      "description": "Deal includes reallocation of 20MW of existing contracted capacity",
-      "published": "2026-10-15T16:20:29.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "NTT deploys Nvidia GPU test cluster at Munich 2 data center",
-      "url": "https://www.datacenterdynamics.com/en/news/ntt-deploys-nvidia-gpu-test-cluster-at-munich-2-data-center/",
-      "description": "Allows customers to test AI applications on Nvidia Blackwell hardware",
-      "published": "2026-10-15T16:17:14.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "D-Wave delivers Advantage2 quantum computer to Italy",
-      "url": "https://www.datacenterdynamics.com/en/news/d-wave-delivers-advantage2-quantum-computer-to-italy/",
-      "description": "System has been funded by SQT and will support the region's quantum computing ambitions",
-      "published": "2026-10-15T16:00:38.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Ensuring uptime, insuring downtime",
-      "url": "https://www.datacenterdynamics.com/en/analysis/ensuring-uptime-insuring-downtime/",
-      "description": "Can the insurance industry keep up with data center growth?",
-      "published": "2026-10-15T16:00:37.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -72,74 +135,11 @@
       "published": "2026-10-15T12:50:55.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
-      "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months ha",
-      "published": "2026-10-15T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "How much more can nuclear power plants give?",
-      "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
-      "description": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there’s been big news about nuclear power plants trying to do just that. Constellation, the largest nuclear operator in the US, announced plans t",
-      "published": "2026-10-15T10:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Six wild ideas for perpetuating your mind",
-      "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
-      "description": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections. But it’s a lot trickier to explain why we have a sense of self-awareness or to pin down precisel",
-      "published": "2026-10-15T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
-      "url": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
-      "description": "Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findings with human organs. The kidneys—which are similar in size to human ones—were left in a glass-like ",
-      "published": "2026-10-15T08:43:24.000Z"
-    },
-    {
       "source": "Ars Technica Tech",
       "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
       "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
       "description": "\n                        Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.\n                    ",
       "published": "2026-10-14T21:35:09.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Brazil’s Data Center Growth Pushes Beyond São Paulo",
-      "url": "https://www.datacenterknowledge.com/data-center-site-selection/brazil-s-data-center-growth-pushes-beyond-s-o-paulo",
-      "description": "Brazil’s data center growth is spreading beyond São Paulo to Rio, Fortaleza, and the south, but power grid delays and lengthy permitting will decide which markets actually succeed.",
-      "published": "2026-10-14T17:30:34.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "AI Data Center Land Buying Hits $6B as Power Premiums Rise",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/ai-data-center-land-buying-hits-6b-as-power-premiums-rise",
-      "description": "US data center land spending hit roughly $6 billion in the first half of 2026, as power access now drives land value and pricing more than location alone.",
-      "published": "2026-10-14T15:10:44.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Why AI Data Center Cooling Needs to Get Smarter",
-      "url": "https://www.datacenterknowledge.com/cooling/why-ai-data-center-cooling-needs-to-get-smarter",
-      "description": "AI is pushing data center cooling to its limits, so the real advantage comes from integrating smart sensing, motor control, and power management into a single responsive, failure-anticipating system.",
-      "published": "2026-10-14T14:54:42.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-      "description": "\n                        \"Small weight-based replicators\" could usher in a new generation of computer worms.\n                    ",
-      "published": "2026-10-14T12:55:06.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: faking blood and the future of batteries",
-      "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing",
-      "published": "2026-10-14T12:10:00.000Z"
     }
   ]
 }
