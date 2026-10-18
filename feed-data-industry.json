@@ -1,6 +1,41 @@
 {
-  "generatedAt": "2026-10-17T04:07:55.957Z",
+  "generatedAt": "2026-10-18T04:15:29.911Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: The hidden costs: Why data center sustainability fails without operational discipline",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-hidden-costs-why-data-center-sustainability-fails-without-operational-discipline/",
+      "description": "How prioritizing the small things with sustained investment and follow-through can help to pave the way to achieving true data center sustainability goals",
+      "published": "2026-10-17T15:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Google's EMEA energy team hiring for range of new positions",
+      "url": "https://www.datacenterdynamics.com/en/news/googles-emea-energy-team-hiring-for-range-of-new-positions/",
+      "description": "Further opportunities in the energy space at Google",
+      "published": "2026-10-17T10:00:25.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Why data sovereignty is about control, not geography",
+      "url": "https://www.datacenterdynamics.com/en/opinions/why-data-sovereignty-is-about-control-not-geography/",
+      "description": "The gap between residency and sovereignty is where most organizations get into trouble.",
+      "published": "2026-10-17T10:00:25.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Plans for data center in Moncalieri, Italy, put on hold by town mayor",
+      "url": "https://www.datacenterdynamics.com/en/news/plans-for-data-center-in-moncalieri-italy-put-on-hold-by-town-mayor/",
+      "description": "Before its application was halted, the project was billed as Italy’s ‘largest’ data center",
+      "published": "2026-10-17T09:00:36.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Everton Football Club launches MVNO service",
+      "url": "https://www.datacenterdynamics.com/en/news/everton-football-club-launches-mvno-service/",
+      "description": "The English football club has phoned it in",
+      "published": "2026-10-17T08:00:26.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
@@ -23,46 +58,11 @@
       "published": "2026-10-16T17:18:01.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "DCN Warsaw 2026: Poland deserves a greater share of global data center capacity",
-      "url": "https://www.datacenterdynamics.com/en/analysis/dcn-warsaw-2026-poland-deserves-a-greater-share-of-global-data-center-capacity/",
-      "description": "Poland’s changing energy story means its well placed to benefit from the global data center boom",
-      "published": "2026-10-16T16:19:59.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Google's DeepMind hiring for nuclear expert",
-      "url": "https://www.datacenterdynamics.com/en/news/googles-deepmind-hiring-for-nuclear-expert/",
-      "description": "Will be responsible for evaluating and mitigating the safety risks of frontier AI models in the nuclear domain",
-      "published": "2026-10-16T16:01:15.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Elisa to switch off Estonian 2G network in 2028",
-      "url": "https://www.datacenterdynamics.com/en/news/elisa-to-switch-off-estonian-2g-network-in-2028/",
-      "description": "As the carrier favors 4G and 5G instead",
-      "published": "2026-10-16T15:49:58.000Z"
-    },
-    {
       "source": "The Next Platform",
       "title": "Just How Rosy Is That Datacenter Buildout Forecast?",
       "url": "https://www.nextplatform.com/compute/2026/10/16/just-how-rosy-is-that-datacenter-buildout-forecast/5303595",
       "description": "",
       "published": "2026-10-16T15:31:01.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Stranded natural gas could power offshore data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/stranded-natural-gas-could-power-offshore-data-centers/",
-      "description": "Houston, Texas, firms form new partnership to put compute at sea",
-      "published": "2026-10-16T15:10:28.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Optical switching startup Salience Labs raises $125m with AMD and Intel participating in round",
-      "url": "https://www.datacenterdynamics.com/en/news/optical-switching-startup-salience-labs-raises-125m-with-amd-and-intel-participating-in-round/",
-      "description": "Series B raise will support continued development and deployment of optical circuit switching technology",
-      "published": "2026-10-16T15:03:05.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -75,7 +75,7 @@
       "source": "MIT Technology Review",
       "title": "This implant can restore sight for patients with macular degeneration",
       "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-      "description": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combin",
+      "description": "More than 5 million people around the world have an advanced form of age-related macular degeneration (AMD) called geographic atrophy, in which cells in the retinas die off. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting",
       "published": "2026-10-16T09:00:00.000Z"
     },
     {
@@ -133,13 +133,6 @@
       "url": "https://www.nextplatform.com/compute/2026/10/15/a-decade-in-zerorisc-sees-a-bright-future-for-open-silicon/5303297",
       "description": "",
       "published": "2026-10-15T12:50:55.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
-      "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
-      "description": "\n                        Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.\n                    ",
-      "published": "2026-10-14T21:35:09.000Z"
     }
   ]
 }

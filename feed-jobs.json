@@ -1,6 +1,84 @@
 {
-  "generatedAt": "2026-10-17T04:07:55.957Z",
+  "generatedAt": "2026-10-18T04:15:29.911Z",
   "jobs": [
+    {
+      "title": "AI and Data Engineer",
+      "company": "ASTM ASIA PACIFIC LIMITED",
+      "salary": "S$6,000 – S$10,000",
+      "type": "Full Time",
+      "skills": [
+        "International Project",
+        "Government",
+        "Organisational Skills"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/2b6a773c7787bd8e08721814b9d4afcf",
+      "posted": "2026-10-18T02:38:00.000Z"
+    },
+    {
+      "title": "Lead Data & AI Solutions Architect",
+      "company": "TUKOY PTE. LTD.",
+      "salary": "S$10,000 – S$14,000",
+      "type": "Permanent",
+      "skills": [
+        "Ai",
+        "Kubernetes",
+        "Solution Delivery"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/0055f5dfc549bc73dac96fba20b706a8",
+      "posted": "2026-10-17T07:35:22.000Z"
+    },
+    {
+      "title": "Senior Azure Platform Engineer (Data & AI Platforms)",
+      "company": "FRACTIONAL SERVICES SOLUTIONS PTE. LTD.",
+      "salary": "S$8,000 – S$13,000",
+      "type": "Contract",
+      "skills": [
+        "Azure AI",
+        "Microsoft Azure",
+        "Terraform"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/831e1255761bfeedc16f53b771eb8c3d",
+      "posted": "2026-10-17T07:16:15.000Z"
+    },
+    {
+      "title": "AI engineer",
+      "company": "RANDSTAD PTE. LIMITED",
+      "salary": "S$9,000 – S$13,500",
+      "type": "Contract",
+      "skills": [
+        "Distributed Computing Environment",
+        "TensorFlow",
+        "Ai"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/e9ba618b3ceb85a4a4accf039caa38e6",
+      "posted": "2026-10-17T07:06:08.000Z"
+    },
+    {
+      "title": "AI engineer",
+      "company": "RANDSTAD PTE. LIMITED",
+      "salary": "S$6,000 – S$9,000",
+      "type": "Contract",
+      "skills": [
+        "TensorFlow",
+        "Ai",
+        "Retrieval-Augmented Generation (RAG)"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/59e64b7cfbbaf8f1c80db5eed509c83f",
+      "posted": "2026-10-17T07:03:25.000Z"
+    },
+    {
+      "title": "Gen AI Engineer",
+      "company": "INTERLOCK SECURITY AND INVESTIGATION SERVICES PTE LTD",
+      "salary": "S$3,500 – S$5,000",
+      "type": "Full Time",
+      "skills": [
+        "ROS",
+        "Multi-Agent Systems",
+        "Retrieval-Augmented Generation (RAG)"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/8249749c905b8e25ae23e481dc82222e",
+      "posted": "2026-10-17T06:02:48.000Z"
+    },
     {
       "title": "Forward Deployed AI Engineer",
       "company": "ACCESS PEOPLE (SINGAPORE) PTE. LTD.",
@@ -28,19 +106,6 @@
       "posted": "2026-10-17T01:01:35.000Z"
     },
     {
-      "title": "Applied AI Engineer",
-      "company": "GMP TECHNOLOGIES (S) PTE LTD",
-      "salary": "S$4,000 – S$7,000",
-      "type": "Permanent",
-      "skills": [
-        "Machine Learning",
-        "Behavior Management",
-        "Collaborate With Engineers"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/0793e13a4f9869f1d9a8fe9eb0d58a6f",
-      "posted": "2026-10-16T11:05:49.000Z"
-    },
-    {
       "title": "AI Engineer (Computer Vision)",
       "company": "AZTECH TECHNOLOGIES PTE. LTD.",
       "salary": "S$4,800 – S$7,000",
@@ -65,19 +130,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/c723bf1d87e4313f93a4c8cf986ec13f",
       "posted": "2026-10-16T09:41:11.000Z"
-    },
-    {
-      "title": "Research Fellow, AI (School of Computing)",
-      "company": "NATIONAL UNIVERSITY OF SINGAPORE",
-      "salary": "S$6,000 – S$9,000",
-      "type": "Full Time",
-      "skills": [
-        "Deep Learning",
-        "Optimization",
-        "Information Systems"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/77b751aa7e62db3d8de42a2d9f97a9f2",
-      "posted": "2026-10-16T09:36:56.000Z"
     },
     {
       "title": "AI Chief Scientist",
@@ -143,58 +195,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/11c2a4d391ceb86174b193634fe44e98",
       "posted": "2026-10-16T09:11:32.000Z"
-    },
-    {
-      "title": "Lead AI Engineer",
-      "company": "AMBITION GROUP SINGAPORE PTE. LTD.",
-      "salary": "S$8,000 – S$12,000",
-      "type": "Full Time",
-      "skills": [
-        "Azure AI",
-        "Optimization",
-        "Generative AI Application Development and Deployment"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/6fca9becc0f487b6f95229988b9095b0",
-      "posted": "2026-10-16T08:53:57.000Z"
-    },
-    {
-      "title": "Data Engineer",
-      "company": "APAR TECHNOLOGIES PTE. LTD.",
-      "salary": "S$8,000 – S$9,000",
-      "type": "Full Time",
-      "skills": [
-        "PySpark",
-        "Troubleshooting",
-        "Apache Spark"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/286b31d1122b15797e4336a9ff4ee86e",
-      "posted": "2026-10-16T08:42:10.000Z"
-    },
-    {
-      "title": "Artificial Intelligence Governance Product Engineer (AI Product Engineer)",
-      "company": "UST GLOBAL (SINGAPORE) PTE. LIMITED",
-      "salary": "S$11,000 – S$13,000",
-      "type": "Permanent",
-      "skills": [
-        "Microsoft Azure",
-        "Teamwork",
-        "Enterprise Integration Solution"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/2e17d239ad7050c7383dc9d187f9e10e",
-      "posted": "2026-10-16T08:15:46.000Z"
-    },
-    {
-      "title": "Artificial Intelligence Governance Product Lead (AI Product Lead)",
-      "company": "UST GLOBAL (SINGAPORE) PTE. LIMITED",
-      "salary": "S$11,000 – S$13,000",
-      "type": "Permanent",
-      "skills": [
-        "Ai",
-        "Business Stakeholder Management",
-        "AI Agents"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/2bf3af945c6d58f4d290dd4a92f41812",
-      "posted": "2026-10-16T08:07:47.000Z"
     }
   ]
 }
