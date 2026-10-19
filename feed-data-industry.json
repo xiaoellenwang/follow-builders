@@ -1,6 +1,27 @@
 {
-  "generatedAt": "2026-10-18T04:15:29.911Z",
+  "generatedAt": "2026-10-19T04:24:26.000Z",
   "articles": [
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "Data Engineering Weekly #292",
+      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-292",
+      "description": "The Weekly Data Engineering Newsletter",
+      "published": "2026-10-19T03:58:54.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "The end of independent infrastructure roadmaps: how AI is forcing data center co-design",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-end-of-independent-infrastructure-roadmaps-how-ai-is-forcing-data-center-co-design/",
+      "description": "Idle accelerators represent stranded capital, wasted energy, and lower returns on some of the most expensive infrastructure investments in the data center",
+      "published": "2026-10-18T14:00:43.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Cloud-first served its purpose. Now it's time for workload-first",
+      "url": "https://www.datacenterdynamics.com/en/opinions/cloud-first-served-its-purpose-now-its-time-for-workload-first/",
+      "description": "A workload first approach",
+      "published": "2026-10-18T06:00:53.000Z"
+    },
     {
       "source": "Data Center Dynamics",
       "title": "Sponsored: The hidden costs: Why data center sustainability fails without operational discipline",
@@ -21,20 +42,6 @@
       "url": "https://www.datacenterdynamics.com/en/opinions/why-data-sovereignty-is-about-control-not-geography/",
       "description": "The gap between residency and sovereignty is where most organizations get into trouble.",
       "published": "2026-10-17T10:00:25.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Plans for data center in Moncalieri, Italy, put on hold by town mayor",
-      "url": "https://www.datacenterdynamics.com/en/news/plans-for-data-center-in-moncalieri-italy-put-on-hold-by-town-mayor/",
-      "description": "Before its application was halted, the project was billed as Italy’s ‘largest’ data center",
-      "published": "2026-10-17T09:00:36.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Everton Football Club launches MVNO service",
-      "url": "https://www.datacenterdynamics.com/en/news/everton-football-club-launches-mvno-service/",
-      "description": "The English football club has phoned it in",
-      "published": "2026-10-17T08:00:26.000Z"
     },
     {
       "source": "Ars Technica Tech",
@@ -98,41 +105,6 @@
       "url": "https://www.datacenterknowledge.com/regulations/could-the-societal-value-of-workloads-shape-data-center-policy-",
       "description": "As opposition to data center expansion grows, policymakers may eventually look beyond power and water consumption to ask whether the digital services those facilities support justify their environmental and infrastructure costs.",
       "published": "2026-10-16T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Reliability Standards for AI Data Centers, Crypto Miners Move Closer to Adoption",
-      "url": "https://www.datacenterknowledge.com/regulations/reliability-standards-for-ai-data-centers-crypto-miners-move-closer-to-adoption",
-      "description": "The proposed rules must still be approved by NERC’s board and federal regulators. As written, they would apply to computational loads of 50 MW or more connected at voltage levels of at least 100 kV.",
-      "published": "2026-10-15T21:03:05.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
-      "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
-      "description": "\n                        The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.\n                    ",
-      "published": "2026-10-15T20:32:41.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Data Center Developers Face Tighter Margins as Construction Costs Rise",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/data-center-developers-face-tighter-margins-as-construction-costs-rise",
-      "description": "JLL says strong AI demand is not enough to protect projects lacking power certainty, anchor tenants, and credible delivery timelines.",
-      "published": "2026-10-15T15:00:01.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "When Faster Supercomputers Aren’t Enough: A Million Reasons Why Advanced Computing Matters For Genomics",
-      "url": "https://www.nextplatform.com/hpc/2026/10/15/partner-content-when-faster-supercomputers-arent-enough/5302571",
-      "description": "PARTNER CONTENT:",
-      "published": "2026-10-15T15:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "A Decade In, zeroRISC Sees A Bright Future For Open Silicon",
-      "url": "https://www.nextplatform.com/compute/2026/10/15/a-decade-in-zerorisc-sees-a-bright-future-for-open-silicon/5303297",
-      "description": "",
-      "published": "2026-10-15T12:50:55.000Z"
     }
   ]
 }
