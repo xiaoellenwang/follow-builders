@@ -1,110 +1,117 @@
 {
-  "generatedAt": "2026-10-19T04:24:26.000Z",
+  "generatedAt": "2026-10-20T04:34:38.022Z",
   "articles": [
+    {
+      "source": "Ars Technica Tech",
+      "title": "PSA: Patch your Plex media server before someone hacks it",
+      "url": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+      "description": "\n                        A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.\n                    ",
+      "published": "2026-10-19T19:39:19.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "ReactOS reaches major milestone with NTFS install support",
+      "url": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
+      "description": "\n                        ReactOS gains NTFS install support with new driver.\n                    ",
+      "published": "2026-10-19T18:30:56.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like c",
+      "published": "2026-10-19T18:22:47.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "description": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautio",
+      "published": "2026-10-19T17:45:55.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Authorities in Lithuania foil arson plot against Starlink satellite gateway station",
+      "url": "https://www.datacenterdynamics.com/en/news/authorities-in-lithuania-foil-arson-plot-against-starlink-satellite-gateway-station/",
+      "description": "Comes after recent attacks against Starlink infrastructure in Poland and Bulgaria",
+      "published": "2026-10-19T16:32:32.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Amazon and AEP to explore deployment of up to 960MW of X-energy SMRs in Indiana",
+      "url": "https://www.datacenterdynamics.com/en/news/amazon-and-aep-to-explore-deployment-of-up-to-960mw-of-x-energy-smrs-in-indiana/",
+      "description": "Second major deal signed by Amazon and X-energy with a regional utility",
+      "published": "2026-10-19T16:26:27.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Canada puts out Advanced Procurement Notice for data center in Ontario",
+      "url": "https://www.datacenterdynamics.com/en/news/canada-puts-out-advanced-procurement-notice-for-data-center-in-ontario/",
+      "description": "Estimated to cost between CA$1.5bn and $1.85bn",
+      "published": "2026-10-19T16:21:50.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Russian official proposes data centers in disused coal mines to protect from drone strikes",
+      "url": "https://www.datacenterdynamics.com/en/news/russian-official-proposes-data-centers-in-disused-coal-mines-to-protect-from-drone-strikes/",
+      "description": "Prolonged Ukrainian strikes rattle Russian government",
+      "published": "2026-10-19T16:19:44.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "400MW data center eyed at old Navy cyber site in San Diego, California",
+      "url": "https://www.datacenterdynamics.com/en/news/400mw-data-center-eyed-at-old-navy-cyber-site-in-san-diego-california/",
+      "description": "Manchester Financial Group exploring potential of data center at NAVWAR HQ",
+      "published": "2026-10-19T16:10:09.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Nscale Loses Microsoft Deal as Power Delays Threaten AI",
+      "url": "https://www.datacenterknowledge.com/build-design/microsoft-exits-nscale-data-center-deal-over-uk-power-delays",
+      "description": "The cancellation highlights the financial risks developers face when grid connections fall behind project schedules and customers cannot wait for capacity.",
+      "published": "2026-10-19T15:09:50.000Z"
+    },
+    {
+      "source": "Import AI",
+      "title": "Import AI 477: In which I tell the IMF the Singularity has begun",
+      "url": "https://jack-clark.net/2026/10/19/import-ai-477-in-which-i-tell-the-imf-the-singularity-has-begun/",
+      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Here’s a speech I gave on Saturday the 17th of October at the IMF meeting in Bangkok. This speech is inspired by the m",
+      "published": "2026-10-19T12:31:37.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+      "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple In July 2021, a wildfire burned through a forest on the Univ",
+      "published": "2026-10-19T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
+      "url": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
+      "description": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.&#160; The blaze, possibly sparked by lightning, burned across the dry carpet of feather mosses and liche",
+      "published": "2026-10-19T09:22:17.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "description": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were",
+      "published": "2026-10-19T09:08:05.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Optical PCIe Extends the Reach of AI Rack Design",
+      "url": "https://www.datacenterknowledge.com/ai-data-centers/optical-pcie-extends-the-reach-of-ai-rack-design",
+      "description": "Lumentum, Astera Labs, and Corning demoed optical PCIe, which extends reach beyond copper and enables more flexible, disaggregated AI rack designs, though it’s still an early-stage proof of concept.",
+      "published": "2026-10-19T09:00:00.000Z"
+    },
     {
       "source": "DataEngineeringWeekly",
       "title": "Data Engineering Weekly #292",
       "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-292",
       "description": "The Weekly Data Engineering Newsletter",
       "published": "2026-10-19T03:58:54.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "The end of independent infrastructure roadmaps: how AI is forcing data center co-design",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-end-of-independent-infrastructure-roadmaps-how-ai-is-forcing-data-center-co-design/",
-      "description": "Idle accelerators represent stranded capital, wasted energy, and lower returns on some of the most expensive infrastructure investments in the data center",
-      "published": "2026-10-18T14:00:43.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Cloud-first served its purpose. Now it's time for workload-first",
-      "url": "https://www.datacenterdynamics.com/en/opinions/cloud-first-served-its-purpose-now-its-time-for-workload-first/",
-      "description": "A workload first approach",
-      "published": "2026-10-18T06:00:53.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: The hidden costs: Why data center sustainability fails without operational discipline",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-hidden-costs-why-data-center-sustainability-fails-without-operational-discipline/",
-      "description": "How prioritizing the small things with sustained investment and follow-through can help to pave the way to achieving true data center sustainability goals",
-      "published": "2026-10-17T15:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Google's EMEA energy team hiring for range of new positions",
-      "url": "https://www.datacenterdynamics.com/en/news/googles-emea-energy-team-hiring-for-range-of-new-positions/",
-      "description": "Further opportunities in the energy space at Google",
-      "published": "2026-10-17T10:00:25.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Why data sovereignty is about control, not geography",
-      "url": "https://www.datacenterdynamics.com/en/opinions/why-data-sovereignty-is-about-control-not-geography/",
-      "description": "The gap between residency and sovereignty is where most organizations get into trouble.",
-      "published": "2026-10-17T10:00:25.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "OpenAI models hacked a crypto wallet and breached more websites",
-      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-      "description": "\n                        The actions could have resulted in criminal charges had humans been behind the keyboard.\n                    ",
-      "published": "2026-10-16T20:59:01.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "description": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that c",
-      "published": "2026-10-16T18:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Closing the Skills Gap in Data Center Facilities Management",
-      "url": "https://www.datacenterknowledge.com/management/closing-the-skills-gap-in-data-center-facilities-management",
-      "description": "Data centers require skilled professionals. Collaboration between IT and facilities, along with proactive maintenance and remote monitoring, helps address workforce shortages.",
-      "published": "2026-10-16T17:18:01.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Just How Rosy Is That Datacenter Buildout Forecast?",
-      "url": "https://www.nextplatform.com/compute/2026/10/16/just-how-rosy-is-that-datacenter-buildout-forecast/5303595",
-      "description": "",
-      "published": "2026-10-16T15:31:01.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: failed social media bans, and extending pets’ lives",
-      "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve.   —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are sta",
-      "published": "2026-10-16T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "This implant can restore sight for patients with macular degeneration",
-      "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-      "description": "More than 5 million people around the world have an advanced form of age-related macular degeneration (AMD) called geographic atrophy, in which cells in the retinas die off. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting",
-      "published": "2026-10-16T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Love is infrastructure",
-      "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
-      "description": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close. They traded glimpses and occasional hellos and then went about their business. Both of them carried on livelier conversations with farther-flung neighbors, who we",
-      "published": "2026-10-16T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
-      "url": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
-      "description": "I don’t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time she pooed in my baby sister’s cot. That’s about it. What I do vividly&#8230;",
-      "published": "2026-10-16T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Could the Societal Value of Workloads Shape Data Center Policy?",
-      "url": "https://www.datacenterknowledge.com/regulations/could-the-societal-value-of-workloads-shape-data-center-policy-",
-      "description": "As opposition to data center expansion grows, policymakers may eventually look beyond power and water consumption to ask whether the digital services those facilities support justify their environmental and infrastructure costs.",
-      "published": "2026-10-16T09:00:00.000Z"
     }
   ]
 }
