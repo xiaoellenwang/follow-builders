@@ -1,47 +1,110 @@
 {
-  "generatedAt": "2026-10-21T04:27:43.491Z",
+  "generatedAt": "2026-10-22T04:25:40.274Z",
   "articles": [
+    {
+      "source": "Ars Technica Tech",
+      "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+      "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+      "description": "\n                        Survey of 2,018 IT heads at big firms points to a lack of leverage. \n                    ",
+      "published": "2026-10-21T21:48:52.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Singaporean tech company Sea Ltd. launches neocloud subsidiary",
+      "url": "https://www.datacenterdynamics.com/en/news/singaporean-tech-company-sea-ltd-launches-neocloud-subsidiary/",
+      "description": "Sea Cloud will offer cloud AI services to enterprises around the world",
+      "published": "2026-10-21T16:50:34.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Memphis councilors reject 18-month data center moratorium",
+      "url": "https://www.datacenterdynamics.com/en/news/memphis-data-center-moratorium-xai-elon-musk/",
+      "description": "Instead, they ban new projects for 135 days",
+      "published": "2026-10-21T16:23:38.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Startup neocloud Aolani signs LOI for 500MW of capacity in Malaysia",
+      "url": "https://www.datacenterdynamics.com/en/news/startup-neocloud-aolani-signs-loi-for-500mw-of-capacity-in-malaysia/",
+      "description": "Brings total commitment to 580Mw",
+      "published": "2026-10-21T16:20:37.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "BT bolsters 5G Standalone footprint, confirms AI-RAN trials with Nokia, Nvidia",
+      "url": "https://www.datacenterdynamics.com/en/news/bt-bolsters-5g-standalone-footprint-confirms-ai-ran-trials-with-nokia-nvidia/",
+      "description": "The AI-RAN trials are set to take place in the UK's second city next year",
+      "published": "2026-10-21T16:19:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Russian forces destroy GigaCenter data center in Kyiv, Ukraine",
+      "url": "https://www.datacenterdynamics.com/en/news/russian-forces-destroy-gigacenter-data-center-in-kyiv-ukraine/",
+      "description": "As Ukrainian forces attack telecoms facilities in Russian-occupied Donetsk and Luhansk",
+      "published": "2026-10-21T16:14:50.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Nvidia Unveils DSX Pod for Faster AI Data Center Builds",
+      "url": "https://www.datacenterknowledge.com/ai-data-centers/nvidia-unveils-dsx-pod-for-faster-ai-data-center-builds",
+      "description": "Nvidia said the DSX Pod, a prebuilt containerized AI data center, reduces deployment time from six months to 14 days.",
+      "published": "2026-10-21T15:12:26.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Huang shrugs off protestors to kick off GTC Berlin with DSX Pods, Robots",
+      "url": "https://www.nextplatform.com/control/2026/10/21/huang-shrugs-off-protestors-to-kick-off-gtc-berlin-with-dsx-pods-robots/5304447",
+      "description": "",
+      "published": "2026-10-21T13:35:51.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: introducing the Impossible issue",
+      "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Why? Becau",
+      "published": "2026-10-21T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "We can do impossible things",
+      "url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
+      "description": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breath and rattle off my line: “I say no to myself too much.”&#160; I won’t lie. It’s a bit shameless—a d",
+      "published": "2026-10-21T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Nuclear-powered spaceships",
+      "url": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
+      "description": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-­powered interplanetary spacecraft, is meant to fly an uncrewed mission to Mars by the end of 2028, arriving in 20",
+      "published": "2026-10-21T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Exercise in a pill",
+      "url": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
+      "description": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines that can offer some of the same perks—without the workout. The idea isn’t to replace exercise but to ",
+      "published": "2026-10-21T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Interspecies communication",
+      "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
+      "description": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner lives of other species and help humans realize that “animals are sentient creature",
+      "published": "2026-10-21T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "New PCE Metric Could Recover Stranded Data Center Power",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/new-pce-metric-could-recover-stranded-data-center-power",
+      "description": "PCE measures how much provisioned power is available for compute rather than support systems, helping operators free up capacity for AI demand without new grid power.",
+      "published": "2026-10-21T09:00:00.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "PHP warns it plans to release 2 emergency patches imminently",
       "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
       "description": "\n                        Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.\n                    ",
       "published": "2026-10-21T02:12:18.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
-      "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
-      "description": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away. And now engineers at MIT and EPFL in Lausanne",
-      "published": "2026-10-20T21:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Here’s the tea",
-      "url": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
-      "description": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Boston blacksmith Thomas Wells had donated the label in 1987, saying it had been recovered after coloni",
-      "published": "2026-10-20T21:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Melt it, spin it, use it again",
-      "url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
-      "description": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn.&#160; The thermoplastic yarn mimics the properties of conventional elastic yarns, which typically combine ",
-      "published": "2026-10-20T21:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "A reason to eat carbs",
-      "url": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/",
-      "description": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a ketogenic diet may also increase the risk of cancer in the small intestine. This type of diet forces the body to burn fatty a",
-      "published": "2026-10-20T21:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Robotic therapy for stroke patients",
-      "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
-      "description": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial intelligence and human therapy.&#160; Johannes Lachner, a former MIT",
-      "published": "2026-10-20T21:00:00.000Z"
     },
     {
       "source": "Ars Technica Tech",
@@ -56,41 +119,6 @@
       "url": "https://www.datacenterknowledge.com/investing/another-data-center-ipo-fizzles-as-investor-appetite-wanes",
       "description": "South Korean data center firm Elice’s IPO disappointment is the latest sign the AI boom may have peaked.",
       "published": "2026-10-20T17:49:11.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Orange says au revoir to 2G network in France",
-      "url": "https://www.datacenterdynamics.com/en/news/orange-says-au-revoir-to-2g-network-in-france/",
-      "description": "2G is no more as Orange focuses attention to its modern technologies",
-      "published": "2026-10-20T16:23:16.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Cable theft causes Openreach broadband outage for thousands in Thurnscoe, UK",
-      "url": "https://www.datacenterdynamics.com/en/news/cable-theft-causes-openreach-broadband-outage-for-thousands-in-thurnscoe-uk/",
-      "description": "Thieves caused disruption while hunting for copper",
-      "published": "2026-10-20T16:20:03.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Amazon pledges €16bn investment in Germany in 2027",
-      "url": "https://www.datacenterdynamics.com/en/news/amazon-pledges-16bn-investment-in-germany-in-2027/",
-      "description": "Includes expanding data centers and AI infrastructure, high-speed satellite Internet, and logistics expansion",
-      "published": "2026-10-20T16:19:52.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Nexfibre rejects \"fundamentally flawed\" CMA verdict on £2bn Netomnia acquisition",
-      "url": "https://www.datacenterdynamics.com/en/news/nexfibre-rejects-fundamentally-flawed-cma-verdict-on-2bn-netomnia-acquisition/",
-      "description": "Declines to offer remedies to regulator",
-      "published": "2026-10-20T16:04:56.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "San Francisco shopping mall targeted for potential data center",
-      "url": "https://www.datacenterdynamics.com/en/news/san-francisco-shopping-mall-targeted-for-potential-data-center/",
-      "description": "Bidders competing for former Bloomingdale's site",
-      "published": "2026-10-20T16:03:21.000Z"
     },
     {
       "source": "Ars Technica Tech",
@@ -112,34 +140,6 @@
       "url": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
       "description": "\n                        A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.\n                    ",
       "published": "2026-10-19T19:39:19.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "ReactOS reaches major milestone with NTFS install support",
-      "url": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
-      "description": "\n                        ReactOS gains NTFS install support with new driver.\n                    ",
-      "published": "2026-10-19T18:30:56.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Nscale Loses Microsoft Deal as Power Delays Threaten AI",
-      "url": "https://www.datacenterknowledge.com/build-design/microsoft-exits-nscale-data-center-deal-over-uk-power-delays",
-      "description": "The cancellation highlights the financial risks developers face when grid connections fall behind project schedules and customers cannot wait for capacity.",
-      "published": "2026-10-19T15:09:50.000Z"
-    },
-    {
-      "source": "Import AI",
-      "title": "Import AI 477: In which I tell the IMF the Singularity has begun",
-      "url": "https://jack-clark.net/2026/10/19/import-ai-477-in-which-i-tell-the-imf-the-singularity-has-begun/",
-      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Here’s a speech I gave on Saturday the 17th of October at the IMF meeting in Bangkok. This speech is inspired by the m",
-      "published": "2026-10-19T12:31:37.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Optical PCIe Extends the Reach of AI Rack Design",
-      "url": "https://www.datacenterknowledge.com/ai-data-centers/optical-pcie-extends-the-reach-of-ai-rack-design",
-      "description": "Lumentum, Astera Labs, and Corning demoed optical PCIe, which extends reach beyond copper and enables more flexible, disaggregated AI rack designs, though it’s still an early-stage proof of concept.",
-      "published": "2026-10-19T09:00:00.000Z"
     }
   ]
 }
