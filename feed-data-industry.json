@@ -1,6 +1,27 @@
 {
-  "generatedAt": "2026-10-24T04:21:33.202Z",
+  "generatedAt": "2026-10-25T04:25:37.506Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "Georgia's Silk Cloud deploys Nvidia Blackwell Ultra GPUs",
+      "url": "https://www.datacenterdynamics.com/en/news/georgias-silk-cloud-deploys-nvidia-blackwell-ultra-gpus/",
+      "description": "UK-based Fuse Energy also brings GPU compute online for customers",
+      "published": "2026-10-24T13:00:21.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "SpaceXAI facing $6.1m fine in Mississippi for building data centers without securing correct permits",
+      "url": "https://www.datacenterdynamics.com/en/news/spacexai-data-center-mississippi-memphis-elon-musk/",
+      "description": "Elon Musk's firm will also be back in court over problematic gas turbines",
+      "published": "2026-10-24T10:00:21.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: GF completes LiquidCore portfolio with intelligent Multi Control Valve to maximize direct liquid cooling efficiency",
+      "url": "https://www.datacenterdynamics.com/en/product-news/gf-completes-liquidcore-portfolio-with-intelligent-multi-control-valve-to-maximize-direct-liquid-cooling-efficiency/",
+      "description": "The introduction of the Multi Control Valve serves as the vital active intelligence layer that completes GF’s single-source LiquidCore system offering",
+      "published": "2026-10-24T07:00:00.000Z"
+    },
     {
       "source": "Data Center Dynamics",
       "title": "Core Stack JV adds more data centers to €1bn Italy network",
@@ -14,27 +35,6 @@
       "url": "https://www.datacenterdynamics.com/en/news/new-libyan-telecom-firm-to-launch-data-center-in-2027/",
       "description": "Installation of the Medusa subsea cable also progresses in Benghazi",
       "published": "2026-10-23T16:10:43.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Crown Castle bullish on carrier spectrum deployment, says it can support SpaceX's terrestrial dreams",
-      "url": "https://www.datacenterdynamics.com/en/news/crown-castle-bullish-on-carrier-spectrum-deployment-says-it-can-support-spacexs-terrestrial-dreams/",
-      "description": "As the tower company sees an opportunity to support SpaceX's terrestrial rollout",
-      "published": "2026-10-23T16:06:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Actyus, Adequita, and Nethits launch fund for Edge data centers - report",
-      "url": "https://www.datacenterdynamics.com/en/news/actyus-adequita-and-nethits-launch-fund-for-edge-data-centers-report/",
-      "description": "The project focuses on smaller-scale infrastructure that brings computing closer to businesses and government agencies.",
-      "published": "2026-10-23T16:04:12.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Short seller bets against Csquare, says data center firm's shares are worthless",
-      "url": "https://www.datacenterdynamics.com/en/news/short-seller-bets-against-csquare-says-data-center-firms-shares-are-worthless/",
-      "description": "Concerns over portfolio and capital structure",
-      "published": "2026-10-23T16:00:37.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -126,20 +126,6 @@
       "url": "https://www.datacenterknowledge.com/energy-power-supply/data-centers-can-delay-not-dodge-the-power-crunch",
       "description": "Efficiency gains and flexible workloads may create near-term capacity for AI, but utilities will need proof that those reductions can be delivered when the grid needs them.",
       "published": "2026-10-22T09:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
-      "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
-      "description": "\n                        Survey of 2,018 IT heads at big firms points to a lack of leverage. \n                    ",
-      "published": "2026-10-21T21:48:52.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Nvidia Unveils DSX Pod for Faster AI Data Center Builds",
-      "url": "https://www.datacenterknowledge.com/ai-data-centers/nvidia-unveils-dsx-pod-for-faster-ai-data-center-builds",
-      "description": "Nvidia said the DSX Pod, a prebuilt containerized AI data center, reduces deployment time from six months to 14 days.",
-      "published": "2026-10-21T15:12:26.000Z"
     }
   ]
 }

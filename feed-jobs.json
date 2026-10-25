@@ -1,6 +1,45 @@
 {
-  "generatedAt": "2026-10-24T04:21:33.202Z",
+  "generatedAt": "2026-10-25T04:25:37.506Z",
   "jobs": [
+    {
+      "title": "Data Engineer",
+      "company": "OVERSEA-CHINESE BANKING CORPORATION LIMITED",
+      "salary": "S$6,000 – S$12,000",
+      "type": "Permanent",
+      "skills": [
+        "Cloudera",
+        "Data Reports",
+        "Cross-Channel Messaging"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/932e351d10a09c2e3ecd9fdc186ff88f",
+      "posted": "2026-10-24T14:19:46.000Z"
+    },
+    {
+      "title": "Data Scientist, AI Lab",
+      "company": "OVERSEA-CHINESE BANKING CORPORATION LIMITED",
+      "salary": "S$6,000 – S$12,000",
+      "type": "Permanent",
+      "skills": [
+        "Zumba",
+        "Liaising with cross functional teams",
+        "Generative AI Model Development and Fine Tuning"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/70cef99099e5eed7ac828f88da8eb8ae",
+      "posted": "2026-10-24T14:08:42.000Z"
+    },
+    {
+      "title": "Data Scientist (AI Analyst)",
+      "company": "ACHIEVE CAREER CONSULTANT PTE LTD",
+      "salary": "S$4,000 – S$6,000",
+      "type": "Contract",
+      "skills": [
+        "Ai",
+        "Microsoft Azure",
+        "Liaising with project stakeholders"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/f469c15dea85af6e5b0a525bed06a836",
+      "posted": "2026-10-24T05:21:49.000Z"
+    },
     {
       "title": "Research Engineer II (Computer Science / Cyber Security / Artificial Intelligence)",
       "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
@@ -156,45 +195,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/6fc7e07d74c0d95abee07da635b26712",
       "posted": "2026-10-23T07:18:11.000Z"
-    },
-    {
-      "title": "AI/ML Engineer (IT/ Machine Learning/ No exp ok!/ Tuas)",
-      "company": "TRUST RECRUIT PTE. LTD.",
-      "salary": "S$3,500 – S$4,500",
-      "type": "Permanent",
-      "skills": [
-        "TensorFlow",
-        "Machine Learning",
-        "Git"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/b592046c65c7576a21308db01a018414",
-      "posted": "2026-10-23T06:16:37.000Z"
-    },
-    {
-      "title": "AI Engineer",
-      "company": "ES TECH CONSULTANCY PTE. LTD.",
-      "salary": "S$3,600 – S$4,200",
-      "type": "Contract",
-      "skills": [
-        "Chatbot",
-        "Multi-Agent Systems",
-        "Design"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/f2b60d18966fa6100f53008b535ce316",
-      "posted": "2026-10-23T06:00:32.000Z"
-    },
-    {
-      "title": "AI Solutions Engineer",
-      "company": "ABSOLUTE KINETICS CONSULTANCY PTE LTD",
-      "salary": "S$2,800 – S$3,800",
-      "type": "Full Time",
-      "skills": [
-        "Analytical Approach",
-        "Machine Learning",
-        "Workflow Automation"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/c9ad5937a04ae41cbef0bcb0a7fcf460",
-      "posted": "2026-10-23T05:29:58.000Z"
     }
   ]
 }
