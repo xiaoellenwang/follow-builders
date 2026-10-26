@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-25T04:25:37.506Z",
+  "generatedAt": "2026-10-26T04:28:03.560Z",
   "articles": [
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "Data Engineering Weekly #293",
+      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-293",
+      "description": "The Weekly Data Engineering Newsletter",
+      "published": "2026-10-26T02:12:10.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "The power behind AI: Data centers drive the demand for qualified electricians",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-power-behind-ai-data-centers-drive-the-demand-for-qualified-electricians/",
+      "description": "An insatiable demand for electricians",
+      "published": "2026-10-25T11:00:30.000Z"
+    },
     {
       "source": "Data Center Dynamics",
       "title": "Georgia's Silk Cloud deploys Nvidia Blackwell Ultra GPUs",
@@ -30,13 +44,6 @@
       "published": "2026-10-23T16:10:43.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "New Libyan telecom firm to launch data center in 2027",
-      "url": "https://www.datacenterdynamics.com/en/news/new-libyan-telecom-firm-to-launch-data-center-in-2027/",
-      "description": "Installation of the Medusa subsea cable also progresses in Benghazi",
-      "published": "2026-10-23T16:10:43.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: testing six tech promises and biotech’s blind spots",
       "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
@@ -63,69 +70,6 @@
       "url": "https://www.datacenterknowledge.com/cooling/can-evaporative-cooling-in-data-centers-still-make-sense-",
       "description": "Evaporative cooling is hard to defend on water-use grounds, but some operators still choose it for its lower upfront cost, higher efficiency, and dry-climate performance.",
       "published": "2026-10-23T09:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Three Physical Walls Are Hitting AI Datacenter Infrastructure at the Same Time - And the Compound Effects Are Worse",
-      "url": "https://www.nextplatform.com/compute/2026/10/23/partner-content-three-physical-walls-are-hitting-ai-datacenter-infrastructure-at-the-same-time-and-the-compound-effects-are-worse/5304697",
-      "description": "",
-      "published": "2026-10-23T00:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Designing an AI serving harness built to last",
-      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-      "description": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows,",
-      "published": "2026-10-22T21:17:29.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
-      "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
-      "description": "\n                        Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.\n                    ",
-      "published": "2026-10-22T20:17:52.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "How Mixx Technologies Is Lighting The Way To Fully Optical Scale-up Networks",
-      "url": "https://www.nextplatform.com/connect/2026/10/22/how-mixx-technologies-is-lighting-the-way-to-fully-optical-scale-up-networks/5304886",
-      "description": "",
-      "published": "2026-10-22T20:14:12.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Foundations of Scalable AI",
-      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-      "description": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment a",
-      "published": "2026-10-22T18:48:04.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Nvidia Unveils DSX POD Amid Greenpeace Protest",
-      "url": "https://www.datacenterknowledge.com/ai-data-centers/nvidia-unveils-dsx-pod-amid-greenpeace-protest",
-      "description": "Nvidia says its DSX POD can slash AI data center deployment times, but its Berlin launch also underscored growing backlash over the industry’s rapid expansion.",
-      "published": "2026-10-22T16:05:01.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: computing’s next leap and permafrost’s climate threat",
-      "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Botto",
-      "published": "2026-10-22T12:10:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
-      "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
-      "description": "\n                        For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.\n                    ",
-      "published": "2026-10-22T11:30:33.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Data Centers Can Delay, Not Dodge, the Power Crunch",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/data-centers-can-delay-not-dodge-the-power-crunch",
-      "description": "Efficiency gains and flexible workloads may create near-term capacity for AI, but utilities will need proof that those reductions can be delivered when the grid needs them.",
-      "published": "2026-10-22T09:00:00.000Z"
     }
   ]
 }
