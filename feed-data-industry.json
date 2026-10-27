@@ -1,75 +1,96 @@
 {
-  "generatedAt": "2026-10-26T04:28:03.560Z",
+  "generatedAt": "2026-10-27T04:47:23.698Z",
   "articles": [
+    {
+      "source": "MIT Technology Review",
+      "title": "Will the real Anthropic please stand up",
+      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s u",
+      "published": "2026-10-26T17:45:43.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Ecoblox partners with Rimac on modular data center solution",
+      "url": "https://www.datacenterdynamics.com/en/news/ecoblox-partners-with-rimac-on-modular-data-center-solution/",
+      "description": "First deployment slated for Rimac's campus in Kerestinec, Croatia",
+      "published": "2026-10-26T17:30:24.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Cadence unveils Nvidia-powered AI data center in Munich, Germany",
+      "url": "https://www.datacenterdynamics.com/en/news/cadence-unveils-nvidia-powered-ai-data-center-in-munich-germany/",
+      "description": "Facility will support electronic design automation (EDA), simulation, and offer sovereign AI cloud services",
+      "published": "2026-10-26T17:17:15.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Verizon signs $2bn AWS AI infrastructure deal",
+      "url": "https://www.datacenterdynamics.com/en/news/verizon-signs-2bn-aws-ai-infrastructure-deal/",
+      "description": "As carrier posts strong Q3 earnings",
+      "published": "2026-10-26T17:10:55.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: The next evolution of data center backup power",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-next-evolution-of-data-center-backup-power/",
+      "description": "Building flexibility from the engine up  ",
+      "published": "2026-10-26T17:05:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Data Centers Bring Boom Times, But Will Gains Last?",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/data-centers-bring-boom-times-but-will-gains-last-",
+      "description": "Data center projects can bring major capital investment to smaller markets, but lasting economic returns depend on realistic job expectations and protection against public cost exposure.",
+      "published": "2026-10-26T16:47:16.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Anthropic files S-1 for IPO, with $417bn in compute commitments",
+      "url": "https://www.datacenterdynamics.com/en/news/anthropic-files-s-1-for-ipo-with-417bn-in-compute-commitments/",
+      "description": "Data center costs spread over the next 20 years",
+      "published": "2026-10-26T16:45:52.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Nvidia Simulates Its Way Into Google's Magic State Cultivation Party",
+      "url": "https://www.nextplatform.com/compute/2026/10/26/nvidia-simulates-its-way-into-googles-magic-state-cultivation-party/5305405",
+      "description": "",
+      "published": "2026-10-26T13:50:00.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Cadence, Nvidia Unveil New AI Models To Put EDA On Autopilot",
+      "url": "https://www.nextplatform.com/hpc/2026/10/26/cadence-nvidia-unveil-new-ai-models-to-put-eda-on-autopilot/5305228",
+      "description": "",
+      "published": "2026-10-26T13:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+      "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive dire",
+      "published": "2026-10-26T12:40:00.000Z"
+    },
+    {
+      "source": "Import AI",
+      "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
+      "url": "https://jack-clark.net/2026/10/26/import-ai-478-math-for-alignment-programbench-and-mirendil-shows-what-rsi-means/",
+      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now How math could help alignment:…What the “industrialization of mathematics” means for safety…AI safety startup Resoluti",
+      "published": "2026-10-26T12:31:52.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "description": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear th",
+      "published": "2026-10-26T09:01:00.000Z"
+    },
     {
       "source": "DataEngineeringWeekly",
       "title": "Data Engineering Weekly #293",
       "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-293",
       "description": "The Weekly Data Engineering Newsletter",
       "published": "2026-10-26T02:12:10.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "The power behind AI: Data centers drive the demand for qualified electricians",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-power-behind-ai-data-centers-drive-the-demand-for-qualified-electricians/",
-      "description": "An insatiable demand for electricians",
-      "published": "2026-10-25T11:00:30.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Georgia's Silk Cloud deploys Nvidia Blackwell Ultra GPUs",
-      "url": "https://www.datacenterdynamics.com/en/news/georgias-silk-cloud-deploys-nvidia-blackwell-ultra-gpus/",
-      "description": "UK-based Fuse Energy also brings GPU compute online for customers",
-      "published": "2026-10-24T13:00:21.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "SpaceXAI facing $6.1m fine in Mississippi for building data centers without securing correct permits",
-      "url": "https://www.datacenterdynamics.com/en/news/spacexai-data-center-mississippi-memphis-elon-musk/",
-      "description": "Elon Musk's firm will also be back in court over problematic gas turbines",
-      "published": "2026-10-24T10:00:21.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: GF completes LiquidCore portfolio with intelligent Multi Control Valve to maximize direct liquid cooling efficiency",
-      "url": "https://www.datacenterdynamics.com/en/product-news/gf-completes-liquidcore-portfolio-with-intelligent-multi-control-valve-to-maximize-direct-liquid-cooling-efficiency/",
-      "description": "The introduction of the Multi Control Valve serves as the vital active intelligence layer that completes GF’s single-source LiquidCore system offering",
-      "published": "2026-10-24T07:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Core Stack JV adds more data centers to €1bn Italy network",
-      "url": "https://www.datacenterdynamics.com/en/news/core-stack-jv-adds-more-data-centers-to-1bn-italy-network/",
-      "description": "Two facilities near Cremona and Verona are in advanced planning stages",
-      "published": "2026-10-23T16:10:43.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: testing six tech promises and biotech’s blind spots",
-      "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips",
-      "published": "2026-10-23T12:10:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "APC Says Let There Be Light, With Raft Of Standards To Speed Up Photonics Manufacturing",
-      "url": "https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950",
-      "description": "",
-      "published": "2026-10-23T11:46:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "In the biotech world, you can’t see everything",
-      "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
-      "description": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect. I’d avoided spoilers (and won’t be giving anything away here, either!). I was wondering what new ",
-      "published": "2026-10-23T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Can Evaporative Cooling in Data Centers Still Make Sense?",
-      "url": "https://www.datacenterknowledge.com/cooling/can-evaporative-cooling-in-data-centers-still-make-sense-",
-      "description": "Evaporative cooling is hard to defend on water-use grounds, but some operators still choose it for its lower upfront cost, higher efficiency, and dry-climate performance.",
-      "published": "2026-10-23T09:00:00.000Z"
     }
   ]
 }

@@ -1,200 +1,57 @@
 {
-  "generatedAt": "2026-10-26T04:28:03.560Z",
+  "generatedAt": "2026-10-27T04:47:23.698Z",
   "jobs": [
     {
-      "title": "Backend Engineer (Python/AI)",
-      "company": "SCIENTEC CONSULTING PTE. LTD.",
-      "salary": "S$7,500 – S$9,500",
+      "title": "AI Platform Engineer",
+      "company": "INFINITE COMPUTER SOLUTIONS PTE LTD",
+      "salary": "S$10,000 – S$11,000",
       "type": "Contract",
       "skills": [
-        "Terraform",
-        "Testing Practices",
-        "Data Pipeline"
+        "Influencing Key Stakeholders",
+        "Liaising with service providers",
+        "Online Environments"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/5099d95b665a6c158c6e0d13dc95f0df",
-      "posted": "2026-10-26T03:58:20.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/5451fb59d5c46d2d18cbec84c85fe9d6",
+      "posted": "2026-10-27T04:34:20.000Z"
     },
     {
-      "title": "RPA Specialists (Microsoft Power Automate)",
+      "title": "Senior AI Security Consultant (JD#11418)",
+      "company": "SCIENTE INTERNATIONAL PTE. LTD.",
+      "salary": "S$10,000 – S$15,000",
+      "type": "Permanent",
+      "skills": [
+        "Security Architecture",
+        "Data Protection Regulation",
+        "Safeguarding Policy"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/6ad430103ecb2ae6b552505bbdcee511",
+      "posted": "2026-10-27T04:12:37.000Z"
+    },
+    {
+      "title": "Senior ML/AI Engineer - #1731",
+      "company": "JOBSTER PRIVATE LTD.",
+      "salary": "S$9,000 – S$10,000",
+      "type": "Contract",
+      "skills": [
+        "Ai",
+        "Degree in psychology",
+        "Workflow Automation"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/2635377b4ccb9631ea683a3463d93369",
+      "posted": "2026-10-27T04:08:53.000Z"
+    },
+    {
+      "title": "AI Engineering / Consultant / Senior Specialist (Based in Singapore)",
       "company": "ABEAM CONSULTING (SINGAPORE) PTE. LTD.",
-      "salary": "S$5,000 – S$7,000",
+      "salary": "S$6,000 – S$8,000",
       "type": "Contract",
       "skills": [
-        "API Development",
-        "Applications",
-        "Web Services"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/e1d1e37bc12b703520cf6d5ce02b6c3c",
-      "posted": "2026-10-26T03:15:18.000Z"
-    },
-    {
-      "title": "Robotics Engineer - Embodied AI",
-      "company": "HONG YE GROUP PTE. LTD.",
-      "salary": "S$6,500 – S$9,000",
-      "type": "Permanent",
-      "skills": [
+        "Multi-Agent Systems",
         "Ai",
-        "Medical Degree",
-        "AI Governance"
+        "Design"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/51b645fb528838ca1ee642f60f66a782",
-      "posted": "2026-10-26T03:05:23.000Z"
-    },
-    {
-      "title": "Robotics Engineer Intern - Embodied AI",
-      "company": "HONG YE GROUP PTE. LTD.",
-      "salary": "S$1,200 – S$1,800",
-      "type": "Internship/Attachment",
-      "skills": [
-        "Internships",
-        "ROS",
-        "Simulation"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/61e12ae8a2bf075edd3aecbb59cf598b",
-      "posted": "2026-10-26T03:04:38.000Z"
-    },
-    {
-      "title": "Senior Engineer, Machine Learning",
-      "company": "SEAGATE SINGAPORE INTERNATIONAL HEADQUARTERS PTE. LTD.",
-      "salary": "S$5,700 – S$10,000",
-      "type": "Permanent",
-      "skills": [
-        "Information Security",
-        "AI Agents",
-        "AI Governance"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/cf1667095f7e78308b1bb4e6ac576c34",
-      "posted": "2026-10-26T02:50:28.000Z"
-    },
-    {
-      "title": "Robotics Engineer Intern - Embodied AI",
-      "company": "YY CIRCLE (SG) PRIVATE LIMITED",
-      "salary": "S$1,200 – S$1,800",
-      "type": "Internship/Attachment",
-      "skills": [
-        "Internships",
-        "ROS",
-        "Simulation"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/beb13566b6554b30ab72ce0e75098b62",
-      "posted": "2026-10-26T02:47:13.000Z"
-    },
-    {
-      "title": "Robotics Engineer - Embodied AI",
-      "company": "YY CIRCLE (SG) PRIVATE LIMITED",
-      "salary": "S$6,500 – S$9,000",
-      "type": "Permanent",
-      "skills": [
-        "Ai",
-        "Medical Degree",
-        "AI Governance"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/463a3a185646cb03ce77d5fd1aca20aa",
-      "posted": "2026-10-26T02:46:17.000Z"
-    },
-    {
-      "title": "Associate Professor (Practice Track), Bioethics and Artificial Intelligence [Part-time]",
-      "company": "NATIONAL UNIVERSITY OF SINGAPORE",
-      "salary": "S$5,000 – S$10,000",
-      "type": "Part Time",
-      "skills": [
-        "Sociology",
-        "AI Ethics",
-        "Anthropology"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/510f6dba5f44af967deb3a914a1d9723",
-      "posted": "2026-10-26T02:26:46.000Z"
-    },
-    {
-      "title": "Computer Vision/ML Manager",
-      "company": "OAKTREE CONSULTING",
-      "salary": "S$8,000 – S$11,000",
-      "type": "Permanent",
-      "skills": [
-        "Game Artificial Intelligence Development",
-        "Mentoring",
-        "Leadership"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/c0c2616de2a08d679e8bd8937586d2e4",
-      "posted": "2026-10-26T02:23:40.000Z"
-    },
-    {
-      "title": "AI/ML Engineer (Permanent)",
-      "company": "TALENTSIS PTE. LTD.",
-      "salary": "S$6,000 – S$7,000",
-      "type": "Full Time",
-      "skills": [
-        "Graph Database",
-        "Generative AI Application Development and Deployment",
-        "Computer Engineering"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/ec830e2e69db98750314b45c6f641d43",
-      "posted": "2026-10-26T02:18:45.000Z"
-    },
-    {
-      "title": "AI & Infrastructure Engineer ISKT-001",
-      "company": "INFOGAIN TECHNOLOGIES PTE. LTD.",
-      "salary": "S$4,000 – S$6,000",
-      "type": "Contract",
-      "skills": [
-        "TensorFlow",
-        "Ai",
-        "AI Agents"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/d3fa47b4177a3b43ecbbc435061be67a",
-      "posted": "2026-10-26T02:15:25.000Z"
-    },
-    {
-      "title": "Forward Deployment Engineer (FDE) – Industrial AI",
-      "company": "INNOWAVE TECH PTE. LTD.",
-      "salary": "S$4,000 – S$5,000",
-      "type": "Permanent",
-      "skills": [
-        "Optimization",
-        "Automation Anywhere",
-        "ensure sponsorship"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/61d91b15ff2aeda12fa77f9bb3cac8d8",
-      "posted": "2026-10-26T01:47:02.000Z"
-    },
-    {
-      "title": "Course Developer for Cybersecurity & AI Technologies using Python in Advanced Manufacturing",
-      "company": "NTUC LEARNINGHUB PTE. LTD.",
-      "salary": "S$1,100 – S$1,300",
-      "type": "Temporary",
-      "skills": [
-        "Adult Education",
-        "Curriculum Design",
-        "Cybersecurity Framework Application"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/91fa5f4b61c24989579db354946d2cd2",
-      "posted": "2026-10-26T01:41:08.000Z"
-    },
-    {
-      "title": "Data Engineer",
-      "company": "INNOWAVE TECH PTE. LTD.",
-      "salary": "S$5,000 – S$8,000",
-      "type": "Full Time",
-      "skills": [
-        "Airflow",
-        "Pipelines",
-        "Artificial Intelligence"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/9f583ca3960b2beb964d3ee53c2c7a6c",
-      "posted": "2026-10-26T01:40:09.000Z"
-    },
-    {
-      "title": "Artificial Intelligence / Computer Vision Engineer",
-      "company": "POROLIS TECHNOLOGIES PTE. LTD.",
-      "salary": "S$6,000 – S$9,000",
-      "type": "Permanent",
-      "skills": [
-        "Project Specification",
-        "Technical Writing",
-        "Data Pipeline"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/2682c6c8b4a05874e57fc9bde2a2d4d5",
-      "posted": "2026-10-25T12:44:27.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/b58a1d6a65d612880b7a437ca823cc18",
+      "posted": "2026-10-27T03:32:46.000Z"
     }
   ]
 }
