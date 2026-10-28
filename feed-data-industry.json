@@ -1,40 +1,103 @@
 {
-  "generatedAt": "2026-10-27T04:47:23.698Z",
+  "generatedAt": "2026-10-28T05:21:44.163Z",
   "articles": [
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "Do We Still Need Data Models?",
+      "url": "https://www.dataengineeringweekly.com/p/do-we-still-need-data-models",
+      "description": "As agents build data systems, models must help us understand the decisions behind them.",
+      "published": "2026-10-28T04:22:26.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Nvidia Vera Rubin and Vera CPUs now generally available on Oracle",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-vera-rubin-and-vera-cpus-now-generally-available-on-oracle/",
+      "description": "And other AI hardware deployments soon to arrive",
+      "published": "2026-10-27T20:41:25.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "description": "\n                        Critical flaw in EDK2 allows attackers to execute code early in the boot process.\n                    ",
+      "published": "2026-10-27T20:25:55.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Rethinking the Blind-Mate Connection",
+      "url": "https://www.datacenterknowledge.com/cooling/rethinking-the-blind-mate-connection",
+      "description": "PBMC technology helps liquid-cooled servers deliver higher flow in less space while better accommodating alignment variation during installation and service.",
+      "published": "2026-10-27T20:15:26.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Oracle is Expanding the Accelerator Options in OCI for Enterprises",
+      "url": "https://www.nextplatform.com/ai/2026/10/27/oracle-is-expanding-the-accelerator-options-in-oci-for-enterprises/5305815",
+      "description": "",
+      "published": "2026-10-27T19:14:05.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Oracle will offer Google’s TPU AI chip via OCI",
+      "url": "https://www.datacenterdynamics.com/en/news/oracle-will-offer-googles-tpu-ai-chip-via-oci/",
+      "description": "Will be the first hyperscaler to offer Google’s TPU outside of Google",
+      "published": "2026-10-27T17:57:17.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Amazon settles legal battle against AWS managers accused of data center deal kickbacks",
+      "url": "https://www.datacenterdynamics.com/en/news/amazon-settles-legal-battle-against-aws-managers-accused-of-data-center-deal-kickbacks/",
+      "description": "The long-running case will continue with Northstar Commercial Partners as defendant",
+      "published": "2026-10-27T17:17:49.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "La Caisse snaps up 49.9% stake in Bell Canada's tower unit",
+      "url": "https://www.datacenterdynamics.com/en/news/la-caisse-snaps-up-499-stake-in-bell-canadas-tower-unit/",
+      "description": "Raises CAD$2.45bn for newly-formed tower business",
+      "published": "2026-10-27T17:08:55.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Ferveret's in-rack immersion cooling deployed on HPC infrastructure at MIT",
+      "url": "https://www.datacenterdynamics.com/en/news/ferverets-in-rack-immersion-cooling-deployed-on-hpc-infrastructure-at-mit/",
+      "description": "Can unlock up to 35 percent additional compute capacity, firm claims",
+      "published": "2026-10-27T17:02:59.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages",
+      "published": "2026-10-27T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "description": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, w",
+      "published": "2026-10-27T11:19:18.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "How solid-state transformers could help power the AI boom",
+      "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+      "description": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade.&#160; As the world races",
+      "published": "2026-10-27T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "The Power Challenge Behind Hyperscale AI Expansion",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/the-power-challenge-behind-hyperscale-ai-expansion",
+      "description": "The number of new AI data center projects being announced continues to far outpace the number delayed by local opposition.",
+      "published": "2026-10-27T09:00:00.000Z"
+    },
     {
       "source": "MIT Technology Review",
       "title": "Will the real Anthropic please stand up",
       "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s u",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the compan",
       "published": "2026-10-26T17:45:43.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Ecoblox partners with Rimac on modular data center solution",
-      "url": "https://www.datacenterdynamics.com/en/news/ecoblox-partners-with-rimac-on-modular-data-center-solution/",
-      "description": "First deployment slated for Rimac's campus in Kerestinec, Croatia",
-      "published": "2026-10-26T17:30:24.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Cadence unveils Nvidia-powered AI data center in Munich, Germany",
-      "url": "https://www.datacenterdynamics.com/en/news/cadence-unveils-nvidia-powered-ai-data-center-in-munich-germany/",
-      "description": "Facility will support electronic design automation (EDA), simulation, and offer sovereign AI cloud services",
-      "published": "2026-10-26T17:17:15.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Verizon signs $2bn AWS AI infrastructure deal",
-      "url": "https://www.datacenterdynamics.com/en/news/verizon-signs-2bn-aws-ai-infrastructure-deal/",
-      "description": "As carrier posts strong Q3 earnings",
-      "published": "2026-10-26T17:10:55.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: The next evolution of data center backup power",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-next-evolution-of-data-center-backup-power/",
-      "description": "Building flexibility from the engine up  ",
-      "published": "2026-10-26T17:05:00.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -42,13 +105,6 @@
       "url": "https://www.datacenterknowledge.com/data-center-construction/data-centers-bring-boom-times-but-will-gains-last-",
       "description": "Data center projects can bring major capital investment to smaller markets, but lasting economic returns depend on realistic job expectations and protection against public cost exposure.",
       "published": "2026-10-26T16:47:16.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Anthropic files S-1 for IPO, with $417bn in compute commitments",
-      "url": "https://www.datacenterdynamics.com/en/news/anthropic-files-s-1-for-ipo-with-417bn-in-compute-commitments/",
-      "description": "Data center costs spread over the next 20 years",
-      "published": "2026-10-26T16:45:52.000Z"
     },
     {
       "source": "The Next Platform",
@@ -77,13 +133,6 @@
       "url": "https://jack-clark.net/2026/10/26/import-ai-478-math-for-alignment-programbench-and-mirendil-shows-what-rsi-means/",
       "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now How math could help alignment:…What the “industrialization of mathematics” means for safety…AI safety startup Resoluti",
       "published": "2026-10-26T12:31:52.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The focus on AI safety disasters ignores everyday harms",
-      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-      "description": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear th",
-      "published": "2026-10-26T09:01:00.000Z"
     },
     {
       "source": "DataEngineeringWeekly",
