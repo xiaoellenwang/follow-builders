@@ -1,19 +1,89 @@
 {
-  "generatedAt": "2026-10-28T05:21:44.163Z",
+  "generatedAt": "2026-10-29T05:31:19.805Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "Building liquid cooling systems that last: the critical role of sustaining engineering",
+      "url": "https://www.datacenterdynamics.com/en/opinions/building-liquid-cooling-systems-that-last-the-critical-role-of-sustaining-engineering/",
+      "description": "Liquid cooling must remain reliable, serviceable, and adaptable to what the future holds",
+      "published": "2026-10-28T20:58:39.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Creating AI value with enterprise context",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "description": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outc",
+      "published": "2026-10-28T20:32:02.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Tata Communications to invest $450m into 10,000km of AI-ready fiber to support data center connectivity in India",
+      "url": "https://www.datacenterdynamics.com/en/news/tata-communications-to-invest-450m-into-10000km-of-ai-ready-fiber-to-support-data-center-connectivity-in-india/",
+      "description": "The route aims to support India's growing data center industry",
+      "published": "2026-10-28T18:33:09.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "KBRA assigns preliminary ratings to up to $525m in US Signal notes, secured against ten data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/kbra-assigns-preliminary-ratings-to-up-to-525m-in-us-signal-notes-secured-against-ten-data-centers/",
+      "description": "With a final maturity of November 2056",
+      "published": "2026-10-28T18:32:10.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Vertiv shares jump 14 percent as data center earnings beat expectations",
+      "url": "https://www.datacenterdynamics.com/en/news/vertiv-shares-jump-14-percent-as-data-center-earnings-beat-expectations/",
+      "description": "Reversing a steady decline amid market uncertainty",
+      "published": "2026-10-28T17:18:08.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Oracle AI World takeaways: making Nvidia envious, and storage... sexy?",
+      "url": "https://www.datacenterdynamics.com/en/opinions/oracle-ai-world-takeaways-making-nvidia-envious-and-storage-sexy/",
+      "description": "Oracle Cloud Infrastructure is discovering itself",
+      "published": "2026-10-28T17:16:43.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Intel’s $2.3 Billion Bet on a Quantum Future is a Decade in the Making",
+      "url": "https://www.nextplatform.com/hpc/2026/10/28/intels-23-billion-bet-on-a-quantum-future-is-a-decade-in-the-making/5306068",
+      "description": "",
+      "published": "2026-10-28T16:48:23.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Oracle Cloud to Offer Google TPUs and New AI Chips",
+      "url": "https://www.datacenterknowledge.com/data-center-chips/oracle-cloud-to-offer-google-tpus-and-new-ai-chips",
+      "description": "Oracle is broadening OCI’s AI infrastructure with Google TPUs and other chips while deepening its Nvidia partnership to give customers more workload choice.",
+      "published": "2026-10-28T14:38:56.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: dead startups fueling AI and interspecies communication",
+      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data w",
+      "published": "2026-10-28T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Pairing industrial AI autonomy and human control",
+      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+      "description": "",
+      "published": "2026-10-28T12:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Where Solid-State Micro-Cooling Fits in Data Centers",
+      "url": "https://www.datacenterknowledge.com/cooling/where-solid-state-micro-cooling-fits-in-data-centers",
+      "description": "Solid-state micro-cooling could help data centers reduce hotspots in SSDs and other subsystems that liquid cooling and system fans don't fully reach.",
+      "published": "2026-10-28T09:00:00.000Z"
+    },
     {
       "source": "DataEngineeringWeekly",
       "title": "Do We Still Need Data Models?",
       "url": "https://www.dataengineeringweekly.com/p/do-we-still-need-data-models",
       "description": "As agents build data systems, models must help us understand the decisions behind them.",
       "published": "2026-10-28T04:22:26.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Nvidia Vera Rubin and Vera CPUs now generally available on Oracle",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-vera-rubin-and-vera-cpus-now-generally-available-on-oracle/",
-      "description": "And other AI hardware deployments soon to arrive",
-      "published": "2026-10-27T20:41:25.000Z"
     },
     {
       "source": "Ars Technica Tech",
@@ -37,34 +107,6 @@
       "published": "2026-10-27T19:14:05.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Oracle will offer Google’s TPU AI chip via OCI",
-      "url": "https://www.datacenterdynamics.com/en/news/oracle-will-offer-googles-tpu-ai-chip-via-oci/",
-      "description": "Will be the first hyperscaler to offer Google’s TPU outside of Google",
-      "published": "2026-10-27T17:57:17.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Amazon settles legal battle against AWS managers accused of data center deal kickbacks",
-      "url": "https://www.datacenterdynamics.com/en/news/amazon-settles-legal-battle-against-aws-managers-accused-of-data-center-deal-kickbacks/",
-      "description": "The long-running case will continue with Northstar Commercial Partners as defendant",
-      "published": "2026-10-27T17:17:49.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "La Caisse snaps up 49.9% stake in Bell Canada's tower unit",
-      "url": "https://www.datacenterdynamics.com/en/news/la-caisse-snaps-up-499-stake-in-bell-canadas-tower-unit/",
-      "description": "Raises CAD$2.45bn for newly-formed tower business",
-      "published": "2026-10-27T17:08:55.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Ferveret's in-rack immersion cooling deployed on HPC infrastructure at MIT",
-      "url": "https://www.datacenterdynamics.com/en/news/ferverets-in-rack-immersion-cooling-deployed-on-hpc-infrastructure-at-mit/",
-      "description": "Can unlock up to 35 percent additional compute capacity, firm claims",
-      "published": "2026-10-27T17:02:59.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
       "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
@@ -79,25 +121,11 @@
       "published": "2026-10-27T11:19:18.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "How solid-state transformers could help power the AI boom",
-      "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
-      "description": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade.&#160; As the world races",
-      "published": "2026-10-27T09:00:00.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "The Power Challenge Behind Hyperscale AI Expansion",
       "url": "https://www.datacenterknowledge.com/energy-power-supply/the-power-challenge-behind-hyperscale-ai-expansion",
       "description": "The number of new AI data center projects being announced continues to far outpace the number delayed by local opposition.",
       "published": "2026-10-27T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Will the real Anthropic please stand up",
-      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the compan",
-      "published": "2026-10-26T17:45:43.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -112,34 +140,6 @@
       "url": "https://www.nextplatform.com/compute/2026/10/26/nvidia-simulates-its-way-into-googles-magic-state-cultivation-party/5305405",
       "description": "",
       "published": "2026-10-26T13:50:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Cadence, Nvidia Unveil New AI Models To Put EDA On Autopilot",
-      "url": "https://www.nextplatform.com/hpc/2026/10/26/cadence-nvidia-unveil-new-ai-models-to-put-eda-on-autopilot/5305228",
-      "description": "",
-      "published": "2026-10-26T13:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
-      "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive dire",
-      "published": "2026-10-26T12:40:00.000Z"
-    },
-    {
-      "source": "Import AI",
-      "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
-      "url": "https://jack-clark.net/2026/10/26/import-ai-478-math-for-alignment-programbench-and-mirendil-shows-what-rsi-means/",
-      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now How math could help alignment:…What the “industrialization of mathematics” means for safety…AI safety startup Resoluti",
-      "published": "2026-10-26T12:31:52.000Z"
-    },
-    {
-      "source": "DataEngineeringWeekly",
-      "title": "Data Engineering Weekly #293",
-      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-293",
-      "description": "The Weekly Data Engineering Newsletter",
-      "published": "2026-10-26T02:12:10.000Z"
     }
   ]
 }
