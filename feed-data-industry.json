@@ -1,12 +1,82 @@
 {
-  "generatedAt": "2026-10-29T05:31:19.805Z",
+  "generatedAt": "2026-10-30T05:31:36.746Z",
   "articles": [
     {
+      "source": "Data Center Knowledge",
+      "title": "The Jobs That Actually Exist Inside Data Centers",
+      "url": "https://www.datacenterknowledge.com/data-center-career-development/the-jobs-that-actually-exist-inside-data-centers",
+      "description": "Data centers create relatively few permanent jobs, but they still rely on a small, skilled on-site workforce to keep facilities secure, powered, cooled, and running.",
+      "published": "2026-10-29T18:35:45.000Z"
+    },
+    {
       "source": "Data Center Dynamics",
-      "title": "Building liquid cooling systems that last: the critical role of sustaining engineering",
-      "url": "https://www.datacenterdynamics.com/en/opinions/building-liquid-cooling-systems-that-last-the-critical-role-of-sustaining-engineering/",
-      "description": "Liquid cooling must remain reliable, serviceable, and adaptable to what the future holds",
-      "published": "2026-10-28T20:58:39.000Z"
+      "title": "700MW data center project proposed outside Lansing, Michigan",
+      "url": "https://www.datacenterdynamics.com/en/news/700mw-data-center-project-proposed-outside-lansing-michigan/",
+      "description": "Local officials blindsided by proposal from local economic development agency",
+      "published": "2026-10-29T17:07:04.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Turkish police make 85 arrests over last month's arson attack against Starlink satellite station in Poland",
+      "url": "https://www.datacenterdynamics.com/en/news/turkish-police-make-85-arrests-over-last-months-arson-attack-against-starlink-satellite-station-in-poland/",
+      "description": "As the net widens over arson attack on September 23",
+      "published": "2026-10-29T17:03:26.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "OneQode leases 14MW from AdaniConneX in India",
+      "url": "https://www.datacenterdynamics.com/en/news/oneqode-leases-14mw-from-adaniconnex-in-india/",
+      "description": "AI cloud company's first deployment in India, more planned",
+      "published": "2026-10-29T17:01:15.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "GTC Berlin: Nvidia wants you to know it cares –  just don’t ask too many questions",
+      "url": "https://www.datacenterdynamics.com/en/opinions/gtc-berlin-nvidia-wants-you-to-know-it-cares-just-dont-ask-too-many-questions/",
+      "description": "The GPU giant attempted to reframe its messaging for the European market, but were they buying it?",
+      "published": "2026-10-29T16:50:01.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Nordic data center firm Heim secures investment from Omnes",
+      "url": "https://www.datacenterdynamics.com/en/news/nordic-data-center-firm-heim-secures-investment-from-omnes/",
+      "description": "Investment to fund first projects in Finland",
+      "published": "2026-10-29T16:47:34.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit ",
+      "published": "2026-10-29T12:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "description": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Aus",
+      "published": "2026-10-29T10:11:12.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Our climate models have a big, dangerous blind spot",
+      "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+      "description": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our emissions-reduction goals. Scientists have long warned th",
+      "published": "2026-10-29T10:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Nvidia, AMD Commit $4B to Meta AI Buildout",
+      "url": "https://www.datacenterknowledge.com/data-center-chips/nvidia-amd-commit-4b-to-meta-ai-buildout",
+      "description": "Nvidia and AMD are deepening chip partnerships to secure long-term AI infrastructure business as Meta expands AI compute spending.",
+      "published": "2026-10-29T09:00:00.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "How to Evaluate CPU Performance for Agentic AI",
+      "url": "https://www.nextplatform.com/compute/2026/10/29/sponsored-how-to-evaluate-cpu-performance-for-agentic-ai/5305779",
+      "description": "",
+      "published": "2026-10-29T09:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -14,34 +84,6 @@
       "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
       "description": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outc",
       "published": "2026-10-28T20:32:02.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Tata Communications to invest $450m into 10,000km of AI-ready fiber to support data center connectivity in India",
-      "url": "https://www.datacenterdynamics.com/en/news/tata-communications-to-invest-450m-into-10000km-of-ai-ready-fiber-to-support-data-center-connectivity-in-india/",
-      "description": "The route aims to support India's growing data center industry",
-      "published": "2026-10-28T18:33:09.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "KBRA assigns preliminary ratings to up to $525m in US Signal notes, secured against ten data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/kbra-assigns-preliminary-ratings-to-up-to-525m-in-us-signal-notes-secured-against-ten-data-centers/",
-      "description": "With a final maturity of November 2056",
-      "published": "2026-10-28T18:32:10.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Vertiv shares jump 14 percent as data center earnings beat expectations",
-      "url": "https://www.datacenterdynamics.com/en/news/vertiv-shares-jump-14-percent-as-data-center-earnings-beat-expectations/",
-      "description": "Reversing a steady decline amid market uncertainty",
-      "published": "2026-10-28T17:18:08.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Oracle AI World takeaways: making Nvidia envious, and storage... sexy?",
-      "url": "https://www.datacenterdynamics.com/en/opinions/oracle-ai-world-takeaways-making-nvidia-envious-and-storage-sexy/",
-      "description": "Oracle Cloud Infrastructure is discovering itself",
-      "published": "2026-10-28T17:16:43.000Z"
     },
     {
       "source": "The Next Platform",
@@ -63,13 +105,6 @@
       "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
       "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data w",
       "published": "2026-10-28T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Pairing industrial AI autonomy and human control",
-      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-      "description": "",
-      "published": "2026-10-28T12:00:00.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -105,41 +140,6 @@
       "url": "https://www.nextplatform.com/ai/2026/10/27/oracle-is-expanding-the-accelerator-options-in-oci-for-enterprises/5305815",
       "description": "",
       "published": "2026-10-27T19:14:05.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages",
-      "published": "2026-10-27T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
-      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
-      "description": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, w",
-      "published": "2026-10-27T11:19:18.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "The Power Challenge Behind Hyperscale AI Expansion",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/the-power-challenge-behind-hyperscale-ai-expansion",
-      "description": "The number of new AI data center projects being announced continues to far outpace the number delayed by local opposition.",
-      "published": "2026-10-27T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Data Centers Bring Boom Times, But Will Gains Last?",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/data-centers-bring-boom-times-but-will-gains-last-",
-      "description": "Data center projects can bring major capital investment to smaller markets, but lasting economic returns depend on realistic job expectations and protection against public cost exposure.",
-      "published": "2026-10-26T16:47:16.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Nvidia Simulates Its Way Into Google's Magic State Cultivation Party",
-      "url": "https://www.nextplatform.com/compute/2026/10/26/nvidia-simulates-its-way-into-googles-magic-state-cultivation-party/5305405",
-      "description": "",
-      "published": "2026-10-26T13:50:00.000Z"
     }
   ]
 }
