@@ -1,47 +1,75 @@
 {
-  "generatedAt": "2026-10-30T05:31:36.746Z",
+  "generatedAt": "2026-10-31T05:17:49.686Z",
   "articles": [
+    {
+      "source": "Ars Technica Tech",
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "description": "\n                        It's still unknown how attackers got access to Anthropic's verified Cursor account.\n                    ",
+      "published": "2026-10-30T21:09:54.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Equinix posts record annualized gross bookings of $533m, up 35 percent",
+      "url": "https://www.datacenterdynamics.com/en/news/equinix-posts-record-annualized-gross-bookings-of-533m-up-35-percent/",
+      "description": "Keeps project scale low and customer base broad",
+      "published": "2026-10-30T17:39:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Data center mooted in Glasgow by Scottish automotive firm",
+      "url": "https://www.datacenterdynamics.com/en/news/data-center-mooted-in-glasgow-by-scottish-automotive-firm/",
+      "description": "Local automotive company sounding out local council about a project near Cowlairs Park",
+      "published": "2026-10-30T17:38:07.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Beyond the grid",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/beyond-the-grid/",
+      "description": "Building the power system for AI in the Americas",
+      "published": "2026-10-30T16:45:35.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "SpiNNcloud rebrands to Sparxity, announces cluster deployment at Jülich center in Germany",
+      "url": "https://www.datacenterdynamics.com/en/news/spinncloud-rebrands-to-sparxity-announces-cluster-deployment-at-j%C3%BClich-center-in-germany/",
+      "description": "Company said rebrand reflects its vision to “only compute what matters”",
+      "published": "2026-10-30T16:30:48.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Modular data center provider DXN loses neocloud customer contract",
+      "url": "https://www.datacenterdynamics.com/en/news/modular-data-center-provider-dxn-loses-neocloud-customer-contract/",
+      "description": "Customer cancels deal after shift in business, company still paid for work completed",
+      "published": "2026-10-30T16:20:43.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+      "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last dec",
+      "published": "2026-10-30T11:30:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+      "description": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa sh",
+      "published": "2026-10-30T09:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Edge AI May Give Telecoms a Seat at the Table",
+      "url": "https://www.datacenterknowledge.com/edge-data-centers/edge-ai-may-give-telecoms-a-seat-at-the-table",
+      "description": "Edge AI may give telecoms a bigger AI role, with metro sites, not towers, emerging as the clearest near-term opportunity.",
+      "published": "2026-10-30T09:00:00.000Z"
+    },
     {
       "source": "Data Center Knowledge",
       "title": "The Jobs That Actually Exist Inside Data Centers",
       "url": "https://www.datacenterknowledge.com/data-center-career-development/the-jobs-that-actually-exist-inside-data-centers",
       "description": "Data centers create relatively few permanent jobs, but they still rely on a small, skilled on-site workforce to keep facilities secure, powered, cooled, and running.",
       "published": "2026-10-29T18:35:45.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "700MW data center project proposed outside Lansing, Michigan",
-      "url": "https://www.datacenterdynamics.com/en/news/700mw-data-center-project-proposed-outside-lansing-michigan/",
-      "description": "Local officials blindsided by proposal from local economic development agency",
-      "published": "2026-10-29T17:07:04.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Turkish police make 85 arrests over last month's arson attack against Starlink satellite station in Poland",
-      "url": "https://www.datacenterdynamics.com/en/news/turkish-police-make-85-arrests-over-last-months-arson-attack-against-starlink-satellite-station-in-poland/",
-      "description": "As the net widens over arson attack on September 23",
-      "published": "2026-10-29T17:03:26.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "OneQode leases 14MW from AdaniConneX in India",
-      "url": "https://www.datacenterdynamics.com/en/news/oneqode-leases-14mw-from-adaniconnex-in-india/",
-      "description": "AI cloud company's first deployment in India, more planned",
-      "published": "2026-10-29T17:01:15.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "GTC Berlin: Nvidia wants you to know it cares –  just don’t ask too many questions",
-      "url": "https://www.datacenterdynamics.com/en/opinions/gtc-berlin-nvidia-wants-you-to-know-it-cares-just-dont-ask-too-many-questions/",
-      "description": "The GPU giant attempted to reframe its messaging for the European market, but were they buying it?",
-      "published": "2026-10-29T16:50:01.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Nordic data center firm Heim secures investment from Omnes",
-      "url": "https://www.datacenterdynamics.com/en/news/nordic-data-center-firm-heim-secures-investment-from-omnes/",
-      "description": "Investment to fund first projects in Finland",
-      "published": "2026-10-29T16:47:34.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -72,27 +100,6 @@
       "published": "2026-10-29T09:00:00.000Z"
     },
     {
-      "source": "The Next Platform",
-      "title": "How to Evaluate CPU Performance for Agentic AI",
-      "url": "https://www.nextplatform.com/compute/2026/10/29/sponsored-how-to-evaluate-cpu-performance-for-agentic-ai/5305779",
-      "description": "",
-      "published": "2026-10-29T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Creating AI value with enterprise context",
-      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-      "description": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outc",
-      "published": "2026-10-28T20:32:02.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Intel’s $2.3 Billion Bet on a Quantum Future is a Decade in the Making",
-      "url": "https://www.nextplatform.com/hpc/2026/10/28/intels-23-billion-bet-on-a-quantum-future-is-a-decade-in-the-making/5306068",
-      "description": "",
-      "published": "2026-10-28T16:48:23.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "Oracle Cloud to Offer Google TPUs and New AI Chips",
       "url": "https://www.datacenterknowledge.com/data-center-chips/oracle-cloud-to-offer-google-tpus-and-new-ai-chips",
@@ -100,46 +107,11 @@
       "published": "2026-10-28T14:38:56.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "The Download: dead startups fueling AI and interspecies communication",
-      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data w",
-      "published": "2026-10-28T12:10:00.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "Where Solid-State Micro-Cooling Fits in Data Centers",
       "url": "https://www.datacenterknowledge.com/cooling/where-solid-state-micro-cooling-fits-in-data-centers",
       "description": "Solid-state micro-cooling could help data centers reduce hotspots in SSDs and other subsystems that liquid cooling and system fans don't fully reach.",
       "published": "2026-10-28T09:00:00.000Z"
-    },
-    {
-      "source": "DataEngineeringWeekly",
-      "title": "Do We Still Need Data Models?",
-      "url": "https://www.dataengineeringweekly.com/p/do-we-still-need-data-models",
-      "description": "As agents build data systems, models must help us understand the decisions behind them.",
-      "published": "2026-10-28T04:22:26.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
-      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-      "description": "\n                        Critical flaw in EDK2 allows attackers to execute code early in the boot process.\n                    ",
-      "published": "2026-10-27T20:25:55.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Rethinking the Blind-Mate Connection",
-      "url": "https://www.datacenterknowledge.com/cooling/rethinking-the-blind-mate-connection",
-      "description": "PBMC technology helps liquid-cooled servers deliver higher flow in less space while better accommodating alignment variation during installation and service.",
-      "published": "2026-10-27T20:15:26.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Oracle is Expanding the Accelerator Options in OCI for Enterprises",
-      "url": "https://www.nextplatform.com/ai/2026/10/27/oracle-is-expanding-the-accelerator-options-in-oci-for-enterprises/5305815",
-      "description": "",
-      "published": "2026-10-27T19:14:05.000Z"
     }
   ]
 }
