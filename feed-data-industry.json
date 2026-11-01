@@ -1,12 +1,33 @@
 {
-  "generatedAt": "2026-10-31T05:17:49.686Z",
+  "generatedAt": "2026-11-01T05:46:36.244Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: One security strategy. Four different data center realities.",
+      "url": "https://www.datacenterdynamics.com/en/opinions/one-security-strategy-four-different-data-center-realities/",
+      "description": "The strongest data center security strategies do not deploy identical controls everywhere",
+      "published": "2026-10-31T16:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Europe’s AI ambitions are hitting a power bottleneck",
+      "url": "https://www.datacenterdynamics.com/en/opinions/europes-ai-ambitions-are-hitting-a-power-bottleneck/",
+      "description": "Data center demand is surging, but outdated grid infrastructure is preventing Europe from making full use of renewable energy",
+      "published": "2026-10-31T11:00:39.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
       "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
       "description": "\n                        It's still unknown how attackers got access to Anthropic's verified Cursor account.\n                    ",
       "published": "2026-10-30T21:09:54.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "AI Arms Race Puts Sovereign Supply Chains in the Spotlight",
+      "url": "https://www.nextplatform.com/ai/2026/10/30/ai-arms-race-puts-sovereign-supply-chains-in-the-spotlight/5306758",
+      "description": "",
+      "published": "2026-10-30T19:08:51.000Z"
     },
     {
       "source": "Data Center Dynamics",
@@ -28,20 +49,6 @@
       "url": "https://www.datacenterdynamics.com/en/whitepapers/beyond-the-grid/",
       "description": "Building the power system for AI in the Americas",
       "published": "2026-10-30T16:45:35.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "SpiNNcloud rebrands to Sparxity, announces cluster deployment at Jülich center in Germany",
-      "url": "https://www.datacenterdynamics.com/en/news/spinncloud-rebrands-to-sparxity-announces-cluster-deployment-at-j%C3%BClich-center-in-germany/",
-      "description": "Company said rebrand reflects its vision to “only compute what matters”",
-      "published": "2026-10-30T16:30:48.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Modular data center provider DXN loses neocloud customer contract",
-      "url": "https://www.datacenterdynamics.com/en/news/modular-data-center-provider-dxn-loses-neocloud-customer-contract/",
-      "description": "Customer cancels deal after shift in business, company still paid for work completed",
-      "published": "2026-10-30T16:20:43.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -100,18 +107,11 @@
       "published": "2026-10-29T09:00:00.000Z"
     },
     {
-      "source": "Data Center Knowledge",
-      "title": "Oracle Cloud to Offer Google TPUs and New AI Chips",
-      "url": "https://www.datacenterknowledge.com/data-center-chips/oracle-cloud-to-offer-google-tpus-and-new-ai-chips",
-      "description": "Oracle is broadening OCI’s AI infrastructure with Google TPUs and other chips while deepening its Nvidia partnership to give customers more workload choice.",
-      "published": "2026-10-28T14:38:56.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Where Solid-State Micro-Cooling Fits in Data Centers",
-      "url": "https://www.datacenterknowledge.com/cooling/where-solid-state-micro-cooling-fits-in-data-centers",
-      "description": "Solid-state micro-cooling could help data centers reduce hotspots in SSDs and other subsystems that liquid cooling and system fans don't fully reach.",
-      "published": "2026-10-28T09:00:00.000Z"
+      "source": "The Next Platform",
+      "title": "How to Evaluate CPU Performance for Agentic AI",
+      "url": "https://www.nextplatform.com/compute/2026/10/29/sponsored-how-to-evaluate-cpu-performance-for-agentic-ai/5305779",
+      "description": "",
+      "published": "2026-10-29T09:00:00.000Z"
     }
   ]
 }

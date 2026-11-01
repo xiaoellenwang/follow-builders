@@ -1,6 +1,45 @@
 {
-  "generatedAt": "2026-10-31T05:17:49.686Z",
+  "generatedAt": "2026-11-01T05:46:36.244Z",
   "jobs": [
+    {
+      "title": "Solutions Engineer (AI & Automation)",
+      "company": "WILMAR DISTRIBUTION PTE. LTD.",
+      "salary": "S$4,000 – S$5,500",
+      "type": "Full Time",
+      "skills": [
+        "Business Information Systems",
+        "API Development",
+        "Computer Engineering"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/eaececa4d531479e09e097a7bb29ebac",
+      "posted": "2026-10-31T14:47:40.000Z"
+    },
+    {
+      "title": "AI ENGINEER",
+      "company": "RMR INTERNATIONAL PRIVATE LIMITED",
+      "salary": "S$7,500 – S$13,500",
+      "type": "Full Time",
+      "skills": [
+        "Machine Learning",
+        "R Programming",
+        "Azure DevOps"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/5c539df007f888e365b2d633329edbdd",
+      "posted": "2026-10-31T10:32:12.000Z"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "company": "ZHONG QI FUTURE (SINGAPORE) PTE. LTD.",
+      "salary": "S$7,800 – S$10,500",
+      "type": "Contract",
+      "skills": [
+        "Distributed Processing",
+        "PySpark",
+        "Computer Engineering"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/7399cb396fa81e98505e04d93ec2278c",
+      "posted": "2026-10-31T10:14:47.000Z"
+    },
     {
       "title": "Data Scientist (AI Analyst)",
       "company": "ACHIEVE CAREER CONSULTANT PTE LTD",
@@ -52,19 +91,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/1c51a2ea9ca247ab0a47e39695fd051b",
       "posted": "2026-10-30T08:31:05.000Z"
-    },
-    {
-      "title": "Software Engineer - AI",
-      "company": "ANCHOR SEARCH GROUP PTE. LTD.",
-      "salary": "S$4,000 – S$7,000",
-      "type": "Contract",
-      "skills": [
-        "Ai",
-        "Retrieval-Augmented Generation (RAG)",
-        "Agent Orchestration"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/fa2c7ea3d79199f4a20c1e627e1f9655",
-      "posted": "2026-10-30T08:25:45.000Z"
     },
     {
       "title": "AI Engineer",
@@ -143,32 +169,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/540cfdaeb8ce572b5feea4d4a9454e81",
       "posted": "2026-10-30T04:24:55.000Z"
-    },
-    {
-      "title": "Computer Vision Engineer",
-      "company": "HYUNDAI MOTOR GROUP INNOVATION CENTER IN SINGAPORE PTE. LTD.",
-      "salary": "S$5,000 – S$9,000",
-      "type": "Permanent",
-      "skills": [
-        "Deep Learning",
-        "TensorFlow",
-        "Machine Learning"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/1955ca1938d7936f360f394166ef0714",
-      "posted": "2026-10-30T02:53:58.000Z"
-    },
-    {
-      "title": "Senior Computer Vision Engineer",
-      "company": "HYUNDAI MOTOR GROUP INNOVATION CENTER IN SINGAPORE PTE. LTD.",
-      "salary": "S$7,000 – S$10,000",
-      "type": "Permanent",
-      "skills": [
-        "Deep Learning",
-        "TensorFlow",
-        "Machine Learning"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/870d92ce9dd1f14711877e88dd7ac867",
-      "posted": "2026-10-30T02:25:52.000Z"
     },
     {
       "title": "AI Chief Scientist",
