@@ -1,200 +1,200 @@
 {
-  "generatedAt": "2026-11-01T05:46:36.244Z",
+  "generatedAt": "2026-11-02T05:45:09.911Z",
   "jobs": [
     {
-      "title": "Solutions Engineer (AI & Automation)",
-      "company": "WILMAR DISTRIBUTION PTE. LTD.",
-      "salary": "S$4,000 – S$5,500",
-      "type": "Full Time",
-      "skills": [
-        "Business Information Systems",
-        "API Development",
-        "Computer Engineering"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/eaececa4d531479e09e097a7bb29ebac",
-      "posted": "2026-10-31T14:47:40.000Z"
-    },
-    {
-      "title": "AI ENGINEER",
-      "company": "RMR INTERNATIONAL PRIVATE LIMITED",
-      "salary": "S$7,500 – S$13,500",
-      "type": "Full Time",
-      "skills": [
-        "Machine Learning",
-        "R Programming",
-        "Azure DevOps"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/5c539df007f888e365b2d633329edbdd",
-      "posted": "2026-10-31T10:32:12.000Z"
-    },
-    {
-      "title": "Senior Data Engineer",
-      "company": "ZHONG QI FUTURE (SINGAPORE) PTE. LTD.",
-      "salary": "S$7,800 – S$10,500",
+      "title": "Senior ML/AI Engineer",
+      "company": "SEDHA CONSULTING PTE. LTD.",
+      "salary": "S$9,000 – S$15,000",
       "type": "Contract",
       "skills": [
-        "Distributed Processing",
         "PySpark",
-        "Computer Engineering"
+        "AI Agents",
+        "AI Governance"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/7399cb396fa81e98505e04d93ec2278c",
-      "posted": "2026-10-31T10:14:47.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/0445c8055567f392863d3032aa6f7fa3",
+      "posted": "2026-11-02T04:59:31.000Z"
     },
     {
-      "title": "Data Scientist (AI Analyst)",
-      "company": "ACHIEVE CAREER CONSULTANT PTE LTD",
-      "salary": "S$4,000 – S$6,000",
+      "title": "Senior ML/AI Engineer",
+      "company": "SEDHA CONSULTING PTE. LTD.",
+      "salary": "S$9,000 – S$15,000",
       "type": "Contract",
       "skills": [
+        "PySpark",
+        "Terraform",
+        "Pipeline Management"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/f16c2cdece743eb44fa5f7790e03016c",
+      "posted": "2026-11-02T04:43:12.000Z"
+    },
+    {
+      "title": "Applied AI Architect, Meta Enterprise Platform (Singapore)",
+      "company": "FACEBOOK SINGAPORE PTE. LTD.",
+      "salary": "S$15,910 – S$24,250",
+      "type": "Permanent",
+      "skills": [
         "Ai",
-        "Microsoft Azure",
-        "Liaising with project stakeholders"
+        "Development of Prototypes",
+        "Use cases"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/64f4119c051a5dcc0c55c8bfd19eb277",
-      "posted": "2026-10-31T04:36:52.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/76ae06b23c751c3fc63c0798928ba931",
+      "posted": "2026-11-02T04:35:05.000Z"
     },
     {
-      "title": "Applied AI Engineer",
-      "company": "GMP TECHNOLOGIES (S) PTE LTD",
-      "salary": "S$4,000 – S$7,000",
+      "title": "Data Scientist / AI Engineer - #1761",
+      "company": "JOBSTER PRIVATE LTD.",
+      "salary": "S$9,500 – S$10,500",
+      "type": "Contract",
+      "skills": [
+        "client approval",
+        "Reading",
+        "AI Governance"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/e11a82b34b8fd8b3d13a9d1c8b996051",
+      "posted": "2026-11-02T04:13:29.000Z"
+    },
+    {
+      "title": "Robotics Engineer - Embodied AI",
+      "company": "YY CIRCLE (SG) PRIVATE LIMITED",
+      "salary": "S$6,500 – S$9,000",
       "type": "Permanent",
       "skills": [
-        "Machine Learning",
-        "Behavior Management",
-        "Collaborate With Engineers"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/5a7248170c1ff34379b6be0bda298e62",
-      "posted": "2026-10-30T10:02:32.000Z"
-    },
-    {
-      "title": "Staff AI Engineer - Perception",
-      "company": "MOTIONAL SINGAPORE PTE. LIMITED",
-      "salary": "S$12,000 – S$20,000",
-      "type": "Permanent",
-      "skills": [
-        "Code Quality",
-        "Collaborate With Engineers",
-        "Engineering Management"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/c2a30d8253473fa3159420ff9173ed53",
-      "posted": "2026-10-30T09:23:52.000Z"
-    },
-    {
-      "title": "Technical Recruiter (AI & Infrastructure)",
-      "company": "SYMATICS TECHNOLOGY PTE. LTD.",
-      "salary": "S$4,500 – S$5,500",
-      "type": "Permanent",
-      "skills": [
-        "International Mobility",
-        "Employer Branding",
-        "Offers negotiation"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/1c51a2ea9ca247ab0a47e39695fd051b",
-      "posted": "2026-10-30T08:31:05.000Z"
-    },
-    {
-      "title": "AI Engineer",
-      "company": "10X AI TECHNOLOGY PTE. LTD.",
-      "salary": "S$9,000 – S$18,000",
-      "type": "Full Time",
-      "skills": [
-        "Make the design",
         "Ai",
-        "Data Ingestion"
+        "Medical Degree",
+        "AI Governance"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/7ba4de484d925ef93683781b8bdfc51a",
-      "posted": "2026-10-30T08:04:08.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/cc6f81c7e6ffd632f20aa5c9a69a9844",
+      "posted": "2026-11-02T03:59:02.000Z"
     },
     {
-      "title": "[T04] Machine Learning Engineer (ML) - Permanent Role",
-      "company": "TALENTSIS PTE. LTD.",
-      "salary": "S$5,500 – S$6,500",
-      "type": "Permanent",
-      "skills": [
-        "API Development",
-        "Liaising with cross functional teams",
-        "Collaborate With Engineers"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/56ed7ecfb0cc3a8362385d9ab79e2a2b",
-      "posted": "2026-10-30T07:41:10.000Z"
-    },
-    {
-      "title": "AI Engineer, Office of Integrated Information Technology Services ",
-      "company": "HYPERSCAL SOLUTIONS PTE. LTD.",
-      "salary": "S$4,500 – S$7,100",
-      "type": "Full Time",
-      "skills": [
-        "Communication",
-        "Procedure Development",
-        "Strategic Planning"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/1cf084c7b70da4bddffeedcec8a3822b",
-      "posted": "2026-10-30T07:10:10.000Z"
-    },
-    {
-      "title": "AI Engineer [CCP for ICT Professionals]",
-      "company": "CFGI (SINGAPORE) PRIVATE LIMITED",
-      "salary": "S$8,750 – S$9,250",
-      "type": "Full Time",
-      "skills": [
-        "TensorFlow",
-        "Machine Learning",
-        "Data Intelligence"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/6aad36959a0e0e87f2074354355b7c05",
-      "posted": "2026-10-30T05:46:41.000Z"
-    },
-    {
-      "title": "Principal Product Owner, SMART MFG & AI",
-      "company": "MICRON SEMICONDUCTOR ASIA OPERATIONS PTE. LTD.",
+      "title": "LLM & AI Operations Specialist(Risk Operations) - TikTok LIVE",
+      "company": "TIKTOK PTE. LTD.",
       "salary": "S$10,000 – S$18,000",
       "type": "Full Time",
       "skills": [
-        "Technology Consulting",
-        "Medical Degree",
-        "Use cases"
+        "Chatbot",
+        "Collaborate With Engineers",
+        "Environmental Risk"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/96ef9d87f559c8f11a8f4a1a1486e87c",
-      "posted": "2026-10-30T05:22:59.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/bfce10eb0bfdc45dc78a6893dc1eb491",
+      "posted": "2026-11-02T03:57:08.000Z"
     },
     {
-      "title": "AI Engineer",
-      "company": "AJENTIK AI PTE. LTD.",
-      "salary": "S$6,000 – S$9,000",
-      "type": "Permanent",
-      "skills": [
-        "Git",
-        "Retrieval-Augmented Generation (RAG)",
-        "HL7"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/540cfdaeb8ce572b5feea4d4a9454e81",
-      "posted": "2026-10-30T04:24:55.000Z"
-    },
-    {
-      "title": "AI Chief Scientist",
-      "company": "KUAILU SOFTWARE (SINGAPORE) PTE. LTD.",
-      "salary": "S$8,000 – S$20,000",
+      "title": "Machine Learning Engineer Graduate (Global E-Commerce, Risk Control) - 2027 Start",
+      "company": "BYTEDANCE PTE. LTD.",
+      "salary": "S$8,000 – S$16,000",
       "type": "Full Time",
       "skills": [
-        "Architectural Modeling",
-        "Deep Learning",
-        "Distributed Processing"
+        "Liaising with cross functional teams",
+        "Onboarding",
+        "AI Agents"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/ed259040d326c2e89aba24eb28a7b9f6",
-      "posted": "2026-10-30T02:20:26.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/bfcfcbb4a25aa90c89e8091c8f41da66",
+      "posted": "2026-11-02T03:28:14.000Z"
     },
     {
-      "title": "Large Language Model (LLM) Evaluation Engineer",
-      "company": "KUAILU SOFTWARE (SINGAPORE) PTE. LTD.",
-      "salary": "S$6,000 – S$12,000",
+      "title": "Research Scientist - Risk Control Vertical LLM Foundation and Agent - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "company": "BYTEDANCE PTE. LTD.",
+      "salary": "S$11,250 – S$22,500",
       "type": "Full Time",
       "skills": [
-        "Testing Results",
-        "Pipeline Management",
-        "Model Deployment"
+        "Onboarding",
+        "Risk Control Self Assessments",
+        "Idea Generation"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/b0bb3c5193e7b8077035c5b335edecb8",
-      "posted": "2026-10-30T02:19:08.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/fed3b9f1f8496bfb6c9bf9b956e53fbf",
+      "posted": "2026-11-02T03:24:21.000Z"
+    },
+    {
+      "title": "Machine Learning Engineer - Global E-Commerce",
+      "company": "BYTEDANCE PTE. LTD.",
+      "salary": "S$11,250 – S$22,500",
+      "type": "Full Time",
+      "skills": [
+        "Liaising with cross functional teams",
+        "Missions",
+        "E-Commerce"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/9faa968287e778e0d0f3edf2d372dd30",
+      "posted": "2026-11-02T03:22:36.000Z"
+    },
+    {
+      "title": "Machine Learning Expert, Risk Control - Global E-Commerce",
+      "company": "BYTEDANCE PTE. LTD.",
+      "salary": "S$11,250 – S$22,500",
+      "type": "Full Time",
+      "skills": [
+        "Account Reconciliation",
+        "Liaising with cross functional teams",
+        "Incentives"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/1c8e5fb5cc64f3fb86e82d4ecbe56806",
+      "posted": "2026-11-02T03:20:49.000Z"
+    },
+    {
+      "title": "AI Agent Machine Learning Engineer Graduate (Global E-Commerce, Supply Chain and Logistics) - 2027 Start",
+      "company": "TIKTOK PTE. LTD.",
+      "salary": "S$8,000 – S$16,000",
+      "type": "Full Time",
+      "skills": [
+        "online competitions",
+        "Computer Engineering",
+        "CPT"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/716cdd0853cfdad472b262029adae1d4",
+      "posted": "2026-11-02T03:18:29.000Z"
+    },
+    {
+      "title": "AI Agent Machine Learning Engineer Graduate (Global E-Commerce, Supply Chain and Logistics) - 2027 Start (PhD)",
+      "company": "TIKTOK PTE. LTD.",
+      "salary": "S$11,250 – S$22,500",
+      "type": "Full Time",
+      "skills": [
+        "online competitions",
+        "Computer Engineering",
+        "Handling Deliveries"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/21ab7200c596b13259bbdacfa8067220",
+      "posted": "2026-11-02T03:17:00.000Z"
+    },
+    {
+      "title": "Multimodal LLM Algorithm Engineer Graduate (Global E-Commerce, Knowledge Graph) - 2027 Start",
+      "company": "TIKTOK PTE. LTD.",
+      "salary": "S$8,000 – S$16,000",
+      "type": "Full Time",
+      "skills": [
+        "Generative Model",
+        "Representation Learning",
+        "Computer Engineering"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/073a74843eb9dfd89258a780115443bb",
+      "posted": "2026-11-02T03:15:12.000Z"
+    },
+    {
+      "title": "Multimodal LLM Algorithm Engineer Graduate (Global E-Commerce, Knowledge Graph) - 2027 Start (PhD)",
+      "company": "TIKTOK PTE. LTD.",
+      "salary": "S$11,250 – S$22,500",
+      "type": "Full Time",
+      "skills": [
+        "Generative Model",
+        "developing catalogues",
+        "Representation Learning"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/07db83d6dcf3a37bc82198cd741fa5df",
+      "posted": "2026-11-02T03:13:35.000Z"
+    },
+    {
+      "title": "Machine Learning Engineer Graduate (Global E-Commerce, Platform Governance) - 2027 Start",
+      "company": "TIKTOK PTE. LTD.",
+      "salary": "S$8,000 – S$16,000",
+      "type": "Full Time",
+      "skills": [
+        "Product, Content and Experience Performance Management",
+        "TensorFlow",
+        "Live Streaming"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/c84a8a878cbfe95f9d7c6810108de74a",
+      "posted": "2026-11-02T03:11:43.000Z"
     }
   ]
 }

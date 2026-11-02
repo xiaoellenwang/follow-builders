@@ -1,6 +1,27 @@
 {
-  "generatedAt": "2026-11-01T05:46:36.244Z",
+  "generatedAt": "2026-11-02T05:45:09.911Z",
   "articles": [
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "Data Engineering Weekly #294",
+      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-294",
+      "description": "The Weekly Data Engineering Newsletter",
+      "published": "2026-11-02T05:33:47.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "What could 1,000x more reliable quantum computation unlock?",
+      "url": "https://www.datacenterdynamics.com/en/opinions/what-could-1000x-more-reliable-quantum-computation-unlock/",
+      "description": "And why you should start thinking about quantum computing as an element of the broader data center ecosystem",
+      "published": "2026-11-01T15:00:31.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Beyond the grid: the maintenance challenges putting the data center boom at risk",
+      "url": "https://www.datacenterdynamics.com/en/opinions/beyond-the-grid-the-maintenance-challenges-putting-the-data-center-boom-at-risk/",
+      "description": "Building maintenance needs more attention",
+      "published": "2026-11-01T11:00:47.000Z"
+    },
     {
       "source": "Data Center Dynamics",
       "title": "Sponsored: One security strategy. Four different data center realities.",
@@ -37,20 +58,6 @@
       "published": "2026-10-30T17:39:00.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Data center mooted in Glasgow by Scottish automotive firm",
-      "url": "https://www.datacenterdynamics.com/en/news/data-center-mooted-in-glasgow-by-scottish-automotive-firm/",
-      "description": "Local automotive company sounding out local council about a project near Cowlairs Park",
-      "published": "2026-10-30T17:38:07.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Beyond the grid",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/beyond-the-grid/",
-      "description": "Building the power system for AI in the Americas",
-      "published": "2026-10-30T16:45:35.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
       "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
@@ -70,48 +77,6 @@
       "url": "https://www.datacenterknowledge.com/edge-data-centers/edge-ai-may-give-telecoms-a-seat-at-the-table",
       "description": "Edge AI may give telecoms a bigger AI role, with metro sites, not towers, emerging as the clearest near-term opportunity.",
       "published": "2026-10-30T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "The Jobs That Actually Exist Inside Data Centers",
-      "url": "https://www.datacenterknowledge.com/data-center-career-development/the-jobs-that-actually-exist-inside-data-centers",
-      "description": "Data centers create relatively few permanent jobs, but they still rely on a small, skilled on-site workforce to keep facilities secure, powered, cooled, and running.",
-      "published": "2026-10-29T18:35:45.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: AI agent tracking and climate feedback loops",
-      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit ",
-      "published": "2026-10-29T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "description": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Aus",
-      "published": "2026-10-29T10:11:12.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Our climate models have a big, dangerous blind spot",
-      "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
-      "description": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our emissions-reduction goals. Scientists have long warned th",
-      "published": "2026-10-29T10:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Nvidia, AMD Commit $4B to Meta AI Buildout",
-      "url": "https://www.datacenterknowledge.com/data-center-chips/nvidia-amd-commit-4b-to-meta-ai-buildout",
-      "description": "Nvidia and AMD are deepening chip partnerships to secure long-term AI infrastructure business as Meta expands AI compute spending.",
-      "published": "2026-10-29T09:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "How to Evaluate CPU Performance for Agentic AI",
-      "url": "https://www.nextplatform.com/compute/2026/10/29/sponsored-how-to-evaluate-cpu-performance-for-agentic-ai/5305779",
-      "description": "",
-      "published": "2026-10-29T09:00:00.000Z"
     }
   ]
 }
