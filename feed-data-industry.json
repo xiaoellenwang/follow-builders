@@ -1,82 +1,103 @@
 {
-  "generatedAt": "2026-11-02T05:45:09.911Z",
+  "generatedAt": "2026-11-03T06:26:39.360Z",
   "articles": [
+    {
+      "source": "MIT Technology Review",
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c",
+      "published": "2026-11-03T04:18:47.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Qualcomm Has Eyes On The AI Inference Datacenter With HBC And AI250",
+      "url": "https://www.nextplatform.com/ai/2026/11/02/qualcomm-has-eyes-on-the-ai-inference-datacenter-with-hbc-and-ai250/5306954",
+      "description": "",
+      "published": "2026-11-02T18:02:57.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Envision claims to be running the world's first 800VDC data center in Ulanqab, China",
+      "url": "https://www.datacenterdynamics.com/en/news/envision-claims-to-be-running-the-worlds-first-800vdc-data-center-in-ulanqab-china/",
+      "description": "Firm has envisioned a high-powered future and brought it to life",
+      "published": "2026-11-02T17:18:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Megaspeed exec with close ties to Nvidia CEO Jensen Huang suspected of spying for China",
+      "url": "https://www.datacenterdynamics.com/en/news/megaspeed-exec-with-close-ties-to-nvidia-ceo-jensen-huang-suspected-of-spying-for-china/",
+      "description": "Nvidia and the Chinese Embassy reject claims of targeted spying",
+      "published": "2026-11-02T17:14:48.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "SpaceXAI launching two additional data center campuses in Mississippi to further expand Colossus 2",
+      "url": "https://www.datacenterdynamics.com/en/news/spacexai-launching-two-additional-data-center-campuses-in-mississippi-to-further-expand-colossus-2/",
+      "description": "Sites, dubbed Gun Range and Spam, will both be operational by end of the year, Musk claimed",
+      "published": "2026-11-02T17:11:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Microsoft buys 616 acres for $95.5m in Dallas County, Iowa",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-buys-616-acres-for-955m-in-dallas-county-iowa/",
+      "description": "More than double what the previous buyer paid",
+      "published": "2026-11-02T17:00:45.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Raising the quality of insights in agentic analytics",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "description": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The qualit",
+      "published": "2026-11-02T17:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Liquid Cooling Retrofits: Hard, but Sometimes Worth It",
+      "url": "https://www.datacenterknowledge.com/cooling/liquid-cooling-retrofits-hard-but-sometimes-worth-it",
+      "description": "Liquid cooling retrofits can boost density and efficiency, but cost, downtime, and infrastructure limits mean they make sense only in select cases.",
+      "published": "2026-11-02T16:45:17.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "SpaceX in talks to buy EchoStar's Boost Mobile - report",
+      "url": "https://www.datacenterdynamics.com/en/news/spacex-in-talks-to-buy-echostars-boost-mobile-report/",
+      "description": "Or explore a network access deal",
+      "published": "2026-11-02T16:37:16.000Z"
+    },
+    {
+      "source": "Import AI",
+      "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+      "url": "https://jack-clark.net/2026/11/02/import-ai-479-spacewar-low-latency-tasks-versus-llms-genie-4/",
+      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now LLMs are very bad at low-latency tasks:…Realtime-Bench says it’ll be a while till AI systems can play games or do onli",
+      "published": "2026-11-02T14:30:54.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Stop counting tokens, start counting what ships",
+      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "description": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;",
+      "published": "2026-11-02T13:10:32.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: the agentic web arrives and the drive for safer roads",
+      "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by auton",
+      "published": "2026-11-02T13:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The agentic web is here",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "description": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous softw",
+      "published": "2026-11-02T09:35:19.000Z"
+    },
     {
       "source": "DataEngineeringWeekly",
       "title": "Data Engineering Weekly #294",
       "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-294",
       "description": "The Weekly Data Engineering Newsletter",
       "published": "2026-11-02T05:33:47.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "What could 1,000x more reliable quantum computation unlock?",
-      "url": "https://www.datacenterdynamics.com/en/opinions/what-could-1000x-more-reliable-quantum-computation-unlock/",
-      "description": "And why you should start thinking about quantum computing as an element of the broader data center ecosystem",
-      "published": "2026-11-01T15:00:31.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Beyond the grid: the maintenance challenges putting the data center boom at risk",
-      "url": "https://www.datacenterdynamics.com/en/opinions/beyond-the-grid-the-maintenance-challenges-putting-the-data-center-boom-at-risk/",
-      "description": "Building maintenance needs more attention",
-      "published": "2026-11-01T11:00:47.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: One security strategy. Four different data center realities.",
-      "url": "https://www.datacenterdynamics.com/en/opinions/one-security-strategy-four-different-data-center-realities/",
-      "description": "The strongest data center security strategies do not deploy identical controls everywhere",
-      "published": "2026-10-31T16:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Europe’s AI ambitions are hitting a power bottleneck",
-      "url": "https://www.datacenterdynamics.com/en/opinions/europes-ai-ambitions-are-hitting-a-power-bottleneck/",
-      "description": "Data center demand is surging, but outdated grid infrastructure is preventing Europe from making full use of renewable energy",
-      "published": "2026-10-31T11:00:39.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-      "description": "\n                        It's still unknown how attackers got access to Anthropic's verified Cursor account.\n                    ",
-      "published": "2026-10-30T21:09:54.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "AI Arms Race Puts Sovereign Supply Chains in the Spotlight",
-      "url": "https://www.nextplatform.com/ai/2026/10/30/ai-arms-race-puts-sovereign-supply-chains-in-the-spotlight/5306758",
-      "description": "",
-      "published": "2026-10-30T19:08:51.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Equinix posts record annualized gross bookings of $533m, up 35 percent",
-      "url": "https://www.datacenterdynamics.com/en/news/equinix-posts-record-annualized-gross-bookings-of-533m-up-35-percent/",
-      "description": "Keeps project scale low and customer base broad",
-      "published": "2026-10-30T17:39:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-      "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last dec",
-      "published": "2026-10-30T11:30:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
-      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
-      "description": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa sh",
-      "published": "2026-10-30T09:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Edge AI May Give Telecoms a Seat at the Table",
-      "url": "https://www.datacenterknowledge.com/edge-data-centers/edge-ai-may-give-telecoms-a-seat-at-the-table",
-      "description": "Edge AI may give telecoms a bigger AI role, with metro sites, not towers, emerging as the clearest near-term opportunity.",
-      "published": "2026-10-30T09:00:00.000Z"
     }
   ]
 }
