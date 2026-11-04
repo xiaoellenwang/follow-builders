@@ -1,6 +1,90 @@
 {
-  "generatedAt": "2026-11-03T06:26:39.360Z",
+  "generatedAt": "2026-11-04T05:58:46.326Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "NTT Data opens JKT2A data center in Indonesia",
+      "url": "https://www.datacenterdynamics.com/en/news/ntt-data-opens-jkt2a-data-center-in-indonesia/",
+      "description": "Facility is designed for AI workloads",
+      "published": "2026-11-03T22:17:57.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Marvell Cuts To The Front Of The Datacenter Optics Line With Lumentum Deal",
+      "url": "https://www.nextplatform.com/connect/2026/11/03/marvell-cuts-to-the-front-of-the-datacenter-optics-line-with-lumentum-deal/5307392",
+      "description": "",
+      "published": "2026-11-03T21:31:01.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "California Resources and Bloom Energy eye 1GW of fuel cells across California to power data centers and other offtakers",
+      "url": "https://www.datacenterdynamics.com/en/news/california-resources-and-bloom-energy-eye-1gw-of-fuel-cells-across-california-to-power-data-centers-and-other-offtakers/",
+      "description": "Intend to couple the systems with carbon capture and storage",
+      "published": "2026-11-03T17:28:17.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Trump Onsite Power Push Meets AI Data Center Reality",
+      "url": "https://www.datacenterknowledge.com/regulations/trump-onsite-power-push-meets-ai-data-center-reality",
+      "description": "Trump’s onsite power push highlights a hard reality: most AI data centers will likely need hybrid energy strategies rather than fully off-grid designs.",
+      "published": "2026-11-03T17:26:06.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Samsung SDS breaks ground on Gumi AI Data Center in South Korea",
+      "url": "https://www.datacenterdynamics.com/en/news/samsung-sds-breaks-ground-on-gumi-ai-data-center-in-south-korea/",
+      "description": "Will eventually offer 120MW",
+      "published": "2026-11-03T17:25:59.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Cellnex signs €375m loan with EIB to support rollout of 5G infrastructure",
+      "url": "https://www.datacenterdynamics.com/en/news/cellnex-signs-375m-loan-with-eib-to-support-rollout-of-5g-infrastructure/",
+      "description": "Will fund new tower builds across Cellnex's European markets",
+      "published": "2026-11-03T17:25:55.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Connected Infra Group appoints M&A specialist as tower company targets expansion plans",
+      "url": "https://www.datacenterdynamics.com/en/news/connected-infra-group-appoints-ma-specialist-as-tower-company-targets-expansion-plans/",
+      "description": "Reunites Isaac Lipton with Bernard Borghei",
+      "published": "2026-11-03T17:21:49.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+      "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+      "description": "\n                        UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.\n                    ",
+      "published": "2026-11-03T16:03:13.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "AI’s Expansion Hits the Limits of Local Power",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/ai-s-expansion-hits-the-limits-of-local-power",
+      "description": "Power shortages and local opposition are delaying data center projects, making AI expansion harder, costlier, and more dependent on scarce grid access.",
+      "published": "2026-11-03T14:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing ",
+      "published": "2026-11-03T13:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "description": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that ro",
+      "published": "2026-11-03T10:43:41.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Cloud Revenue Hits $168B as AI Capacity Expands",
+      "url": "https://www.datacenterknowledge.com/cloud/cloud-revenue-hits-168b-as-ai-capacity-expands",
+      "description": "Cloud infrastructure revenue reached $168 billion in the third quarter as providers brought higher-priced AI capacity online, reinforcing demand for new data centers even as power constraints slow delivery.",
+      "published": "2026-11-03T10:00:00.000Z"
+    },
     {
       "source": "MIT Technology Review",
       "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
@@ -14,34 +98,6 @@
       "url": "https://www.nextplatform.com/ai/2026/11/02/qualcomm-has-eyes-on-the-ai-inference-datacenter-with-hbc-and-ai250/5306954",
       "description": "",
       "published": "2026-11-02T18:02:57.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Envision claims to be running the world's first 800VDC data center in Ulanqab, China",
-      "url": "https://www.datacenterdynamics.com/en/news/envision-claims-to-be-running-the-worlds-first-800vdc-data-center-in-ulanqab-china/",
-      "description": "Firm has envisioned a high-powered future and brought it to life",
-      "published": "2026-11-02T17:18:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Megaspeed exec with close ties to Nvidia CEO Jensen Huang suspected of spying for China",
-      "url": "https://www.datacenterdynamics.com/en/news/megaspeed-exec-with-close-ties-to-nvidia-ceo-jensen-huang-suspected-of-spying-for-china/",
-      "description": "Nvidia and the Chinese Embassy reject claims of targeted spying",
-      "published": "2026-11-02T17:14:48.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "SpaceXAI launching two additional data center campuses in Mississippi to further expand Colossus 2",
-      "url": "https://www.datacenterdynamics.com/en/news/spacexai-launching-two-additional-data-center-campuses-in-mississippi-to-further-expand-colossus-2/",
-      "description": "Sites, dubbed Gun Range and Spam, will both be operational by end of the year, Musk claimed",
-      "published": "2026-11-02T17:11:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Microsoft buys 616 acres for $95.5m in Dallas County, Iowa",
-      "url": "https://www.datacenterdynamics.com/en/news/microsoft-buys-616-acres-for-955m-in-dallas-county-iowa/",
-      "description": "More than double what the previous buyer paid",
-      "published": "2026-11-02T17:00:45.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -58,13 +114,6 @@
       "published": "2026-11-02T16:45:17.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "SpaceX in talks to buy EchoStar's Boost Mobile - report",
-      "url": "https://www.datacenterdynamics.com/en/news/spacex-in-talks-to-buy-echostars-boost-mobile-report/",
-      "description": "Or explore a network access deal",
-      "published": "2026-11-02T16:37:16.000Z"
-    },
-    {
       "source": "Import AI",
       "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
       "url": "https://jack-clark.net/2026/11/02/import-ai-479-spacewar-low-latency-tasks-versus-llms-genie-4/",
@@ -72,25 +121,18 @@
       "published": "2026-11-02T14:30:54.000Z"
     },
     {
+      "source": "Data Center Knowledge",
+      "title": "Liquid Cooling Is Changing What Data Centers Need to Measure",
+      "url": "https://www.datacenterknowledge.com/cooling/liquid-cooling-is-changing-what-data-centers-need-to-measure",
+      "description": "Liquid cooling changes data center operations by making precise, real-time measurement across both liquid and air environments essential.",
+      "published": "2026-11-02T14:00:00.000Z"
+    },
+    {
       "source": "MIT Technology Review",
       "title": "Stop counting tokens, start counting what ships",
       "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
       "description": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;",
       "published": "2026-11-02T13:10:32.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: the agentic web arrives and the drive for safer roads",
-      "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by auton",
-      "published": "2026-11-02T13:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The agentic web is here",
-      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-      "description": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous softw",
-      "published": "2026-11-02T09:35:19.000Z"
     },
     {
       "source": "DataEngineeringWeekly",
