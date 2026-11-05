@@ -1,12 +1,117 @@
 {
-  "generatedAt": "2026-11-04T05:58:46.326Z",
+  "generatedAt": "2026-11-05T06:24:35.883Z",
   "articles": [
     {
+      "source": "Ars Technica Tech",
+      "title": "Hackers exploited iOS and Android flaws to infect phones",
+      "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+      "description": "\n                        Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.\n                    ",
+      "published": "2026-11-04T22:26:49.000Z"
+    },
+    {
       "source": "Data Center Dynamics",
-      "title": "NTT Data opens JKT2A data center in Indonesia",
-      "url": "https://www.datacenterdynamics.com/en/news/ntt-data-opens-jkt2a-data-center-in-indonesia/",
-      "description": "Facility is designed for AI workloads",
-      "published": "2026-11-03T22:17:57.000Z"
+      "title": "VodafoneThree kicks off rollout of Ericsson's AI-ready Massive MIMO radio in London",
+      "url": "https://www.datacenterdynamics.com/en/news/vodafonethree-kicks-off-rollout-of-ericssons-ai-ready-massive-mimo-radio-in-london/",
+      "description": "The telco kicked off the deployment last month",
+      "published": "2026-11-04T21:40:38.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
+      "url": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
+      "description": "\n                        “We started listening to a lot of our lower-end customers,\" VMware exec says. \n                    ",
+      "published": "2026-11-04T21:38:49.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "atNorth signs deal with Calentix for heat reuse at SWE04 data center in Sollefteå, Sweden",
+      "url": "https://www.datacenterdynamics.com/en/news/atnorth-signs-deal-with-calentix-for-heat-reuse-at-swe04-data-center-in-sollefte%C3%A5-sweden/",
+      "description": "First delivery of heat expected in 2029",
+      "published": "2026-11-04T21:30:35.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "AWS set to secure £1.05bn contract renewal from UK Home Office",
+      "url": "https://www.datacenterdynamics.com/en/news/aws-set-to-secure-105bn-contract-renewal-from-uk-home-office/",
+      "description": "BidSkim analysis finds £444.6m spent on AWS since 2020",
+      "published": "2026-11-04T21:00:39.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "SoftBank to commercialize aerial cell towers with Japanese fleet",
+      "url": "https://www.datacenterdynamics.com/en/news/softbank-to-commercialize-aerial-cell-towers-with-japanese-fleet/",
+      "description": "Sceye deal brings HAPS from prototypes to happening",
+      "published": "2026-11-04T20:55:06.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Verizon AI-RAN work rides nationwide Ericsson Intelligent Controller deployment",
+      "url": "https://www.datacenterdynamics.com/en/news/verizon-ai-ran-work-rides-nationwide-ericsson-intelligent-controller-deployment/",
+      "description": "CTO Yago Tenorio hinted at the move earlier this year",
+      "published": "2026-11-04T20:49:07.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "AMD Cannot Catch Nvidia, But It Sure Can Make Some Money",
+      "url": "https://www.nextplatform.com/compute/2026/11/04/amd-cannot-catch-nvidia-but-it-sure-can-make-some-money/5307666",
+      "description": "",
+      "published": "2026-11-04T20:31:15.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Modular AI Data Centers Gain Ground as Crusoe Debuts Unit",
+      "url": "https://www.datacenterknowledge.com/modular-data-centers/modular-ai-data-centers-gain-ground-as-crusoe-debuts-unit",
+      "description": "Crusoe's 3.5 MW Spark Liquid unit highlights how factory-built, modular data centers are becoming a faster path to AI capacity at scale.",
+      "published": "2026-11-04T19:47:30.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "description": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for govern",
+      "published": "2026-11-04T18:50:55.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+      "description": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring pos",
+      "published": "2026-11-04T18:21:40.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "What’s next for US energy policy after the midterm elections?",
+      "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+      "description": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald Trump’s victory two",
+      "published": "2026-11-04T17:08:00.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Binance says hackers who stole billions in crypto spent months planning heist",
+      "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
+      "description": "\n                        Techniques included laptop infections, compromised internal tooling, and fake job interviews.\n                    ",
+      "published": "2026-11-04T16:06:03.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Liquid Cooling Is Changing What Data Centers Need to Measure",
+      "url": "https://www.datacenterknowledge.com/cooling/liquid-cooling-is-changing-what-data-centers-need-to-measure",
+      "description": "Liquid cooling changes data center operations by making precise, real-time measurement across both liquid and air environments essential.",
+      "published": "2026-11-04T14:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: blended meat, restored sight, and the agentic web",
+      "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat&#160; In the fall of 2025, Jeff Dodge served hungry students steaming marinara s",
+      "published": "2026-11-04T13:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Securing the agentic enterprise with data lineage",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "description": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No ",
+      "published": "2026-11-04T13:00:00.000Z"
     },
     {
       "source": "The Next Platform",
@@ -16,39 +121,11 @@
       "published": "2026-11-03T21:31:01.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "California Resources and Bloom Energy eye 1GW of fuel cells across California to power data centers and other offtakers",
-      "url": "https://www.datacenterdynamics.com/en/news/california-resources-and-bloom-energy-eye-1gw-of-fuel-cells-across-california-to-power-data-centers-and-other-offtakers/",
-      "description": "Intend to couple the systems with carbon capture and storage",
-      "published": "2026-11-03T17:28:17.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "Trump Onsite Power Push Meets AI Data Center Reality",
       "url": "https://www.datacenterknowledge.com/regulations/trump-onsite-power-push-meets-ai-data-center-reality",
       "description": "Trump’s onsite power push highlights a hard reality: most AI data centers will likely need hybrid energy strategies rather than fully off-grid designs.",
       "published": "2026-11-03T17:26:06.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Samsung SDS breaks ground on Gumi AI Data Center in South Korea",
-      "url": "https://www.datacenterdynamics.com/en/news/samsung-sds-breaks-ground-on-gumi-ai-data-center-in-south-korea/",
-      "description": "Will eventually offer 120MW",
-      "published": "2026-11-03T17:25:59.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Cellnex signs €375m loan with EIB to support rollout of 5G infrastructure",
-      "url": "https://www.datacenterdynamics.com/en/news/cellnex-signs-375m-loan-with-eib-to-support-rollout-of-5g-infrastructure/",
-      "description": "Will fund new tower builds across Cellnex's European markets",
-      "published": "2026-11-03T17:25:55.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Connected Infra Group appoints M&A specialist as tower company targets expansion plans",
-      "url": "https://www.datacenterdynamics.com/en/news/connected-infra-group-appoints-ma-specialist-as-tower-company-targets-expansion-plans/",
-      "description": "Reunites Isaac Lipton with Bernard Borghei",
-      "published": "2026-11-03T17:21:49.000Z"
     },
     {
       "source": "Ars Technica Tech",
@@ -63,83 +140,6 @@
       "url": "https://www.datacenterknowledge.com/energy-power-supply/ai-s-expansion-hits-the-limits-of-local-power",
       "description": "Power shortages and local opposition are delaying data center projects, making AI expansion harder, costlier, and more dependent on scarce grid access.",
       "published": "2026-11-03T14:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing ",
-      "published": "2026-11-03T13:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "description": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that ro",
-      "published": "2026-11-03T10:43:41.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Cloud Revenue Hits $168B as AI Capacity Expands",
-      "url": "https://www.datacenterknowledge.com/cloud/cloud-revenue-hits-168b-as-ai-capacity-expands",
-      "description": "Cloud infrastructure revenue reached $168 billion in the third quarter as providers brought higher-priced AI capacity online, reinforcing demand for new data centers even as power constraints slow delivery.",
-      "published": "2026-11-03T10:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c",
-      "published": "2026-11-03T04:18:47.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Qualcomm Has Eyes On The AI Inference Datacenter With HBC And AI250",
-      "url": "https://www.nextplatform.com/ai/2026/11/02/qualcomm-has-eyes-on-the-ai-inference-datacenter-with-hbc-and-ai250/5306954",
-      "description": "",
-      "published": "2026-11-02T18:02:57.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Raising the quality of insights in agentic analytics",
-      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "description": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The qualit",
-      "published": "2026-11-02T17:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Liquid Cooling Retrofits: Hard, but Sometimes Worth It",
-      "url": "https://www.datacenterknowledge.com/cooling/liquid-cooling-retrofits-hard-but-sometimes-worth-it",
-      "description": "Liquid cooling retrofits can boost density and efficiency, but cost, downtime, and infrastructure limits mean they make sense only in select cases.",
-      "published": "2026-11-02T16:45:17.000Z"
-    },
-    {
-      "source": "Import AI",
-      "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
-      "url": "https://jack-clark.net/2026/11/02/import-ai-479-spacewar-low-latency-tasks-versus-llms-genie-4/",
-      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now LLMs are very bad at low-latency tasks:…Realtime-Bench says it’ll be a while till AI systems can play games or do onli",
-      "published": "2026-11-02T14:30:54.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Liquid Cooling Is Changing What Data Centers Need to Measure",
-      "url": "https://www.datacenterknowledge.com/cooling/liquid-cooling-is-changing-what-data-centers-need-to-measure",
-      "description": "Liquid cooling changes data center operations by making precise, real-time measurement across both liquid and air environments essential.",
-      "published": "2026-11-02T14:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Stop counting tokens, start counting what ships",
-      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-      "description": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;",
-      "published": "2026-11-02T13:10:32.000Z"
-    },
-    {
-      "source": "DataEngineeringWeekly",
-      "title": "Data Engineering Weekly #294",
-      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-294",
-      "description": "The Weekly Data Engineering Newsletter",
-      "published": "2026-11-02T05:33:47.000Z"
     }
   ]
 }
