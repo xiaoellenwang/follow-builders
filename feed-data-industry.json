@@ -1,6 +1,76 @@
 {
-  "generatedAt": "2026-11-05T06:24:35.883Z",
+  "generatedAt": "2026-11-06T06:18:32.803Z",
   "articles": [
+    {
+      "source": "Ars Technica Tech",
+      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+      "description": "\n                        Certain configurations of Alpine are affected. Other distros may be as well.\n                    ",
+      "published": "2026-11-05T23:09:36.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Chemours releases two fluids for two-phase liquid cooling",
+      "url": "https://www.datacenterdynamics.com/en/news/chemours-releases-two-fluids-for-two-phase-liquid-cooling/",
+      "description": "Will target direct-to-chip and immersion markets",
+      "published": "2026-11-05T17:40:34.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Arista Lines Up Networking For 10 Gigawatts Of AI Systems",
+      "url": "https://www.nextplatform.com/connect/2026/11/05/arista-lines-up-networking-for-10-gigawatts-of-ai-systems/5307929",
+      "description": "",
+      "published": "2026-11-05T17:30:52.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Google to serve as credit backstop for TeraWulf data center in Kentucky",
+      "url": "https://www.datacenterdynamics.com/en/news/google-to-serve-as-credit-backstop-for-terawulf-data-center-in-kentucky/",
+      "description": "Data center is contracted to Anthropic under $19bn deal",
+      "published": "2026-11-05T17:30:45.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "McKay Brothers taps Relativity Networks for hollow core fiber to support New Jersey's financial services market",
+      "url": "https://www.datacenterdynamics.com/en/news/mckay-brothers-taps-relativity-networks-for-hollow-core-fiber-to-support-new-jerseys-financial-services-market/",
+      "description": "Will initially focus on New Jersey, with plans to expand to other markets",
+      "published": "2026-11-05T17:20:31.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "SBA Communications sheds Chile, Ecuador towers during Q3",
+      "url": "https://www.datacenterdynamics.com/en/news/sba-communications-sheds-chile-ecuador-towers-during-q3/",
+      "description": "As company also enters agreement to sell towers in Peru",
+      "published": "2026-11-05T17:12:38.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Bank of England queries speculative data center loans tied to projects without tenants",
+      "url": "https://www.datacenterdynamics.com/en/news/bank-of-england-queries-speculative-data-center-loans-tied-to-projects-without-tenants/",
+      "description": "Tries to understand the scale of risk in the sector",
+      "published": "2026-11-05T17:02:02.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground ",
+      "published": "2026-11-05T13:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "A new bill could change how the US builds energy infrastructure ",
+      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+      "description": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan th",
+      "published": "2026-11-05T10:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "AI Data Centers Are Fueling a Nuclear Comeback",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/ai-data-centers-are-fueling-a-nuclear-comeback",
+      "description": "AI data center demand is reviving nuclear energy, but whether SMRs, plant restarts, and fusion can deliver enough power quickly remains uncertain.",
+      "published": "2026-11-05T10:00:00.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "Hackers exploited iOS and Android flaws to infect phones",
@@ -9,46 +79,11 @@
       "published": "2026-11-04T22:26:49.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "VodafoneThree kicks off rollout of Ericsson's AI-ready Massive MIMO radio in London",
-      "url": "https://www.datacenterdynamics.com/en/news/vodafonethree-kicks-off-rollout-of-ericssons-ai-ready-massive-mimo-radio-in-london/",
-      "description": "The telco kicked off the deployment last month",
-      "published": "2026-11-04T21:40:38.000Z"
-    },
-    {
       "source": "Ars Technica Tech",
       "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
       "url": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
       "description": "\n                        “We started listening to a lot of our lower-end customers,\" VMware exec says. \n                    ",
       "published": "2026-11-04T21:38:49.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "atNorth signs deal with Calentix for heat reuse at SWE04 data center in Sollefteå, Sweden",
-      "url": "https://www.datacenterdynamics.com/en/news/atnorth-signs-deal-with-calentix-for-heat-reuse-at-swe04-data-center-in-sollefte%C3%A5-sweden/",
-      "description": "First delivery of heat expected in 2029",
-      "published": "2026-11-04T21:30:35.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "AWS set to secure £1.05bn contract renewal from UK Home Office",
-      "url": "https://www.datacenterdynamics.com/en/news/aws-set-to-secure-105bn-contract-renewal-from-uk-home-office/",
-      "description": "BidSkim analysis finds £444.6m spent on AWS since 2020",
-      "published": "2026-11-04T21:00:39.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "SoftBank to commercialize aerial cell towers with Japanese fleet",
-      "url": "https://www.datacenterdynamics.com/en/news/softbank-to-commercialize-aerial-cell-towers-with-japanese-fleet/",
-      "description": "Sceye deal brings HAPS from prototypes to happening",
-      "published": "2026-11-04T20:55:06.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Verizon AI-RAN work rides nationwide Ericsson Intelligent Controller deployment",
-      "url": "https://www.datacenterdynamics.com/en/news/verizon-ai-ran-work-rides-nationwide-ericsson-intelligent-controller-deployment/",
-      "description": "CTO Yago Tenorio hinted at the move earlier this year",
-      "published": "2026-11-04T20:49:07.000Z"
     },
     {
       "source": "The Next Platform",
@@ -100,46 +135,11 @@
       "published": "2026-11-04T14:00:00.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "The Download: blended meat, restored sight, and the agentic web",
-      "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat&#160; In the fall of 2025, Jeff Dodge served hungry students steaming marinara s",
-      "published": "2026-11-04T13:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Securing the agentic enterprise with data lineage",
-      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-      "description": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No ",
-      "published": "2026-11-04T13:00:00.000Z"
-    },
-    {
       "source": "The Next Platform",
       "title": "Marvell Cuts To The Front Of The Datacenter Optics Line With Lumentum Deal",
       "url": "https://www.nextplatform.com/connect/2026/11/03/marvell-cuts-to-the-front-of-the-datacenter-optics-line-with-lumentum-deal/5307392",
       "description": "",
       "published": "2026-11-03T21:31:01.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Trump Onsite Power Push Meets AI Data Center Reality",
-      "url": "https://www.datacenterknowledge.com/regulations/trump-onsite-power-push-meets-ai-data-center-reality",
-      "description": "Trump’s onsite power push highlights a hard reality: most AI data centers will likely need hybrid energy strategies rather than fully off-grid designs.",
-      "published": "2026-11-03T17:26:06.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
-      "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
-      "description": "\n                        UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.\n                    ",
-      "published": "2026-11-03T16:03:13.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "AI’s Expansion Hits the Limits of Local Power",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/ai-s-expansion-hits-the-limits-of-local-power",
-      "description": "Power shortages and local opposition are delaying data center projects, making AI expansion harder, costlier, and more dependent on scarce grid access.",
-      "published": "2026-11-03T14:00:00.000Z"
     }
   ]
 }

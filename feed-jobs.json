@@ -1,4 +1,200 @@
 {
-  "generatedAt": "2026-11-05T06:24:35.883Z",
-  "jobs": []
+  "generatedAt": "2026-11-06T06:18:32.803Z",
+  "jobs": [
+    {
+      "title": "Research Engineer II  (Artificial Intelligence, Computer Science, Data Science)",
+      "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
+      "salary": "S$5,000 – S$9,000",
+      "type": "Full Time",
+      "skills": [
+        "Deep Learning",
+        "Contacting candidates",
+        "Ai"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/efbb3b5e349cd412abee692e06af15ce",
+      "posted": "2026-11-06T05:34:05.000Z"
+    },
+    {
+      "title": "AI Engineer (Senior Associate) / Technology Consulting",
+      "company": "ERNST & YOUNG ADVISORY PTE. LTD.",
+      "salary": "S$5,500 – S$9,000",
+      "type": "Permanent",
+      "skills": [
+        "Code Quality",
+        "Liaising with cross functional teams",
+        "Microsoft Azure"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/ac7200dc2c602c3f3f02ae904285eff9",
+      "posted": "2026-11-06T04:32:03.000Z"
+    },
+    {
+      "title": "AI Architect Delivery Lead (Senior Manager) / Technology Consulting",
+      "company": "ERNST & YOUNG ADVISORY PTE. LTD.",
+      "salary": "S$12,000 – S$21,000",
+      "type": "Permanent",
+      "skills": [
+        "Machine Learning",
+        "Ai",
+        "Applications"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/6b17ee10851cdc5f75a7741bb692e4db",
+      "posted": "2026-11-06T04:29:37.000Z"
+    },
+    {
+      "title": "AI Application Engineer",
+      "company": "SYSTEMS ON SILICON MANUFACTURING COMPANY PTE LTD",
+      "salary": "S$4,700 – S$6,000",
+      "type": "Full Time",
+      "skills": [
+        "Document Management",
+        "TensorFlow",
+        "coordinate manufacturing processes"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/990a6ad1941d029e5d1052d723abd2e8",
+      "posted": "2026-11-06T03:34:51.000Z"
+    },
+    {
+      "title": "Junior AI / ML Engineer #10481",
+      "company": "ANRADUS PTE. LTD.",
+      "salary": "S$3,000 – S$4,500",
+      "type": "Permanent",
+      "skills": [
+        "GPGPU",
+        "Ship Security",
+        "Platform Management"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/3a4001997b8e4026a3a37578ebfabbb1",
+      "posted": "2026-11-06T03:15:25.000Z"
+    },
+    {
+      "title": "AI Data Centre Project Engineer",
+      "company": "RN CARE PTE. LTD.",
+      "salary": "S$4,000 – S$7,000",
+      "type": "Permanent",
+      "skills": [
+        "Computer Engineering",
+        "Factory Acceptance Testing",
+        "Information Technology"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/39de02b21dfad1d4d9f187969dcd4849",
+      "posted": "2026-11-06T03:06:59.000Z"
+    },
+    {
+      "title": "AI Infrastructure Project Engineer",
+      "company": "RN CARE PTE. LTD.",
+      "salary": "S$4,000 – S$7,000",
+      "type": "Permanent",
+      "skills": [
+        "Computer Engineering",
+        "Factory Acceptance Testing",
+        "Information Technology"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/664c6cf88aa3a03a7205a9b4e65b2cf2",
+      "posted": "2026-11-06T03:06:47.000Z"
+    },
+    {
+      "title": "Staff AI Security Engineer",
+      "company": "AGODA COMPANY PTE. LTD.",
+      "salary": "S$10,900 – S$16,300",
+      "type": "Full Time",
+      "skills": [
+        "Cursor",
+        "Design",
+        "Security Operations"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/152e5905502175c595480698ae826bf0",
+      "posted": "2026-11-06T02:57:40.000Z"
+    },
+    {
+      "title": "Staff AI Security Analyst",
+      "company": "AGODA COMPANY PTE. LTD.",
+      "salary": "S$10,900 – S$16,300",
+      "type": "Full Time",
+      "skills": [
+        "Scanner Technology",
+        "Ai",
+        "Mobile Application"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/9ae0f629960c6a37060c25d320cfdc47",
+      "posted": "2026-11-06T02:53:36.000Z"
+    },
+    {
+      "title": "DevOps Engineer (AI Platform)DevOps Engineer",
+      "company": "GOLDTECH RESOURCES PTE LTD",
+      "salary": "S$6,500 – S$8,500",
+      "type": "Contract",
+      "skills": [
+        "Design",
+        "Terraform",
+        "Computer Engineering"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/89d5557efbea493bc2a2a5e3d3997fd6",
+      "posted": "2026-11-06T02:49:20.000Z"
+    },
+    {
+      "title": "Senior Manager, Global AI Security",
+      "company": "NIPPON SANSO HOLDINGS SINGAPORE PTE. LTD.",
+      "salary": "S$13,000 – S$25,000",
+      "type": "Permanent",
+      "skills": [
+        "Security Architecture",
+        "International Security",
+        "Microsoft Excel"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/48d2d5464ba9a274a7839deb77dc088b",
+      "posted": "2026-11-06T01:02:29.000Z"
+    },
+    {
+      "title": "Software Engineering Manager (AI Supply Chain Solutions)",
+      "company": "GOOD JOB CREATIONS (SINGAPORE) PTE. LTD.",
+      "salary": "S$7,700 – S$9,500",
+      "type": "Permanent",
+      "skills": [
+        "Demand Forecasting",
+        "Computer Engineering",
+        "Software Engineering"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/edf956f2872a31e677796e5712d88244",
+      "posted": "2026-11-05T10:23:17.000Z"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "BEYONDSOFT TECHNOLOGY (SINGAPORE) PTE. LTD.",
+      "salary": "S$5,000 – S$6,000",
+      "type": "Full Time",
+      "skills": [
+        "Terraform",
+        "Enterprise Integration Solution",
+        "Production Quality Management"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/78fb45652633cb5e2b8a343d7dbdb746",
+      "posted": "2026-11-05T10:19:01.000Z"
+    },
+    {
+      "title": "Machine Learning Engineer (Computer Vision – Model Engineering)",
+      "company": "CYNAPSE PTE. LTD.",
+      "salary": "S$4,000 – S$6,000",
+      "type": "Full Time",
+      "skills": [
+        "Architectural Modeling",
+        "TensorFlow",
+        "Prototype"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/a13b156301edc43d8a32b8d347abe326",
+      "posted": "2026-11-05T07:32:04.000Z"
+    },
+    {
+      "title": "Data Scientist (Machine Learning)",
+      "company": "FLINTEX CONSULTING PTE. LTD.",
+      "salary": "S$6,000 – S$8,500",
+      "type": "Contract",
+      "skills": [
+        "Dashboards",
+        "Validation",
+        "Data Pipeline"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/d9c6163ba98c507bfadc305cfe990e21",
+      "posted": "2026-11-05T04:48:33.000Z"
+    }
+  ]
 }
