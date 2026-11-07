@@ -1,6 +1,83 @@
 {
-  "generatedAt": "2026-11-06T06:18:32.803Z",
+  "generatedAt": "2026-11-07T05:44:25.312Z",
   "articles": [
+    {
+      "source": "The Next Platform",
+      "title": "IBM, AMD, And Oak Ridge Unveil Quantum Error Correction Platform",
+      "url": "https://www.nextplatform.com/compute/2026/11/06/ibm-amd-and-oak-ridge-unveil-quantum-error-correction-platform/5308284",
+      "description": "",
+      "published": "2026-11-06T22:58:31.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+      "description": "\n                        Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.\n                    ",
+      "published": "2026-11-06T20:56:41.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "SpaceXAI plans data center in Arizona, Musk's firm claims it will have 6GW capacity",
+      "url": "https://www.datacenterdynamics.com/en/news/spacexai-data-center-arizona-cochise-county-elon-musk/",
+      "description": "Construction work could start in March 2027",
+      "published": "2026-11-06T17:34:34.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Can Optical AI Cut Data Center Inference Power Use?",
+      "url": "https://www.datacenterknowledge.com/ai-data-centers/can-optical-ai-cut-data-center-inference-power-use-",
+      "description": "Lumai is testing optical AI servers in a UK lab to see whether shifting inference prefill off GPUs can ease data center power constraints.",
+      "published": "2026-11-06T17:13:26.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: Why SLA risk = Credit risk",
+      "url": "https://www.datacenterdynamics.com/en/opinions/why-sla-risk-credit-risk/",
+      "description": "What happens when a neocloud loses several hours of compute capacity, but its next debt payment is still due in full?",
+      "published": "2026-11-06T16:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Two days of anti-data center protests planned across Europe",
+      "url": "https://www.datacenterdynamics.com/en/news/two-days-of-anti-data-center-protest-planned-across-europe/",
+      "description": "Stop Dirty Data Centres 'days of action' follow anti-data center midterms in the US",
+      "published": "2026-11-06T15:33:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "ING Bank looks to sell $500m in data center loans at once, including at Stargate site",
+      "url": "https://www.datacenterdynamics.com/en/news/ing-bank-looks-to-sell-500m-in-data-center-loans-at-once-including-at-stargate-site/",
+      "description": "Further spooking investors in a wobbly market",
+      "published": "2026-11-06T15:31:41.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Why Ireland’s data centers need a new approach to energy resilience",
+      "url": "https://www.datacenterdynamics.com/en/opinions/why-irelands-data-centers-need-a-new-approach-to-energy-resilience/",
+      "description": "And why recovery is the central challenge to navigate",
+      "published": "2026-11-06T15:30:45.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot clea",
+      "published": "2026-11-06T13:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "description": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed&#8230;",
+      "published": "2026-11-06T10:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "AI’s Expansion Hits the Limits of Local Power",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/ai-s-expansion-hits-the-limits-of-local-power",
+      "description": "Power shortages and local opposition are delaying data center projects, making AI expansion harder, costlier, and more dependent on scarce grid access.",
+      "published": "2026-11-06T10:00:00.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
@@ -9,46 +86,11 @@
       "published": "2026-11-05T23:09:36.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Chemours releases two fluids for two-phase liquid cooling",
-      "url": "https://www.datacenterdynamics.com/en/news/chemours-releases-two-fluids-for-two-phase-liquid-cooling/",
-      "description": "Will target direct-to-chip and immersion markets",
-      "published": "2026-11-05T17:40:34.000Z"
-    },
-    {
       "source": "The Next Platform",
       "title": "Arista Lines Up Networking For 10 Gigawatts Of AI Systems",
       "url": "https://www.nextplatform.com/connect/2026/11/05/arista-lines-up-networking-for-10-gigawatts-of-ai-systems/5307929",
       "description": "",
       "published": "2026-11-05T17:30:52.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Google to serve as credit backstop for TeraWulf data center in Kentucky",
-      "url": "https://www.datacenterdynamics.com/en/news/google-to-serve-as-credit-backstop-for-terawulf-data-center-in-kentucky/",
-      "description": "Data center is contracted to Anthropic under $19bn deal",
-      "published": "2026-11-05T17:30:45.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "McKay Brothers taps Relativity Networks for hollow core fiber to support New Jersey's financial services market",
-      "url": "https://www.datacenterdynamics.com/en/news/mckay-brothers-taps-relativity-networks-for-hollow-core-fiber-to-support-new-jerseys-financial-services-market/",
-      "description": "Will initially focus on New Jersey, with plans to expand to other markets",
-      "published": "2026-11-05T17:20:31.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "SBA Communications sheds Chile, Ecuador towers during Q3",
-      "url": "https://www.datacenterdynamics.com/en/news/sba-communications-sheds-chile-ecuador-towers-during-q3/",
-      "description": "As company also enters agreement to sell towers in Peru",
-      "published": "2026-11-05T17:12:38.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Bank of England queries speculative data center loans tied to projects without tenants",
-      "url": "https://www.datacenterdynamics.com/en/news/bank-of-england-queries-speculative-data-center-loans-tied-to-projects-without-tenants/",
-      "description": "Tries to understand the scale of risk in the sector",
-      "published": "2026-11-05T17:02:02.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -98,48 +140,6 @@
       "url": "https://www.datacenterknowledge.com/modular-data-centers/modular-ai-data-centers-gain-ground-as-crusoe-debuts-unit",
       "description": "Crusoe's 3.5 MW Spark Liquid unit highlights how factory-built, modular data centers are becoming a faster path to AI capacity at scale.",
       "published": "2026-11-04T19:47:30.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "description": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for govern",
-      "published": "2026-11-04T18:50:55.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-      "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-      "description": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring pos",
-      "published": "2026-11-04T18:21:40.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "What’s next for US energy policy after the midterm elections?",
-      "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
-      "description": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald Trump’s victory two",
-      "published": "2026-11-04T17:08:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Binance says hackers who stole billions in crypto spent months planning heist",
-      "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
-      "description": "\n                        Techniques included laptop infections, compromised internal tooling, and fake job interviews.\n                    ",
-      "published": "2026-11-04T16:06:03.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Liquid Cooling Is Changing What Data Centers Need to Measure",
-      "url": "https://www.datacenterknowledge.com/cooling/liquid-cooling-is-changing-what-data-centers-need-to-measure",
-      "description": "Liquid cooling changes data center operations by making precise, real-time measurement across both liquid and air environments essential.",
-      "published": "2026-11-04T14:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Marvell Cuts To The Front Of The Datacenter Optics Line With Lumentum Deal",
-      "url": "https://www.nextplatform.com/connect/2026/11/03/marvell-cuts-to-the-front-of-the-datacenter-optics-line-with-lumentum-deal/5307392",
-      "description": "",
-      "published": "2026-11-03T21:31:01.000Z"
     }
   ]
 }
