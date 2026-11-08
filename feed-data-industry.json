@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-11-07T05:44:25.312Z",
+  "generatedAt": "2026-11-08T05:47:31.478Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: Water stewardship starts with design, not offsets",
+      "url": "https://www.datacenterdynamics.com/en/opinions/water-stewardship-starts-with-design-not-offsets/",
+      "description": "How can data center development not only minimize its impact on local water resources, but contribute to the long-term resilience of the watersheds in which we operate?",
+      "published": "2026-11-07T16:00:00.000Z"
+    },
     {
       "source": "The Next Platform",
       "title": "IBM, AMD, And Oak Ridge Unveil Quantum Error Correction Platform",
@@ -49,13 +56,6 @@
       "url": "https://www.datacenterdynamics.com/en/news/ing-bank-looks-to-sell-500m-in-data-center-loans-at-once-including-at-stargate-site/",
       "description": "Further spooking investors in a wobbly market",
       "published": "2026-11-06T15:31:41.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Why Ireland’s data centers need a new approach to energy resilience",
-      "url": "https://www.datacenterdynamics.com/en/opinions/why-irelands-data-centers-need-a-new-approach-to-energy-resilience/",
-      "description": "And why recovery is the central challenge to navigate",
-      "published": "2026-11-06T15:30:45.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -112,34 +112,6 @@
       "url": "https://www.datacenterknowledge.com/energy-power-supply/ai-data-centers-are-fueling-a-nuclear-comeback",
       "description": "AI data center demand is reviving nuclear energy, but whether SMRs, plant restarts, and fusion can deliver enough power quickly remains uncertain.",
       "published": "2026-11-05T10:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Hackers exploited iOS and Android flaws to infect phones",
-      "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
-      "description": "\n                        Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.\n                    ",
-      "published": "2026-11-04T22:26:49.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
-      "url": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
-      "description": "\n                        “We started listening to a lot of our lower-end customers,\" VMware exec says. \n                    ",
-      "published": "2026-11-04T21:38:49.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "AMD Cannot Catch Nvidia, But It Sure Can Make Some Money",
-      "url": "https://www.nextplatform.com/compute/2026/11/04/amd-cannot-catch-nvidia-but-it-sure-can-make-some-money/5307666",
-      "description": "",
-      "published": "2026-11-04T20:31:15.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Modular AI Data Centers Gain Ground as Crusoe Debuts Unit",
-      "url": "https://www.datacenterknowledge.com/modular-data-centers/modular-ai-data-centers-gain-ground-as-crusoe-debuts-unit",
-      "description": "Crusoe's 3.5 MW Spark Liquid unit highlights how factory-built, modular data centers are becoming a faster path to AI capacity at scale.",
-      "published": "2026-11-04T19:47:30.000Z"
     }
   ]
 }
