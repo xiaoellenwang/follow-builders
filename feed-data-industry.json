@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-11-08T05:47:31.478Z",
+  "generatedAt": "2026-11-09T05:57:46.465Z",
   "articles": [
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "Data Engineering Weekly #295",
+      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-295",
+      "description": "The Weekly Data Engineering Newsletter",
+      "published": "2026-11-09T03:19:22.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Nvidia CEO Jensen Huang admits affair with alleged Chinese spy, board to investigate",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-ceo-jensen-huang-admits-affair-with-alleged-chinese-spy-board-to-investigate/",
+      "description": "Huang previously denied any relationship with Megaspeed exec",
+      "published": "2026-11-08T23:12:23.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: Why contamination control is now critical",
+      "url": "https://www.datacenterdynamics.com/en/opinions/why-contamination-control-is-now-critical/",
+      "description": "Contamination control in a live data hall is critical maintenance and should be treated as such",
+      "published": "2026-11-08T16:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "What data centers need to consider when storing produced water",
+      "url": "https://www.datacenterdynamics.com/en/opinions/what-data-centers-need-to-consider-when-storing-produced-water/",
+      "description": "A possible alternative to portable supplies",
+      "published": "2026-11-08T11:00:48.000Z"
+    },
     {
       "source": "Data Center Dynamics",
       "title": "Sponsored: Water stewardship starts with design, not offsets",
@@ -37,27 +65,6 @@
       "published": "2026-11-06T17:13:26.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: Why SLA risk = Credit risk",
-      "url": "https://www.datacenterdynamics.com/en/opinions/why-sla-risk-credit-risk/",
-      "description": "What happens when a neocloud loses several hours of compute capacity, but its next debt payment is still due in full?",
-      "published": "2026-11-06T16:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Two days of anti-data center protests planned across Europe",
-      "url": "https://www.datacenterdynamics.com/en/news/two-days-of-anti-data-center-protest-planned-across-europe/",
-      "description": "Stop Dirty Data Centres 'days of action' follow anti-data center midterms in the US",
-      "published": "2026-11-06T15:33:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "ING Bank looks to sell $500m in data center loans at once, including at Stargate site",
-      "url": "https://www.datacenterdynamics.com/en/news/ing-bank-looks-to-sell-500m-in-data-center-loans-at-once-including-at-stargate-site/",
-      "description": "Further spooking investors in a wobbly market",
-      "published": "2026-11-06T15:31:41.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
       "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
@@ -77,41 +84,6 @@
       "url": "https://www.datacenterknowledge.com/energy-power-supply/ai-s-expansion-hits-the-limits-of-local-power",
       "description": "Power shortages and local opposition are delaying data center projects, making AI expansion harder, costlier, and more dependent on scarce grid access.",
       "published": "2026-11-06T10:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
-      "description": "\n                        Certain configurations of Alpine are affected. Other distros may be as well.\n                    ",
-      "published": "2026-11-05T23:09:36.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Arista Lines Up Networking For 10 Gigawatts Of AI Systems",
-      "url": "https://www.nextplatform.com/connect/2026/11/05/arista-lines-up-networking-for-10-gigawatts-of-ai-systems/5307929",
-      "description": "",
-      "published": "2026-11-05T17:30:52.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground ",
-      "published": "2026-11-05T13:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "A new bill could change how the US builds energy infrastructure ",
-      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
-      "description": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan th",
-      "published": "2026-11-05T10:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "AI Data Centers Are Fueling a Nuclear Comeback",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/ai-data-centers-are-fueling-a-nuclear-comeback",
-      "description": "AI data center demand is reviving nuclear energy, but whether SMRs, plant restarts, and fusion can deliver enough power quickly remains uncertain.",
-      "published": "2026-11-05T10:00:00.000Z"
     }
   ]
 }
