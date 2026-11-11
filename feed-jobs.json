@@ -1,200 +1,31 @@
 {
-  "generatedAt": "2026-11-09T05:57:46.465Z",
+  "generatedAt": "2026-11-11T05:53:28.683Z",
   "jobs": [
     {
-      "title": "Data Engineer Graduate(TikTok Recommendation Ecosystem Architecture) - 2027 Start (PhD)",
-      "company": "TIKTOK PTE. LTD.",
-      "salary": "S$10,000 – S$20,000",
+      "title": "Data Scientist / Machine Learning Engineer",
+      "company": "TALENTSIS PTE. LTD.",
+      "salary": "S$5,700 – S$8,300",
       "type": "Full Time",
       "skills": [
-        "Deep Learning",
-        "Open Innovation",
-        "Onboarding"
+        "Collaborate With Engineers",
+        "Design",
+        "large datasets"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/ff650d61d3e36cf6d87bdc6ed5020019",
-      "posted": "2026-11-08T13:47:20.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/706f34c476195a30aa3a4972aaf48282",
+      "posted": "2026-11-11T03:27:38.000Z"
     },
     {
-      "title": "AI Engineer (LLM/Multimodal) Graduate (TikTok Search) - 2027 Start (PhD)",
-      "company": "TIKTOK PTE. LTD.",
-      "salary": "S$10,000 – S$20,000",
-      "type": "Full Time",
-      "skills": [
-        "Deep Learning",
-        "Open Innovation",
-        "Onboarding"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/6c2d3ef933a2b4133461876bd36ace69",
-      "posted": "2026-11-08T13:45:44.000Z"
-    },
-    {
-      "title": "Data Engineer Graduate(TikTok Recommendation Ecosystem Architecture, Singapore) - 2027 Start (PhD)",
-      "company": "BYTEDANCE PTE. LTD.",
-      "salary": "S$10,000 – S$20,000",
-      "type": "Full Time",
-      "skills": [
-        "Open Innovation",
-        "Onboarding",
-        "Search Engine Technology"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/69f93023451636baa372f2c129da0bc1",
-      "posted": "2026-11-08T13:44:42.000Z"
-    },
-    {
-      "title": "AI Engineer (LLM/Multimodal) Graduate (TikTok Search) - 2027 Start (PhD) (Singapore)",
-      "company": "BYTEDANCE PTE. LTD.",
-      "salary": "S$10,000 – S$20,000",
-      "type": "Full Time",
-      "skills": [
-        "Open Innovation",
-        "Onboarding",
-        "Search Engine Technology"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/72db1d9ce15c05e465f29026491e6a84",
-      "posted": "2026-11-08T13:42:58.000Z"
-    },
-    {
-      "title": "AI Infra Optimization Engineer Graduate (TikTok Global E-Commerce Recommendation & Search Architecture, Singapore) - 2027 Start",
-      "company": "BYTEDANCE PTE. LTD.",
-      "salary": "S$6,500 – S$13,000",
-      "type": "Full Time",
-      "skills": [
-        "Ai",
-        "Onboarding",
-        "Teamwork"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/dc316e9830dff255d963d6b058b10831",
-      "posted": "2026-11-08T13:34:51.000Z"
-    },
-    {
-      "title": "AI Infrastructure Engineer Graduate (TikTok Recommendation Architecture, Singapore) - 2027 Start",
-      "company": "BYTEDANCE PTE. LTD.",
-      "salary": "S$6,500 – S$13,000",
-      "type": "Full Time",
-      "skills": [
-        "Ai",
-        "Onboarding",
-        "Teamwork"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/782d9ae8aa5bd1a971851f6ff7197108",
-      "posted": "2026-11-08T04:42:26.000Z"
-    },
-    {
-      "title": "Research Engineer (AI Infrastructure) - Large Model Applications - Global Frontier Tech Recruitment Program - 2027 Start (PhD)(Singapore)",
-      "company": "BYTEDANCE PTE. LTD.",
-      "salary": "S$11,250 – S$22,500",
-      "type": "Full Time",
-      "skills": [
-        "Ai",
-        "Onboarding",
-        "Teamwork"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/b8dca5dc17ba6e42a2d9311bb23a7996",
-      "posted": "2026-11-08T04:40:13.000Z"
-    },
-    {
-      "title": "Research Engineer (AI Infrastructure) - Large Model Applications - Global Frontier Tech Recruitment Program - 2027 Start (PhD)(Singapore)",
-      "company": "BYTEDANCE PTE. LTD.",
-      "salary": "S$6,500 – S$13,000",
-      "type": "Full Time",
-      "skills": [
-        "Ai",
-        "Onboarding",
-        "Teamwork"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/dffb126af9bac3061df0905a54508cf4",
-      "posted": "2026-11-08T04:39:22.000Z"
-    },
-    {
-      "title": "Research Scientist - End-to-End Generative Search Technology Based on Pre-Trained Foundation Models - Global Frontier Tech Recruitment Program - 2027 Start (PhD) (Singapore)",
-      "company": "BYTEDANCE PTE. LTD.",
-      "salary": "S$11,250 – S$22,500",
-      "type": "Full Time",
-      "skills": [
-        "Ai",
-        "Onboarding",
-        "Teamwork"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/d4e04473aa44d71517d9f38fbe3bc93c",
-      "posted": "2026-11-08T04:38:13.000Z"
-    },
-    {
-      "title": "Research Scientist - End-to-End Generative Search Technology Based on Pre-Trained Foundation Models - Global Frontier Tech Recruitment Program - 2027 Start (PhD) (Singapore)",
-      "company": "BYTEDANCE PTE. LTD.",
-      "salary": "S$6,500 – S$13,000",
-      "type": "Full Time",
-      "skills": [
-        "Ai",
-        "Onboarding",
-        "Teamwork"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/d13ab986957fd4491f59b3ecb153150f",
-      "posted": "2026-11-08T04:37:29.000Z"
-    },
-    {
-      "title": "AI Infra Optimization Engineer Graduate (TikTok Global E-Commerce Recommendation & Search Architecture) - 2027 Start",
-      "company": "TIKTOK PTE. LTD.",
-      "salary": "S$6,500 – S$13,000",
-      "type": "Full Time",
-      "skills": [
-        "Creative Problem Solving",
-        "TensorFlow",
-        "Onboarding"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/bad88d3ac19f83c9d6bb446c29894b88",
-      "posted": "2026-11-07T16:23:34.000Z"
-    },
-    {
-      "title": "AI Infrastructure Engineer Graduate (TikTok Recommendation Architecture) - 2027 Start",
-      "company": "TIKTOK PTE. LTD.",
-      "salary": "S$6,500 – S$13,000",
-      "type": "Full Time",
-      "skills": [
-        "Creative Problem Solving",
-        "TensorFlow",
-        "Onboarding"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/1738659377bfd56944cbcdbc4b7217db",
-      "posted": "2026-11-07T16:16:04.000Z"
-    },
-    {
-      "title": "Research Engineer (AI Infrastructure) - Large Model Applications - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
-      "company": "TIKTOK PTE. LTD.",
-      "salary": "S$11,250 – S$22,500",
-      "type": "Full Time",
-      "skills": [
-        "Onboarding",
-        "Teamwork",
-        "Computer Engineering"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/c3044837b786b7c139e209a9356b9421",
-      "posted": "2026-11-07T16:14:39.000Z"
-    },
-    {
-      "title": "Research Engineer (AI Infrastructure) - Large Model Applications - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
-      "company": "TIKTOK PTE. LTD.",
-      "salary": "S$6,500 – S$11,250",
-      "type": "Full Time",
-      "skills": [
-        "Onboarding",
-        "Teamwork",
-        "Computer Engineering"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/7d3c1e6b2c7669822fe5a8fa3e749379",
-      "posted": "2026-11-07T16:13:54.000Z"
-    },
-    {
-      "title": "Research Scientist (TikTok Search) - End-to-End Generative Search Technology Based on Pre-Trained Foundation Models - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
-      "company": "TIKTOK PTE. LTD.",
-      "salary": "S$11,250 – S$22,500",
+      "title": "AI Lead",
+      "company": "RANDSTAD PTE. LIMITED",
+      "salary": "S$6,500 – S$9,500",
       "type": "Permanent",
       "skills": [
-        "Ai",
-        "Onboarding",
-        "Computer Engineering"
+        "Robust Design",
+        "Production Technical Services",
+        "Vector Search"
       ],
-      "url": "https://www.mycareersfuture.gov.sg/job/ac855cf886c535ab315ecd66d58a359e",
-      "posted": "2026-11-07T16:12:03.000Z"
+      "url": "https://www.mycareersfuture.gov.sg/job/8ee4b0f42a69271ca42aee0cb57c7515",
+      "posted": "2026-11-11T02:41:32.000Z"
     }
   ]
 }
