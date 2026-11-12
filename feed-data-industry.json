@@ -1,6 +1,76 @@
 {
-  "generatedAt": "2026-11-11T05:53:28.683Z",
+  "generatedAt": "2026-11-12T06:57:26.012Z",
   "articles": [
+    {
+      "source": "The Next Platform",
+      "title": "CoreWeave Is Accelerating To Escape Velocity Thanks To GPU Shortages",
+      "url": "https://www.nextplatform.com/cloud/2026/11/12/coreweave-is-accelerating-to-escape-velocity-thanks-to-gpu-shortages/5309222",
+      "description": "",
+      "published": "2026-11-12T00:50:59.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Nvidia's Jensen Huang accused of second affair with staffer, board considers ouster",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidias-jensen-huang-accused-of-second-affair-with-staffer-board-considers-ouster/",
+      "description": "The central figure of the AI boom could be set to lose his job",
+      "published": "2026-11-11T23:27:37.000Z"
+    },
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "How Open Is Open? Iceberg, Catalogs, and User Choice",
+      "url": "https://www.dataengineeringweekly.com/p/how-open-is-open-iceberg-catalogs",
+      "description": "The next test of openness: giving users the freedom to choose engines, control their catalogs, and change providers.",
+      "published": "2026-11-11T20:50:33.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Nvidia appoints law firm to investigate CEO's affair with suspected Chinese spy",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-appoints-law-firm-to-investigate-ceos-affair-with-suspected-chinese-spy/",
+      "description": "Jensen Huang's dalliances come under investigation",
+      "published": "2026-11-11T17:15:20.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Consortium to develop 400MW hyperscale AI data center in Oman",
+      "url": "https://www.datacenterdynamics.com/en/news/consortium-to-develop-400mw-hyperscale-ai-data-center-in-oman/",
+      "description": "US cloud computing firm Crusoe has indicated interest as a potential off-taker for the project’s data center capacity",
+      "published": "2026-11-11T17:13:28.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Ohio State University to migrate infrastructure to Microsoft Azure",
+      "url": "https://www.datacenterdynamics.com/en/news/ohio-state-university-to-migrate-infrastructure-to-microsoft-azure/",
+      "description": "Two sign a five-year partnership",
+      "published": "2026-11-11T17:11:23.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Working hard Evri day",
+      "url": "https://www.datacenterdynamics.com/en/analysis/evri-cto-marcus-hunter-aws/",
+      "description": "The digital backbone behind one of the UK’s largest courier services, and the backstory of its CTO",
+      "published": "2026-11-11T17:00:44.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "What to know about this year’s UN climate talks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+      "description": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world",
+      "published": "2026-11-11T17:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: preserving minds and weighing open AI risks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, ",
+      "published": "2026-11-11T13:10:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "The Rural Shift in Data Center Development",
+      "url": "https://www.datacenterknowledge.com/data-center-site-selection/the-rural-shift-in-data-center-development",
+      "description": "As pressure on power, land, and permitting intensifies, more data centers are moving to rural areas, making remote sites a growing part of future development.",
+      "published": "2026-11-11T10:00:00.000Z"
+    },
     {
       "source": "Data Center Knowledge",
       "title": "AMD Launches Epyc SP7, Helion as AI Rack Demand Rises",
@@ -17,7 +87,7 @@
     },
     {
       "source": "The Next Platform",
-      "title": "How The “Venice” Epycs Measure Up Against Prior AMD Server CPUs",
+      "title": "How The 'Venice' Epycs Measure Up Against Prior AMD Server CPUs",
       "url": "https://www.nextplatform.com/compute/2026/11/10/how-the-venice-epycs-measure-up-against-prior-amd-server-cpus/5308901",
       "description": "",
       "published": "2026-11-10T20:02:09.000Z"
@@ -30,46 +100,11 @@
       "published": "2026-11-10T19:06:39.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Applied Digital is building in the only US town to say yes to data centers",
-      "url": "https://www.datacenterdynamics.com/en/analysis/data-center-harwood-north-dakota-applied-digital-us-midterm-elections/",
-      "description": "CEO says firms must earn the right to launch new projects as it plots expansion into Europe",
-      "published": "2026-11-10T17:30:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Application filed for $8bn data center project in Quanah, Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/application-filed-for-8bn-data-center-project-in-quanah-texas/",
-      "description": "Integra looks to build 756MW project near Childress",
-      "published": "2026-11-10T17:07:12.000Z"
-    },
-    {
       "source": "The Next Platform",
-      "title": "AMD Tunes Up CPUs For Agentic AI With “Venice” Epyc Processors",
+      "title": "AMD Tunes Up CPUs For Agentic AI With 'Venice' Epyc Processors",
       "url": "https://www.nextplatform.com/compute/2026/11/10/amd-tunes-up-cpus-for-agentic-ai-with-venice-epyc-processors/5308850",
       "description": "",
       "published": "2026-11-10T17:06:06.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "TierPoint to appoint Craig Cowden as CEO",
-      "url": "https://www.datacenterdynamics.com/en/news/tierpoint-to-appoint-craig-cowden-as-ceo/",
-      "description": "Former Metronet EVP to replace long-time leader Jerry Kent",
-      "published": "2026-11-10T16:16:24.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Principal Asset Management acquires data center outside Amsterdam, the Netherlands",
-      "url": "https://www.datacenterdynamics.com/en/news/principal-asset-management-acquires-data-center-outside-amsterdam-the-netherlands/",
-      "description": "Switch gets a new landlord for AMS2",
-      "published": "2026-11-10T16:09:58.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Vodafone progresses cost-savings strategy, but CEO warns German unit \"not yet where it needs to be\"",
-      "url": "https://www.datacenterdynamics.com/en/news/vodafone-progresses-cost-savings-strategy-but-ceo-warns-german-unit-not-yet-where-it-needs-to-be/",
-      "description": "As company prepares to cut 2,300 jobs in Germany",
-      "published": "2026-11-10T16:07:28.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -105,41 +140,6 @@
       "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
       "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It",
       "published": "2026-11-09T19:35:33.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Google Adds TPU 8tx, 8i Max for Enterprise AI",
-      "url": "https://www.datacenterknowledge.com/data-center-chips/google-adds-tpu-8tx-8i-max-for-enterprise-ai",
-      "description": "Google Cloud is expanding its TPU lineup with one chip for secure AI workloads and another for higher-capacity inference with large context windows.",
-      "published": "2026-11-09T18:50:19.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Google Rejiggers TPU Accelerators For Broader AI Inference Work",
-      "url": "https://www.nextplatform.com/compute/2026/11/09/google-rejiggers-tpu-accelerators-for-broader-ai-inference-work/5308534",
-      "description": "",
-      "published": "2026-11-09T18:06:49.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Nvidia Probes Huang Ties as AI Industry Weighs the Fallout",
-      "url": "https://www.datacenterknowledge.com/data-center-chips/nvidia-probes-huang-ties-as-ai-industry-weighs-the-fallout",
-      "description": "Possible foreign intelligence targeting at Nvidia raises concerns about CEO succession and the chipmaker’s influence over the AI market.",
-      "published": "2026-11-09T17:56:23.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-      "description": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with ",
-      "published": "2026-11-09T17:05:43.000Z"
-    },
-    {
-      "source": "Import AI",
-      "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
-      "url": "https://jack-clark.net/2026/11/09/import-ai-480-self-sustaining-space-economies-ai-for-science-progress-and-meta-builds-perfect-hands-for-a-superintelligence/",
-      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI Science startup converts a quantum conjecture into a theorem:…An evocative taste of the singularity…In the same way",
-      "published": "2026-11-09T13:31:34.000Z"
     }
   ]
 }
