@@ -1,6 +1,76 @@
 {
-  "generatedAt": "2026-11-12T06:57:26.012Z",
+  "generatedAt": "2026-11-13T06:21:53.123Z",
   "articles": [
+    {
+      "source": "Data Center Knowledge",
+      "title": "Huang Resigns: Nvidia's AI Infrastructure Roadmap in Question",
+      "url": "https://www.datacenterknowledge.com/data-center-chips/huang-resigns-nvidia-s-ai-infrastructure-roadmap-in-question",
+      "description": "The departure of Jensen Huang without a clear long-term successor could mean turmoil at the data center economy bellwether, analysts say.",
+      "published": "2026-11-12T21:25:45.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Ousted Nvidia CEO Jensen Huang accused of third affair, with another staffer",
+      "url": "https://www.datacenterdynamics.com/en/news/ousted-nvidia-ceo-jensen-huang-accused-of-third-affair-with-another-staffer/",
+      "description": "He's departed Nvidia, but the revelations won't stop coming",
+      "published": "2026-11-12T21:02:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "description": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “pote",
+      "published": "2026-11-12T20:16:24.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "The Nvidia Machine Is Self-Sustaining – And Was Already Facing A Tougher Future",
+      "url": "https://www.nextplatform.com/ai/2026/11/12/the-nvidia-machine-is-self-sustaining-and-was-already-facing-a-tougher-future/5309473",
+      "description": "",
+      "published": "2026-11-12T18:42:07.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sabey signs 43.5MW PPA in Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/sabey-signs-435mw-ppa-in-texas/",
+      "description": "Company to offtake from CIP’s Greasewood solar farm",
+      "published": "2026-11-12T17:20:39.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Forest County Potawatomi Community seeks to expand Milwaukee data center",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-pledges-to-cover-power-costs-for-data-center-buildout/",
+      "description": "Challenges Milwaukee's data center moratorium",
+      "published": "2026-11-12T17:10:30.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "CDC files to develop 1.4GW data center campus in Kemps Creek, Australia",
+      "url": "https://www.datacenterdynamics.com/en/news/cdc-files-to-develop-14gw-data-center-campus-in-kemps-creek-australia/",
+      "description": "Company refiles plans at latest Sydney development",
+      "published": "2026-11-12T16:55:33.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Nebius signs $12bn in deals for Q3, all deals reportedly cover its capex",
+      "url": "https://www.datacenterdynamics.com/en/news/nebius-signs-12bn-in-deals-for-q3-all-deals-reportedly-cover-its-capex/",
+      "description": "Company also notes delays to Microsoft data center project",
+      "published": "2026-11-12T16:45:54.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "New Approaches to Data Center Power Procurement",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/new-approaches-to-data-center-power-procurement",
+      "description": "As grid limits tighten, data centers may need to diversify power strategies to secure reliable capacity, control costs, and support faster growth.",
+      "published": "2026-11-12T15:34:59.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: COP31’s climate challenge and the quest for immortality",
+      "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the an",
+      "published": "2026-11-12T13:10:00.000Z"
+    },
     {
       "source": "The Next Platform",
       "title": "CoreWeave Is Accelerating To Escape Velocity Thanks To GPU Shortages",
@@ -9,46 +79,11 @@
       "published": "2026-11-12T00:50:59.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Nvidia's Jensen Huang accused of second affair with staffer, board considers ouster",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidias-jensen-huang-accused-of-second-affair-with-staffer-board-considers-ouster/",
-      "description": "The central figure of the AI boom could be set to lose his job",
-      "published": "2026-11-11T23:27:37.000Z"
-    },
-    {
       "source": "DataEngineeringWeekly",
       "title": "How Open Is Open? Iceberg, Catalogs, and User Choice",
       "url": "https://www.dataengineeringweekly.com/p/how-open-is-open-iceberg-catalogs",
       "description": "The next test of openness: giving users the freedom to choose engines, control their catalogs, and change providers.",
       "published": "2026-11-11T20:50:33.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Nvidia appoints law firm to investigate CEO's affair with suspected Chinese spy",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-appoints-law-firm-to-investigate-ceos-affair-with-suspected-chinese-spy/",
-      "description": "Jensen Huang's dalliances come under investigation",
-      "published": "2026-11-11T17:15:20.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Consortium to develop 400MW hyperscale AI data center in Oman",
-      "url": "https://www.datacenterdynamics.com/en/news/consortium-to-develop-400mw-hyperscale-ai-data-center-in-oman/",
-      "description": "US cloud computing firm Crusoe has indicated interest as a potential off-taker for the project’s data center capacity",
-      "published": "2026-11-11T17:13:28.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Ohio State University to migrate infrastructure to Microsoft Azure",
-      "url": "https://www.datacenterdynamics.com/en/news/ohio-state-university-to-migrate-infrastructure-to-microsoft-azure/",
-      "description": "Two sign a five-year partnership",
-      "published": "2026-11-11T17:11:23.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Working hard Evri day",
-      "url": "https://www.datacenterdynamics.com/en/analysis/evri-cto-marcus-hunter-aws/",
-      "description": "The digital backbone behind one of the UK’s largest courier services, and the backstory of its CTO",
-      "published": "2026-11-11T17:00:44.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -105,41 +140,6 @@
       "url": "https://www.nextplatform.com/compute/2026/11/10/amd-tunes-up-cpus-for-agentic-ai-with-venice-epyc-processors/5308850",
       "description": "",
       "published": "2026-11-10T17:06:06.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-      "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing th",
-      "published": "2026-11-10T13:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Evolving metal extraction processes",
-      "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
-      "description": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familia",
-      "published": "2026-11-10T13:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Datacenter Systems Spending To Go Through The Roof In 2027",
-      "url": "https://www.nextplatform.com/compute/2026/11/10/datacenter-systems-spending-to-go-through-the-roof-in-2027/5308636",
-      "description": "",
-      "published": "2026-11-10T00:28:14.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-      "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
-      "description": "\n                        \"*sshole\" poses a serious threat to Internet security.\n                    ",
-      "published": "2026-11-09T19:41:34.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The backlash about data centers might really just be about electricity",
-      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It",
-      "published": "2026-11-09T19:35:33.000Z"
     }
   ]
 }
