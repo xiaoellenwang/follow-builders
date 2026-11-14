@@ -1,4 +1,200 @@
 {
-  "generatedAt": "2026-11-13T06:21:53.123Z",
-  "jobs": []
+  "generatedAt": "2026-11-14T06:01:45.868Z",
+  "jobs": [
+    {
+      "title": "AI Product Engineer Intern",
+      "company": "DCS CARD CENTRE PTE. LTD.",
+      "salary": "S$800 – S$1,000",
+      "type": "Internship/Attachment",
+      "skills": [
+        "Software Debugging",
+        "Ai",
+        "Foundations"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/b5eb7d38ea9a6da31d93ea0619b21fdd",
+      "posted": "2026-11-13T09:04:49.000Z"
+    },
+    {
+      "title": "Junior AI / ML Engineer #10481",
+      "company": "ANRADUS PTE. LTD.",
+      "salary": "S$3,000 – S$4,500",
+      "type": "Permanent",
+      "skills": [
+        "GPGPU",
+        "Ship Security",
+        "Platform Management"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/f20cca137879f1d2833f7243c4924a33",
+      "posted": "2026-11-13T08:50:44.000Z"
+    },
+    {
+      "title": "AI Engineer | AI & Digital Solutions Forward Deployed Engineer",
+      "company": "RECRUIT EXPRESS PTE LTD",
+      "salary": "S$5,000 – S$7,500",
+      "type": "Contract",
+      "skills": [
+        "Ai",
+        "Digital",
+        "Data Ingestion"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/df2f349d68a0e829df9bb61ccc3f95f7",
+      "posted": "2026-11-13T08:43:24.000Z"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "AMBITION GROUP SINGAPORE PTE. LTD.",
+      "salary": "S$6,000 – S$10,000",
+      "type": "Permanent",
+      "skills": [
+        "Requirements Management",
+        "Implement Quality Improvement",
+        "Physics"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/3a739f39580e0d32875e72c48ce76547",
+      "posted": "2026-11-13T08:37:44.000Z"
+    },
+    {
+      "title": "Software Engineer (Python / Gen AI)",
+      "company": "SCIENTEC CONSULTING PTE. LTD.",
+      "salary": "S$5,000 – S$10,000",
+      "type": "Contract",
+      "skills": [
+        "Software Debugging",
+        "Generative AI Application Development and Deployment",
+        "Computer Engineering"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/74bd4831a95b8459df8d60c3992d156c",
+      "posted": "2026-11-13T08:09:24.000Z"
+    },
+    {
+      "title": "AI Scientist, Composite Materials, IMRE",
+      "company": "A*STAR RESEARCH ENTITIES",
+      "salary": "S$4,750 – S$9,500",
+      "type": "Contract",
+      "skills": [
+        "Library Science",
+        "Liaise with laboratories",
+        "Materials Science"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/8abab3d3e84b07ab4fb1cd79a9f1286d",
+      "posted": "2026-11-13T05:46:43.000Z"
+    },
+    {
+      "title": "Senior AI Data Engineer",
+      "company": "SINGAPORE TELECOMMUNICATIONS LIMITED",
+      "salary": "S$8,000 – S$14,000",
+      "type": "Full Time",
+      "skills": [
+        "Collaborate With Engineers",
+        "AI Agents",
+        "Computer Engineering"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/48d2884426ab730a26c6212fd2289a20",
+      "posted": "2026-11-13T03:04:04.000Z"
+    },
+    {
+      "title": "AI Engineer (Permanent)",
+      "company": "TALENTSIS PTE. LTD.",
+      "salary": "S$6,000 – S$7,000",
+      "type": "Permanent",
+      "skills": [
+        "Machine Learning",
+        "Model Driven Development",
+        "Computer Engineering"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/6f269f603a4e31f869b4108c1635988a",
+      "posted": "2026-11-13T02:59:55.000Z"
+    },
+    {
+      "title": "Senior AI/Machine Learning Engineer",
+      "company": "TALENTSIS PTE. LTD.",
+      "salary": "S$5,700 – S$6,700",
+      "type": "Full Time",
+      "skills": [
+        "Collaborate With Engineers",
+        "Design",
+        "large datasets"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/4a36733368dfe527421baa97c1d9e7c6",
+      "posted": "2026-11-13T02:48:39.000Z"
+    },
+    {
+      "title": "Manufacturing AI & Automation Engineer",
+      "company": "GOLDTECH RESOURCES PTE LTD",
+      "salary": "S$4,000 – S$6,000",
+      "type": "Contract",
+      "skills": [
+        "Machine Learning",
+        "Git",
+        "Database Systems"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/a4574b7983d4a9cc96851fb5c3cf682c",
+      "posted": "2026-11-13T02:32:14.000Z"
+    },
+    {
+      "title": "G85 - Full Stack Engineer (AI)",
+      "company": "FPT ASIA PACIFIC PTE. LTD.",
+      "salary": "S$7,000 – S$9,500",
+      "type": "Full Time",
+      "skills": [
+        "API Development",
+        "Software Troubleshooting",
+        "Workflow Automation"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/a2a2567b3cf37d21e1233aa4d6679c26",
+      "posted": "2026-11-13T02:27:48.000Z"
+    },
+    {
+      "title": "Research Assistant (Financial Machine Learning)",
+      "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
+      "salary": "S$3,300 – S$6,600",
+      "type": "Contract",
+      "skills": [
+        "Independent Research",
+        "Research Findings Communication",
+        "large datasets"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/698215680e884f219961cafc40f58987",
+      "posted": "2026-11-13T02:27:47.000Z"
+    },
+    {
+      "title": "AI Algorithm Engineer",
+      "company": "PERSOL SINGAPORE PTE. LTD.",
+      "salary": "S$5,500 – S$9,500",
+      "type": "Full Time",
+      "skills": [
+        "Ai",
+        "Generative AI Model Development and Fine Tuning",
+        "Generative AI Application Development and Deployment"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/e8ba8763b922db7a2fea14ded267a325",
+      "posted": "2026-11-13T01:27:08.000Z"
+    },
+    {
+      "title": "AI/ML Senior Software Engineer",
+      "company": "APPLIED MATERIALS SOUTH EAST ASIA PTE. LTD.",
+      "salary": "S$10,000 – S$15,000",
+      "type": "Full Time",
+      "skills": [
+        "Machine Learning",
+        "Design",
+        "BERT"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/4bfcc55bb3b5902b1bfcd784e8075199",
+      "posted": "2026-11-12T10:25:38.000Z"
+    },
+    {
+      "title": "SENIOR/STAFF DATA SCIENTIST, SMART MFG & AI",
+      "company": "MICRON SEMICONDUCTOR ASIA OPERATIONS PTE. LTD.",
+      "salary": "S$7,500 – S$14,500",
+      "type": "Full Time",
+      "skills": [
+        "Project Analysis",
+        "Liaising with cross functional teams",
+        "Analytics Support"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/ee375e665233a3a7ca20a512fd5369b0",
+      "posted": "2026-11-12T05:32:30.000Z"
+    }
+  ]
 }

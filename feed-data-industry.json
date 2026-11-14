@@ -1,19 +1,89 @@
 {
-  "generatedAt": "2026-11-13T06:21:53.123Z",
+  "generatedAt": "2026-11-14T06:01:45.868Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "NTT Docomo to pilot data center heat-reuse for on-shore shrimp farm in Japan",
+      "url": "https://www.datacenterdynamics.com/en/news/ntt-docomo-to-pilot-data-center-heat-reuse-for-on-shore-shrimp-farm-in-japan/",
+      "description": "Part of Tokyo city initiative to find uses for data center heat",
+      "published": "2026-11-14T05:00:42.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Cerebras Readies CS-5 Systems For 2027 Launch As It Bags Another Hyperscaler",
+      "url": "https://www.nextplatform.com/compute/2026/11/14/cerebras-readies-cs-5-systems-for-2027-launch-as-it-bags-another-hyperscaler/5309932",
+      "description": "",
+      "published": "2026-11-14T00:40:35.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "DCD Connect Virginia 2026: It’s all about the power (and public perception)",
+      "url": "https://www.datacenterdynamics.com/en/analysis/dcd-connect-virginia-2026-its-all-about-the-power-and-public-perception/",
+      "description": "Midterm election results hang heavy, but speed to power still the focus",
+      "published": "2026-11-13T18:04:32.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Charlotte Hornets taps Boldyn Networks for cellular 5G",
+      "url": "https://www.datacenterdynamics.com/en/news/charlotte-hornets-taps-boldyn-networks-for-cellular-5g/",
+      "description": "Will support 5G corridor connectivity to the Hornets nearby training facility",
+      "published": "2026-11-13T18:02:29.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Integrated data center infrastructure",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/integrated-data-center-infrastructure/",
+      "description": "A unified lifecycle framework for cooling, critical power, power generation and building management systems",
+      "published": "2026-11-13T17:23:09.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "ASIC ambition",
+      "url": "https://www.datacenterdynamics.com/en/analysis/asic-custom-silicon-amazon-arm-meta/",
+      "description": "Startups and hyperscalers alike are making the case for custom silicon",
+      "published": "2026-11-13T17:00:43.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+      "description": "\n                        \"SignDrop\" exploit lets local users gain all-powerful System rights.\n                    ",
+      "published": "2026-11-13T16:26:32.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former execut",
+      "published": "2026-11-13T13:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+      "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+      "description": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital role in that research, and they ought to be r",
+      "published": "2026-11-13T10:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+      "description": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investo",
+      "published": "2026-11-13T10:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Labor Shortages Threaten Data Center Schedules",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/labor-shortages-threaten-data-center-schedules",
+      "description": "Labor shortages and rising costs are making data center schedules more fragile, especially in Southern markets where specialized crews are already stretched.",
+      "published": "2026-11-13T10:00:00.000Z"
+    },
     {
       "source": "Data Center Knowledge",
       "title": "Huang Resigns: Nvidia's AI Infrastructure Roadmap in Question",
       "url": "https://www.datacenterknowledge.com/data-center-chips/huang-resigns-nvidia-s-ai-infrastructure-roadmap-in-question",
       "description": "The departure of Jensen Huang without a clear long-term successor could mean turmoil at the data center economy bellwether, analysts say.",
       "published": "2026-11-12T21:25:45.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Ousted Nvidia CEO Jensen Huang accused of third affair, with another staffer",
-      "url": "https://www.datacenterdynamics.com/en/news/ousted-nvidia-ceo-jensen-huang-accused-of-third-affair-with-another-staffer/",
-      "description": "He's departed Nvidia, but the revelations won't stop coming",
-      "published": "2026-11-12T21:02:00.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -28,34 +98,6 @@
       "url": "https://www.nextplatform.com/ai/2026/11/12/the-nvidia-machine-is-self-sustaining-and-was-already-facing-a-tougher-future/5309473",
       "description": "",
       "published": "2026-11-12T18:42:07.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sabey signs 43.5MW PPA in Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/sabey-signs-435mw-ppa-in-texas/",
-      "description": "Company to offtake from CIP’s Greasewood solar farm",
-      "published": "2026-11-12T17:20:39.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Forest County Potawatomi Community seeks to expand Milwaukee data center",
-      "url": "https://www.datacenterdynamics.com/en/news/microsoft-pledges-to-cover-power-costs-for-data-center-buildout/",
-      "description": "Challenges Milwaukee's data center moratorium",
-      "published": "2026-11-12T17:10:30.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "CDC files to develop 1.4GW data center campus in Kemps Creek, Australia",
-      "url": "https://www.datacenterdynamics.com/en/news/cdc-files-to-develop-14gw-data-center-campus-in-kemps-creek-australia/",
-      "description": "Company refiles plans at latest Sydney development",
-      "published": "2026-11-12T16:55:33.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Nebius signs $12bn in deals for Q3, all deals reportedly cover its capex",
-      "url": "https://www.datacenterdynamics.com/en/news/nebius-signs-12bn-in-deals-for-q3-all-deals-reportedly-cover-its-capex/",
-      "description": "Company also notes delays to Microsoft data center project",
-      "published": "2026-11-12T16:45:54.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -86,60 +128,11 @@
       "published": "2026-11-11T20:50:33.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "What to know about this year’s UN climate talks",
-      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
-      "description": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world",
-      "published": "2026-11-11T17:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: preserving minds and weighing open AI risks",
-      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, ",
-      "published": "2026-11-11T13:10:00.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "The Rural Shift in Data Center Development",
       "url": "https://www.datacenterknowledge.com/data-center-site-selection/the-rural-shift-in-data-center-development",
       "description": "As pressure on power, land, and permitting intensifies, more data centers are moving to rural areas, making remote sites a growing part of future development.",
       "published": "2026-11-11T10:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "AMD Launches Epyc SP7, Helion as AI Rack Demand Rises",
-      "url": "https://www.datacenterknowledge.com/data-center-chips/amd-launches-epyc-sp7-helion-as-ai-rack-demand-rises",
-      "description": "AMD has begun shipping sixth-gen Epyc servers and is rolling out Helion AI racks, signaling a bigger push into enterprise and agentic AI infrastructure.",
-      "published": "2026-11-10T21:21:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-      "description": "\n                        Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.\n                    ",
-      "published": "2026-11-10T21:12:59.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "How The 'Venice' Epycs Measure Up Against Prior AMD Server CPUs",
-      "url": "https://www.nextplatform.com/compute/2026/11/10/how-the-venice-epycs-measure-up-against-prior-amd-server-cpus/5308901",
-      "description": "",
-      "published": "2026-11-10T20:02:09.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Winning Data Center Bids Starts with the Investment Tax Credit",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/winning-data-center-bids-starts-with-the-investment-tax-credit",
-      "description": "Contractors can win more data center bids by planning for the Investment Tax Credit early and helping owners capture more value.",
-      "published": "2026-11-10T19:06:39.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "AMD Tunes Up CPUs For Agentic AI With 'Venice' Epyc Processors",
-      "url": "https://www.nextplatform.com/compute/2026/11/10/amd-tunes-up-cpus-for-agentic-ai-with-venice-epyc-processors/5308850",
-      "description": "",
-      "published": "2026-11-10T17:06:06.000Z"
     }
   ]
 }
