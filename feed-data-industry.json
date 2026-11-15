@@ -1,12 +1,40 @@
 {
-  "generatedAt": "2026-11-14T06:01:45.868Z",
+  "generatedAt": "2026-11-15T06:07:18.783Z",
   "articles": [
     {
       "source": "Data Center Dynamics",
-      "title": "NTT Docomo to pilot data center heat-reuse for on-shore shrimp farm in Japan",
-      "url": "https://www.datacenterdynamics.com/en/news/ntt-docomo-to-pilot-data-center-heat-reuse-for-on-shore-shrimp-farm-in-japan/",
-      "description": "Part of Tokyo city initiative to find uses for data center heat",
-      "published": "2026-11-14T05:00:42.000Z"
+      "title": "Developer Westend Real Assets buys two data centers in Hamburg",
+      "url": "https://www.datacenterdynamics.com/en/news/developer-westend-real-assets-buys-two-data-centers-in-hamburg/",
+      "description": "The facilities were acquired from private equity firm Deutsche Beteiligungs",
+      "published": "2026-11-14T14:00:47.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India",
+      "url": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-mou-for-18gw-of-data-center-capacity-in-andhra-pradesh-india/",
+      "description": "Company targets two projects outside Vizag",
+      "published": "2026-11-14T11:00:55.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "European Union offers to build data center for Moldova",
+      "url": "https://www.datacenterdynamics.com/en/news/european-union-offers-to-build-data-center-for-moldova/",
+      "description": "The facility would help to protect the personal data of Moldovan citizens from cyberattacks",
+      "published": "2026-11-14T10:00:44.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "US flights resume after \"telecommunications outage\" causes nationwide ground stop, new tech rollout blamed",
+      "url": "https://www.datacenterdynamics.com/en/news/us-flights-resume-after-telecommunications-outage-causes-nationwide-ground-stop/",
+      "description": "Routers \"overloaded with data\"",
+      "published": "2026-11-14T09:07:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: When the pressure heats up, what really cools servers down?",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/when-the-pressure-heats-up-what-really-cools-servers-down/",
+      "description": "Demand is leading to cooling constraints across the data center. Joint ventures and more sustainable chillers could provide the long-term answer",
+      "published": "2026-11-14T08:00:00.000Z"
     },
     {
       "source": "The Next Platform",
@@ -14,34 +42,6 @@
       "url": "https://www.nextplatform.com/compute/2026/11/14/cerebras-readies-cs-5-systems-for-2027-launch-as-it-bags-another-hyperscaler/5309932",
       "description": "",
       "published": "2026-11-14T00:40:35.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "DCD Connect Virginia 2026: It’s all about the power (and public perception)",
-      "url": "https://www.datacenterdynamics.com/en/analysis/dcd-connect-virginia-2026-its-all-about-the-power-and-public-perception/",
-      "description": "Midterm election results hang heavy, but speed to power still the focus",
-      "published": "2026-11-13T18:04:32.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Charlotte Hornets taps Boldyn Networks for cellular 5G",
-      "url": "https://www.datacenterdynamics.com/en/news/charlotte-hornets-taps-boldyn-networks-for-cellular-5g/",
-      "description": "Will support 5G corridor connectivity to the Hornets nearby training facility",
-      "published": "2026-11-13T18:02:29.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Integrated data center infrastructure",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/integrated-data-center-infrastructure/",
-      "description": "A unified lifecycle framework for cooling, critical power, power generation and building management systems",
-      "published": "2026-11-13T17:23:09.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "ASIC ambition",
-      "url": "https://www.datacenterdynamics.com/en/analysis/asic-custom-silicon-amazon-arm-meta/",
-      "description": "Startups and hyperscalers alike are making the case for custom silicon",
-      "published": "2026-11-13T17:00:43.000Z"
     },
     {
       "source": "Ars Technica Tech",
@@ -112,27 +112,6 @@
       "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
       "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the an",
       "published": "2026-11-12T13:10:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "CoreWeave Is Accelerating To Escape Velocity Thanks To GPU Shortages",
-      "url": "https://www.nextplatform.com/cloud/2026/11/12/coreweave-is-accelerating-to-escape-velocity-thanks-to-gpu-shortages/5309222",
-      "description": "",
-      "published": "2026-11-12T00:50:59.000Z"
-    },
-    {
-      "source": "DataEngineeringWeekly",
-      "title": "How Open Is Open? Iceberg, Catalogs, and User Choice",
-      "url": "https://www.dataengineeringweekly.com/p/how-open-is-open-iceberg-catalogs",
-      "description": "The next test of openness: giving users the freedom to choose engines, control their catalogs, and change providers.",
-      "published": "2026-11-11T20:50:33.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "The Rural Shift in Data Center Development",
-      "url": "https://www.datacenterknowledge.com/data-center-site-selection/the-rural-shift-in-data-center-development",
-      "description": "As pressure on power, land, and permitting intensifies, more data centers are moving to rural areas, making remote sites a growing part of future development.",
-      "published": "2026-11-11T10:00:00.000Z"
     }
   ]
 }

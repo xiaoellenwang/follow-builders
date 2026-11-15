@@ -1,6 +1,58 @@
 {
-  "generatedAt": "2026-11-14T06:01:45.868Z",
+  "generatedAt": "2026-11-15T06:07:18.783Z",
   "jobs": [
+    {
+      "title": "Full-stack Engineer (Portals & AI CRM)",
+      "company": "HASHMETA AI PTE. LTD.",
+      "salary": "S$6,400 – S$8,000",
+      "type": "Permanent",
+      "skills": [
+        "billing API",
+        "React Javascript",
+        "Git"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/e024f17f00dd8a038c08673c53edcdc9",
+      "posted": "2026-11-14T09:34:24.000Z"
+    },
+    {
+      "title": "Digital & AI Operations Enablement Lead",
+      "company": "MSIG ASIA PTE. LTD.",
+      "salary": "S$12,900 – S$16,000",
+      "type": "Permanent",
+      "skills": [
+        "Ai",
+        "Product Innovation",
+        "Generative AI Application Development and Deployment"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/3433a7848d55d557816a5f10197299c9",
+      "posted": "2026-11-14T07:50:44.000Z"
+    },
+    {
+      "title": "Data Scientist (AI Analyst)",
+      "company": "ACHIEVE CAREER CONSULTANT PTE LTD",
+      "salary": "S$4,000 – S$6,000",
+      "type": "Contract",
+      "skills": [
+        "Ai",
+        "Microsoft Azure",
+        "Liaising with project stakeholders"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/8207ebb78678591aca96399eeb841b6a",
+      "posted": "2026-11-14T07:36:50.000Z"
+    },
+    {
+      "title": "AI Application Architect",
+      "company": "JIE SHUN JIA",
+      "salary": "S$13,000 – S$22,000",
+      "type": "Full Time",
+      "skills": [
+        "Drilling",
+        "change analysis",
+        "Collaboration"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/954ec1b5758cb30ca44dbd3c6076492d",
+      "posted": "2026-11-14T07:19:35.000Z"
+    },
     {
       "title": "AI Product Engineer Intern",
       "company": "DCS CARD CENTRE PTE. LTD.",
@@ -80,19 +132,6 @@
       "posted": "2026-11-13T05:46:43.000Z"
     },
     {
-      "title": "Senior AI Data Engineer",
-      "company": "SINGAPORE TELECOMMUNICATIONS LIMITED",
-      "salary": "S$8,000 – S$14,000",
-      "type": "Full Time",
-      "skills": [
-        "Collaborate With Engineers",
-        "AI Agents",
-        "Computer Engineering"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/48d2884426ab730a26c6212fd2289a20",
-      "posted": "2026-11-13T03:04:04.000Z"
-    },
-    {
       "title": "AI Engineer (Permanent)",
       "company": "TALENTSIS PTE. LTD.",
       "salary": "S$6,000 – S$7,000",
@@ -156,45 +195,6 @@
       ],
       "url": "https://www.mycareersfuture.gov.sg/job/698215680e884f219961cafc40f58987",
       "posted": "2026-11-13T02:27:47.000Z"
-    },
-    {
-      "title": "AI Algorithm Engineer",
-      "company": "PERSOL SINGAPORE PTE. LTD.",
-      "salary": "S$5,500 – S$9,500",
-      "type": "Full Time",
-      "skills": [
-        "Ai",
-        "Generative AI Model Development and Fine Tuning",
-        "Generative AI Application Development and Deployment"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/e8ba8763b922db7a2fea14ded267a325",
-      "posted": "2026-11-13T01:27:08.000Z"
-    },
-    {
-      "title": "AI/ML Senior Software Engineer",
-      "company": "APPLIED MATERIALS SOUTH EAST ASIA PTE. LTD.",
-      "salary": "S$10,000 – S$15,000",
-      "type": "Full Time",
-      "skills": [
-        "Machine Learning",
-        "Design",
-        "BERT"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/4bfcc55bb3b5902b1bfcd784e8075199",
-      "posted": "2026-11-12T10:25:38.000Z"
-    },
-    {
-      "title": "SENIOR/STAFF DATA SCIENTIST, SMART MFG & AI",
-      "company": "MICRON SEMICONDUCTOR ASIA OPERATIONS PTE. LTD.",
-      "salary": "S$7,500 – S$14,500",
-      "type": "Full Time",
-      "skills": [
-        "Project Analysis",
-        "Liaising with cross functional teams",
-        "Analytics Support"
-      ],
-      "url": "https://www.mycareersfuture.gov.sg/job/ee375e665233a3a7ca20a512fd5369b0",
-      "posted": "2026-11-12T05:32:30.000Z"
     }
   ]
 }
