@@ -1,117 +1,110 @@
 {
-  "generatedAt": "2026-11-15T06:07:18.783Z",
+  "generatedAt": "2026-11-17T07:41:53.240Z",
   "articles": [
     {
-      "source": "Data Center Dynamics",
-      "title": "Developer Westend Real Assets buys two data centers in Hamburg",
-      "url": "https://www.datacenterdynamics.com/en/news/developer-westend-real-assets-buys-two-data-centers-in-hamburg/",
-      "description": "The facilities were acquired from private equity firm Deutsche Beteiligungs",
-      "published": "2026-11-14T14:00:47.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India",
-      "url": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-mou-for-18gw-of-data-center-capacity-in-andhra-pradesh-india/",
-      "description": "Company targets two projects outside Vizag",
-      "published": "2026-11-14T11:00:55.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "European Union offers to build data center for Moldova",
-      "url": "https://www.datacenterdynamics.com/en/news/european-union-offers-to-build-data-center-for-moldova/",
-      "description": "The facility would help to protect the personal data of Moldovan citizens from cyberattacks",
-      "published": "2026-11-14T10:00:44.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "US flights resume after \"telecommunications outage\" causes nationwide ground stop, new tech rollout blamed",
-      "url": "https://www.datacenterdynamics.com/en/news/us-flights-resume-after-telecommunications-outage-causes-nationwide-ground-stop/",
-      "description": "Routers \"overloaded with data\"",
-      "published": "2026-11-14T09:07:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: When the pressure heats up, what really cools servers down?",
-      "url": "https://www.datacenterdynamics.com/en/marketwatch/when-the-pressure-heats-up-what-really-cools-servers-down/",
-      "description": "Demand is leading to cooling constraints across the data center. Joint ventures and more sustainable chillers could provide the long-term answer",
-      "published": "2026-11-14T08:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Cerebras Readies CS-5 Systems For 2027 Launch As It Bags Another Hyperscaler",
-      "url": "https://www.nextplatform.com/compute/2026/11/14/cerebras-readies-cs-5-systems-for-2027-launch-as-it-bags-another-hyperscaler/5309932",
-      "description": "",
-      "published": "2026-11-14T00:40:35.000Z"
+      "source": "Data Center Knowledge",
+      "title": "The VMware Decision: Why Infrastructure Optionality Matters More Than Cost",
+      "url": "https://www.datacenterknowledge.com/data-center-infrastructure-management/the-vmware-decision-why-infrastructure-optionality-matters-more-than-cost",
+      "description": "Don't judge VMware by price alone; choose infrastructure that preserves flexibility, portability, and future options as workloads and economics change.",
+      "published": "2026-11-16T21:11:12.000Z"
     },
     {
       "source": "Ars Technica Tech",
-      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
-      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
-      "description": "\n                        \"SignDrop\" exploit lets local users gain all-powerful System rights.\n                    ",
-      "published": "2026-11-13T16:26:32.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
-      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former execut",
-      "published": "2026-11-13T13:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
-      "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
-      "description": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital role in that research, and they ought to be r",
-      "published": "2026-11-13T10:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
-      "description": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investo",
-      "published": "2026-11-13T10:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Labor Shortages Threaten Data Center Schedules",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/labor-shortages-threaten-data-center-schedules",
-      "description": "Labor shortages and rising costs are making data center schedules more fragile, especially in Southern markets where specialized crews are already stretched.",
-      "published": "2026-11-13T10:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Huang Resigns: Nvidia's AI Infrastructure Roadmap in Question",
-      "url": "https://www.datacenterknowledge.com/data-center-chips/huang-resigns-nvidia-s-ai-infrastructure-roadmap-in-question",
-      "description": "The departure of Jensen Huang without a clear long-term successor could mean turmoil at the data center economy bellwether, analysts say.",
-      "published": "2026-11-12T21:25:45.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-      "description": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “pote",
-      "published": "2026-11-12T20:16:24.000Z"
+      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+      "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+      "description": "\n                        The PC sales slump \"more than offset” AI boom gains, shareholders say. \n                    ",
+      "published": "2026-11-16T20:37:47.000Z"
     },
     {
       "source": "The Next Platform",
-      "title": "The Nvidia Machine Is Self-Sustaining – And Was Already Facing A Tougher Future",
-      "url": "https://www.nextplatform.com/ai/2026/11/12/the-nvidia-machine-is-self-sustaining-and-was-already-facing-a-tougher-future/5309473",
+      "title": "Supercomputer Installs Take A Dive In The Second Half Of 2026",
+      "url": "https://www.nextplatform.com/hpc/2026/11/16/supercomputer-installs-take-a-dive-in-the-second-half-of-2026/5310221",
       "description": "",
-      "published": "2026-11-12T18:42:07.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "New Approaches to Data Center Power Procurement",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/new-approaches-to-data-center-power-procurement",
-      "description": "As grid limits tighten, data centers may need to diversify power strategies to secure reliable capacity, control costs, and support faster growth.",
-      "published": "2026-11-12T15:34:59.000Z"
+      "published": "2026-11-16T18:59:25.000Z"
     },
     {
       "source": "MIT Technology Review",
-      "title": "The Download: COP31’s climate challenge and the quest for immortality",
-      "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the an",
-      "published": "2026-11-12T13:10:00.000Z"
+      "title": "The open-source movement wants Jensen Huang back",
+      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including El",
+      "published": "2026-11-16T18:38:47.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "SK Hynix to partner with South Korean gov’t on chip testing facility",
+      "url": "https://www.datacenterdynamics.com/en/news/sk-hynix-to-partner-with-south-korean-govt-on-chip-testing-facility/",
+      "description": "Part of company’s plans to invest $1.05bn in the country over next five years",
+      "published": "2026-11-16T18:02:26.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "US Dep’t of Commerce issues rule to restrict remote access to advanced AI chips",
+      "url": "https://www.datacenterdynamics.com/en/news/us-dept-of-commerce-issues-rule-to-restrict-remote-access-to-advanced-ai-chips/",
+      "description": "Adds five new countries to its export restriction list, including Malaysia and Singapore",
+      "published": "2026-11-16T18:01:05.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Firmus looks to raise $3bn in private equity and secure prepayments - report",
+      "url": "https://www.datacenterdynamics.com/en/news/firmus-looks-to-raise-3bn-in-private-equity-and-secure-prepayments-report/",
+      "description": "Following unsuccessful IPO launch",
+      "published": "2026-11-16T17:36:44.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "AI cloud startup Luminal secures $25m in Series A funding",
+      "url": "https://www.datacenterdynamics.com/en/news/ai-cloud-startup-luminal-secures-25m-in-series-a-funding/",
+      "description": "Company offers search compiler and inference cloud services",
+      "published": "2026-11-16T17:36:07.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Belgian telcos to retire 2G networks by 2029",
+      "url": "https://www.datacenterdynamics.com/en/news/belgian-telcos-to-retire-2g-networks-by-2029/",
+      "description": "National regulator confirms telcos will phase out the technology in 2028-2029",
+      "published": "2026-11-16T17:30:41.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "description": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had t",
+      "published": "2026-11-16T16:04:28.000Z"
+    },
+    {
+      "source": "Import AI",
+      "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+      "url": "https://jack-clark.net/2026/11/16/import-ai-481-ai-sub-contractors-a-wet-lab-for-ai-and-subterfuge-during-development/",
+      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI systems are getting good at sub-contracting to make themselves better:…AI can now productively spend money to impro",
+      "published": "2026-11-16T14:01:15.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: testing tech promises and searching for cognitive immortality",
+      "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Te",
+      "published": "2026-11-16T13:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Building AI that can work across the enterprise",
+      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "description": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a de",
+      "published": "2026-11-16T13:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Why Greenpeace Interrupted Jensen Huang’s Keynote",
+      "url": "https://www.datacenterknowledge.com/sustainability/why-greenpeace-interrupted-jensen-huang-s-keynote",
+      "description": "Greenpeace used Huang’s Berlin keynote to spotlight Nvidia’s role in supply-chain emissions and data center growth – and to signal more protests ahead.",
+      "published": "2026-11-16T10:00:00.000Z"
+    },
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "Data Engineering Weekly #296",
+      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-296",
+      "description": "The Weekly Data Engineering Newsletter",
+      "published": "2026-11-16T03:32:40.000Z"
     }
   ]
 }

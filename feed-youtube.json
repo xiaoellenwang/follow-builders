@@ -1,4 +1,12 @@
 {
-  "generatedAt": "2026-11-15T06:07:18.783Z",
-  "videos": []
+  "generatedAt": "2026-11-17T07:41:53.240Z",
+  "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Meta’s Muse: Inside the launch of the most successful consumer product this year | Mona Sarantakos",
+      "url": "https://www.youtube.com/watch?v=WY0cdD4gNoQ",
+      "published": "2026-11-15T13:30:37.000Z",
+      "description": "Muse is the #1 app in the App Store and arguably the fastest-growing AI consumer product of all time. Mona Sarantakos has led product on it since day one. She’s VP of Product at Meta Superintelligence Labs and a 10-year Meta veteran with over 20 years of experience as a PM. This is her first podcast"
+    }
+  ]
 }
