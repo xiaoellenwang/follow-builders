@@ -1,6 +1,111 @@
 {
-  "generatedAt": "2026-11-17T07:41:53.240Z",
+  "generatedAt": "2026-11-18T07:05:21.699Z",
   "articles": [
+    {
+      "source": "The Next Platform",
+      "title": "Nvidia Breaks Revenue And Profit Records, And Will Keep Doing It",
+      "url": "https://www.nextplatform.com/compute/2026/11/18/nvidia-breaks-revenue-and-profit-records-and-will-keep-doing-it/5310669",
+      "description": "",
+      "published": "2026-11-18T06:06:35.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Nvidia doubles quarterly earnings, raises forecast, “does not intend to reinstate Jensen as CEO”",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-doubles-quarterly-earnings-raises-forecast-does-not-intend-to-reinstate-jensen-as-ceo/",
+      "description": "Huge earnings, but CEO drama casts a long shadow",
+      "published": "2026-11-17T23:26:03.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+      "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+      "description": "\n                        Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.\n                    ",
+      "published": "2026-11-17T22:32:16.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+      "description": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado explore possible paths to k",
+      "published": "2026-11-17T18:46:47.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Hydropower hit record lows in the US Southwest this summer",
+      "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
+      "description": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely on dams to hold back water, creating reservoirs. The water can be released thro",
+      "published": "2026-11-17T17:52:10.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Optimum skips $102.5m debt payment as company continues debt negotiations",
+      "url": "https://www.datacenterdynamics.com/en/news/optimum-skips-1025m-debt-payment-as-company-continues-debt-negotiations/",
+      "description": "As company confirms it's working to reduce $22bn debt",
+      "published": "2026-11-17T17:25:40.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "150MW data center project planned in Haifa, Israel",
+      "url": "https://www.datacenterdynamics.com/en/news/150mw-data-center-project-planned-in-haifa-israel/",
+      "description": "Local renewable and real estate firms partner on project",
+      "published": "2026-11-17T17:21:56.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Swedish energy giant Vattenfall selects Kraken to manage battery and renewable assets in Germany",
+      "url": "https://www.datacenterdynamics.com/en/news/swedish-energy-giant-vattenfall-selects-kraken-to-manage-battery-and-renewable-assets-in-germany/",
+      "description": "Will provide a cloud-native control layer across Vattenfall’s BESS and renewable assets",
+      "published": "2026-11-17T17:20:31.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "IBM Links Two Nighthawk r3 Chips To Make A 1,040-Qubit Quantum System",
+      "url": "https://www.nextplatform.com/compute/2026/11/17/ibm-links-two-nighthawk-r3-chips-to-make-a-1040-qubit-quantum-system/5310545",
+      "description": "",
+      "published": "2026-11-17T17:13:12.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Patmos plans 50MW data center outside Birmingham, Alabama",
+      "url": "https://www.datacenterdynamics.com/en/news/patmos-plans-50mw-data-center-outside-birmingham-alabama/",
+      "description": "Company looks to convert former Walmart building",
+      "published": "2026-11-17T17:08:56.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Quantinuum Aligns Software Development For Quantum Hardware Generations",
+      "url": "https://www.nextplatform.com/compute/2026/11/17/quantinuum-aligns-software-development-for-quantum-hardware-generations/5310485",
+      "description": "",
+      "published": "2026-11-17T15:39:13.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Research Reports",
+      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+      "description": "To access a report, click on the corresponding image below.",
+      "published": "2026-11-17T14:39:46.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+      "description": "\n                        AI agent takes unapproved actions even when laptop lid is closed and told not to.\n                    ",
+      "published": "2026-11-17T14:00:29.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+      "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, includ",
+      "published": "2026-11-17T13:10:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Why Immersion Cooling Still Hasn't Gone Mainstream",
+      "url": "https://www.datacenterknowledge.com/cooling/why-immersion-cooling-still-hasn-t-gone-mainstream",
+      "description": "Immersion cooling offers clear efficiency benefits, but high upfront costs and the need to rethink data center design and operations still limit adoption.",
+      "published": "2026-11-17T10:00:00.000Z"
+    },
     {
       "source": "Data Center Knowledge",
       "title": "The VMware Decision: Why Infrastructure Optionality Matters More Than Cost",
@@ -30,81 +135,11 @@
       "published": "2026-11-16T18:38:47.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "SK Hynix to partner with South Korean gov’t on chip testing facility",
-      "url": "https://www.datacenterdynamics.com/en/news/sk-hynix-to-partner-with-south-korean-govt-on-chip-testing-facility/",
-      "description": "Part of company’s plans to invest $1.05bn in the country over next five years",
-      "published": "2026-11-16T18:02:26.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "US Dep’t of Commerce issues rule to restrict remote access to advanced AI chips",
-      "url": "https://www.datacenterdynamics.com/en/news/us-dept-of-commerce-issues-rule-to-restrict-remote-access-to-advanced-ai-chips/",
-      "description": "Adds five new countries to its export restriction list, including Malaysia and Singapore",
-      "published": "2026-11-16T18:01:05.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Firmus looks to raise $3bn in private equity and secure prepayments - report",
-      "url": "https://www.datacenterdynamics.com/en/news/firmus-looks-to-raise-3bn-in-private-equity-and-secure-prepayments-report/",
-      "description": "Following unsuccessful IPO launch",
-      "published": "2026-11-16T17:36:44.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "AI cloud startup Luminal secures $25m in Series A funding",
-      "url": "https://www.datacenterdynamics.com/en/news/ai-cloud-startup-luminal-secures-25m-in-series-a-funding/",
-      "description": "Company offers search compiler and inference cloud services",
-      "published": "2026-11-16T17:36:07.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Belgian telcos to retire 2G networks by 2029",
-      "url": "https://www.datacenterdynamics.com/en/news/belgian-telcos-to-retire-2g-networks-by-2029/",
-      "description": "National regulator confirms telcos will phase out the technology in 2028-2029",
-      "published": "2026-11-16T17:30:41.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Building trustworthy AI by fencing it in, not predicting it",
-      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-      "description": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had t",
-      "published": "2026-11-16T16:04:28.000Z"
-    },
-    {
       "source": "Import AI",
       "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
       "url": "https://jack-clark.net/2026/11/16/import-ai-481-ai-sub-contractors-a-wet-lab-for-ai-and-subterfuge-during-development/",
       "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI systems are getting good at sub-contracting to make themselves better:…AI can now productively spend money to impro",
       "published": "2026-11-16T14:01:15.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: testing tech promises and searching for cognitive immortality",
-      "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Te",
-      "published": "2026-11-16T13:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Building AI that can work across the enterprise",
-      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-      "description": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a de",
-      "published": "2026-11-16T13:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Why Greenpeace Interrupted Jensen Huang’s Keynote",
-      "url": "https://www.datacenterknowledge.com/sustainability/why-greenpeace-interrupted-jensen-huang-s-keynote",
-      "description": "Greenpeace used Huang’s Berlin keynote to spotlight Nvidia’s role in supply-chain emissions and data center growth – and to signal more protests ahead.",
-      "published": "2026-11-16T10:00:00.000Z"
-    },
-    {
-      "source": "DataEngineeringWeekly",
-      "title": "Data Engineering Weekly #296",
-      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-296",
-      "description": "The Weekly Data Engineering Newsletter",
-      "published": "2026-11-16T03:32:40.000Z"
     }
   ]
 }
