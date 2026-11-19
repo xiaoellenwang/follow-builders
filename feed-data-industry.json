@@ -1,19 +1,96 @@
 {
-  "generatedAt": "2026-11-18T07:05:21.699Z",
+  "generatedAt": "2026-11-19T07:05:53.474Z",
   "articles": [
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "Thoughts on Verification Engineering in the Agentic SDLC",
+      "url": "https://www.dataengineeringweekly.com/p/thoughts-on-verification-engineering",
+      "description": "When AI accelerates code manufacturing, the software supply chain bottleneck shifts from writing code to building the feedback loop that proves it works.",
+      "published": "2026-11-18T21:59:55.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Nvidia AI Surge Comes with $118 Billion in Guarantees",
+      "url": "https://www.datacenterknowledge.com/data-center-chips/nvidia-ai-surge-comes-with-118-billion-in-guarantees",
+      "description": "The chipmaker is committing $390 billion to suppliers while helping customers finance powered facilities for AI deployments.",
+      "published": "2026-11-18T19:45:36.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Rethinking High-Voltage Commissioning for AI Data Centers",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/rethinking-high-voltage-commissioning-for-ai-data-centers",
+      "description": "AI data centers are driving more direct high-voltage connections, making specialist HV commissioning essential for safe, reliable, and on-schedule delivery.",
+      "published": "2026-11-18T19:33:26.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "How Internet Exchanges stood up to the pressure of the Grand Theft Auto VI launch",
+      "url": "https://www.datacenterdynamics.com/en/analysis/gta-vi-grand-theft-auto-download-internet-exchanges/",
+      "description": "DE-CIX's CEO says his company was prepared for gaming's biggest event",
+      "published": "2026-11-18T17:00:29.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Navigating CEQA: what data center developers need to know before investing in California",
+      "url": "https://www.datacenterdynamics.com/en/opinions/navigating-ceqa-what-data-center-developers-need-to-know-before-investing-in-california/",
+      "description": "For data center developers, CEQA deserves particular attention",
+      "published": "2026-11-18T16:24:59.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "VodafoneThree pairs with Nokia, Nvidia to trial AI-RAN in UK",
+      "url": "https://www.datacenterdynamics.com/en/news/vodafonethree-pairs-with-nokia-nvidia-to-trial-ai-ran-in-uk/",
+      "description": "The trials have been carried out over VodafoneThree's UK network",
+      "published": "2026-11-18T16:22:59.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "FAA grounds HPE Juniper routers after outage halted US flights",
+      "url": "https://www.datacenterdynamics.com/en/news/faa-grounds-hpe-juniper-routers-after-outage-halted-us-flights/",
+      "description": "Network modernization paused following Democrat calls",
+      "published": "2026-11-18T16:16:44.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "IQM and Turkey's TÜBİTAK sign deal for 54-qubit quantum computer",
+      "url": "https://www.datacenterdynamics.com/en/news/iqm-and-turkeys-t%C3%BCbitak-sign-deal-for-54-qubit-quantum-computer/",
+      "description": "System is slated to be integrated in 2027",
+      "published": "2026-11-18T16:02:50.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The AI Hype Index: AI is everywhere",
+      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "description": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to",
+      "published": "2026-11-18T14:42:44.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: AI learns to smell and hydropower struggles",
+      "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful no",
+      "published": "2026-11-18T13:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "description": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup",
+      "published": "2026-11-18T10:20:30.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Public Pushback Complicates Data Center Buildouts",
+      "url": "https://www.datacenterknowledge.com/data-center-construction/public-pushback-complicates-data-center-buildouts",
+      "description": "Developers face closer scrutiny of utility costs, water use, and local benefits as community concerns complicate approvals and investment decisions.",
+      "published": "2026-11-18T10:00:00.000Z"
+    },
     {
       "source": "The Next Platform",
       "title": "Nvidia Breaks Revenue And Profit Records, And Will Keep Doing It",
       "url": "https://www.nextplatform.com/compute/2026/11/18/nvidia-breaks-revenue-and-profit-records-and-will-keep-doing-it/5310669",
       "description": "",
       "published": "2026-11-18T06:06:35.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Nvidia doubles quarterly earnings, raises forecast, “does not intend to reinstate Jensen as CEO”",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-doubles-quarterly-earnings-raises-forecast-does-not-intend-to-reinstate-jensen-as-ceo/",
-      "description": "Huge earnings, but CEO drama casts a long shadow",
-      "published": "2026-11-17T23:26:03.000Z"
     },
     {
       "source": "Ars Technica Tech",
@@ -37,39 +114,11 @@
       "published": "2026-11-17T17:52:10.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Optimum skips $102.5m debt payment as company continues debt negotiations",
-      "url": "https://www.datacenterdynamics.com/en/news/optimum-skips-1025m-debt-payment-as-company-continues-debt-negotiations/",
-      "description": "As company confirms it's working to reduce $22bn debt",
-      "published": "2026-11-17T17:25:40.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "150MW data center project planned in Haifa, Israel",
-      "url": "https://www.datacenterdynamics.com/en/news/150mw-data-center-project-planned-in-haifa-israel/",
-      "description": "Local renewable and real estate firms partner on project",
-      "published": "2026-11-17T17:21:56.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Swedish energy giant Vattenfall selects Kraken to manage battery and renewable assets in Germany",
-      "url": "https://www.datacenterdynamics.com/en/news/swedish-energy-giant-vattenfall-selects-kraken-to-manage-battery-and-renewable-assets-in-germany/",
-      "description": "Will provide a cloud-native control layer across Vattenfall’s BESS and renewable assets",
-      "published": "2026-11-17T17:20:31.000Z"
-    },
-    {
       "source": "The Next Platform",
       "title": "IBM Links Two Nighthawk r3 Chips To Make A 1,040-Qubit Quantum System",
       "url": "https://www.nextplatform.com/compute/2026/11/17/ibm-links-two-nighthawk-r3-chips-to-make-a-1040-qubit-quantum-system/5310545",
       "description": "",
       "published": "2026-11-17T17:13:12.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Patmos plans 50MW data center outside Birmingham, Alabama",
-      "url": "https://www.datacenterdynamics.com/en/news/patmos-plans-50mw-data-center-outside-birmingham-alabama/",
-      "description": "Company looks to convert former Walmart building",
-      "published": "2026-11-17T17:08:56.000Z"
     },
     {
       "source": "The Next Platform",
@@ -79,13 +128,6 @@
       "published": "2026-11-17T15:39:13.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "Research Reports",
-      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-      "description": "To access a report, click on the corresponding image below.",
-      "published": "2026-11-17T14:39:46.000Z"
-    },
-    {
       "source": "Ars Technica Tech",
       "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
       "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
@@ -93,53 +135,11 @@
       "published": "2026-11-17T14:00:29.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
-      "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, includ",
-      "published": "2026-11-17T13:10:00.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "Why Immersion Cooling Still Hasn't Gone Mainstream",
       "url": "https://www.datacenterknowledge.com/cooling/why-immersion-cooling-still-hasn-t-gone-mainstream",
       "description": "Immersion cooling offers clear efficiency benefits, but high upfront costs and the need to rethink data center design and operations still limit adoption.",
       "published": "2026-11-17T10:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "The VMware Decision: Why Infrastructure Optionality Matters More Than Cost",
-      "url": "https://www.datacenterknowledge.com/data-center-infrastructure-management/the-vmware-decision-why-infrastructure-optionality-matters-more-than-cost",
-      "description": "Don't judge VMware by price alone; choose infrastructure that preserves flexibility, portability, and future options as workloads and economics change.",
-      "published": "2026-11-16T21:11:12.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-      "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
-      "description": "\n                        The PC sales slump \"more than offset” AI boom gains, shareholders say. \n                    ",
-      "published": "2026-11-16T20:37:47.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Supercomputer Installs Take A Dive In The Second Half Of 2026",
-      "url": "https://www.nextplatform.com/hpc/2026/11/16/supercomputer-installs-take-a-dive-in-the-second-half-of-2026/5310221",
-      "description": "",
-      "published": "2026-11-16T18:59:25.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The open-source movement wants Jensen Huang back",
-      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including El",
-      "published": "2026-11-16T18:38:47.000Z"
-    },
-    {
-      "source": "Import AI",
-      "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
-      "url": "https://jack-clark.net/2026/11/16/import-ai-481-ai-sub-contractors-a-wet-lab-for-ai-and-subterfuge-during-development/",
-      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI systems are getting good at sub-contracting to make themselves better:…AI can now productively spend money to impro",
-      "published": "2026-11-16T14:01:15.000Z"
     }
   ]
 }
