@@ -1,6 +1,83 @@
 {
-  "generatedAt": "2026-11-19T07:05:53.474Z",
+  "generatedAt": "2026-11-20T06:57:08.522Z",
   "articles": [
+    {
+      "source": "Ars Technica Tech",
+      "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+      "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+      "description": "\n                        25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.\n                    ",
+      "published": "2026-11-19T20:29:46.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Crypto firm Avax One drops modular data center initiatives",
+      "url": "https://www.datacenterdynamics.com/en/news/crypto-firm-avax-one-drops-modular-data-center-initiatives/",
+      "description": "Company looks to focus instead on crypto",
+      "published": "2026-11-19T17:16:13.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Everpure revenues surge 51% as AI demand drives more hyperscaler wins",
+      "url": "https://www.datacenterdynamics.com/en/news/everpure-revenues-surge-51-as-ai-demand-drives-more-hyperscaler-wins/",
+      "description": "Full-year forecast elevated yet again after stellar Q3",
+      "published": "2026-11-19T17:06:32.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Nebraska ISP Vistabeam to merge with Mountain West Technologies",
+      "url": "https://www.datacenterdynamics.com/en/news/nebraska-isp-vistabeam-to-merge-with-mountain-west-technologies/",
+      "description": "As company plots $125m broadband investment in Colorado, Nebraska, and Wyoming",
+      "published": "2026-11-19T17:06:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "PDG and Stockland file to develop Sydney data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/pdg-and-stockland-file-to-develop-sydney-data-centers/",
+      "description": "PDG expands into Aus, Stock targets Wetherill Park and looks to expand Kemps Creek project",
+      "published": "2026-11-19T17:00:42.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "ANZ migrates 1.7 petabytes of data to AWS",
+      "url": "https://www.datacenterdynamics.com/en/news/anz-migrates-17-petabytes-of-data-to-aws/",
+      "description": "Aussie multinational bank completes migration to AWS",
+      "published": "2026-11-19T16:56:59.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+      "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life su",
+      "published": "2026-11-19T13:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "A human liver has been kept alive outside the body for a record seven weeks",
+      "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+      "description": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor ",
+      "published": "2026-11-19T12:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "How to tell a cyberattack from a plain old outage",
+      "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+      "description": "\n                        When everything goes down, don’t assume it’s a cyberattack.\n                    ",
+      "published": "2026-11-19T11:13:01.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "What a billion-dollar deal says about the US battery market",
+      "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+      "description": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batter",
+      "published": "2026-11-19T11:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "AI Workloads Hit by Power-Quality Issues at Data Centers",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/ai-workloads-hit-by-power-quality-issues-at-data-centers",
+      "description": "Power quality, not just grid access, is limiting AI growth at US data centers, exposing weaknesses in internal infrastructure and monitoring.",
+      "published": "2026-11-19T10:00:00.000Z"
+    },
     {
       "source": "DataEngineeringWeekly",
       "title": "Thoughts on Verification Engineering in the Agentic SDLC",
@@ -23,41 +100,6 @@
       "published": "2026-11-18T19:33:26.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "How Internet Exchanges stood up to the pressure of the Grand Theft Auto VI launch",
-      "url": "https://www.datacenterdynamics.com/en/analysis/gta-vi-grand-theft-auto-download-internet-exchanges/",
-      "description": "DE-CIX's CEO says his company was prepared for gaming's biggest event",
-      "published": "2026-11-18T17:00:29.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Navigating CEQA: what data center developers need to know before investing in California",
-      "url": "https://www.datacenterdynamics.com/en/opinions/navigating-ceqa-what-data-center-developers-need-to-know-before-investing-in-california/",
-      "description": "For data center developers, CEQA deserves particular attention",
-      "published": "2026-11-18T16:24:59.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "VodafoneThree pairs with Nokia, Nvidia to trial AI-RAN in UK",
-      "url": "https://www.datacenterdynamics.com/en/news/vodafonethree-pairs-with-nokia-nvidia-to-trial-ai-ran-in-uk/",
-      "description": "The trials have been carried out over VodafoneThree's UK network",
-      "published": "2026-11-18T16:22:59.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "FAA grounds HPE Juniper routers after outage halted US flights",
-      "url": "https://www.datacenterdynamics.com/en/news/faa-grounds-hpe-juniper-routers-after-outage-halted-us-flights/",
-      "description": "Network modernization paused following Democrat calls",
-      "published": "2026-11-18T16:16:44.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "IQM and Turkey's TÜBİTAK sign deal for 54-qubit quantum computer",
-      "url": "https://www.datacenterdynamics.com/en/news/iqm-and-turkeys-t%C3%BCbitak-sign-deal-for-54-qubit-quantum-computer/",
-      "description": "System is slated to be integrated in 2027",
-      "published": "2026-11-18T16:02:50.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The AI Hype Index: AI is everywhere",
       "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
@@ -70,13 +112,6 @@
       "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
       "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful no",
       "published": "2026-11-18T13:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "This smell startup says its AI nose is as good as a human’s",
-      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-      "description": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup",
-      "published": "2026-11-18T10:20:30.000Z"
     },
     {
       "source": "Data Center Knowledge",
@@ -100,46 +135,11 @@
       "published": "2026-11-17T22:32:16.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-      "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-      "description": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado explore possible paths to k",
-      "published": "2026-11-17T18:46:47.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Hydropower hit record lows in the US Southwest this summer",
-      "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
-      "description": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely on dams to hold back water, creating reservoirs. The water can be released thro",
-      "published": "2026-11-17T17:52:10.000Z"
-    },
-    {
       "source": "The Next Platform",
       "title": "IBM Links Two Nighthawk r3 Chips To Make A 1,040-Qubit Quantum System",
       "url": "https://www.nextplatform.com/compute/2026/11/17/ibm-links-two-nighthawk-r3-chips-to-make-a-1040-qubit-quantum-system/5310545",
       "description": "",
       "published": "2026-11-17T17:13:12.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Quantinuum Aligns Software Development For Quantum Hardware Generations",
-      "url": "https://www.nextplatform.com/compute/2026/11/17/quantinuum-aligns-software-development-for-quantum-hardware-generations/5310485",
-      "description": "",
-      "published": "2026-11-17T15:39:13.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-      "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
-      "description": "\n                        AI agent takes unapproved actions even when laptop lid is closed and told not to.\n                    ",
-      "published": "2026-11-17T14:00:29.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Why Immersion Cooling Still Hasn't Gone Mainstream",
-      "url": "https://www.datacenterknowledge.com/cooling/why-immersion-cooling-still-hasn-t-gone-mainstream",
-      "description": "Immersion cooling offers clear efficiency benefits, but high upfront costs and the need to rethink data center design and operations still limit adoption.",
-      "published": "2026-11-17T10:00:00.000Z"
     }
   ]
 }
