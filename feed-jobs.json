@@ -1,4 +1,200 @@
 {
-  "generatedAt": "2026-11-20T06:57:08.522Z",
-  "jobs": []
+  "generatedAt": "2026-11-21T06:52:38.067Z",
+  "jobs": [
+    {
+      "title": "AI Automation Engineer (Project Tendering)",
+      "company": "LEAP INTEGRATED PTE. LTD.",
+      "salary": "S$3,500 – S$4,500",
+      "type": "Full Time",
+      "skills": [
+        "Ai",
+        "Collaborate With Engineers",
+        "Computer Engineering"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/1517232c07e8d5352ef4389c0f690609",
+      "posted": "2026-11-21T02:35:48.000Z"
+    },
+    {
+      "title": "AI/ML Engineer",
+      "company": "TEMUS PTE. LTD.",
+      "salary": "S$5,000 – S$9,000",
+      "type": "Permanent",
+      "skills": [
+        "Strength Analysis",
+        "Generative AI Application Development and Deployment",
+        "Reinforcement Learning"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/f97b6d54ab4207baf5a568be1411edfe",
+      "posted": "2026-11-21T00:44:56.000Z"
+    },
+    {
+      "title": "Software Engineer (AI Platform)",
+      "company": "NEUTRON PTE. LTD.",
+      "salary": "S$7,500 – S$9,000",
+      "type": "Contract",
+      "skills": [
+        "Ai",
+        "draft the Requirements",
+        "RESTful API"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/1b20e0bc26435ac3f33389a52c843f77",
+      "posted": "2026-11-20T12:30:10.000Z"
+    },
+    {
+      "title": "Senior Data Scientist (AI & Machine Learning)",
+      "company": "CMC-APAC PRIVATE LIMITED",
+      "salary": "S$7,000 – S$8,500",
+      "type": "Full Time",
+      "skills": [
+        "Supervised Learning",
+        "large datasets",
+        "Data Modelling"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/2a70ddb59084ce22365fabf0365ce37c",
+      "posted": "2026-11-20T12:24:04.000Z"
+    },
+    {
+      "title": "Machine Learning Engineering Manager",
+      "company": "APPLE SOUTH ASIA PTE. LTD.",
+      "salary": "S$13,500 – S$27,000",
+      "type": "Full Time",
+      "skills": [
+        "Mentoring",
+        "Machine Learning",
+        "Code Review"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/b4b4644f5ebffdf320efb25e84707277",
+      "posted": "2026-11-20T09:31:29.000Z"
+    },
+    {
+      "title": "AI ENGINEER",
+      "company": "INVESTMENT COMPANY OF THE PEOPLE'S REPUBLIC OF CHINA (SINGAPORE) PTE LTD",
+      "salary": "S$7,500 – S$15,000",
+      "type": "Permanent",
+      "skills": [
+        "Retrieval-Augmented Generation (RAG)",
+        "Vendor Development",
+        "AI Governance"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/886ad23dc0313c432917a7336677ad12",
+      "posted": "2026-11-20T08:25:22.000Z"
+    },
+    {
+      "title": "Assistant Director, Capability &Industry (AI & Technology Consulting) – 2 years contract",
+      "company": "PERSOL SINGAPORE PTE. LTD.",
+      "salary": "S$8,000 – S$10,000",
+      "type": "Contract",
+      "skills": [
+        "Technology Consulting",
+        "Government",
+        "Training Programme Design"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/cd0e26c8319aab53097ab46ee751225a",
+      "posted": "2026-11-20T07:01:42.000Z"
+    },
+    {
+      "title": "Senior AI Engineer",
+      "company": "THE BURGEON CONSULTING",
+      "salary": "S$7,000 – S$9,000",
+      "type": "Contract",
+      "skills": [
+        "Ground Handling",
+        "Search Engine Technology",
+        "Enterprise Integration Solution"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/bfc90547ae74f9629c1f8571e6bae096",
+      "posted": "2026-11-20T06:29:13.000Z"
+    },
+    {
+      "title": "AI Specialist",
+      "company": "FUGRO SINGAPORE MARINE PTE. LTD.",
+      "salary": "S$6,900 – S$8,100",
+      "type": "Contract",
+      "skills": [
+        "API Development",
+        "Machine Learning",
+        "Workflow Automation"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/e5ee53910939e5f25f7c1205b5a82611",
+      "posted": "2026-11-20T06:24:05.000Z"
+    },
+    {
+      "title": "AI Engineer (Data Quality Lead)",
+      "company": "HUMAN UNION DATA SINGAPORE PTE. LTD.",
+      "salary": "S$16,000 – S$24,000",
+      "type": "Full Time",
+      "skills": [
+        "Quality Standards",
+        "Ai",
+        "Computer Engineering"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/5eda48c97341c0ec68ce87bd04f4c4fa",
+      "posted": "2026-11-20T05:44:37.000Z"
+    },
+    {
+      "title": "AI Engineer (Privacy & Anonymisation)",
+      "company": "HUMAN UNION DATA SINGAPORE PTE. LTD.",
+      "salary": "S$10,700 – S$18,700",
+      "type": "Full Time",
+      "skills": [
+        "Internships",
+        "Statistical Modelling",
+        "Computer Engineering"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/7daa41999743eacae5040be5233599f9",
+      "posted": "2026-11-20T05:40:12.000Z"
+    },
+    {
+      "title": "AI Engineer (QC Automation)",
+      "company": "HUMAN UNION DATA SINGAPORE PTE. LTD.",
+      "salary": "S$10,700 – S$18,700",
+      "type": "Full Time",
+      "skills": [
+        "Internships",
+        "Subject Matter Expert",
+        "Computer Engineering"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/142d9ed2e44615be9f3b050dcd1c8385",
+      "posted": "2026-11-20T05:33:40.000Z"
+    },
+    {
+      "title": "Backend Engineer – Government / AI / GenAI (Python) (1-2 Years Experience) (1 Year Contract)",
+      "company": "RHINO PARTNERS PTE. LTD.",
+      "salary": "S$6,000 – S$9,000",
+      "type": "Contract",
+      "skills": [
+        "Retrieval-Augmented Generation (RAG)",
+        "Internet Services",
+        "Application Security"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/873a86b34dd4913f3eeeedcc537188e9",
+      "posted": "2026-11-20T04:52:13.000Z"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "AVENSYS CONSULTING PTE. LTD.",
+      "salary": "S$8,000 – S$15,000",
+      "type": "Contract",
+      "skills": [
+        "Enterprise Search",
+        "Cloud Monitoring",
+        "Design"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/d8ea6dd8c6cf01ed66e2499a7c11f962",
+      "posted": "2026-11-20T03:08:18.000Z"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "AVENSYS CONSULTING PTE. LTD.",
+      "salary": "S$8,000 – S$15,000",
+      "type": "Contract",
+      "skills": [
+        "Enterprise Search",
+        "Cloud Monitoring",
+        "Design"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/08d7d0420098f7638fa6726d8b938aca",
+      "posted": "2026-11-20T03:00:55.000Z"
+    }
+  ]
 }

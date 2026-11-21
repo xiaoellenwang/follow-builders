@@ -1,47 +1,89 @@
 {
-  "generatedAt": "2026-11-20T06:57:08.522Z",
+  "generatedAt": "2026-11-21T06:52:38.067Z",
   "articles": [
+    {
+      "source": "Ars Technica Tech",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "description": "\n                        Test using prompts with unique, trackable secrets proves that data doesn't stay private.\n                    ",
+      "published": "2026-11-20T20:59:08.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Melbourne Overtakes Sydney in Australia’s Data Center Pipeline",
+      "url": "https://www.datacenterknowledge.com/data-center-site-selection/melbourne-overtakes-sydney-in-australia-s-data-center-pipeline",
+      "description": "Melbourne now leads Australia’s data center pipeline, but power connections will determine how much capacity actually comes online.",
+      "published": "2026-11-20T18:22:22.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "description": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s tim",
+      "published": "2026-11-20T18:15:15.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "UK competition body probes hyperscaler security and cloud lock-in",
+      "url": "https://www.datacenterdynamics.com/en/news/uk-competition-body-probes-hyperscaler-security-and-cloud-lock-in/",
+      "description": "CMA continues digital sovereignty investigation with consultation into IAM and Kubernetes",
+      "published": "2026-11-20T17:09:15.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Microsoft files for 316.7-acre data center campus in Mecklenburg County, Virginia",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-files-for-3167-acre-data-center-campus-in-mecklenburg-county-virginia/",
+      "description": "Aims to build five data center buildings on site",
+      "published": "2026-11-20T17:06:21.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "CyrusOne and KEP top out 48MW data center in Osaka, Japan",
+      "url": "https://www.datacenterdynamics.com/en/news/cyrusone-and-kep-top-out-48mw-data-center-in-osaka-japan/",
+      "description": "First facility under the pair's Japanese joint venture",
+      "published": "2026-11-20T17:03:49.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Apollo, Ardian, Macquarie, and Rai line up to acquire Retelit data centers - report",
+      "url": "https://www.datacenterdynamics.com/en/news/apollo-ardian-macquarie-and-rai-line-up-to-acquire-retelit-data-centers-report/",
+      "description": "Telco looks to offload data center biz as it acquires subsea cable company Sparkle",
+      "published": "2026-11-20T17:01:43.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Tokenomics: Putting a price on intelligence",
+      "url": "https://www.datacenterdynamics.com/en/analysis/tokenomics-putting-a-price-on-intelligence/",
+      "description": "Inside the on-demand consumption model",
+      "published": "2026-11-20T17:00:34.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Casing The HPC And AI-Sci Market With Hyperion Research",
+      "url": "https://www.nextplatform.com/hpc/2026/11/20/casing-the-hpc-and-ai-sci-market-with-hyperion-research/5311388",
+      "description": "",
+      "published": "2026-11-20T15:49:32.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: inside the quest to make our minds immortal",
+      "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to k",
+      "published": "2026-11-20T13:10:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "How GPUs Are Changing the Colocation vs. Private Data Center Debate",
+      "url": "https://www.datacenterknowledge.com/colocation/how-gpus-are-changing-the-colocation-vs-private-data-center-debate",
+      "description": "GPUs are shifting the colo vs. private data center decision toward power, speed, utilization, and sustainability – not just location, scale, and cost.",
+      "published": "2026-11-20T10:00:00.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
       "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
       "description": "\n                        25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.\n                    ",
       "published": "2026-11-19T20:29:46.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Crypto firm Avax One drops modular data center initiatives",
-      "url": "https://www.datacenterdynamics.com/en/news/crypto-firm-avax-one-drops-modular-data-center-initiatives/",
-      "description": "Company looks to focus instead on crypto",
-      "published": "2026-11-19T17:16:13.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Everpure revenues surge 51% as AI demand drives more hyperscaler wins",
-      "url": "https://www.datacenterdynamics.com/en/news/everpure-revenues-surge-51-as-ai-demand-drives-more-hyperscaler-wins/",
-      "description": "Full-year forecast elevated yet again after stellar Q3",
-      "published": "2026-11-19T17:06:32.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Nebraska ISP Vistabeam to merge with Mountain West Technologies",
-      "url": "https://www.datacenterdynamics.com/en/news/nebraska-isp-vistabeam-to-merge-with-mountain-west-technologies/",
-      "description": "As company plots $125m broadband investment in Colorado, Nebraska, and Wyoming",
-      "published": "2026-11-19T17:06:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "PDG and Stockland file to develop Sydney data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/pdg-and-stockland-file-to-develop-sydney-data-centers/",
-      "description": "PDG expands into Aus, Stock targets Wetherill Park and looks to expand Kemps Creek project",
-      "published": "2026-11-19T17:00:42.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "ANZ migrates 1.7 petabytes of data to AWS",
-      "url": "https://www.datacenterdynamics.com/en/news/anz-migrates-17-petabytes-of-data-to-aws/",
-      "description": "Aussie multinational bank completes migration to AWS",
-      "published": "2026-11-19T16:56:59.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -98,48 +140,6 @@
       "url": "https://www.datacenterknowledge.com/energy-power-supply/rethinking-high-voltage-commissioning-for-ai-data-centers",
       "description": "AI data centers are driving more direct high-voltage connections, making specialist HV commissioning essential for safe, reliable, and on-schedule delivery.",
       "published": "2026-11-18T19:33:26.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The AI Hype Index: AI is everywhere",
-      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-      "description": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to",
-      "published": "2026-11-18T14:42:44.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: AI learns to smell and hydropower struggles",
-      "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful no",
-      "published": "2026-11-18T13:10:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Public Pushback Complicates Data Center Buildouts",
-      "url": "https://www.datacenterknowledge.com/data-center-construction/public-pushback-complicates-data-center-buildouts",
-      "description": "Developers face closer scrutiny of utility costs, water use, and local benefits as community concerns complicate approvals and investment decisions.",
-      "published": "2026-11-18T10:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Nvidia Breaks Revenue And Profit Records, And Will Keep Doing It",
-      "url": "https://www.nextplatform.com/compute/2026/11/18/nvidia-breaks-revenue-and-profit-records-and-will-keep-doing-it/5310669",
-      "description": "",
-      "published": "2026-11-18T06:06:35.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
-      "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
-      "description": "\n                        Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.\n                    ",
-      "published": "2026-11-17T22:32:16.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "IBM Links Two Nighthawk r3 Chips To Make A 1,040-Qubit Quantum System",
-      "url": "https://www.nextplatform.com/compute/2026/11/17/ibm-links-two-nighthawk-r3-chips-to-make-a-1040-qubit-quantum-system/5310545",
-      "description": "",
-      "published": "2026-11-17T17:13:12.000Z"
     }
   ]
 }
