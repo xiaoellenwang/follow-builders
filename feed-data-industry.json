@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-11-21T06:52:38.067Z",
+  "generatedAt": "2026-11-22T06:26:56.185Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: The hidden efficiency gap in data center containment",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-hidden-efficiency-gap-in-data-center-containment/",
+      "description": "How a small seam above the hot aisle or missing roof over the cold aisle has been covertly inflating cooling costs, and how to close it without breaking fire code",
+      "published": "2026-11-21T16:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Securing the turbine is only half the battle: the emissions monitoring path to data center power",
+      "url": "https://www.datacenterdynamics.com/en/opinions/securing-the-turbine-is-only-half-the-battle-the-emissions-monitoring-path-to-data-center-power/",
+      "description": "Demonstrating compliance is what turns it into power",
+      "published": "2026-11-21T11:00:28.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
@@ -42,20 +56,6 @@
       "url": "https://www.datacenterdynamics.com/en/news/cyrusone-and-kep-top-out-48mw-data-center-in-osaka-japan/",
       "description": "First facility under the pair's Japanese joint venture",
       "published": "2026-11-20T17:03:49.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Apollo, Ardian, Macquarie, and Rai line up to acquire Retelit data centers - report",
-      "url": "https://www.datacenterdynamics.com/en/news/apollo-ardian-macquarie-and-rai-line-up-to-acquire-retelit-data-centers-report/",
-      "description": "Telco looks to offload data center biz as it acquires subsea cable company Sparkle",
-      "published": "2026-11-20T17:01:43.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Tokenomics: Putting a price on intelligence",
-      "url": "https://www.datacenterdynamics.com/en/analysis/tokenomics-putting-a-price-on-intelligence/",
-      "description": "Inside the on-demand consumption model",
-      "published": "2026-11-20T17:00:34.000Z"
     },
     {
       "source": "The Next Platform",
@@ -119,27 +119,6 @@
       "url": "https://www.datacenterknowledge.com/energy-power-supply/ai-workloads-hit-by-power-quality-issues-at-data-centers",
       "description": "Power quality, not just grid access, is limiting AI growth at US data centers, exposing weaknesses in internal infrastructure and monitoring.",
       "published": "2026-11-19T10:00:00.000Z"
-    },
-    {
-      "source": "DataEngineeringWeekly",
-      "title": "Thoughts on Verification Engineering in the Agentic SDLC",
-      "url": "https://www.dataengineeringweekly.com/p/thoughts-on-verification-engineering",
-      "description": "When AI accelerates code manufacturing, the software supply chain bottleneck shifts from writing code to building the feedback loop that proves it works.",
-      "published": "2026-11-18T21:59:55.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Nvidia AI Surge Comes with $118 Billion in Guarantees",
-      "url": "https://www.datacenterknowledge.com/data-center-chips/nvidia-ai-surge-comes-with-118-billion-in-guarantees",
-      "description": "The chipmaker is committing $390 billion to suppliers while helping customers finance powered facilities for AI deployments.",
-      "published": "2026-11-18T19:45:36.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Rethinking High-Voltage Commissioning for AI Data Centers",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/rethinking-high-voltage-commissioning-for-ai-data-centers",
-      "description": "AI data centers are driving more direct high-voltage connections, making specialist HV commissioning essential for safe, reliable, and on-schedule delivery.",
-      "published": "2026-11-18T19:33:26.000Z"
     }
   ]
 }
