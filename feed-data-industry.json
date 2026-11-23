@@ -1,6 +1,27 @@
 {
-  "generatedAt": "2026-11-22T06:26:56.185Z",
+  "generatedAt": "2026-11-23T07:17:24.440Z",
   "articles": [
+    {
+      "source": "DataEngineeringWeekly",
+      "title": "Data Engineering Weekly #297",
+      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-297",
+      "description": "The Weekly Data Engineering Newsletter",
+      "published": "2026-11-23T03:27:26.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Why the next phase of the data center buildout runs on light",
+      "url": "https://www.datacenterdynamics.com/en/opinions/why-the-next-phase-of-the-data-center-buildout-runs-on-light/",
+      "description": "Copper is running out of reach",
+      "published": "2026-11-22T15:00:32.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Britain is hosting the AI boom, not owning it",
+      "url": "https://www.datacenterdynamics.com/en/opinions/britain-is-hosting-the-ai-boom-not-owning-it/",
+      "description": "Is there a flaw in the logic",
+      "published": "2026-11-22T11:00:43.000Z"
+    },
     {
       "source": "Data Center Dynamics",
       "title": "Sponsored: The hidden efficiency gap in data center containment",
@@ -44,20 +65,6 @@
       "published": "2026-11-20T17:09:15.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "Microsoft files for 316.7-acre data center campus in Mecklenburg County, Virginia",
-      "url": "https://www.datacenterdynamics.com/en/news/microsoft-files-for-3167-acre-data-center-campus-in-mecklenburg-county-virginia/",
-      "description": "Aims to build five data center buildings on site",
-      "published": "2026-11-20T17:06:21.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "CyrusOne and KEP top out 48MW data center in Osaka, Japan",
-      "url": "https://www.datacenterdynamics.com/en/news/cyrusone-and-kep-top-out-48mw-data-center-in-osaka-japan/",
-      "description": "First facility under the pair's Japanese joint venture",
-      "published": "2026-11-20T17:03:49.000Z"
-    },
-    {
       "source": "The Next Platform",
       "title": "Casing The HPC And AI-Sci Market With Hyperion Research",
       "url": "https://www.nextplatform.com/hpc/2026/11/20/casing-the-hpc-and-ai-sci-market-with-hyperion-research/5311388",
@@ -77,48 +84,6 @@
       "url": "https://www.datacenterknowledge.com/colocation/how-gpus-are-changing-the-colocation-vs-private-data-center-debate",
       "description": "GPUs are shifting the colo vs. private data center decision toward power, speed, utilization, and sustainability – not just location, scale, and cost.",
       "published": "2026-11-20T10:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
-      "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
-      "description": "\n                        25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.\n                    ",
-      "published": "2026-11-19T20:29:46.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-      "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life su",
-      "published": "2026-11-19T13:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "A human liver has been kept alive outside the body for a record seven weeks",
-      "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
-      "description": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor ",
-      "published": "2026-11-19T12:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "How to tell a cyberattack from a plain old outage",
-      "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
-      "description": "\n                        When everything goes down, don’t assume it’s a cyberattack.\n                    ",
-      "published": "2026-11-19T11:13:01.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "What a billion-dollar deal says about the US battery market",
-      "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
-      "description": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batter",
-      "published": "2026-11-19T11:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "AI Workloads Hit by Power-Quality Issues at Data Centers",
-      "url": "https://www.datacenterknowledge.com/energy-power-supply/ai-workloads-hit-by-power-quality-issues-at-data-centers",
-      "description": "Power quality, not just grid access, is limiting AI growth at US data centers, exposing weaknesses in internal infrastructure and monitoring.",
-      "published": "2026-11-19T10:00:00.000Z"
     }
   ]
 }

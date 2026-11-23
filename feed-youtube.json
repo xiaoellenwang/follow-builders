@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-11-22T06:26:56.185Z",
+  "generatedAt": "2026-11-23T07:17:24.440Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "The Best Marketers Are Allergic To AI",
+      "url": "https://www.youtube.com/watch?v=52zX-vp0Ags",
+      "published": "2026-11-22T23:00:27.000Z",
+      "description": "Why Hector Serrano (Former Head of Content, Wispr Flow) believes the best marketers are allergic to AI"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Why “everyone’s a builder” isn’t working | A reality check with Sherif Mansour",
+      "url": "https://www.youtube.com/watch?v=hRtmV1mCBSE",
+      "published": "2026-11-22T13:30:32.000Z",
+      "description": "Sherif Mansour is Head of AI and Product Craft at Atlassian (the company behind Jira and Confluence), where he has spent 17 years building and scaling some of the most successful enterprise products in history. He joined Atlassian as its first PM on Confluence, eventually becoming its first Distingu"
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "The Genius Of Wispr Flow's UGC Model",
@@ -21,13 +35,6 @@
       "url": "https://www.youtube.com/watch?v=HiDkG7MYSgg",
       "published": "2026-11-20T23:00:13.000Z",
       "description": "The PM skill that you won't find in any job description | Tulsee Doshi (Head of Product, Gemini)"
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "title": "Meta’s Muse: Inside the launch of the most successful consumer product this year | Mona Sarantakos",
-      "url": "https://www.youtube.com/watch?v=WY0cdD4gNoQ",
-      "published": "2026-11-15T13:30:37.000Z",
-      "description": "Muse is the #1 app in the App Store and arguably the fastest-growing AI consumer product of all time. Mona Sarantakos has led product on it since day one. She’s VP of Product at Meta Superintelligence Labs and a 10-year Meta veteran with over 20 years of experience as a PM. This is her first podcast"
     }
   ]
 }
