@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-11-23T07:17:24.440Z",
+  "generatedAt": "2026-11-24T09:39:49.797Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Why Teams Still Need Junior Workers",
+      "url": "https://www.youtube.com/watch?v=HGG7dgmcWHg",
+      "published": "2026-11-24T02:00:36.000Z",
+      "description": "Everyone says AI means you can stop hiring juniors, but Atlassian's Sherif Mansour thinks that's backwards"
+    },
+    {
+      "channel": "Lenny's Podcast",
+      "title": "The Surprising Muse Use Case",
+      "url": "https://www.youtube.com/watch?v=ivjraoHQb4o",
+      "published": "2026-11-23T14:00:31.000Z",
+      "description": "Muse's top use case is one nobody on the team saw coming | Mona Sarantakos (Head of Product, Muse)"
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "The Best Marketers Are Allergic To AI",
@@ -10,7 +24,7 @@
     },
     {
       "channel": "Lenny's Podcast",
-      "title": "Why “everyone’s a builder” isn’t working | A reality check with Sherif Mansour",
+      "title": "Why “everyone becoming a builder” isn't working",
       "url": "https://www.youtube.com/watch?v=hRtmV1mCBSE",
       "published": "2026-11-22T13:30:32.000Z",
       "description": "Sherif Mansour is Head of AI and Product Craft at Atlassian (the company behind Jira and Confluence), where he has spent 17 years building and scaling some of the most successful enterprise products in history. He joined Atlassian as its first PM on Confluence, eventually becoming its first Distingu"
