@@ -1,19 +1,82 @@
 {
-  "generatedAt": "2026-11-24T09:39:49.797Z",
+  "generatedAt": "2026-11-25T08:11:58.200Z",
   "articles": [
     {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: The technician’s AI superpower",
-      "url": "https://www.datacenterdynamics.com/en/marketwatch/the-technicians-ai-superpower/",
-      "description": "As AI factories grow more complex, AI-driven alarm management and remote expertise are helping operators cut through the noise and make faster, smarter service decisions",
-      "published": "2026-11-24T08:00:00.000Z"
+      "source": "The Next Platform",
+      "title": "NCSA Gets Supercomputing Capacity With $334 Million Schmidt Sciences Grant",
+      "url": "https://www.nextplatform.com/hpc/2026/11/24/ncsa-gets-supercomputing-capacity-with-334-million-schmidt-sciences-grant/5311971",
+      "description": "",
+      "published": "2026-11-24T18:07:53.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Sponsored: Bitera completes SOC 2 Type II Audit, strengthening governance to international standards",
-      "url": "https://www.datacenterdynamics.com/en/product-news/bitera-completes-soc-2-type-ii-audit-strengthening-governance-to-international-standards/",
-      "description": "The carrier-neutral data center in Jakarta’s Kuningan district has also maintained 100 percent power availability since opening in 2024",
-      "published": "2026-11-24T08:00:00.000Z"
+      "title": "Vantage drops plans for Trident data center after Colorado's Aurora City passes moratorium",
+      "url": "https://www.datacenterdynamics.com/en/news/vantage-drops-plans-for-trident-data-center-after-colorados-aurora-city-passes-moratorium/",
+      "description": "Would have been the largest data center in Colorado",
+      "published": "2026-11-24T16:57:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "ABB to acquire cooling fan company Ziehl-Abegg for $2.65bn",
+      "url": "https://www.datacenterdynamics.com/en/news/ziehl-abegg-is-a-growing-technology-leader-with-a-compelling-portfolio-and-a-significant-presence-in-some-of-the-worlds-most-dynamic-markets-at-the-heart-of-our-success-are-our-employees-whose-expertise-dedication-and-innovative-spirit-have-made-us/",
+      "description": "Fan business serves data centers and other HVAC markets",
+      "published": "2026-11-24T16:20:34.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "US gov’t adds Singapore’s Megaspeed and subsidiaries to export block list",
+      "url": "https://www.datacenterdynamics.com/en/news/us-govt-adds-singapores-megaspeed-and-subsidiaries-to-export-block-list/",
+      "description": "Follows reinstatement of Nvidia CEO who admitted earlier this month to an affair with former Megaspeed exec",
+      "published": "2026-11-24T16:00:41.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: From rack to data hall: The practical path to 800VDC",
+      "url": "https://www.datacenterdynamics.com/en/opinions/from-rack-to-data-hall-the-practical-path-to-800vdc/",
+      "description": "AI density pushes rack-level power delivery toward its physical limits. The 800VDC transition begins with a practical sidecar architecture, but its success depends on the complete power system around it",
+      "published": "2026-11-24T16:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "American Tower confirms $525m Dish settlement",
+      "url": "https://www.datacenterdynamics.com/en/news/american-tower-confirms-525m-dish-settlement/",
+      "description": "Dish has to make the payment by end of this year",
+      "published": "2026-11-24T15:51:58.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "description": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than t",
+      "published": "2026-11-24T15:15:16.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: AI’s gas power boom and a consciousness reality check",
+      "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to t",
+      "published": "2026-11-24T13:10:00.000Z"
+    },
+    {
+      "source": "Ars Technica Tech",
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "description": "\n                        The Cairn AI framework is proving to be a boon for defenders and attackers.\n                    ",
+      "published": "2026-11-24T12:30:05.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Data centers are getting their own natural gas power plants",
+      "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+      "description": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI b",
+      "published": "2026-11-24T11:00:00.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Emerging Alternatives to UPS in Data Centers",
+      "url": "https://www.datacenterknowledge.com/uptime/emerging-alternatives-to-ups-in-data-centers",
+      "description": "Data centers are exploring BESS, rack batteries, buffer modules, and microgrids as UPS alternatives, with hybrid backup designs often the most practical path.",
+      "published": "2026-11-24T10:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -21,27 +84,6 @@
       "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
       "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we app",
       "published": "2026-11-23T17:36:08.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Apollo and Goldman Sachs lead $44bn SpaceX GPU financing deal",
-      "url": "https://www.datacenterdynamics.com/en/news/apollo-and-goldman-sachs-lead-44bn-spacex-gpu-financing-deal/",
-      "description": "Funds will be used to purchase Nvidia Vera Rubin chips",
-      "published": "2026-11-23T17:14:29.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Cogent sells three data centers to I Squared Capital's Saragon",
-      "url": "https://www.datacenterdynamics.com/en/news/cogent-sells-three-data-centers-to-i-squared-capitals-saragon/",
-      "description": "Fiber firm sells facilities in Omaha, Tacoma, and Cheyenne for $35 million",
-      "published": "2026-11-23T17:09:13.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "AI server OEMs hiking prices by 45% as memory shortage bites - report",
-      "url": "https://www.datacenterdynamics.com/en/news/ai-server-oems-hiking-prices-by-45-as-memory-shortage-bites-report/",
-      "description": "Hardware supply constraint pain passed onto customers",
-      "published": "2026-11-23T17:08:00.000Z"
     },
     {
       "source": "The Next Platform",
@@ -65,24 +107,10 @@
       "published": "2026-11-23T13:10:00.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
-      "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
-      "description": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A num",
-      "published": "2026-11-23T11:00:00.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "Study Ties 403 US Data Centers to 25.7M Metric Tons of CO2",
       "url": "https://www.datacenterknowledge.com/sustainability/study-ties-403-us-data-centers-to-25-7m-metric-tons-of-co2",
       "description": "A Harvard-led study found that 403 US hyperscale data centers were tied to 25.7 million metric tons of CO2, with emissions largely driven by regional power grids.",
-      "published": "2026-11-23T10:00:00.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Emerging Alternatives to UPS in Data Centers",
-      "url": "https://www.datacenterknowledge.com/uptime/emerging-alternatives-to-ups-in-data-centers",
-      "description": "Data centers are exploring BESS, rack batteries, buffer modules, and microgrids as UPS alternatives, with hybrid backup designs often the most practical path.",
       "published": "2026-11-23T10:00:00.000Z"
     },
     {

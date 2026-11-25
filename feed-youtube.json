@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-11-24T09:39:49.797Z",
+  "generatedAt": "2026-11-25T08:11:58.200Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "How To Build For Future Models",
+      "url": "https://www.youtube.com/watch?v=iYwlU_nVg-M",
+      "published": "2026-11-24T14:00:26.000Z",
+      "description": "The \"60-20-20 rule\" for deciding how far ahead of the models you should be building | Tulsee Doshi (Head of Product, Gemini)"
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "Why Teams Still Need Junior Workers",
