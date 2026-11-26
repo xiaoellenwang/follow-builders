@@ -1,54 +1,89 @@
 {
-  "generatedAt": "2026-11-25T08:11:58.200Z",
+  "generatedAt": "2026-11-26T07:58:59.839Z",
   "articles": [
+    {
+      "source": "Ars Technica Tech",
+      "title": "Backblaze explains why it's sharing customer information with advertisers",
+      "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+      "description": "\n                        Backblaze tells Ars it won't share users' backup, storage files with advertisers. \n                    ",
+      "published": "2026-11-25T18:38:29.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "GDS Holdings posts 10 percent net revenue increase YoY, revises down capex expectations",
+      "url": "https://www.datacenterdynamics.com/en/news/gds-holdings-posts-10-percent-net-revenue-increase-yoy-revises-down-capex-expectations/",
+      "description": "Says it is reacting to changing market conditions",
+      "published": "2026-11-25T17:00:54.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Panthalassa, floating data centers, and the power of the ocean",
+      "url": "https://www.datacenterdynamics.com/en/analysis/panthalassa-floating-data-centers-and-the-power-of-the-ocean/",
+      "description": "Peter Thiel-backed startup has big plans to put compute at sea",
+      "published": "2026-11-25T17:00:42.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "How data centers are driving a US natural-gas boom",
+      "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+      "description": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right. Sure, it’s technically possible to meet the world’s rising electricity demand with other powe",
+      "published": "2026-11-25T17:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Trio of Japanese real estate developers invest in 15MW Hokkaido data center development",
+      "url": "https://www.datacenterdynamics.com/en/news/trio-of-japanese-real-estate-developers-invest-in-15mw-hokkaido-data-center-development/",
+      "description": "Daibiru, Sankei Building, and Osaka Gas Urban Development take a dip into data centers",
+      "published": "2026-11-25T16:53:02.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Arque Systems launches €35m Q-STAR.NRW initiative to develop and integrate 200 qubit quantum computer",
+      "url": "https://www.datacenterdynamics.com/en/news/arque-systems-launches-35m-q-starnrw-initiative-to-develop-and-integrate-200-qubit-quantum-computer/",
+      "description": "Program run in partnership with Germany’s Forschungszentrum Jülich Supercomputing Center",
+      "published": "2026-11-25T16:47:39.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Ohio regulators approve up to 800MW gas plant set to power EdgeConneX data center in Pickaway County",
+      "url": "https://www.datacenterdynamics.com/en/news/ohio-regulators-approve-up-to-800mw-gas-plant-set-to-power-edgeconnex-data-center-in-pickaway-county/",
+      "description": "Project approved despite local opposition",
+      "published": "2026-11-25T16:20:00.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "Dell Is Finally Making Money On GenAI As Traditional Servers Boom",
+      "url": "https://www.nextplatform.com/compute/2026/11/25/dell-is-finally-making-money-on-genai-as-traditional-servers-boom/5312184",
+      "description": "",
+      "published": "2026-11-25T15:58:07.000Z"
+    },
+    {
+      "source": "Data Center Knowledge",
+      "title": "Google, Blue Origin Plan Orbital AI Compute Test",
+      "url": "https://www.datacenterknowledge.com/edge-data-centers/google-blue-origin-plan-orbital-ai-compute-test",
+      "description": "The 2029 mission will deploy rack-scale computing satellites, with cooling, autonomous recovery, and hardware longevity likely to determine whether orbital infrastructure can support commercial workloads.",
+      "published": "2026-11-25T15:54:23.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: AI swamping open records, and firefighting for permafrost",
+      "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors&#8217; interest in public records. Over the last few years, venture-backed",
+      "published": "2026-11-25T13:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "AI is straining America’s open records systems",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "description": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1",
+      "published": "2026-11-25T10:00:00.000Z"
+    },
     {
       "source": "The Next Platform",
       "title": "NCSA Gets Supercomputing Capacity With $334 Million Schmidt Sciences Grant",
       "url": "https://www.nextplatform.com/hpc/2026/11/24/ncsa-gets-supercomputing-capacity-with-334-million-schmidt-sciences-grant/5311971",
       "description": "",
       "published": "2026-11-24T18:07:53.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Vantage drops plans for Trident data center after Colorado's Aurora City passes moratorium",
-      "url": "https://www.datacenterdynamics.com/en/news/vantage-drops-plans-for-trident-data-center-after-colorados-aurora-city-passes-moratorium/",
-      "description": "Would have been the largest data center in Colorado",
-      "published": "2026-11-24T16:57:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "ABB to acquire cooling fan company Ziehl-Abegg for $2.65bn",
-      "url": "https://www.datacenterdynamics.com/en/news/ziehl-abegg-is-a-growing-technology-leader-with-a-compelling-portfolio-and-a-significant-presence-in-some-of-the-worlds-most-dynamic-markets-at-the-heart-of-our-success-are-our-employees-whose-expertise-dedication-and-innovative-spirit-have-made-us/",
-      "description": "Fan business serves data centers and other HVAC markets",
-      "published": "2026-11-24T16:20:34.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "US gov’t adds Singapore’s Megaspeed and subsidiaries to export block list",
-      "url": "https://www.datacenterdynamics.com/en/news/us-govt-adds-singapores-megaspeed-and-subsidiaries-to-export-block-list/",
-      "description": "Follows reinstatement of Nvidia CEO who admitted earlier this month to an affair with former Megaspeed exec",
-      "published": "2026-11-24T16:00:41.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Sponsored: From rack to data hall: The practical path to 800VDC",
-      "url": "https://www.datacenterdynamics.com/en/opinions/from-rack-to-data-hall-the-practical-path-to-800vdc/",
-      "description": "AI density pushes rack-level power delivery toward its physical limits. The 800VDC transition begins with a practical sidecar architecture, but its success depends on the complete power system around it",
-      "published": "2026-11-24T16:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "American Tower confirms $525m Dish settlement",
-      "url": "https://www.datacenterdynamics.com/en/news/american-tower-confirms-525m-dish-settlement/",
-      "description": "Dish has to make the payment by end of this year",
-      "published": "2026-11-24T15:51:58.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Raising the stakes for enterprise networks with AI modernization",
-      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-      "description": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than t",
-      "published": "2026-11-24T15:15:16.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -79,13 +114,6 @@
       "published": "2026-11-24T10:00:00.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we app",
-      "published": "2026-11-23T17:36:08.000Z"
-    },
-    {
       "source": "The Next Platform",
       "title": "Jensen Huang Back In Charge Of Nvidia",
       "url": "https://www.nextplatform.com/ai/2026/11/23/jensen-huang-back-in-charge-of-nvidia/5311691",
@@ -100,25 +128,11 @@
       "published": "2026-11-23T14:11:17.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
-      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improvi",
-      "published": "2026-11-23T13:10:00.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "Study Ties 403 US Data Centers to 25.7M Metric Tons of CO2",
       "url": "https://www.datacenterknowledge.com/sustainability/study-ties-403-us-data-centers-to-25-7m-metric-tons-of-co2",
       "description": "A Harvard-led study found that 403 US hyperscale data centers were tied to 25.7 million metric tons of CO2, with emissions largely driven by regional power grids.",
       "published": "2026-11-23T10:00:00.000Z"
-    },
-    {
-      "source": "DataEngineeringWeekly",
-      "title": "Data Engineering Weekly #297",
-      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-297",
-      "description": "The Weekly Data Engineering Newsletter",
-      "published": "2026-11-23T03:27:26.000Z"
     }
   ]
 }

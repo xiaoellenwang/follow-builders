@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-11-25T08:11:58.200Z",
+  "generatedAt": "2026-11-26T07:58:59.839Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Why Muse Has Jolly",
+      "url": "https://www.youtube.com/watch?v=lTOV04EGkOA",
+      "published": "2026-11-25T14:00:29.000Z",
+      "description": "The story behind Muse's iconic character, Jolly | Mona Sarantakos (Head of Product, Muse)"
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "How To Build For Future Models",

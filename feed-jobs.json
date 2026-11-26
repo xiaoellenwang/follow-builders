@@ -1,4 +1,200 @@
 {
-  "generatedAt": "2026-11-25T08:11:58.200Z",
-  "jobs": []
+  "generatedAt": "2026-11-26T07:58:59.839Z",
+  "jobs": [
+    {
+      "title": "Site Reliability Engineer - Applied Machine Learning Engine (Singapore)",
+      "company": "BYTEDANCE PTE. LTD.",
+      "salary": "S$11,250 – S$22,500",
+      "type": "Full Time",
+      "skills": [
+        "TensorFlow",
+        "Machine Learning",
+        "Troubleshooting"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/fb56aa2ecbe9e593141d4fa3e30067b8",
+      "posted": "2026-11-26T07:56:48.000Z"
+    },
+    {
+      "title": "Site Reliability Engineer, Applied Machine Learning Engine (Singapore)",
+      "company": "BYTEDANCE PTE. LTD.",
+      "salary": "S$6,500 – S$13,000",
+      "type": "Full Time",
+      "skills": [
+        "TensorFlow",
+        "Machine Learning",
+        "Troubleshooting"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/83ebcc1ad763be97538b49eb150f8caf",
+      "posted": "2026-11-26T07:55:17.000Z"
+    },
+    {
+      "title": "Research Scientist - Large-Scale Machine Learning Systems (SysML) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "company": "BYTEDANCE PTE. LTD.",
+      "salary": "S$11,250 – S$22,500",
+      "type": "Full Time",
+      "skills": [
+        "Collaborative Filtering",
+        "Onboarding",
+        "Advertising"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/21cb6f219fb27a051fb8ca4160395b69",
+      "posted": "2026-11-26T07:50:03.000Z"
+    },
+    {
+      "title": "Research Scientist - Large-Scale Machine Learning Systems (SysML) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "company": "BYTEDANCE PTE. LTD.",
+      "salary": "S$6,500 – S$13,000",
+      "type": "Full Time",
+      "skills": [
+        "Collaborative Filtering",
+        "Onboarding",
+        "Advertising"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/5672e88aac60418b15aa87098a1addb8",
+      "posted": "2026-11-26T07:48:51.000Z"
+    },
+    {
+      "title": "Machine Learning Backend Engineer Graduate (AML MLdev) - 2027 Start",
+      "company": "BYTEDANCE PTE. LTD.",
+      "salary": "S$6,500 – S$13,000",
+      "type": "Full Time",
+      "skills": [
+        "Architectural Modeling",
+        "Onboarding",
+        "Microsoft Business Intelligence"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/f087e893d13206e955b3d7cbbb60a574",
+      "posted": "2026-11-26T07:36:58.000Z"
+    },
+    {
+      "title": "Senior AI Engineer",
+      "company": "SINGAPORE TELECOMMUNICATIONS LIMITED",
+      "salary": "S$8,500 – S$12,000",
+      "type": "Full Time",
+      "skills": [
+        "Model Serving",
+        "Enterprise IT Infrastructure",
+        "Security"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/19286e7712a9d69748f9617bd166b7dc",
+      "posted": "2026-11-26T07:34:41.000Z"
+    },
+    {
+      "title": "Algorithm Engineer (Machine Learning / Search & Recommendation)",
+      "company": "DADACONSULTANTS PTE. LTD.",
+      "salary": "S$8,000 – S$20,000",
+      "type": "Full Time",
+      "skills": [
+        "TensorFlow",
+        "Machine Learning",
+        "Advertising"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/1caff6a6c7ffb70002e1c185c3018cf3",
+      "posted": "2026-11-26T07:17:35.000Z"
+    },
+    {
+      "title": "AI Chief Data Scientist",
+      "company": "MUST TECHNOLOGY PTE. LTD.",
+      "salary": "S$8,500 – S$10,000",
+      "type": "Full Time",
+      "skills": [
+        "SCMS",
+        "Machine Learning",
+        "Cross Functional Team Building"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/244a1f30bff3679dbbb97708ffe31447",
+      "posted": "2026-11-26T07:09:56.000Z"
+    },
+    {
+      "title": "AI Engineer Intern",
+      "company": "BLACK SESAME TECHNOLOGIES (SINGAPORE) PTE. LTD.",
+      "salary": "S$1,300 – S$1,300",
+      "type": "Internship/Attachment",
+      "skills": [
+        "Communication",
+        "AI Content Generation for Visual Art Images",
+        "Image Processing"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/803516b5ec21858bc46c6c6cc63bdf89",
+      "posted": "2026-11-26T06:57:10.000Z"
+    },
+    {
+      "title": "Machine Learning Engineer - Search Recommendation (E-commerce) (ByteDance Singapore)",
+      "company": "BYTEDANCE PTE. LTD.",
+      "salary": "S$11,250 – S$22,500",
+      "type": "Full Time",
+      "skills": [
+        "Machine Learning",
+        "Data Structures",
+        "Natural Language Processing"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/6f6a451a246888190bdb7973d7d18768",
+      "posted": "2026-11-26T06:54:13.000Z"
+    },
+    {
+      "title": "Research Assistant (Systems for AI - LLM Serving)",
+      "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
+      "salary": "S$3,300 – S$6,600",
+      "type": "Contract",
+      "skills": [
+        "Teamwork",
+        "Electronics Engineering",
+        "Computer Engineering"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/fde909c7c33312c6279eb98f15b4f52a",
+      "posted": "2026-11-26T06:53:54.000Z"
+    },
+    {
+      "title": "Research Fellow (Computer Vision/Machine Learning)",
+      "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
+      "salary": "S$4,000 – S$8,000",
+      "type": "Contract",
+      "skills": [
+        "Machine Learning",
+        "International Conferences",
+        "Research Methods"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/a54ae885832ecfce2b2316a732211a3b",
+      "posted": "2026-11-26T06:36:15.000Z"
+    },
+    {
+      "title": "Full‑Stack Applied AI Engineer (Agentic AI)",
+      "company": "FLINTEX CONSULTING PTE. LTD.",
+      "salary": "S$6,000 – S$8,500",
+      "type": "Contract",
+      "skills": [
+        "Azure AI",
+        "Security",
+        "DevOps"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/779c85cd814ef0e3b864f62a6b7b3d9f",
+      "posted": "2026-11-26T06:23:26.000Z"
+    },
+    {
+      "title": "Data Scientist (Machine Learning)",
+      "company": "FLINTEX CONSULTING PTE. LTD.",
+      "salary": "S$6,000 – S$8,500",
+      "type": "Contract",
+      "skills": [
+        "Dashboards",
+        "Validation",
+        "Data Pipeline"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/056e8da3f4cc0b4d74a3dfb4e7b96ba4",
+      "posted": "2026-11-26T05:51:34.000Z"
+    },
+    {
+      "title": "AI Specialist",
+      "company": "FLINTEX CONSULTING PTE. LTD.",
+      "salary": "S$6,000 – S$8,500",
+      "type": "Contract",
+      "skills": [
+        "Retrieval-Augmented Generation (RAG)",
+        "Design",
+        "Enterprise Integration Solution"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/704c0df21494a81d7a10c2418cb3e196",
+      "posted": "2026-11-26T05:51:10.000Z"
+    }
+  ]
 }
