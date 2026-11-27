@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-11-26T07:58:59.839Z",
+  "generatedAt": "2026-11-27T08:01:14.031Z",
   "videos": [
+    {
+      "channel": "Lenny's Podcast",
+      "title": "Why \"Everyone's An AI Builder\" Is A Myth",
+      "url": "https://www.youtube.com/watch?v=H1gRkTkEo7I",
+      "published": "2026-11-26T13:45:17.000Z",
+      "description": "The case for keeping distinct roles in your team | Sherif Mansour (Head of Product and AI, Atlassian)"
+    },
     {
       "channel": "Lenny's Podcast",
       "title": "Why Muse Has Jolly",

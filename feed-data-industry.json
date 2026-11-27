@@ -1,6 +1,55 @@
 {
-  "generatedAt": "2026-11-26T07:58:59.839Z",
+  "generatedAt": "2026-11-27T08:01:14.031Z",
   "articles": [
+    {
+      "source": "Data Center Dynamics",
+      "title": "Nvidia backs startup developing chiller-free data center cooling system",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-backs-startup-developing-chiller-free-data-center-cooling-system/",
+      "description": "Y Combinator venture Madrone secures $500k seed funding",
+      "published": "2026-11-26T17:07:51.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "500MW data center project planned outside San Diego, California",
+      "url": "https://www.datacenterdynamics.com/en/news/500mw-data-center-project-planned-outside-san-diego-california/",
+      "description": "Spanish renewable firm Ignis behind project",
+      "published": "2026-11-26T17:03:28.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Modern data center cooling",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/modern-data-center-cooling/",
+      "description": "Everything you need to know about liquid cooling",
+      "published": "2026-11-26T16:20:41.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "Sponsored: From pipeline to power: what will determine which data centre projects get built?",
+      "url": "https://www.datacenterdynamics.com/en/opinions/from-pipeline-to-power-what-will-determine-which-data-centre-projects-get-built/",
+      "description": "The data centre pipeline is booming, but proposed capacity does not automatically translate into electricity demand. Understanding which projects are credible, and which can realistically secure power, is becoming essential",
+      "published": "2026-11-26T16:00:00.000Z"
+    },
+    {
+      "source": "Data Center Dynamics",
+      "title": "KT Cloud signs 60MW lease at data center in Ansan, South Korea",
+      "url": "https://www.datacenterdynamics.com/en/news/kt-cloud-signs-60mw-lease-at-data-center-in-ansan-south-korea/",
+      "description": "Data center being developed by Keppel Ltd",
+      "published": "2026-11-26T15:00:41.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+      "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The next generation of bionic hands is here—and they can feel Avi Davidson lost his left hand as a teenager. Since then, he&#8217;s cycled through a f",
+      "published": "2026-11-26T13:10:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The next generation of bionic hands is here—and they can feel",
+      "url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+      "description": "Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. But his latest is different—it’s wired up to nerves in the upper part of his forearm and allows him to feel pressure. For the first time in years, he can use his left limb to handle delicate objects&#82",
+      "published": "2026-11-26T09:59:00.000Z"
+    },
     {
       "source": "Ars Technica Tech",
       "title": "Backblaze explains why it's sharing customer information with advertisers",
@@ -9,46 +58,11 @@
       "published": "2026-11-25T18:38:29.000Z"
     },
     {
-      "source": "Data Center Dynamics",
-      "title": "GDS Holdings posts 10 percent net revenue increase YoY, revises down capex expectations",
-      "url": "https://www.datacenterdynamics.com/en/news/gds-holdings-posts-10-percent-net-revenue-increase-yoy-revises-down-capex-expectations/",
-      "description": "Says it is reacting to changing market conditions",
-      "published": "2026-11-25T17:00:54.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Panthalassa, floating data centers, and the power of the ocean",
-      "url": "https://www.datacenterdynamics.com/en/analysis/panthalassa-floating-data-centers-and-the-power-of-the-ocean/",
-      "description": "Peter Thiel-backed startup has big plans to put compute at sea",
-      "published": "2026-11-25T17:00:42.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "How data centers are driving a US natural-gas boom",
       "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
       "description": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right. Sure, it’s technically possible to meet the world’s rising electricity demand with other powe",
       "published": "2026-11-25T17:00:00.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Trio of Japanese real estate developers invest in 15MW Hokkaido data center development",
-      "url": "https://www.datacenterdynamics.com/en/news/trio-of-japanese-real-estate-developers-invest-in-15mw-hokkaido-data-center-development/",
-      "description": "Daibiru, Sankei Building, and Osaka Gas Urban Development take a dip into data centers",
-      "published": "2026-11-25T16:53:02.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Arque Systems launches €35m Q-STAR.NRW initiative to develop and integrate 200 qubit quantum computer",
-      "url": "https://www.datacenterdynamics.com/en/news/arque-systems-launches-35m-q-starnrw-initiative-to-develop-and-integrate-200-qubit-quantum-computer/",
-      "description": "Program run in partnership with Germany’s Forschungszentrum Jülich Supercomputing Center",
-      "published": "2026-11-25T16:47:39.000Z"
-    },
-    {
-      "source": "Data Center Dynamics",
-      "title": "Ohio regulators approve up to 800MW gas plant set to power EdgeConneX data center in Pickaway County",
-      "url": "https://www.datacenterdynamics.com/en/news/ohio-regulators-approve-up-to-800mw-gas-plant-set-to-power-edgeconnex-data-center-in-pickaway-county/",
-      "description": "Project approved despite local opposition",
-      "published": "2026-11-25T16:20:00.000Z"
     },
     {
       "source": "The Next Platform",
@@ -86,13 +100,6 @@
       "published": "2026-11-24T18:07:53.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "The Download: AI’s gas power boom and a consciousness reality check",
-      "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to t",
-      "published": "2026-11-24T13:10:00.000Z"
-    },
-    {
       "source": "Ars Technica Tech",
       "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
       "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
@@ -100,39 +107,11 @@
       "published": "2026-11-24T12:30:05.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "Data centers are getting their own natural gas power plants",
-      "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
-      "description": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI b",
-      "published": "2026-11-24T11:00:00.000Z"
-    },
-    {
       "source": "Data Center Knowledge",
       "title": "Emerging Alternatives to UPS in Data Centers",
       "url": "https://www.datacenterknowledge.com/uptime/emerging-alternatives-to-ups-in-data-centers",
       "description": "Data centers are exploring BESS, rack batteries, buffer modules, and microgrids as UPS alternatives, with hybrid backup designs often the most practical path.",
       "published": "2026-11-24T10:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "Jensen Huang Back In Charge Of Nvidia",
-      "url": "https://www.nextplatform.com/ai/2026/11/23/jensen-huang-back-in-charge-of-nvidia/5311691",
-      "description": "",
-      "published": "2026-11-23T14:56:29.000Z"
-    },
-    {
-      "source": "Import AI",
-      "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab’s AI science benchmark",
-      "url": "https://jack-clark.net/2026/11/23/import-ai-482-huawei-kernel-benchmarks-airborne-drone-detection-and-a-national-labs-ai-science-benchmark/",
-      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. Subscribe now Chinese researchers optimize Huawei chips with a kernel improvement benchmark:…AscendGYM will help China do its own form of RSI…Researchers with the Shenzhen Loop Area",
-      "published": "2026-11-23T14:11:17.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Study Ties 403 US Data Centers to 25.7M Metric Tons of CO2",
-      "url": "https://www.datacenterknowledge.com/sustainability/study-ties-403-us-data-centers-to-25-7m-metric-tons-of-co2",
-      "description": "A Harvard-led study found that 403 US hyperscale data centers were tied to 25.7 million metric tons of CO2, with emissions largely driven by regional power grids.",
-      "published": "2026-11-23T10:00:00.000Z"
     }
   ]
 }
