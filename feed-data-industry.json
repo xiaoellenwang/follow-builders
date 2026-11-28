@@ -1,40 +1,68 @@
 {
-  "generatedAt": "2026-11-27T08:01:14.031Z",
+  "generatedAt": "2026-11-28T07:30:09.730Z",
   "articles": [
     {
       "source": "Data Center Dynamics",
-      "title": "Nvidia backs startup developing chiller-free data center cooling system",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-backs-startup-developing-chiller-free-data-center-cooling-system/",
-      "description": "Y Combinator venture Madrone secures $500k seed funding",
-      "published": "2026-11-26T17:07:51.000Z"
+      "title": "Built different: Inside TRG’s homegrown data center business",
+      "url": "https://www.datacenterdynamics.com/en/analysis/trg-data-center-houston-atlanta/",
+      "description": "From a family-run hosting business in Atlanta to a growing data center operator in Houston",
+      "published": "2026-11-27T17:16:00.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "500MW data center project planned outside San Diego, California",
-      "url": "https://www.datacenterdynamics.com/en/news/500mw-data-center-project-planned-outside-san-diego-california/",
-      "description": "Spanish renewable firm Ignis behind project",
-      "published": "2026-11-26T17:03:28.000Z"
+      "title": "Datlantis pitches underwater data centers powered by offshore wind",
+      "url": "https://www.datacenterdynamics.com/en/news/datlantis-pitches-underwater-data-centers-powered-by-offshore-wind/",
+      "description": "Elsewhere, Russia prepares to send floating data center to the Antarctic",
+      "published": "2026-11-27T16:29:32.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Modern data center cooling",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/modern-data-center-cooling/",
-      "description": "Everything you need to know about liquid cooling",
-      "published": "2026-11-26T16:20:41.000Z"
+      "title": "Prysmian cable-laying ship supports Med Emre vessel in rescue off coast of Ibiza",
+      "url": "https://www.datacenterdynamics.com/en/news/prysmian-cable-laying-ship-supports-med-emre-vessel-in-rescue-off-coast-of-ibiza/",
+      "description": "The company said that its Monna Lisa vessel was used in efforts to rescue the crew onboard the Med Emre",
+      "published": "2026-11-27T16:18:29.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "Sponsored: From pipeline to power: what will determine which data centre projects get built?",
-      "url": "https://www.datacenterdynamics.com/en/opinions/from-pipeline-to-power-what-will-determine-which-data-centre-projects-get-built/",
-      "description": "The data centre pipeline is booming, but proposed capacity does not automatically translate into electricity demand. Understanding which projects are credible, and which can realistically secure power, is becoming essential",
-      "published": "2026-11-26T16:00:00.000Z"
+      "title": "Abundant Mines plans landfill-powered Bitcoin mine near Mexico City",
+      "url": "https://www.datacenterdynamics.com/en/news/abundant-mines-plans-landfill-powered-bitcoin-mine-near-mexico-city/",
+      "description": "Project backed by CH4, more Latin landfills targeted",
+      "published": "2026-11-27T16:09:38.000Z"
     },
     {
       "source": "Data Center Dynamics",
-      "title": "KT Cloud signs 60MW lease at data center in Ansan, South Korea",
-      "url": "https://www.datacenterdynamics.com/en/news/kt-cloud-signs-60mw-lease-at-data-center-in-ansan-south-korea/",
-      "description": "Data center being developed by Keppel Ltd",
-      "published": "2026-11-26T15:00:41.000Z"
+      "title": "Sponsored: Beyond uptime: How industrial power disturbances disrupt production",
+      "url": "https://www.datacenterdynamics.com/en/opinions/beyond-uptime-how-industrial-power-disturbances-disrupt-production/",
+      "description": "A power anomaly triggers a chain reaction that freezes production lines. Stopping the cascade starts with identifying what standard defences miss",
+      "published": "2026-11-27T16:00:00.000Z"
+    },
+    {
+      "source": "The Next Platform",
+      "title": "The Software-Defined Mirage And The Alien Worlds Of Socket Cores And OS Kernels",
+      "url": "https://www.nextplatform.com/control/2026/11/27/the-software-defined-mirage-and-the-alien-worlds-of-socket-cores-and-os-kernels/5313186",
+      "description": "",
+      "published": "2026-11-27T15:04:38.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Our 2027 Innovators Under 35 competition is now open Every year, MIT Technology Review honors 35 of the world&#8217;s brightest young scientists, entr",
+      "published": "2026-11-27T13:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Our 2027 Innovators Under 35 competition is now open",
+      "url": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
+      "description": "Every year, the editors at MIT Technology Review select 35 of the world’s top young scientists, entrepreneurs, and inventors to honor as our newest class of Innovators Under 35. And starting today, our 2027 competition is officially open for nominations.&#160; We’re on the hunt for researchers and f",
+      "published": "2026-11-27T10:48:47.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "How cutting-edge prosthetics can help probe the human mind",
+      "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+      "description": "Over the last few weeks, I’ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and without a left hand. Today, he uses his own experience to guide his practice as a trauma therapist. He’s ",
+      "published": "2026-11-27T10:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -58,13 +86,6 @@
       "published": "2026-11-25T18:38:29.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "How data centers are driving a US natural-gas boom",
-      "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
-      "description": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right. Sure, it’s technically possible to meet the world’s rising electricity demand with other powe",
-      "published": "2026-11-25T17:00:00.000Z"
-    },
-    {
       "source": "The Next Platform",
       "title": "Dell Is Finally Making Money On GenAI As Traditional Servers Boom",
       "url": "https://www.nextplatform.com/compute/2026/11/25/dell-is-finally-making-money-on-genai-as-traditional-servers-boom/5312184",
@@ -77,41 +98,6 @@
       "url": "https://www.datacenterknowledge.com/edge-data-centers/google-blue-origin-plan-orbital-ai-compute-test",
       "description": "The 2029 mission will deploy rack-scale computing satellites, with cooling, autonomous recovery, and hardware longevity likely to determine whether orbital infrastructure can support commercial workloads.",
       "published": "2026-11-25T15:54:23.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: AI swamping open records, and firefighting for permafrost",
-      "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
-      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors&#8217; interest in public records. Over the last few years, venture-backed",
-      "published": "2026-11-25T13:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "AI is straining America’s open records systems",
-      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
-      "description": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1",
-      "published": "2026-11-25T10:00:00.000Z"
-    },
-    {
-      "source": "The Next Platform",
-      "title": "NCSA Gets Supercomputing Capacity With $334 Million Schmidt Sciences Grant",
-      "url": "https://www.nextplatform.com/hpc/2026/11/24/ncsa-gets-supercomputing-capacity-with-334-million-schmidt-sciences-grant/5311971",
-      "description": "",
-      "published": "2026-11-24T18:07:53.000Z"
-    },
-    {
-      "source": "Ars Technica Tech",
-      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-      "description": "\n                        The Cairn AI framework is proving to be a boon for defenders and attackers.\n                    ",
-      "published": "2026-11-24T12:30:05.000Z"
-    },
-    {
-      "source": "Data Center Knowledge",
-      "title": "Emerging Alternatives to UPS in Data Centers",
-      "url": "https://www.datacenterknowledge.com/uptime/emerging-alternatives-to-ups-in-data-centers",
-      "description": "Data centers are exploring BESS, rack batteries, buffer modules, and microgrids as UPS alternatives, with hybrid backup designs often the most practical path.",
-      "published": "2026-11-24T10:00:00.000Z"
     }
   ]
 }

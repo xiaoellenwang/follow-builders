@@ -1,4 +1,200 @@
 {
-  "generatedAt": "2026-11-27T08:01:14.031Z",
-  "jobs": []
+  "generatedAt": "2026-11-28T07:30:09.730Z",
+  "jobs": [
+    {
+      "title": "Data Engineer for MSE",
+      "company": "WEBSPARKS PTE. LTD.",
+      "salary": "S$7,500 – S$9,500",
+      "type": "Contract",
+      "skills": [
+        "PostgreSQL",
+        "Technical Troubleshooting",
+        "Data Pipeline"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/99db4f49ba72d7251f973cc22cfd92be",
+      "posted": "2026-11-27T20:36:52.000Z"
+    },
+    {
+      "title": "Software Engineer, AI Adoption and Capabilities Portal",
+      "company": "WEBSPARKS PTE. LTD.",
+      "salary": "S$7,500 – S$9,500",
+      "type": "Contract",
+      "skills": [
+        "Dashboards",
+        "Design",
+        "Enterprise Integration Solution"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/c336523df4d5b1c52cc960541a2e2ff1",
+      "posted": "2026-11-27T20:28:38.000Z"
+    },
+    {
+      "title": "Assistant Vice President, Data AI & Governance (Job ID:10080968)",
+      "company": "MUFG BANK, LTD. SINGAPORE BRANCH",
+      "salary": "S$5,443 – S$10,996",
+      "type": "Permanent",
+      "skills": [
+        "Compliance Mindset Development",
+        "Matrix Management",
+        "Issue Escalation"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/33fc5034bbab00c8ebd37ae0b508ace1",
+      "posted": "2026-11-27T13:50:48.000Z"
+    },
+    {
+      "title": "Data Scientist (AI Business Analyst)",
+      "company": "ACHIEVE CAREER CONSULTANT PTE LTD",
+      "salary": "S$5,000 – S$6,500",
+      "type": "Contract",
+      "skills": [
+        "Ai",
+        "Microsoft Azure",
+        "Liaising with project stakeholders"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/4ac01ec7d6e17f182ab918a1a7529aba",
+      "posted": "2026-11-27T12:46:04.000Z"
+    },
+    {
+      "title": "Senior AI Engineer",
+      "company": "RECRUITMATIC PTE. LTD.",
+      "salary": "S$6,000 – S$10,000",
+      "type": "Permanent",
+      "skills": [
+        "AutoGen",
+        "Multi-Agent Systems",
+        "Machine Learning"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/502ba700270d90d59a4a88b5ed8f6cb3",
+      "posted": "2026-11-27T11:25:00.000Z"
+    },
+    {
+      "title": "Data Engineer (Software) - #1841",
+      "company": "JOBSTER PRIVATE LTD.",
+      "salary": "S$8,000 – S$10,000",
+      "type": "Contract",
+      "skills": [
+        "real-time applications",
+        "Health Promotion",
+        "Distributed Platforms"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/b3d7288b5c5f2c61f16fa6142f576149",
+      "posted": "2026-11-27T10:41:47.000Z"
+    },
+    {
+      "title": "Software Engineer (AI Engineer) - #1840",
+      "company": "JOBSTER PRIVATE LTD.",
+      "salary": "S$7,000 – S$10,000",
+      "type": "Contract",
+      "skills": [
+        "Data Storage Systems",
+        "System Security",
+        "3rd party integration"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/52723db952f4154e37358451a4d7dcdc",
+      "posted": "2026-11-27T10:37:17.000Z"
+    },
+    {
+      "title": "AI/ML Engineer (Azure & GenAI)",
+      "company": "ITCAN PTE. LIMITED",
+      "salary": "S$6,500 – S$11,500",
+      "type": "Full Time",
+      "skills": [
+        "AutoGen",
+        "Azure AI",
+        "Vector Search"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/c3ae80d2fdc87db947f594fa1aeb33e2",
+      "posted": "2026-11-27T10:35:09.000Z"
+    },
+    {
+      "title": "Junior Data Engineer - #1400",
+      "company": "JOBSTER PRIVATE LTD.",
+      "salary": "S$4,500 – S$5,500",
+      "type": "Contract",
+      "skills": [
+        "Tableau",
+        "Talend",
+        "Technical Customer Support"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/9ad2589a222b4a40e4e2ba3c9db51ea7",
+      "posted": "2026-11-27T10:30:32.000Z"
+    },
+    {
+      "title": "Forward Deployed AI Engineer | Generative AI & Enterprise Systems Integration",
+      "company": "RANDSTAD PTE. LIMITED",
+      "salary": "S$1 – S$2",
+      "type": "Permanent",
+      "skills": [
+        "API Development",
+        "Information Technology and Services",
+        "Retrieval-Augmented Generation (RAG)"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/ffad7bdaf0b7604d252994199a1d0763",
+      "posted": "2026-11-27T08:54:50.000Z"
+    },
+    {
+      "title": "Chief Technology Officer (CTO) – Artificial Intelligence [ 5 days, Promenade ]",
+      "company": "ZHONG QI FUTURE (SINGAPORE) PTE. LTD.",
+      "salary": "S$19,000 – S$23,500",
+      "type": "Full Time",
+      "skills": [
+        "Technological Innovation",
+        "Leadership",
+        "Enterprise IT Infrastructure"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/8a4c008e3df9eb95717a17ab4406f2bb",
+      "posted": "2026-11-27T08:20:31.000Z"
+    },
+    {
+      "title": "[T04] Machine Learning Engineer (ML) - Permanent Role",
+      "company": "TALENTSIS PTE. LTD.",
+      "salary": "S$5,500 – S$6,500",
+      "type": "Permanent",
+      "skills": [
+        "API Development",
+        "Liaising with cross functional teams",
+        "Collaborate With Engineers"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/2e510b97fe562521520307ac1cd06848",
+      "posted": "2026-11-27T07:45:22.000Z"
+    },
+    {
+      "title": "Data Engineer - Databricks Platform",
+      "company": "KYNDRYL (SINGAPORE) PTE. LTD.",
+      "salary": "S$7,000 – S$10,000",
+      "type": "Full Time",
+      "skills": [
+        "Spark SQL",
+        "Apache Spark",
+        "Architecture"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/ef6e17bdd7dbed1c7b5c982c2032cac4",
+      "posted": "2026-11-27T07:15:34.000Z"
+    },
+    {
+      "title": "Data Engineer / Data Science Engineer",
+      "company": "TALENT TRADER GROUP PTE. LTD.",
+      "salary": "S$8,000 – S$15,000",
+      "type": "Contract",
+      "skills": [
+        "Data Quality Checks",
+        "Machine Learning",
+        "Algorithm Analysis"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/9eee38636f2b6f5366cefcf5d0250d2e",
+      "posted": "2026-11-27T06:41:23.000Z"
+    },
+    {
+      "title": "AI Engineer – Design Automation",
+      "company": "REALTEK SINGAPORE PRIVATE LIMITED",
+      "salary": "S$6,000 – S$8,000",
+      "type": "Permanent",
+      "skills": [
+        "Multi-Agent Systems",
+        "Machine Learning",
+        "Representation Learning"
+      ],
+      "url": "https://www.mycareersfuture.gov.sg/job/b198662ac2caa6f9d2aaad2cef57e32a",
+      "posted": "2026-11-27T05:33:43.000Z"
+    }
+  ]
 }
